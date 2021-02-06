@@ -61,9 +61,10 @@ hugo new site myBlog
 git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure
 ```
 
-
+官方更推荐使用以下方法
 
 ```
+git init
 git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
 ```
 
@@ -223,6 +224,8 @@ git push -u origin master
 解决hint: Updates were rejected because the remote contains work that you do: https://www.cnblogs.com/czwangzheng/p/5086903.html
 
 [hexo + github pages搭建博客样式加载不出来_banjw的博客-CSDN博客_hexo样式加载不了](https://blog.csdn.net/banjw_129/article/details/82261165?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
+
+Git一个关于Push失败的两种解决方案: https://www.jianshu.com/p/ea6ec80ad5f2
 
 ### 域名绑定
 
