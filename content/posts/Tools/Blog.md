@@ -177,6 +177,7 @@ cd public
 git init
 git remote add origin https://github.com/[Github 用户名]/[Github 用户名].github.io.git # 将本地目录链接到远程服务器的代码仓库
 git add -A
+# 或者git add .
 git commit -m "[介绍，随便写点什么，比如日期]"
 git push -u origin master
 ```

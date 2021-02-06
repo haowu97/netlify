@@ -4,7 +4,9 @@ date: 2021-02-03T20:56:47+08:00
 draft: false
 ---
 
-## 先祖地点图
+## 常驻先祖
+
+### 先祖地点图
 
 ![](https://c-img.18183.com/images/2020/07/10/90c7ad5db815640d6a852bcace8ca600.jpg@!18183)
 
@@ -20,11 +22,11 @@ draft: false
 
 ![img](https://c-img.18183.com/images/2020/07/10/45461b922e690bfd5cf15fb70089c4fb.jpg@!18183)
 
-## 先祖兑换图
+### 先祖兑换图
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210130204610.jpg)
 
-## 毕业礼物价格
+### 毕业礼物价格
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206115352.jpg)
 
@@ -34,27 +36,39 @@ draft: false
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145521.jpg)
 
-## 梦想季
+## 季节活动
+
+### 梦想季
 
 sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
+#### 先祖兑换表
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145656.jpg)
+
+#### 光翼/烛火
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145414.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145724.jpg)
 
-## 圣岛季
+### 圣岛季
 
-![Ft1Klj74KCN5pwANOyPVr1yF9J6I](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206114504.jpg)
+#### 剧情任务
 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206114631.jpg)
 
+#### 光翼位置
 
-![Ft1Klj74KCN5pwANOyPVr1yF9J6I](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206114631.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206205431.jpg)
+
+#### 先祖兑换表
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206115115.jpg)
 
-## 魔法季
+### 魔法季
+
+#### 遗忘方舟剧情任务
 
 安卓国服季节任务光芒收集顺序：
 
@@ -67,10 +81,12 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206120851.jpg)
 
-## 图像模式
+## 其他
+
+### 图像模式
 
 ![44a2b323ccc7e2411a85c21c8e3b70ba](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206141233.jpg)
 
-## 好友树
+### 好友树
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145217.jpg)
