@@ -3,7 +3,7 @@ title: "光遇攻略合集"
 date: 2021-02-03T20:56:47+08:00
 draft: false
 
-description: "天空王国的攻略来了"
+description: "sky description"
 
 upd: "Since the template began to support uPagge, you can not do without names. You can find the changes by tag 1.x.x."
 
@@ -12,15 +12,71 @@ toc:
 ---
 
 ```
+  [languages.en]
+	weight = 1
+    title = "我的全新 Hugo 网站"
+    # language code, CN only here
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = true
+    [[languages.zh-cn.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "文章"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.zh-cn.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "标签"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.zh-cn.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "分类"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.zh-cn.menu.main]]
+      identifier = "documentation"
+      pre = ""
+      post = ""
+      name = "文档"
+      url = "/categories/documentation/"
+      title = ""
+      weight = 4
+    [[languages.zh-cn.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "关于"
+      url = "/about/"
+      title = ""
+      weight = 5
+    [[languages.zh-cn.menu.main]]
+      identifier = "github"
+      pre = "<i class='fab fa-github fa-fw'></i>"
+      post = ""
+      name = ""
+      url = "https://github.com/henrywu97"
+      title = "GitHub"
+      weight = 6
     [languages.zh-cn.params]
       # site description
       description = "About uBlogger Theme"
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
-      [languages.en.params.app]
+      [languages.zh-cn.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "天天"
+        title = "uBlogger"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -48,7 +104,7 @@ toc:
         highlightTag = "em"
         # whether to use the absolute URL based on the baseURL in search index
         absoluteURL = false
-        [languages.en.params.search.algolia]
+        [languages.zh-cn.params.search.algolia]
           index = "index.en"
           appID = "PASDMWALPK"
           searchKey = "b42948e51daaa93df92381c8e2ac0f93"
@@ -80,15 +136,15 @@ toc:
           paginate = 6
       # Social config in home page
       [languages.zh-cn.params.social]
-        GitHub = "https://github.com/henrywu97"
+        GitHub = "xxxx"
         Linkedin = ""
-        Twitter = ""
-        Instagram = ""
-        Facebook = ""
-        Telegram = ""
+        Twitter = "xxxx"
+        Instagram = "xxxx"
+        Facebook = "xxxx"
+        Telegram = "xxxx"
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = ""
+        Youtubelegacy = "xxxx"
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -141,7 +197,7 @@ toc:
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "wuhao97@stu.xmu.edu.cn"
+        Email = "xxxx@xxxx.com"
         RSS = true
         [languages.zh-cn.params.social.Mastodon]
           id = "@xxxx"
