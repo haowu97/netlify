@@ -11,6 +11,146 @@ toc:
   auto: false
 ---
 
+```
+    [languages.zh-cn.params]
+      # site description
+      description = "About uBlogger Theme"
+      # site keywords
+      keywords = ["Theme", "Hugo"]
+      # App icon config
+      [languages.en.params.app]
+        # optional site title override for the app when added to an iOS home screen or Android launcher
+        title = "天天"
+        # whether to omit favicon resource links
+        noFavicon = false
+        # modern SVG favicon to use in place of older style .png and .ico files
+        svgFavicon = ""
+        # Android browser theme color
+        themeColor = "#ffffff"
+        # Safari mask icon color
+        iconColor = "#5bbad5"
+        # Windows v8-10 tile color
+        tileColor = "#da532c"
+      # Search config
+      [languages.zh-cn.params.search]
+        enable = true
+        # type of search engine ("lunr", "algolia")
+        type = "algolia"
+        # max index length of the chunked content
+        contentLength = 4000
+        # placeholder of the search bar
+        placeholder = ""
+        # max number of results length
+        maxResultLength = 10
+        # snippet length of the result
+        snippetLength = 30
+        # HTML tag name of the highlight part in results
+        highlightTag = "em"
+        # whether to use the absolute URL based on the baseURL in search index
+        absoluteURL = false
+        [languages.en.params.search.algolia]
+          index = "index.en"
+          appID = "PASDMWALPK"
+          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+      # Home page config
+      [languages.zh-cn.params.home]
+        # amount of RSS pages
+        rss = 10
+        # Home page profile
+        [languages.zh-cn.params.home.profile]
+          enable = true
+          # Gravatar Email for preferred avatar in home page
+          gravatarEmail = ""
+          # URL of avatar shown in home page
+          avatarURL = "/images/avatar.png"
+          # title shown in home page (HTML format is supported)
+          title = "uBlogger | Hugo Theme"
+          # subtitle shown in home page (HTML format is supported)
+          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          # whether to use typeit animation for subtitle
+          typeit = false
+          # whether to show social links
+          social = true
+          # disclaimer (HTML format is supported)
+          disclaimer = ""
+        # Home page posts
+        [languages.zh-cn.params.home.posts]
+          enable = true
+          # special amount of posts in each home posts page
+          paginate = 6
+      # Social config in home page
+      [languages.zh-cn.params.social]
+        GitHub = "https://github.com/henrywu97"
+        Linkedin = ""
+        Twitter = ""
+        Instagram = ""
+        Facebook = ""
+        Telegram = ""
+        Medium = ""
+        Gitlab = ""
+        Youtubelegacy = ""
+        Youtubecustom = ""
+        Youtubechannel = ""
+        Tumblr = ""
+        Quora = ""
+        Keybase = ""
+        Pinterest = ""
+        Reddit = ""
+        Codepen = ""
+        FreeCodeCamp = ""
+        Bitbucket = ""
+        Stackoverflow = ""
+        Weibo = ""
+        Odnoklassniki = ""
+        VK = ""
+        Flickr = ""
+        Xing = ""
+        Snapchat = ""
+        Soundcloud = ""
+        Spotify = ""
+        Bandcamp = ""
+        Paypal = ""
+        Fivehundredpx = ""
+        Mix = ""
+        Goodreads = ""
+        Lastfm = ""
+        Foursquare = ""
+        Hackernews = ""
+        Kickstarter = ""
+        Patreon = ""
+        Steam = ""
+        Twitch = ""
+        Strava = ""
+        Skype = ""
+        Whatsapp = ""
+        Zhihu = ""
+        Douban = ""
+        Angellist = ""
+        Slidershare = ""
+        Jsfiddle = ""
+        Deviantart = ""
+        Behance = ""
+        Dribbble = ""
+        Wordpress = ""
+        Vine = ""
+        Googlescholar = ""
+        Researchgate = ""
+        Thingiverse = ""
+        Devto = ""
+        Gitea = ""
+        XMPP = ""
+        Matrix = ""
+        Bilibili = ""
+        Email = "wuhao97@stu.xmu.edu.cn"
+        RSS = true
+        [languages.zh-cn.params.social.Mastodon]
+          id = "@xxxx"
+          prefix = "https://mastodon.technology/"
+
+```
+
+
+
 ## 固定先祖
 
 ### 先祖地点图
