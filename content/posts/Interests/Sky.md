@@ -3,6 +3,10 @@ title: "光遇攻略合集"
 date: 2021-02-03T20:56:47+08:00
 draft: false
 
+description: "天空王国的攻略来了"
+
+upd: "Since the template began to support uPagge, you can not do without names. You can find the changes by tag 1.x.x."
+
 toc:
   auto: false
 ---

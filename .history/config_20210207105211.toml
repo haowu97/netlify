@@ -256,37 +256,37 @@ enableEmoji = true
       url = "/categories/"
       title = ""
       weight = 3
-    [[languages.zh-cn.menu.main]]
-      identifier = "documentation"
-      pre = ""
-      post = ""
-      name = "文档"
-      url = "/categories/documentation/"
-      title = ""
-      weight = 4
-    [[languages.zh-cn.menu.main]]
-      identifier = "about"
-      pre = ""
-      post = ""
-      name = "关于"
-      url = "/about/"
-      title = ""
-      weight = 5
-    [[languages.zh-cn.menu.main]]
-      identifier = "github"
-      pre = "<i class='fab fa-github fa-fw'></i>"
-      post = ""
-      name = ""
-      url = "https://github.com/henrywu97"
-      title = "GitHub"
-      weight = 6
+    [[languages.en.menu.main]]
+        identifier = "documentation"
+        pre = ""
+        post = ""
+        name = "文档"
+        url = "/categories/documentation/"
+        title = ""
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "about"
+        pre = ""
+        post = ""
+        name = "关于"
+        url = "/about/"
+        title = ""
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "github"
+        pre = "<i class='fab fa-github fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://github.com/henrywu97"
+        title = "GitHub"
+        weight = 6
 
 
 [params]
   # uBlogger theme version
   version = "1.3.X"
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "dark"
+  defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = "https://github.com/upagge/dolboblog-theme"
