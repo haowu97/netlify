@@ -1,0 +1,772 @@
+<!doctype html>
+<html style='font-size:14px !important'>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>&quot;Hugo博客搭建&quot;</title><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-require-zoom-fix foreignobject { font-size: var(--mermaid-font-zoom); }
+
+
+.CodeMirror { height: auto; }
+.CodeMirror.cm-s-inner { background: inherit; }
+.CodeMirror-scroll { overflow: auto hidden; z-index: 3; }
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color: rgb(255, 255, 255); }
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); background: inherit; white-space: nowrap; }
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; text-align: right; color: rgb(153, 153, 153); }
+.cm-s-inner .cm-keyword { color: rgb(119, 0, 136); }
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom { color: rgb(34, 17, 153); }
+.cm-s-inner .cm-number { color: rgb(17, 102, 68); }
+.cm-s-inner .cm-def { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-variable { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-variable-2 { color: rgb(0, 85, 170); }
+.cm-s-inner .cm-variable-3 { color: rgb(0, 136, 85); }
+.cm-s-inner .cm-string { color: rgb(170, 17, 17); }
+.cm-s-inner .cm-property { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-operator { color: rgb(152, 26, 26); }
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment { color: rgb(170, 85, 0); }
+.cm-s-inner .cm-string-2 { color: rgb(255, 85, 0); }
+.cm-s-inner .cm-meta { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-qualifier { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-builtin { color: rgb(51, 0, 170); }
+.cm-s-inner .cm-bracket { color: rgb(153, 153, 119); }
+.cm-s-inner .cm-tag { color: rgb(17, 119, 0); }
+.cm-s-inner .cm-attribute { color: rgb(0, 0, 204); }
+.cm-s-inner .cm-header, .cm-s-inner.cm-header { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote { color: rgb(0, 153, 0); }
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr { color: rgb(153, 153, 153); }
+.cm-s-inner .cm-link, .cm-s-inner.cm-link { color: rgb(0, 0, 204); }
+.cm-negative { color: rgb(221, 68, 68); }
+.cm-positive { color: rgb(34, 153, 34); }
+.cm-header, .cm-strong { font-weight: 700; }
+.cm-del { text-decoration: line-through; }
+.cm-em { font-style: italic; }
+.cm-link { text-decoration: underline; }
+.cm-error { color: red; }
+.cm-invalidchar { color: red; }
+.cm-constant { color: rgb(38, 139, 210); }
+.cm-defined { color: rgb(181, 137, 0); }
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 255, 0); }
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(255, 34, 34); }
+.cm-s-inner .CodeMirror-activeline-background { background: inherit; }
+.CodeMirror { position: relative; overflow: hidden; }
+.CodeMirror-scroll { height: 100%; outline: 0px; position: relative; box-sizing: content-box; background: inherit; }
+.CodeMirror-sizer { position: relative; }
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: none; }
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden; }
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: hidden; }
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; padding-bottom: 30px; z-index: 3; }
+.CodeMirror-gutter { white-space: normal; height: 100%; box-sizing: content-box; padding-bottom: 30px; margin-bottom: -32px; display: inline-block; }
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; background: 0px 0px !important; border: none !important; }
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; z-index: 4; }
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+.CodeMirror-lines { cursor: text; }
+.CodeMirror pre { border-radius: 0px; border-width: 0px; background: 0px 0px; font-family: inherit; font-size: inherit; margin: 0px; white-space: pre; overflow-wrap: normal; color: inherit; z-index: 2; position: relative; overflow: visible; }
+.CodeMirror-wrap pre { overflow-wrap: break-word; white-space: pre-wrap; word-break: normal; }
+.CodeMirror-code pre { border-right: 30px solid transparent; width: fit-content; }
+.CodeMirror-wrap .CodeMirror-code pre { border-right: none; width: auto; }
+.CodeMirror-linebackground { position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; z-index: 0; }
+.CodeMirror-linewidget { position: relative; z-index: 2; overflow: auto; }
+.CodeMirror-wrap .CodeMirror-scroll { overflow-x: hidden; }
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflow: hidden; visibility: hidden; }
+.CodeMirror-measure pre { position: static; }
+.CodeMirror div.CodeMirror-cursor { position: absolute; visibility: hidden; border-right: none; width: 0px; }
+.CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+.CodeMirror-focused div.CodeMirror-cursor { visibility: inherit; }
+.cm-searching { background: rgba(255, 255, 0, 0.4); }
+@media print {
+  .CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+}
+
+
+
+/*!
+Misty Dark
+Brought to you with ❤️ by E-Tiger Studio, 2017-2019
+https://github.com/etigerstudio/typora-misty-theme
+ */
+.cm-s-inner .cm-operator,
+.cm-s-inner .cm-property,
+.cm-s-inner .cm-variable {
+  color: #b8bfc6
+}
+.cm-s-inner .cm-keyword {
+  color: #c88fd0
+}
+.cm-s-inner .cm-tag {
+  color: #7df46a
+}
+.cm-s-inner .cm-attribute {
+  color: #7575e4
+}
+.CodeMirror div.CodeMirror-cursor {
+  border-left: 1px solid #b8bfc6;
+  z-index: 3
+}
+.cm-s-inner .cm-string {
+  color: #d26b6b
+}
+.cm-s-inner .cm-comment,
+.cm-s-inner.cm-comment {
+  color: #da924a
+}
+.cm-s-inner .cm-def,
+.cm-s-inner .cm-header,
+.cm-s-inner.cm-def,
+.cm-s-inner.cm-header {
+  color: #8d8df0
+}
+.cm-s-inner .cm-quote,
+.cm-s-inner.cm-quote {
+  color: #57ac57
+}
+.cm-s-inner .cm-hr {
+  color: #d8d5d5
+}
+.cm-s-inner .cm-link {
+  color: #d3d3ef
+}
+.cm-s-inner .cm-negative {
+  color: #d95050
+}
+.cm-s-inner .cm-positive {
+  color: #50e650
+}
+.cm-s-inner .cm-string-2 {
+  color: #f50
+}
+.cm-s-inner .cm-meta,
+.cm-s-inner .cm-qualifier {
+  color: #b7b3b3
+}
+.cm-s-inner .cm-builtin {
+  color: #f3b3f8
+}
+.cm-s-inner .cm-bracket {
+  color: #997
+}
+.cm-s-inner .cm-atom,
+.cm-s-inner.cm-atom {
+  color: #84b6cb
+}
+.cm-s-inner .cm-number {
+  color: #64ab8f
+}
+.cm-s-inner .cm-variable {
+  color: #b8bfc6
+}
+.cm-s-inner .cm-variable-2 {
+  color: #9fbad5
+}
+.cm-s-inner .cm-variable-3 {
+  color: #1cc685
+}
+.CodeMirror-selected,
+.CodeMirror-selectedtext {
+  background: #4a89dc;
+  color: #fff!important;
+  text-shadow: none
+}
+:root {
+  --control-text-color: #8B97A3;
+  --side-bar-bg-color: #171717;
+  --bg-color: #242424;
+  --window-border: 1px solid rgba(0,0,0,.07);
+  --active-file-bg-color: #242424;
+  --active-file-text-color: #B8C8D9;
+  --item-hover-bg-color: #242424;
+  --heading-char-color: #4D6580;
+  --text-color: #8B97A3;
+  --active-toggle-btn-color: #53575C;
+  --rawblock-edit-panel-bd: #3A3C3D
+}
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: subpixel-antialiased;
+  background-color: #2b2b2b
+}
+body {
+  font-family: "SF UI Text","PingFang SC",-apple-system,-apple-system-body,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei","微软雅黑",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  color: #a9b7c6;
+  line-height: 1.5;
+  font-weight: 400;
+  -webkit-font-smoothing: unset
+}
+#write {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 20px 30px 100px
+}
+#write > ol:first-child,
+#write > ul:first-child {
+  margin-top: 30px
+}
+body > :first-child {
+  margin-top: 0!important
+}
+body > :last-child {
+  margin-bottom: 0!important
+}
+a {
+  color: #6dadf2
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  cursor: text;
+  color: #b8c8d9
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+  text-decoration: none
+}
+h1 code,
+h1 tt,
+h2 code,
+h2 tt,
+h3 code,
+h3 tt,
+h4 code,
+h4 tt,
+h5 code,
+h5 tt,
+h6 code,
+h6 tt {
+  font-size: inherit
+}
+h1 {
+  text-align: center;
+  padding-bottom: .3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  margin: 1em auto 1.2em
+}
+h1:after {
+  border-bottom: 2px dashed #5f8055;
+  content: '';
+  width: 100px;
+  display: block;
+  margin: .2em auto 0;
+  height: 2px
+}
+h2 {
+  font-size: 1.75em;
+  padding-left: 9px;
+  line-height: 1.4;
+  border-left: 6px solid #3d5266
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.43
+}
+h3:before {
+  border-radius: 50%;
+  background-color: #4d6580;
+  content: '';
+  width: 6px;
+  display: inline-block;
+  height: 6px;
+  vertical-align: middle;
+  margin-bottom: .18em;
+  margin-right: 8px
+}
+#write > h3.md-focus:before,
+#write > h4.md-focus:before {
+  background-color: transparent;
+  width: auto;
+  height: auto
+}
+h4 {
+  font-size: 1.25em
+}
+h4:before {
+  background-color: #4d6580;
+  content: '';
+  width: 6px;
+  display: inline-block;
+  height: 2px;
+  vertical-align: middle;
+  margin-bottom: .18em;
+  margin-right: 8px
+}
+h5 {
+  font-size: 1em
+}
+h6 {
+  font-size: 1em;
+  color: #93a0ad
+}
+blockquote,
+dl,
+ol,
+p,
+table,
+ul {
+  margin: .8em 0
+}
+li > ol,
+li > ul {
+  margin: 0
+}
+hr {
+  height: .25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #3a3c3d;
+  border: 0
+}
+a:first-child h1,
+a:first-child h2,
+a:first-child h3,
+a:first-child h4,
+a:first-child h5,
+a:first-child h6,
+body>h1:first-child,
+body>h1:first-child+h2,
+body>h2:first-child,
+body>h3:first-child,
+body>h4:first-child,
+body>h5:first-child,
+body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0
+}
+h1 p,
+h2 p,
+h3 p,
+h4 p,
+h5 p,
+h6 p {
+  margin-top: 0
+}
+li p.first {
+  display: inline-block
+}
+ol,
+ul {
+  padding-left: 30px
+}
+ol:first-child,
+ul:first-child {
+  margin-top: 0
+}
+ol:last-child,
+ul:last-child {
+  margin-bottom: 0
+}
+blockquote {
+  border-left: 4px dotted #4e555c;
+  padding: 0 12px;
+  color: #8b97a3;
+  font-size: .9em
+}
+blockquote blockquote {
+  padding-right: 0
+}
+table {
+  padding: 0;
+  word-break: initial
+}
+table tr {
+  border-top: 1px solid #53575c;
+  margin: 0;
+  padding: 0
+}
+table.md-table tr:nth-child(2n) {
+  background-color: #32373d
+}
+table tr td,
+table tr th {
+  border: 1px solid #53575c;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px
+}
+table tr td:first-child,
+table tr th:first-child {
+  margin-top: 0
+}
+table tr td:last-child,
+table tr th:last-child {
+  margin-bottom: 0
+}
+.CodeMirror-gutters {
+  border-right: 1px solid #ddd
+}
+.md-fences,
+code,
+tt {
+  font-size: 90%;
+  border-radius: 3px;
+  font-family: "SF Mono",Consolas,"Liberation Mono",Menlo,Courier,monospace,"PingFang SC","Microsoft YaHei","微软雅黑"
+}
+code,
+tt {
+  margin: 0 2px;
+  padding: 2px 4px;
+  background-color: #414952
+}
+.md-fences {
+  background-color: #3a3c3d;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 12px 1em
+}
+.md-task-list-item > input {
+  margin-left: -1.45em;
+  margin-top: calc(1em - 10px)
+}
+@media print {
+  body {
+    font-size: 11px;
+    font-weight: 400
+  }
+  pre,
+  table {
+    page-break-inside: avoid
+  }
+  pre {
+    word-wrap: break-word
+  }
+}
+#write pre.md-meta-block {
+  padding: 1rem;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #323538;
+  border: 0;
+  border-radius: 3px;
+  color: #8a9199;
+  margin-top: 0!important
+}
+.mathjax-block > .code-tooltip {
+  bottom: .375rem
+}
+#write > h3.md-focus:before {
+  left: -1.5625rem;
+  top: .375rem
+}
+#write>h4.md-focus:before,
+#write>h5.md-focus:before,
+#write>h6.md-focus:before {
+  left: -1.5625rem;
+  top: .285714286rem
+}
+.md-image > .md-meta {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-family: "SF Mono",Consolas,"PingFang SC","Liberation Mono",Courier,monospace,"Microsoft YaHei","微软雅黑";
+  padding: 2px 4px 0;
+  font-size: .9em;
+  color: inherit
+}
+.md-tag {
+  color: inherit
+}
+.md-toc {
+  margin-top: 20px;
+  padding-bottom: 20px
+}
+.sidebar-tabs {
+  border-bottom: none
+}
+#typora-quick-open {
+  background-color: #171717
+}
+#typora-quick-open > #typora-quick-open-input > input {
+  background-color: #171717;
+  border: none
+}
+#typora-quick-open > #typora-quick-open-input > input::placeholder {
+  color: #7c8691
+}
+.typora-quick-open-item {
+  padding-top: 3px
+}
+.typora-quick-open-list {
+  margin-top: 4px
+}
+.typora-quick-open-item-path {
+  margin-top: -2px
+}
+#md-notification:before {
+  top: 10px
+}
+.context-menu,
+.megamenu-content,
+footer,
+header {
+  font-family: "SF UI Text","PingFang SC",-apple-system,-apple-system-body,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei","微软雅黑",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
+}
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state {
+  visibility: visible
+}
+.mac-seamless-mode #typora-sidebar {
+  background-color: var(--side-bar-bg-color)
+}
+.md-lang {
+  color: #b4654d
+}
+.pin-outline #outline-content .outline-active strong,
+.pin-outline .outline-active {
+  color: #a0aebd;
+  font-weight: 600
+}
+.outline-label {
+  color: #7c8691;
+  font-weight: 400
+}
+.file-list-item-summary {
+  color: #77818c;
+  font-family: "SF UI Text","PingFang SC",-apple-system,-apple-system-body,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei","微软雅黑",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
+}
+.active > .file-list-item-summary {
+  color: #b8c8d9
+}
+#write div.md-toc-tooltip {
+  background-color: #2b2b2b
+}
+.context-menu {
+  background-color: #242424
+}
+.context-menu.dropdown-menu .divider {
+  background-color: #53575c
+}
+.on-focus-mode .md-end-block:not(.md-focus) img,
+.on-focus-mode .md-end-block:not(.md-focus):not(.md-focus-container) *,
+.on-focus-mode .md-task-list-item:not(.md-focus-container)>input {
+  color: #575e66!important
+}
+.on-focus-mode li[cid]:not(.md-focus-container) {
+  color: #575e66
+}
+.on-focus-mode .CodeMirror.cm-s-inner:not(.CodeMirror-focused) *,
+.on-focus-mode .md-fences.md-focus .CodeMirror-code > :not(.CodeMirror-activeline) * {
+  color: #575e66!important
+}
+.on-focus-mode .md-focus,
+.on-focus-mode .md-focus-container {
+  color: #b4c3d4
+}
+.on-focus-mode #typora-source .CodeMirror-code > :not(.CodeMirror-activeline) * {
+  color: #575e66!important
+}
+.menu-style-btn,
+.modal-content {
+  border: 1px solid #53575c
+}
+input {
+  border-color: #53575c
+}
+footer.stopselect {
+  border-top-color: #53575c
+}
+.btn-default.active,
+.btn-default.focus,
+.btn-default:active,
+.btn-default:focus,
+.btn-default:hover,
+.open > .dropdown-toggle.btn-default {
+  border-color: #53575c
+}
+.ty-tooltip {
+  background-color: #3a3c3d;
+  color: #b8c8d9
+}
+b,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+  font-weight: 600
+}
+h1,
+table tr th {
+  font-weight: 400
+}
+.file-list-item-file-name {
+  font-weight: 500
+}
+
+ :root {--mermaid-font-zoom:1.5em ;}  .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
+</style>
+</head>
+<body class='typora-export os-windows'>
+<div id='write'  class=''><h2><a name="hugo" class="md-header-anchor"></a><span>Hugo</span></h2><h3><a name="安装" class="md-header-anchor"></a><span>安装</span></h3><p><span>Hugo官方下载地址: </span><a href='https://github.com/gohugoio/hugo/releases' target='_blank' class='url'>https://github.com/gohugoio/hugo/releases</a></p><p><span>选择对应的最新版本hugo0.80._windows-64bit.zip</span></p><p><span>压缩包解压后含有一个 exe 文件，把它加入到环境变量即可。</span></p><p><span>命令行(cmd)窗口输入</span><code>hugo version</code><span>，输出对应版本，例如</span><code>Hugo Static Site Generator v0.80.0-792EF0F4 windows/amd64 BuildDate: 2020-12-31T13:37:57Z</code><span>即为安装成功。</span></p><h3><a name="建立博客站点" class="md-header-anchor"></a><span>建立博客站点</span></h3><p><span>创建新的博客项目，cmd进入任意目录运行以下命令即可在该目录生成对应的myBlog博客文件夹</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">hugo new site myBlog</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 19px;"></div><div class="CodeMirror-gutters" style="height: 19px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><em><span>注：后续命令未经说明，均在cmd中的myBlog根目录下运行</span></em></p><p><span>创建完成后，根目录myBlog包含以下文件</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>9</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation" style=""><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">.</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── archetypes: default.md是生成博文的模版</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── assets # 存放被 Hugo Pipes 处理的文件</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">4</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── content # 存放markdown文件作为博文内容</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── data # 存放 Hugo 处理的数据</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">6</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── layouts # 存放布局文件</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">7</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── static # 存放静态文件 图片 CSS JS文件</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">8</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">├── themes: 存放不同的主题</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">9</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">└── config.toml: 博客配置文件支持 JSON YAML TOML 三种格式配置文件</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 187px;"></div><div class="CodeMirror-gutters" style="height: 187px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><h3><a name="主题下载" class="md-header-anchor"></a><span>主题下载</span></h3><p><span>官方主题网站: </span><a href='https://themes.gohugo.io/' target='_blank' class='url'>https://themes.gohugo.io/</a></p><p><span>主题推荐: </span></p><ul><li><span>Pure: </span><a href='https://themes.gohugo.io/hugo-theme-pure/' target='_blank' class='url'>https://themes.gohugo.io/hugo-theme-pure/</a></li><li><span>Loveit: </span><a href='https://themes.gohugo.io/theme/LoveIt/' target='_blank' class='url'>https://themes.gohugo.io/theme/LoveIt/</a></li><li><span>uBlogger: </span><a href='https://themes.gohugo.io/ublogger/' target='_blank' class='url'>https://themes.gohugo.io/ublogger/</a></li><li><span>m10c: </span><a href='https://themes.gohugo.io/hugo-theme-m10c/' target='_blank' class='url'>https://themes.gohugo.io/hugo-theme-m10c/</a></li><li><span>hello-frien-ng: </span><a href='https://themes.gohugo.io/hugo-theme-hello-friend-ng/' target='_blank' class='url'>https://themes.gohugo.io/hugo-theme-hello-friend-ng/</a></li><li><span>Eureka: </span><a href='https://themes.gohugo.io/hugo-eureka/' target='_blank' class='url'>https://themes.gohugo.io/hugo-eureka/</a></li></ul><p><span>将主题下载至博客文件夹中的themes文件夹下即可。例如在根目录myBlog下运行以下代码，即可下载pure主题</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>1</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 37px;"></div><div class="CodeMirror-gutters" style="height: 37px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>官方更推荐使用以下方法</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>2</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git init</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 75px;"></div><div class="CodeMirror-gutters" style="height: 75px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>然后在根目录下的 </span><code>config.toml</code><span>文件中添加新的一行:</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang="toml"><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang="toml"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>1</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-property">theme</span> = <span class="cm-string">"pure"</span></span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 19px;"></div><div class="CodeMirror-gutters" style="height: 19px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><h3><a name="新建博文" class="md-header-anchor"></a><span>新建博文</span></h3><p><span>要建立新的博文 </span><code>test.md</code><span>，使用下面的命令：</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang="bash"><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang="bash"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>1</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">hugo new post/test.md</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 19px;"></div><div class="CodeMirror-gutters" style="height: 19px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>此时 </span><code>content</code><span> 文件夹下就多了一个 </span><code>test.md</code><span> 文件，打开文件就可以看到时间、文件名等信息已经自动生成了</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang="markdown"><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang="markdown"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>5</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation" style=""><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-hr">---</span></span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">2</div></div><pre class=" cm-yaml CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">title: "Test"</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">3</div></div><pre class=" cm-yaml CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">date: 2018-08-05T20:56:47+08:00</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">4</div></div><pre class=" cm-yaml CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">draft: true</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-hr">---</span></span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 93px;"></div><div class="CodeMirror-gutters" style="height: 93px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>两条 </span><code>---</code><span> 间的信息是文章的配置信息，有的信息是自动生成的 (如：</span><code>title</code><span>、</span><code>date</code><span> 等)，简单介绍以下各项配置</span></p><p><strong><span>以下项目是自动生成的:</span></strong></p><ul><li><code>title:</code><span> # 文章标题</span></li><li><code>date:</code><span> # 写作时间</span></li><li><code>draft:</code><span> # 是否为草稿，如果为 </span><code>true</code><span> 需要在命令中加入 </span><code>--buildDrafts</code><span> 参数才会生成这个文档</span></li></ul><p><strong><span>以下项目需要自行添加:</span></strong></p><ul><li><code>description:</code><span> # 描述</span></li><li><code>tags:</code><span> # 标签，用于文章分类</span></li><li><code>categories</code><span> # 指定文章的类别</span></li></ul><p><code>自动生成</code><span> 和 </span><code>执行添加</code><span> 的内容并不是绝对的，你可以根据自己的喜好配置模板文件 </span><code>archetypes/default.md</code></p><p><span>这个命令会在 </span><code>content</code><span> 目录下建立 </span><code>post</code><span> 目录，并在 </span><code>post</code><span> 下生成 </span><code>test.md</code><span> 文件，博文书写就在这个文件里使用 Markdown 语法完成。博文的 front matter 里</span><code>draft</code><span> 选项默认为 </span><code>true</code><span>，需要改为 </span><code>false</code><span> 才能发表博文，建议直接更改上面说的</span><code>archetypes</code><span> 目录下的 </span><code>default</code><span> 文件，把 </span><code>draft: true</code><span> 改为 </span><code>draft: false</code><span>，这样生成的博文就是默认可以发表的。</span></p><p><span>在博文的 front matter 里面，使用 </span><code>tags</code><span> 指定文章的 tag，使用</span><code>categories</code><span> 指定文章的类别，示例如下：</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>2</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">tags: [LaTeX, Hexo, font]</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">categories: [Mac, Linux]</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 37px;"></div><div class="CodeMirror-gutters" style="height: 37px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><h3><a name="生成网页" class="md-header-anchor"></a><span>生成网页</span></h3><p><span>为了查看生成的博客的效果，在cmd中运行以下命令，即可在</span><a href='http://localhost:1313/' target='_blank' class='url'>http://localhost:1313/</a><span>中查看博客的网页效果。</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>3</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">hugo server</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">hugo server -t m10c --buildDrafts</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">hugo server --buildDrafts -w</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 56px;"></div><div class="CodeMirror-gutters" style="height: 56px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>简单介绍一下参数：</span></p><ul><li><code>-t m10c</code><span>：使用m10c主题</span></li><li><code>--buildDrafts</code><span>: 生成被标记为 「草稿」 的文档</span></li><li><code>-w</code><span>: 监控更改，如果发生更改直接显示到博客上 (非常有用，这也是我最喜欢的一点特性了)</span></li></ul><p><span>但此时只能在本地访问 (相当于预览博客，如果与期望值不符，可以随时更改)，如果想发布到 </span><code>Github Pages</code><span> 上需要先将文章配置信息中的 </span><code>draft:</code><span> 改为 </span><code>false</code><span> 然后执行命令</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang="plaintext"><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang="plaintext"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>1</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">hugo</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 19px;"></div><div class="CodeMirror-gutters" style="height: 19px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>此时你的博客目录下会多出一个 </span><code>public</code><span> 文件夹来。这便是 Hugo 生成的网站</span></p><h3><a name="参考" class="md-header-anchor"></a><span>参考</span></h3><ul><li><span>Hugo安装: </span><a href='https://blog.csdn.net/qq_40992152/article/details/105370757' target='_blank' class='url'>https://blog.csdn.net/qq_40992152/article/details/105370757</a></li><li><span>把博客从 Hexo 迁移到 Hugo: </span><a href='https://jdhao.github.io/2018/10/10/hexo_to_hugo/' target='_blank' class='url'>https://jdhao.github.io/2018/10/10/hexo_to_hugo/</a></li></ul><h2><a name="部署github-pages上" class="md-header-anchor"></a><span>部署github pages上</span></h2><p><span>前提：已注册GitHub账号，登录</span></p><p><span>1、登录后，点击右上角，出现下拉菜单，点击 Your repositories 进入页面</span>
+<img src="https://img2018.cnblogs.com/blog/488437/201908/488437-20190829162641399-1240861082.png" referrerpolicy="no-referrer" alt="img"></p><p><span>2、点击 New</span></p><p><img src="https://img2018.cnblogs.com/blog/488437/201908/488437-20190829162830662-722937324.png" referrerpolicy="no-referrer" alt="img"></p><p><span>3、进入 Creat a new repository 页面</span>
+<img src="C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121195836444.png" referrerpolicy="no-referrer" alt="image-20210121195836444"></p><p><span>4、图中的 yourname 要换成自己的github的用户名，即上图中Owner显示的用户名。最后点击Creat repository即完成</span></p><p><span>站点目录</span><strong><code>config.toml</code></strong><span>中</span><strong><code>baseURL</code></strong><span>要换成自己建立的仓库，如baseURL = &quot;</span><a href='https://yourname.github.io/' target='_blank' class='url'>https://yourname.github.io/</a><span>&quot;</span></p><p><span>进入</span><strong><span>站点根目录</span></strong><span>下，执行：</span></p><blockquote><p><span>$ </span><strong><code>hugo</code></strong></p></blockquote><p><span>执行后，站点根目录下会生成一个 </span><code>public</code><span> 文件夹，该文件下的内容即Hugo生成的整个静态网站。每次更新内容后，将 pubilc 目录里所有文件 push到GitHub即可。</span></p><p><span>首次使用的时候要执行以下命令：</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>7</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation" style=""><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">cd public</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git init</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git remote add origin https://github.com/[Github 用户名]/[Github 用户名].github.io.git # 将本地目录链接到远程服务器的代码仓库</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">4</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git add -A</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"># 或者git add .</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">6</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git commit -m "[介绍，随便写点什么，比如日期]"</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">7</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git push -u origin master</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 187px;"></div><div class="CodeMirror-gutters" style="height: 187px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>以后每次</span><strong><span>站点目录</span></strong><span>下执行 </span><code>hugo</code><span> 命令后，再到</span><code>public</code><span>下执行推送命令：</span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>3</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git add -A</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git commit -m "[介绍，随便写点什么，比如日期]"</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git push -u origin master</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 56px;"></div><div class="CodeMirror-gutters" style="height: 56px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><p><span>之后就可以到GitHub上看提交到分支的内容，也可访问 YOURNAME.github.io看页面了。</span></p><h3><a name="总结" class="md-header-anchor"></a><span>总结</span></h3><p><span>以上整个环境部署好之后，接下来的常用命令就是以下几个：</span></p><p><strong><span>站点目录</span></strong><span>下，新建文章，执行：</span></p><blockquote><p><span>$ </span><strong><code>hugo new post/文章名.md</code></strong></p></blockquote><p><span>添加文章内容或修修改改，包括修改主题之类的，在本地都可以实时看到</span></p><p><span>修改完成，确定要上传到GitHub上后，</span><strong><span>站点目录</span></strong><code>myBlog</code><span>下执行：</span></p><blockquote><p><span>$ </span><strong><code>hugo</code></strong></p></blockquote><p><span>进行编译，没错误的话修改的内容就顺利同步到</span><code>public</code><span>下了，然后</span><strong><code>cd public</code></strong><span>下，执行提交命令：</span></p><blockquote><p><span>$ </span><strong><code>git add -A</code></strong></p><p><span>$ </span><strong><code>git commit -m &quot;20200204-1&quot;</code></strong></p><p><span>$ </span><strong><code>git push -u origin master</code></strong></p></blockquote><p><span>至此OK，顺利的话应该是一步到位的。若是遇到问题的话再百度咯</span></p><h3><a name="bug解决" class="md-header-anchor"></a><span>bug解决</span></h3><p><span>解决 fatal: Not a git repository (or any of the parent directories): .git 问题: </span><a href='https://blog.csdn.net/wenb1bai/article/details/89363588' target='_blank' class='url'>https://blog.csdn.net/wenb1bai/article/details/89363588</a></p><p><span>解决Git fatal: unable to auto-detect email address问题: </span><a href='https://blog.csdn.net/u013914471/article/details/88394310' target='_blank' class='url'>https://blog.csdn.net/u013914471/article/details/88394310</a></p><p><span>解决hint: Updates were rejected because the remote contains work that you do: </span><a href='https://www.cnblogs.com/czwangzheng/p/5086903.html' target='_blank' class='url'>https://www.cnblogs.com/czwangzheng/p/5086903.html</a></p><p><a href='https://blog.csdn.net/banjw_129/article/details/82261165?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control'><span>hexo + github pages搭建博客样式加载不出来</span><em><span>banjw的博客-CSDN博客</span></em><span>hexo样式加载不了</span></a></p><p><span>Git一个关于Push失败的两种解决方案: </span><a href='https://www.jianshu.com/p/ea6ec80ad5f2' target='_blank' class='url'>https://www.jianshu.com/p/ea6ec80ad5f2</a></p><h3><a name="域名绑定" class="md-header-anchor"></a><span>域名绑定</span></h3><p><span>Github Pages可以绑定自己的域名，例如在阿里云/腾讯云购买好域名之后，首先进行</span><strong><span>实名认证</span></strong><span>(根据工信部2017年全面域名实名认证的要求，所有存量域名以及新注册域名均需完成域名实名认证)。然后添加相应的解析：</span></p><p><img src="C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121215641671.png" referrerpolicy="no-referrer" alt="image-20210121215641671"></p><p><span>其中</span><code>185.199.109.153</code><span>是用</span><code>ping</code><span>命令找到的存放github pages的主机的IP地址，在cmd命令行中输入</span><code>ping xxx.github.io</code><span>便可获取：</span></p><p><img src="C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121221541289.png" referrerpolicy="no-referrer" alt="image-20210121221541289"></p><p><span>最进入到Github pages仓库Setting页面，并滑动到Github Pages这一栏，在Custom Domain填上刚刚添加解析的域名并保存：</span></p><p><img src="C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121222010131.png" referrerpolicy="no-referrer" alt="image-20210121222010131"></p><h3><a name="参考-n127" class="md-header-anchor"></a><span>参考</span></h3><ul><li><span>使用 Hugo + GitHub Pages 搭建个人博客（包含部署脚本）: </span><a href='https://mogeko.me/2018/018/' target='_blank' class='url'>https://mogeko.me/2018/018/</a></li><li><span>Hugo + Github Pages 搭建个人博客: </span><a href='https://www.cnblogs.com/stevexu/p/10779375.html' target='_blank' class='url'>https://www.cnblogs.com/stevexu/p/10779375.html</a></li><li><span>Windows+Hugo+GitHub制作静态个人博客: </span><a href='https://blog.csdn.net/weixin_43386341/article/details/103586415' target='_blank' class='url'>https://blog.csdn.net/weixin_43386341/article/details/103586415</a></li><li><span>三步搞定Github Pages自定义域名: </span><a href='https://www.jianshu.com/p/2647e079741f'><span>https://www.jianshu.com/p/2647e079741f</span></a></li><li><span>托管到Netlify: </span><a href='https://kuleyu.github.io/hexolog/post/31808.html' target='_blank' class='url'>https://kuleyu.github.io/hexolog/post/31808.html</a></li></ul><h2><a name="netlify" class="md-header-anchor"></a><span>Netlify</span></h2><p><span>对于想要使用Jekyll、</span><a href='https://hexo.io/'><span>Hexo</span></a><span>、Hugo等静态搭建网站，又害怕复杂的本地环境配置的朋友，Netlify支持自动编译Jekyll、</span><a href='https://hexo.io/'><span>Hexo</span></a><span>、Hugo等常见的静态博客程序。另外，Netlify也是一个非常好的静态空间，如果你有用</span><a href='http://www.chole.io/'><span>纸小墨 inkPaper</span></a><span>或者Html网页，可以直接上传发布到空间上。</span></p><h3><a name="github仓库生成" class="md-header-anchor"></a><span>Github仓库生成</span></h3><p><span>首先须要建立一个新的Github仓库(</span><em><span>这里与直接利用Github Pages搭建博客用到的仓库不一样</span></em><span>)，然后在博客目录文件加下生成</span><code>.gitignore</code><span>文件，内容为</span><code>public/</code><span>从而不上传该文件夹。</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204205844.png" referrerpolicy="no-referrer"></p><p><span>然后上传至仓库: </span></p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 30px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 26px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>5</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation" style=""><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -26px; width: 26px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git init</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">2</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git remote add origin https://仓库地址 # 将本地目录链接到远程服务器的代码仓库</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">3</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git add -A</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt" style="left: 0px; width: 17px;">4</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git commit -m "[介绍，随便写点什么，比如日期]"</span></pre></div><div style="position: relative;"><div class="CodeMirror-gutter-wrapper" style="left: -26px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 17px;">5</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">git push -u origin master</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 112px;"></div><div class="CodeMirror-gutters" style="height: 112px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 25px;"></div></div></div></div></pre><h3><a name="netlify连接至github仓库" class="md-header-anchor"></a><span>Netlify连接至Github仓库</span></h3><p><span>进入Netlify官网: </span><a href='https://www.netlify.com/' target='_blank' class='url'>https://www.netlify.com/</a><span>，申请注册一个账号，可以使用Github、Gitlab以及Bitbucket直接授权登陆。然后登录到空间管理中心，点击的</span><code>New site from Git</code><span>添加网站。</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204204601.png" referrerpolicy="no-referrer"></p><p><span>然后根据自己的托管平台，这里使用GitHub作为托管平台。</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204204720.png" referrerpolicy="no-referrer"></p><p><span>验证登陆后选择此前生成的仓库。</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204204828.png" referrerpolicy="no-referrer" alt="image-20210204204825869"></p><p><span>站点基本设置如下：</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204211915.png" referrerpolicy="no-referrer"></p><p><span>点击</span><code>Deploy site</code><span>即可生成网站，此时网站可能构建失败：虽然 Netlify 可以自动检测网站程序，但是最好能够匹配电脑上装的那个静态网页生成器的版本。所以，建议在</span><code>Site settings</code><span>中修改 Netlify 构建网站的静态网页生成器版本号：</span><code>Build &amp; deploy</code><span> --&gt; </span><code>Enviroment</code><span> --&gt; </span><code>Environment variables</code><span>，填入 </span><code>HUGO_VERSION</code><span> </span><code>0.80.0</code><span> （具体版本号以使用的为准），其中可以在命令行输入</span><code>hugo version</code><span>查询hugo版本。</span></p><p><img src="C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210204215828746.png" referrerpolicy="no-referrer"></p><p><code>Site settings</code><span>中</span><code>Change site name</code><span>可以改变站点的链接为自己想要的链接(格式为</span><code>site name.netlify.app</code><span>)。</span></p><p><img src="C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210204222258469.png" referrerpolicy="no-referrer" alt="image-20210204222258469"></p><h3><a name="域名绑定-n159" class="md-header-anchor"></a><span>域名绑定</span></h3><p><span>域名绑定需要在</span><code>Domain management</code><span>中点击</span><code>Add custom domain</code><span>，添加自己的域名</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204222619.png" referrerpolicy="no-referrer"></p><p><span>例如：</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204222819.png" referrerpolicy="no-referrer"></p><p><span>点击确定后还需要验证DNS:</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204230546.png" referrerpolicy="no-referrer"></p><p><span>这里使用Netlify提供的DNS服务</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204230530.png" referrerpolicy="no-referrer"></p><p><span>一直点击确认后，来到最后一步</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204230523.png" referrerpolicy="no-referrer"></p><p><span>拿到这个DNS服务器地址之后，进入阿里云控制台，域名管理：</span></p><p><img src="https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204230520.png" referrerpolicy="no-referrer"></p><p><span>然后，修改DNS为Netlify提供的DNS服务器。回到设置界面后，绑定的域名后有绿色的</span><code>Netlify DNS</code><span>标志即表示域名绑定成功。</span></p><h3><a name="bug解决-n173" class="md-header-anchor"></a><span>Bug解决</span></h3><p><span>Hugo中绑定域名后，同时需要改变网站根目录中</span><code>config</code><span>文件的域名参数，例如</span><code>baseURL = &quot;https://www.wuhao.ink/&quot;</code><span>，否则展示的网页可能有问题。</span></p><h3><a name="参考-n175" class="md-header-anchor"></a><span>参考</span></h3><p><span>按重要性排序</span></p><ol start='' ><li><span>英文视频讲解: </span><a href='https://www.youtube.com/watch?v=gSiAcyTWU3c' target='_blank' class='url'>https://www.youtube.com/watch?v=gSiAcyTWU3c</a></li><li><span>Github Pages访问太慢？通过Netlify免费加速: </span><a href='https://www.cnblogs.com/37Y37/p/12551839.html' target='_blank' class='url'>https://www.cnblogs.com/37Y37/p/12551839.html</a></li><li><span>域名绑定参考: </span><a href='https://hero.github.io/categories/Hexo/netlify/' target='_blank' class='url'>https://hero.github.io/categories/Hexo/netlify/</a></li><li><span>同时部署 Hugo 静态博客到 Netlify 和 Github Pages: </span><a href='https://www.nashome.cn/posts/hugo-netlify/' target='_blank' class='url'>https://www.nashome.cn/posts/hugo-netlify/</a></li></ol><p>&nbsp;</p></div>
+</body>
+</html>
