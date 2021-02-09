@@ -79,7 +79,7 @@ theme = "pure"
 要建立新的博文 `test.md`，使用下面的命令：
 
 ```bash
-hugo new post/test.md
+hugo new posts/test.md
 ```
 
 此时 `content` 文件夹下就多了一个 `test.md` 文件，打开文件就可以看到时间、文件名等信息已经自动生成了
