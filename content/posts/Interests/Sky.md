@@ -5,13 +5,13 @@ draft: false
 
 description: "sky description"
 
-upd: "Since the template began to support uPagge, you can not do without names. You can find the changes by tag 1.x.x."
+upd: ""
 
 toc:
   auto: false
 ---
 
-## 固定先祖
+## 	固定先祖
 
 ### 先祖地点图
 
@@ -42,6 +42,14 @@ toc:
 ## 过年活动
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145521.jpg)
+
+## 复刻先祖
+
+2020年2月11日，白棉裤先祖
+
+![image-20210208144652919](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210208144652919.png)
+
+![img](https://ww2.sinaimg.cn/bmiddle/0087NTXCgy1gng0oqbjpkj30kf1bh0w8.jpg)
 
 ## 季节活动
 
