@@ -5,7 +5,7 @@ draft: false
 
 description: "sky description"
 
-upd: "中文可以嘛"
+upd: "是天天哦！"
 
 toc:
   auto: true
@@ -17,7 +17,7 @@ toc:
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210123144.jpg)
 
-### 追逐光芒
+### 收集光芒
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206120851.jpg)
 
