@@ -11,6 +11,12 @@ toc:
   auto: true
 ---
 
+## 每日任务
+
+### 冥想任务
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210123144.jpg)
+
 ## 	固定先祖
 
 ### 先祖地点图
