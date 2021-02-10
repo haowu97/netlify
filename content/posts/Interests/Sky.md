@@ -6,9 +6,6 @@ draft: false
 description: "sky description"
 
 upd: "是天天哦！"
-
-toc:
-  auto: true
 ---
 
 ## 每日任务
