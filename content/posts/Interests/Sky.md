@@ -51,6 +51,8 @@ toc:
 
 ## 复刻先祖
 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210132442.jpg)
+
 2020年2月11日，白棉裤先祖
 
 ![image-20210208144652919](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210208144652919.png)
@@ -65,7 +67,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 #### 先祖兑换表
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145656.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210131905.png)
 
 #### 光翼/烛火
 
