@@ -67,6 +67,18 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145724.jpg)
 
+### 预言季
+
+#### 试炼攻略
+
+##### 水试炼
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210114413.jpg)
+
+#### 先祖兑换图
+
+![image-20210210111357079](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210111359.png)
+
 ### 圣岛季
 
 #### 剧情任务
