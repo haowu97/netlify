@@ -5,7 +5,7 @@ draft: false
 
 description: "sky description"
 
-upd: "skksksksksk"
+upd: "中文可以嘛"
 
 toc:
   auto: true
@@ -16,6 +16,10 @@ toc:
 ### 冥想任务
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210123144.jpg)
+
+### 追逐光芒
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206120851.jpg)
 
 ## 	固定先祖
 
@@ -117,7 +121,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 #### 遗忘方舟剧情任务
 
-安卓国服季节任务光芒收集顺序：
+季节任务光芒收集顺序：
 
 1. 遗落方舟—最内部火红色光芒/念之灵
 2. 峡谷溜冰场—蓝色光芒/水之灵
@@ -126,7 +130,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 5. 禁阁进图右边双人门—紫色光芒/心之灵
 6. 雨林后面大图一橙色光芒/火之灵
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206120851.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210134223.jpg)
 
 ## 暴风眼
 
