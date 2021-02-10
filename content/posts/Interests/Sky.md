@@ -75,6 +75,18 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210114413.jpg)
 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210121158.jpg)
+
+##### 土试炼
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210121227.jpg)
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210121307.jpg)
+
+##### 火试炼
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210121334.jpg)
+
 #### 先祖兑换图
 
 ![image-20210210111357079](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210111359.png)
@@ -107,6 +119,10 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 6. 雨林后面大图一橙色光芒/火之灵
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206120851.jpg)
+
+## 暴风眼
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210121530.jpg)
 
 ## 其他
 
