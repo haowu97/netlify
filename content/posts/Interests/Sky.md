@@ -8,7 +8,7 @@ description: "sky description"
 upd: "skksksksksk"
 
 toc:
-  auto: false
+  auto: true
 ---
 
 ## 	固定先祖
@@ -51,7 +51,7 @@ toc:
 
 ![img](https://ww2.sinaimg.cn/bmiddle/0087NTXCgy1gng0oqbjpkj30kf1bh0w8.jpg)
 
-## 季节活动
+## 季节攻略
 
 ### 梦想季
 
