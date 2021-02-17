@@ -69,12 +69,6 @@ upd: "是天天啊"
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210132442.jpg)
 
-2020年2月11日，白棉裤先祖
-
-![image-20210208144652919](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210208144652919.png)
-
-![img](https://ww2.sinaimg.cn/bmiddle/0087NTXCgy1gng0oqbjpkj30kf1bh0w8.jpg)
-
 ## 季节攻略
 
 ### 梦想季
