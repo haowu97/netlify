@@ -11,7 +11,7 @@ themesDir = "themes/"
 
 # website title
 # 网站标题
-title = "Henry Wu"
+title = "PurePlayer"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -334,9 +334,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = "吴昊的博客"
+          title = "uBlogger | Hugo Theme"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "学习强国"
+          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -452,7 +452,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "Henry Wu"
+      name = "uBlogger"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
@@ -481,7 +481,7 @@ enableEmoji = true
     author = true
     # site creation time
     # 网站创立年份
-    since = 2021
+    since = 2019
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
