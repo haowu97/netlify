@@ -2,8 +2,7 @@
 title: "Hugo博客搭建"
 date: 2021-02-01T20:56:47+08:00
 draft: false
-tags: [LaTeX, Hugo, font]
-categories: [Mac, Linux]
+tags: [Blog, Hugo]
 ---
 
 ## Hugo
