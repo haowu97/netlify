@@ -1,5 +1,5 @@
 ---
-title: "Excel"
+title: "Excel使用技巧"
 date: 2021-02-10T16:07:16+08:00
 draft: false
 
@@ -18,10 +18,6 @@ upd: ""
 ## 描述性统计
 
 数据-->数据分析-->描述统计
-
-
-
-
 
 [Excel数据分析加载项](https://zhinan.sogou.com/guide/d316513603490.htm?ch=zn.xqy.related.pc)
 

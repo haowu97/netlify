@@ -27,3 +27,15 @@ git clone -b v2.8.1 https://xxx.git
 ```csharp
 git init
 ```
+
+## `.gitignore`
+
+忽略指定文件/目录
+
+```
+# 忽略指定文件
+filename.md
+
+# 忽略指定文件夹
+public/
+```
