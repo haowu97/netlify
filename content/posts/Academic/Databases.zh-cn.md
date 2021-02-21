@@ -10,6 +10,10 @@ tags: ['学术']
 categories: []
 ---
 
+大数据工具导航: http://hao.199it.com/
+
+- 收录了各学科的数据库，是不错的检索工具
+
 ## 学术数据库
 
 中国经济社会大数据研究平台：包含统计年鉴等，适合用来做**统计年鉴**的检索
@@ -17,6 +21,16 @@ categories: []
 进入方法：知网--->统计数据
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210220175607.gif)
+
+中国健康与养老追踪调查(CHARLS)官网: http://charls.pku.edu.cn/index/zh-cn.html
+
+中国健康与营养调查(CHNS)官网: https://www.cpc.unc.edu/projects/china
+
+## 医卫数据来源
+
+公共卫生科学数据中心: http://www.phsciencedata.cn/
+
+- 不好用！
 
 ## 投研数据网站
 
