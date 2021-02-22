@@ -8,6 +8,8 @@ upd: ""
 
 tags: ['Academic', 'Database']
 categories: []
+
+lightgallery: true
 ---
 
 The China Health and Nutrition Survey (CHNS), an ongoing open cohort, international collaborative project between the Carolina Population Center at the University of North Carolina at Chapel Hill and the National Institute for Nutrition and Health (NINH, former National Institute of Nutrition and Food Safety) at the Chinese Center for Disease Control and Prevention (CCDC), was designed to examine the effects of the health, nutrition, and family planning policies and programs implemented by national and local governments and to see how the social and economic transformation of Chinese society is affecting the health and nutritional status of its population. The impact on nutrition and health behaviors and outcomes is gauged by changes in community organizations and programs as well as by changes in sets of household and individual economic, demographic, and social factors.
@@ -41,3 +43,26 @@ When the unit of analysis was something other than individual, household or comm
 ### Survey Year (WAVE)
 
 The WAVE is a four-digit numeric variable that identified survey year (i.e, 1989, 1991, 1993, 1997, 2000, 2004, 2006, 2009, 2011, 2015). This variable was used in master longitudinal files only.
+
+## Special LINE Numbers
+
+Some special LINE numbers used in the data files are:
+
+21 = first new household member added to the roster in 1991
+22 = second new household member added to the roster in 1991, and so on
+31 = first new household member added to the roster in 1993
+32 = second new household member added to the roster in 1993, and so on
+41 = first new household member added to the roster in 1997
+42 = second new household member added to the roster in 1997, and so on
+61 = first new household member added to the roster in 2000
+62 = second new household member added to the roster in 2000, and so on
+77 = grandparent
+88 = uncle/aunt
+99 = other
+-2 = guest
+
+For LINE numbers 21, 22, 31, 32, 41, 42, 61, 62, etc., the first digit identifies the round in which the individual first appeared in the Household Member Roster (2=1991, 3=1993, 4 & 5=1997, 6=2000).
+
+LINE numbers 77, 88, and 99 are used in the Childcare section of the Household Survey.
+
+LINE number -2 is used in the Nutrition Survey.
