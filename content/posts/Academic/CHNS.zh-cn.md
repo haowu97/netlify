@@ -3,6 +3,8 @@ title: "中国健康与营养调查(CHNS)文档"
 date: 2021-02-22T15:21:31+08:00
 draft: false
 
+description: "sky description"
+
 upd: "CHNS文档汇总"
 
 tags: ['学术', '数据库']
