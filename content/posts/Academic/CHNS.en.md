@@ -3,14 +3,16 @@ title: "China Health and Nutrition Survey (CHNS) Documentation"
 date: 2021-02-22T15:23:33+08:00
 draft: false
 
-description: "A document summary of CHNS"
-upd: ""
+description: ""
+upd: "A document summary of CHNS"
 
 tags: ['Academic', 'Database']
 categories: []
-
-lightgallery: true
 ---
+
+A document summary of CHNS
+
+<!--more-->
 
 The China Health and Nutrition Survey (CHNS), an ongoing open cohort, international collaborative project between the Carolina Population Center at the University of North Carolina at Chapel Hill and the National Institute for Nutrition and Health (NINH, former National Institute of Nutrition and Food Safety) at the Chinese Center for Disease Control and Prevention (CCDC), was designed to examine the effects of the health, nutrition, and family planning policies and programs implemented by national and local governments and to see how the social and economic transformation of Chinese society is affecting the health and nutritional status of its population. The impact on nutrition and health behaviors and outcomes is gauged by changes in community organizations and programs as well as by changes in sets of household and individual economic, demographic, and social factors.
 
