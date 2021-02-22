@@ -18,13 +18,31 @@ categories: []
 
 中国经济社会大数据研究平台：包含统计年鉴等，适合用来做**统计年鉴**的检索
 
-进入方法：知网--->统计数据
+进入方法：[知网](https://www.cnki.net/)--->统计数据
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210220175607.gif)
 
 中国健康与养老追踪调查(CHARLS)官网: http://charls.pku.edu.cn/index/zh-cn.html
 
+- 数据更新至18年
+- CHARLS 的调查对象为我国 45 岁及以上的居⺠
+- 数据类型为Stata(dta)格式，注册并且申请数据审核通过(两三天左右)后下载
+- 包括经济状况、健康状况、生活习惯等各种数据
+
 中国健康与营养调查(CHNS)官网: https://www.cpc.unc.edu/projects/china
+
+- 数据更新至15年
+- 数据类型为SAS格式，注册后可以直接下载使用
+- 主要为健康相关，和基本的人口学数据
+
+中国家庭追踪调查(CFPS): https://www.isss.pku.edu.cn/cfps/
+
+- 追踪收集个体、家庭、社区三个层次的数据
+- 注册审核通过后即可下载数据
+
+## 县级经济数据
+
+中国城市统计年鉴
 
 ## 医卫数据来源
 
