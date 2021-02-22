@@ -1,4 +1,5 @@
 ---
+weight: 5
 title: "China Health and Nutrition Survey (CHNS) Documentation"
 date: 2021-02-22T15:23:33+08:00
 draft: false
@@ -9,8 +10,6 @@ upd: "A document summary of CHNS"
 
 tags: ['Academic', 'Database']
 categories: []
-
-lightgallery: true
 ---
 
 A document summary of CHNS
