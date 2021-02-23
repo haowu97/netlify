@@ -94,7 +94,7 @@ categories:
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210223003336.png)
 
-18年官方曾大幅限制地方政府融资平台
+18年官方曾大幅限制地方政府融资平台。
 
 有关中国经济政策的关键问题
 
