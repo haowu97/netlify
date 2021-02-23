@@ -6,7 +6,7 @@ draft: false
 description: ""
 upd: ""
 
-tags: []
+tags: ["笔记"]
 categories: ["中国经济专题"]
 ---
 
