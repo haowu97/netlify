@@ -1,14 +1,33 @@
-sock5代理方式(Shadowsocks, ShadowsocksR)优于VPN
+---
+title: "科学上网"
+date: 2021-02-25T17:17:08+08:00
+draft: false
 
-![image-20210224114938850](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210224114938850.png)
+description: ""
+upd: ""
+
+tags: ['科学上网']
+categories: []
+---
+
+以下是目前流行的科学上网软件：
+
+- SSR: SSR简单来说是一个客户端代理，软件，支持SSR开头节点，出身较早，匹配成熟
+- Clash: Clash支持Ss,SSR,V2ray以及 . Trojan节点，既是平台，也是工具，更强调策路分流规则，复杂但是强大！
+- V2ray更像一个平台，可以作为开发工具 使用，支持Vmes开头的节点，同时支持 Trojan节点的导入，更加全面，正流行
+- Trojan模仿互联网常见的Https协议进行科学上网，常用网站伪装，匹配不完善，末来可期
+
+Sock5代理方式(Shadowsocks, ShadowsocksR)优于VPN。
+
+## PC端 SSR
 
 SSR Windows下载地址: https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 
 设置要点：
 
-日常中取消负载均衡
+- 日常中取消负载均衡
 
-服务器更新时，不通过代理
+- 服务器更新时，不通过代理
 
 Bug处理：
 
@@ -16,7 +35,7 @@ Bug处理：
 - [故障解决：端口已被占用 1080](https://blog.csdn.net/longintchar/article/details/79680589)
 
 
-## 配置 ShadowsocksR
+## 安卓端 ShadowsocksR
 
 配置步骤
 
@@ -54,27 +73,25 @@ Bug处理：
 
 - [获取ios科学上网客户端](https://tlanyan.me/get-proxy-clients/)
 
-
-
 ## 节点
 
 ### 免费
 
-https://raw.githubusercontent.com/wohezhilong/isharing/main/0223.txt
+使用中：
 
-
-
-ss节点：https://proxypoolss.tk/ss/sub
-ssr节点：https://proxypoolss.tk/ssr/sub
-vmess节点：https://proxypoolss.tk/vmess/sub
-trojan节点：https://proxypoolss.tk/clash/proxies?type=trojan
-所有节点：https://proxypoolss.tk/clash/proxies?type=ss,ssr,vmess,trojan
-小猫咪Clash链接:clash://install-config?url=https://proxypoolss.tk/clash/config
+- 电脑端V2Ray：[教学以及免费节点分享](https://www.youtube.com/channel/UCs9DTlP6bRIuLkAZ8egC12g)
+- IOS(Shadowrocket)/安卓端(V2RayNG/Clash)：[教学](https://www.youtube.com/channel/UC277PQOP9AnRF83500JLfww)；[免费节点](https://share.weiyun.com/JEpTcCH0)
 
 ### 付费
+
+[高速机场导航](https://docs.google.com/document/d/1yZ8Q36z7oFFTYvwQjexDpuE-OFbhZTCOVDXgK83o3uA/edit)
 
 http://vmessnode.xyz/doc/#/Windows/ShadowsocksR
 
 http://skssrsk.ys168.com/
 
 附教程，password:8888
+
+https://tianhang.pro/auth/register
+
+https://sspool.herokuapp.com/
