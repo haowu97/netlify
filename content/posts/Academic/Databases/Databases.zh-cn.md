@@ -55,10 +55,10 @@ categories: []
 | 中国统计年鉴                       | http://www.stats.gov.cn/tjsj./ndsj             | 国家统计局                          |
 | 中国卫生与计划生育统计年鉴         | http://www.moh.gov.cn/zwgkz t/pwstj/list.shtml | 国家卫生健康委员会                  |
 | 中国健康与养老追踪调查(CHARLS)     | http://charls.pku.edu.cn/index.html            | 北京大学                            |
-| 中国健康与营养调查(CHNS)           | https://www.cpc.unc. edu/projects/china        | 北卡罗来纳大学人口研究中心、中国CDC |
+| 中国健康与营养调查(CHNS)           | https://www.cpc.unc.edu/projects/china        | 北卡罗来纳大学人口研究中心、中国CDC |
 | 中国综合社会调查(CGSS)             | http://cnsda.ruc.edu.cn                        | 中国人民大学                        |
-| 中国家庭追踪调查(CFPS)             | http://opendata.pku.edu. cn/dataverse/CFPS     | 北京大学                            |
-| 中国纵向健康寿命调查(CLHLS)        | http://opendata.pku.edu. cn/dataverse/CHADS    | 北京大学                            |
+| 中国家庭追踪调查(CFPS)             | http://opendata.pku.edu.cn/dataverse/CFPS     | 北京大学                            |
+| 中国纵向健康寿命调查(CLHLS)        | http://opendata.pku.edu.cn/dataverse/CHADS    | 北京大学                            |
 | 中国劳动力动态调查(CLDS)           |                                                | 中国人民大学                        |
 | 中国家庭金融调查(CHFS)             | https://chfs.swufe.edu.cn                      | 西南财经大学                        |
 | 中国流动人口动态监测调查数据(CMDS) | http://www.chinaldrk.org.cn/wjw                | 国家卫生健康委员会                  |
