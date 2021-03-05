@@ -54,6 +54,21 @@ upd: ""
 
 1000(石)，1000博弈论
 
-
-
 悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
+
+## 待做
+
+11: International Corporate Finance
+
+Non-fiction: 计量分析
+
+大仙贝：Globalisat'n & World Economy, Statistics for Business & Econ, Info Systems for Management
+
+艺林：
+
+- 金融经济学(0434, 0521)
+- 国际金融(0419)
+
+
+
+关注：国际金融、衍生品、金融经济学、简单的计量统计分析

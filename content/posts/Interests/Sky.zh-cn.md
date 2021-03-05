@@ -61,10 +61,6 @@ upd: "是天天啊"
 
 更新时间2021-02-04，可能会有变动。
 
-## 过年活动
-
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206145521.jpg)
-
 ## 复刻先祖
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210132442.jpg)

@@ -237,7 +237,7 @@ Github Pages可以绑定自己的域名，例如在阿里云/腾讯云购买好�
 
 其中`185.199.109.153`是用`ping`命令找到的存放github pages的主机的IP地址，在cmd命令行中输入`ping xxx.github.io`便可获取：
 
-![image-20210121221541289](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121221541289.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121221541289.png)
 
 最进入到Github pages仓库Setting页面，并滑动到Github Pages这一栏，在Custom Domain填上刚刚添加解析的域名并保存：
 
