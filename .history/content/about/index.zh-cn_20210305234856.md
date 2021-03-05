@@ -9,13 +9,12 @@ math:
   enable: true
 ---
 
-
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/upagge/uBlogger?style=flat-square)](https://github.com/upagge/uBlogger/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
 [![License](https://img.shields.io/github/license/upagge/uBlogger?style=flat-square)](https://github.com/upagge/uBlogger/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/upagge/uBlogger?style=social)](https://github.com/upagge/uBlogger)
 [![GitHub forks](https://img.shields.io/github/forks/upagge/uBlogger?style=social)](https://github.com/upagge/uBlogger/fork)
-
+{{< /style >}}
 
 > [:(far fa-kiss-wink-heart fa-fw): uBlogger](https://github.com/upagge/uBlogger) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by [uPagge](https://upagge.ru).
 >

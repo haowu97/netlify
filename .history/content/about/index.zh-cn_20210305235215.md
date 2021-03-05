@@ -15,7 +15,7 @@ math:
 [![License](https://img.shields.io/github/license/upagge/uBlogger?style=flat-square)](https://github.com/upagge/uBlogger/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/upagge/uBlogger?style=social)](https://github.com/upagge/uBlogger)
 [![GitHub forks](https://img.shields.io/github/forks/upagge/uBlogger?style=social)](https://github.com/upagge/uBlogger/fork)
-
+{{< /style >}}
 
 > [:(far fa-kiss-wink-heart fa-fw): uBlogger](https://github.com/upagge/uBlogger) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by [uPagge](https://upagge.ru).
 >

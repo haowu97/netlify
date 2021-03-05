@@ -191,7 +191,7 @@ git commit -m "[介绍，随便写点什么，比如日期]"
 git push -u origin master
 ```
 
-之后就可以到GitHub上看提交到分支的内容，也可访问 YOURNAME.github.io看页面了。
+之后就可以到GitHub上看提交到分支的内容，也可访问YOURNAME.github.io看页面了。
 
 ### 总结
 
@@ -233,7 +233,7 @@ Git一个关于Push失败的两种解决方案: https://www.jianshu.com/p/ea6ec8
 
 Github Pages可以绑定自己的域名，例如在阿里云/腾讯云购买好域名之后，首先进行**实名认证**(根据工信部2017年全面域名实名认证的要求，所有存量域名以及新注册域名均需完成域名实名认证)。然后添加相应的解析：
 
-![image-20210121215641671](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121215641671.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121215641671.png)
 
 其中`185.199.109.153`是用`ping`命令找到的存放github pages的主机的IP地址，在cmd命令行中输入`ping xxx.github.io`便可获取：
 
@@ -241,7 +241,7 @@ Github Pages可以绑定自己的域名，例如在阿里云/腾讯云购买好�
 
 最进入到Github pages仓库Setting页面，并滑动到Github Pages这一栏，在Custom Domain填上刚刚添加解析的域名并保存：
 
-![image-20210121222010131](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121222010131.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121222010131.png)
 
 ### 参考
 
