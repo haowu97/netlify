@@ -8,7 +8,7 @@ description: "sky description"
 
 upd: "A document summary of CHNS"
 
-tags: ['Academic', 'Database']
+tags: ['Academic', 'Database', 'CHNS']
 categories: []
 ---
 
@@ -133,12 +133,12 @@ The biomarker data collected in CHNS 2009 involves the release of 26 fasting blo
 
  The constructed household income variables have been completely revised in 2011, and individual income variables have been constructed as well. These measures are fully documented below in PDF format:
 
-- [Household Income Variable Construction](https://www.cpc.unc.edu/projects/china/data/datasets/Household Income Variable Construction.pdf), *92 KB*
-- [Individual Income Variable Construction](https://www.cpc.unc.edu/projects/china/data/datasets/Individual Income Variable Construction.pdf), *44 KB*
+- [Household Income Variable Construction](https://www.cpc.unc.edu/projects/china/data/datasets/Household%20Income%20Variable%20Construction.pdf), *92 KB*
+- [Individual Income Variable Construction](https://www.cpc.unc.edu/projects/china/data/datasets/Individual%20Income%20Variable%20Construction.pdf), *44 KB*
 
 These files are longitudinal, with one observation per household or individual per wave. Income measures include:
 
-#### **Household Income (HHINC_10.sas7bdat)
+#### Household Income (HHINC_10.sas7bdat)
 
 Total Annual Household Income, Nominal
      Total Annual Household Income, Inflated to 2015

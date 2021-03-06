@@ -7,7 +7,7 @@ description: "CHNS官方英文文档的中文机器翻译版汇总"
 
 upd: "CHNS官方英文文档的中文机器翻译版汇总"
 
-tags: ['学术', '数据库']
+tags: ['学术', '数据库', 'CHNS']
 categories: []
 ---
 
@@ -143,8 +143,8 @@ T1 至 T5 的原始采样单元变量合并为形成社区和家庭 ID 变量（
 
 2011年对家庭收入变量进行了全面修订，并构建了个人收入变量。这些措施以 PDF 格式详细记录如下：
 
-- [家庭收入可变建筑](https://www.cpc.unc.edu/projects/china/data/datasets/Household Income Variable Construction.pdf)， *92 KB*
-- [个人收入可变结构](https://www.cpc.unc.edu/projects/china/data/datasets/Individual Income Variable Construction.pdf)， *44 KB*
+- [家庭收入可变建筑](https://www.cpc.unc.edu/projects/china/data/datasets/Household%20Income%20Variable%20Construction.pdf)， *92 KB*
+- [个人收入可变结构](https://www.cpc.unc.edu/projects/china/data/datasets/Individual%20Income%20Variable%20Construction.pdf)， *44 KB*
 
 这些文件是纵向的，每个家庭或个人每波观察一次。收入衡量包括：
 
