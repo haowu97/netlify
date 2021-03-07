@@ -2,7 +2,7 @@
 title: "中国健康与营养调查(CHNS)使用笔记"
 date: 2021-03-06T19:17:54+08:00
 lastmod: 2021-03-07T19:17:54+08:00
-draft: true
+draft: false
 
 description: ""
 upd: "CHNS的数据量非常庞大，并且它将多年的数据合并到一起，因此刚上手的给人感觉非常混乱，本文记录了我的CHNS数据库的处理心得。"
