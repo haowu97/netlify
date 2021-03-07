@@ -63,6 +63,8 @@ upd: "是天天啊"
 
 ## 复刻先祖
 
+![](https://ww2.sinaimg.cn/bmiddle/0087NTXCgy1go02eyqzcej31ps1acb29.jpg)
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210132442.jpg)
 
 ## 季节攻略
