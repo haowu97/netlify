@@ -1,21 +1,79 @@
 ---
-title: "CHNS Tutorials"
+title: "China Health and Nutrition Survey (CHNS) Study Notes"
 date: 2021-02-23T17:59:50+08:00
 lastmod: 2021-02-24T17:59:50+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "The data volume of CHNS is very large, and it merges the data of many years, so it feels very confusing for people who just got started. This article records my experience of processing the CHNS database."
 
-tags: []
+tags: ['Academic', 'Database', 'CHNS']
 categories: []
 ---
+
+CHNS data is stored in different compressed packages according to categories. After downloading to the same path, first use the following Python code to decompress all compressed packages:
+
+```python
+import os
+import zipfile
+
+# The directory where the compressed package is located
+src_dir = r"D:\Workfiles\Academic\Databases\CHNS\Data\RawArchive"
+# The destination directory to unzip the compressed package 
+dst_dir = r"D:\Workfiles\Academic\Databases\CHNS\Data\Tree"
+
+def unzip_file(zip_src, dst_dir):
+    zip_name = zip_src.split("\\")[-1]
+    file_name = zip_name.split(".")[0]
+    r = zipfile.is_zipfile(zip_src)
+    if r:     
+        fz = zipfile.ZipFile(zip_src, 'r')
+        for file in fz.namelist():
+            if len(file.split('/')) == 1:
+                # The current file is in the root directory
+                fz.extract(file, dst_dir+"\\"+file_name) 
+            else:
+                # The current file isn't in the root directory
+                fz.extract(file, dst_dir) 
+        fz.close()
+    else:
+        print('This is not zip')
+
+for filename in os.listdir(src_dir):
+    zip_src = src_dir+ "\\" +filename
+    unzip_file(zip_src, dst_dir)
+```
+
+The data provided by CHNS is in SAS format. Since SAS is not usually used, in order to facilitate data reading and viewing, the data is uniformly converted to CSV format using Python and placed under the agreed path:
+
+```python
+import pandas as pd
+
+def sas7bdat2CSV(path):
+    data = pd.read_sas(path)
+    dst_path = path.split(".")[0]+".csv"
+    data.to_csv(dst_path, index = False)
+    
+# The destination directory to save csv
+dst_dir = r"D:\Workfiles\Academic\Databases\CHNS\Data\DataFlies"
+# Traverse folders
+for file in os.listdir(dst_dir):
+    data_dir = dst_dir+"\\"+file
+    # Traverse subfolders
+    for sub_file in os.listdir(data_dir):
+        # Convert sas7bdat data into CSV format
+        if sub_file.endswith(".sas7bdat"):
+            print(data_dir+"\\"+sub_file)
+            sas7bdat2CSV(data_dir+"\\"+sub_file)
+```
+
+The file directory after processing is as follows:
 
 ```
 ├─biomarker_09
 │      biomarker_09.sas7bdat
 │      
-├─Master_Agriculture_201804
+├─Master_Agriculture_201804: Agriculture income, work hours, and cost
 │      cropt_12.sas7bdat
 │      farmg_12.sas7bdat
 │      farmh_12.sas7bdat
@@ -24,10 +82,10 @@ categories: []
 │      foods_12.sas7bdat
 │      gardh_12.sas7bdat
 │      
-├─Master_Asset_201804
+├─Master_Asset_201804: mainly record what they have in home
 │      asset_12.sas7bdat
 │      
-├─Master_Business_201804
+├─Master_Business_201804: Business Income & work hours
 │      busi_12.sas7bdat
 │      busn_12.sas7bdat
 │      
@@ -62,7 +120,7 @@ categories: []
 │      rst_12.sas7bdat: Roster File 1989-2015
 │      surveys_pub_12.sas7bdat: Survey File 1989-2015
 │      
-├─Master_Income_Categories_201804
+├─Master_Income_Categories_201804: record different categories of income
 │      jobs_12.sas7bdat
 │      oinc_12.sas7bdat
 │      subf_12.sas7bdat
@@ -101,9 +159,9 @@ categories: []
         urban_11.sas7bdat
 ```
 
+`Master_ID_201908/surveys_pub_12` stores the most basic personal data. We use this as the basic individual identification to merge different data sets.
 
-
-`Master_ID_201908/surveys_pub_12`存放了最基本的个人数据，我们以此为基本的个体标识。
+## [ID Variables](https://www.cpc.unc.edu/projects/china/data/documentation/idvar)
 
 ### Household ID (HHID)
 
@@ -118,6 +176,30 @@ The IDind is a twelve-digit numeric variable that uniquely identified for all pa
 A third ID variable, COMMID, is a six-digit numeric variable that uniquely identified each community. The variables T1 through T4 were concatenated to create COMMID. Each COMMID value represented one community. When the unit of analysis for a file was community, 1 COMMID = 1 community = 1 observation. Observations in these files were sorted by COMMID and Wave, i.e., the key sort variables were COMMID and Wave. Although COMMID was not required for most file merges, this variable was included on all data sets to facilitate merges with community-level files.
 
 When the unit of analysis was something other than individual, household or community (e.g., job, livestock type, food item, health facility), a variable that identified this unit was included on the file (e.g., JOB, F11, FOODCODE, Q1). For the files/tables where job was the unit of analysis, for example, each value of the variable JOB represented one occupation. That is, 1 JOB = 1 row = 1 occupation = 1 observation. Observations in these files were sorted by HHID, LINE, and JOB, i.e., the key sort variables were HHID, LINE, and JOB.
+
+## Biomarker Data
+
+The biomarker data collected in CHNS 2009 involves the release of 26 fasting blood measures on individuals aged 7 and older. This included major cardiovascular biomarkers (lipids, diabetes such as HbA1c, glucose, insulin, triglycerides, CRP) and important nutrition biomarkers (transferrin, hemoglobin, and ferritin).  An overview of some of the key results was published in: Yan, Shengkai, J. Li, S. Li, B. Zhang, S. Du, P. Gordon-Larsen, L. Adair, B.M. Popkin (2012) The expanding burden of cardiometabolic risk in China: the China Health and Nutrition Survey. [Obesity Reviews 13 (9): 810-21. ](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-789X.2012.01016.x/pdf)PMCID: PMC3429648. 
+
+The full documentation of the collection and laboratory measurement are also placed as documents online:
+
+- Protocols used to collect and process blood samples are available [here](https://www.cpc.unc.edu/projects/china/data/datasets/Blood Collection Protocol_English.pdf).
+- A list of biomarkers and methods used to measure them is available [here](https://www.cpc.unc.edu/projects/china/data/datasets/Biomarker_Methods.pdf).
+- Codebook of the biomarker dataset is available [here](https://www.cpc.unc.edu/projects/china/data/datasets/C10BIOMARKER.pdf).
+
+## Economic related data
+
+Master_Asset_201804: mainly record what they have in home
+
+Master_Agriculture_201804: Agriculture income, work hours, and cost
+
+Master_Business_201804:  Business Income & work hours
+
+Master_Income_Categories_201804: record different categories of income
+
+Master_Constructed_Income_201804: summary of different kind of income 
+
+## Appendix: some variable frequency statistics
 
 ### Province
 
@@ -155,7 +237,7 @@ When the unit of analysis was something other than individual, household or comm
 | 11   | Man         | 890       | 2       |
 | 12   | Dong        | 14        | 0.03    |
 
-Education
+### Education
 
 | ID   | Education                      | Frequency | Percent |
 | ---- | ------------------------------ | --------- | ------- |
@@ -169,7 +251,7 @@ Education
 | 6    | Master's degree or higher      | 192       | 0.14    |
 | 9    | Unknown                        | 152       | 0.11    |
 
-MARITAL STATUS
+### MARITAL STATUS
 
 | ID        | MARITAL STATUS              | Frequency | Percent |
 | --------- | --------------------------- | --------- | ------- |
@@ -181,7 +263,7 @@ MARITAL STATUS
 | 4         | Widowed                     | 7269      | 4.03    |
 | 5         | Separated                   | 348       | 0.19    |
 
-DOCTOR'S DIAGNOSIS OF ILLENESS/INJURY
+### DOCTOR'S DIAGNOSIS OF ILLENESS/INJURY
 
 | ID   | Disease                           | Frequency | Percent |
 | ---- | --------------------------------- | --------- | ------- |
@@ -212,9 +294,7 @@ DOCTOR'S DIAGNOSIS OF ILLENESS/INJURY
 | 21   | Old age/mid-life syndrome         | 361       | 0.28    |
 | 22   | Other                             | 1815      | 1.42    |
 
-
-
-
+### Disease
 
 | ID   | Disease                           |
 | ---- | --------------------------------- |
@@ -245,7 +325,7 @@ DOCTOR'S DIAGNOSIS OF ILLENESS/INJURY
 | 21   | Old age/mid-life syndrome         |
 | 22   | Other                             |
 
-CURRENT HEALTH STATUS (SELF-REPORT)
+### CURRENT HEALTH STATUS (SELF-REPORT)
 
 | ID   | Type      | Frequency | Percent |
 | ---- | --------- | --------- | ------- |
@@ -256,31 +336,3 @@ CURRENT HEALTH STATUS (SELF-REPORT)
 | 4    | Poor      | 3604      | 3.13    |
 | 5    | Very Poor | 157       | 0.14    |
 | 9    | Unknown   | 301       | 0.26    |
-
-## Biomarker Data
-
-The biomarker data collected in CHNS 2009 involves the release of 26 fasting blood measures on individuals aged 7 and older. This included major cardiovascular biomarkers (lipids, diabetes such as HbA1c, glucose, insulin, triglycerides, CRP) and important nutrition biomarkers (transferrin, hemoglobin, and ferritin).  An overview of some of the key results was published in: Yan, Shengkai, J. Li, S. Li, B. Zhang, S. Du, P. Gordon-Larsen, L. Adair, B.M. Popkin (2012) The expanding burden of cardiometabolic risk in China: the China Health and Nutrition Survey. [Obesity Reviews 13 (9): 810-21. ](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-789X.2012.01016.x/pdf)PMCID: PMC3429648. 
-
-The full documentation of the collection and laboratory measurement are also placed as documents online:
-
-- Protocols used to collect and process blood samples are available [here](https://www.cpc.unc.edu/projects/china/data/datasets/Blood Collection Protocol_English.pdf).
-- A list of biomarkers and methods used to measure them is available [here](https://www.cpc.unc.edu/projects/china/data/datasets/Biomarker_Methods.pdf).
-- Codebook of the biomarker dataset is available [here](https://www.cpc.unc.edu/projects/china/data/datasets/C10BIOMARKER.pdf).
-
-
-
-
-
-
-
-Master_Asset_201804: mainly record what they have in home
-
-## Income
-
-Master_Agriculture_201804: Agriculture income, work hours, and cost
-
-Master_Business_201804:  Business Income & work hours
-
-Master_Income_Categories_201804: record different categories of income
-
-Master_Constructed_Income_201804: summary of different kind of income 
