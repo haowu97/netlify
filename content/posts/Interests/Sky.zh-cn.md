@@ -12,6 +12,8 @@ upd: "是天天啊"
 
 ### 冥想任务
 
+禁阁神坛：禁阁顶层
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210123144.jpg)
 
 ### 收集光芒
@@ -55,6 +57,10 @@ upd: "是天天啊"
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210130204610.jpg)
 
+蜡烛：差115
+
+心：差120
+
 ### 毕业礼物价格
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206115352.jpg)
@@ -63,7 +69,7 @@ upd: "是天天啊"
 
 ## 复刻先祖
 
-![](https://ww2.sinaimg.cn/bmiddle/0087NTXCgy1go02eyqzcej31ps1acb29.jpg)
+![](https://wx1.sinaimg.cn/mw690/0087NTXCgy1godk9o8m3zj31ps1acb29.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210132442.jpg)
 
