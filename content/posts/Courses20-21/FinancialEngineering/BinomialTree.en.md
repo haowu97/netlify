@@ -59,15 +59,15 @@ $$
 - uncertainty: $ (\Omega, \mathcal{F}, \mathbb{P}) $
 
 $$
-\Omega:=\{H, T\}, \quad \omega \in \Omega, \quad \mathcal{F}=\{\{\emptyset\},\{\Omega\},\{H\},\{T\}\}, \mathbb{P}(\{H\})=  1-\mathbb{P}(\{T\})=p<1 
+\Omega:=\{H, T\}, \quad \omega \in \Omega, \quad \mathcal{F}=\{\{\emptyset\},\{\Omega\},\{H\},\{T\}\}, \mathbb{P}(\{H\})=  1-\mathbb{P}(\{T\})=p<1
 $$
 - Derivative: European call option. 
     - $ V_{0}, $ value at $ t=0 $ 
-    - payoff at $ t_{1}=1, V_{1}:=\left(S_{1}-K\right)^{+}=\max \left\{S_{1}-K, 0\right\} $.
+    - payoff at $t_{1}=1, V_{1}:=\left(S_{1}-K\right)^{+}=\max \left\{S_{1}-K, 0\right\}$.
 
 Problem: calculate $ V_{0} ! $
 
-Company C sells a European call option to Company A, and promises that Company A can buy 100 t wheat at K \$t if the wheat price is higher than K \$t. How much should Company A pay for such an option?
+Company C sells a European call option to Company A, and promises that Company A can buy 100 t wheat at K \$ t if the wheat price is higher than K \$t. How much should Company A pay for such an option?
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210308182613.png)
 
