@@ -8,7 +8,7 @@ description: ""
 upd: "本篇主要来自于《高级公司金融》课堂所学，如有谬误，欢迎指正。同时参考了徐高老师的《金融经济学二十五讲》，微信搜索公众号`PurePlay`，后台回复`金融经济学二十五讲`即可获取高清电子版。"
 
 tags: ['笔记']
-categories: []
+categories: ['公司金融']
 
 math: true
 ---
@@ -90,13 +90,13 @@ $$
 
 接下来是消费决策，通过点$A$做所作的切线就是消费可能性曲线，切线上的点可以通过借贷的方式实现，事实上也就是消费者的预算约束线。预算约束线与效用无差异曲线的**切点$B$即为最优的消费点**。
 
-![](https://upload-images.jianshu.io/upload_images/20447423-9401f34297e59060.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210311104217.png)
 
 ## 评价
 
 **费雪分离定理的关键假设在于完美资本市场(PCM)**，包括无交易成本、信息完全对称、市场完全竞争等，是一个非常强的假设。例如，**PCM中存贷利率必然相等，然而现实中往往不相等**，而利率的不同会导致存款者与贷款者存在不同的最优投资决策，这时投资决策便不能与消费决策分离。
 
-![](https://upload-images.jianshu.io/upload_images/20447423-4115657906c56f80.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210311104326.png)
 
 当资本市场完善时，投资仅承担扩大财富的功能，而要满足消费者不同的跨期偏好，通过资本市场借贷即可实现任意的财富跨期转移；**当资本市场不完善时，投资也需要承担一定的财富跨期转移功能，此时不同的跨期偏好就会导致不同的投资决策**。
 
