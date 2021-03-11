@@ -1,7 +1,7 @@
-baseURL = "http://wuhao.ink/"
+baseURL = "https://henrywu97.github.io/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 # theme
 # 主题
 theme = "uBlogger"
@@ -11,7 +11,7 @@ themesDir = "themes/"
 
 # website title
 # 网站标题
-title = "天天"
+title = "Henry Wu"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -65,14 +65,14 @@ enableEmoji = true
         url = "/categories/"
         title = ""
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
+      # [[languages.en.menu.main]]
+      #   identifier = "documentation"
+      #   pre = ""
+      #   post = ""
+      #   name = "Docs"
+      #   url = "/categories/documentation/"
+      #   title = ""
+      #   weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -80,15 +80,15 @@ enableEmoji = true
         name = "About"
         url = "/about/"
         title = ""
-        weight = 5
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/upagge/ublogger"
+        url = "https://github.com/henrywu97"
         title = "GitHub"
-        weight = 6
+        weight = 5
     [languages.en.params]
       # site description
       description = "About uBlogger Theme"
@@ -141,9 +141,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = "uBlogger | Hugo Theme"
+          title = "Henry Wu's Blog"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Stay hungry, stay foolish"
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -225,68 +225,203 @@ enableEmoji = true
           prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
-    weight = 2
-    title = "我的全新 Hugo 网站"
+	  weight = 2
+    title = "吴昊"
     # language code, CN only here
     languageCode = "zh-CN"
     languageName = "简体中文"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = true
-    [[languages.zh-cn.menu.main]]
-      identifier = "posts"
-      pre = ""
-      post = ""
-      name = "文章"
-      url = "/posts/"
-      title = ""
-      weight = 1
-    [[languages.zh-cn.menu.main]]
-      identifier = "tags"
-      pre = ""
-      post = ""
-      name = "标签"
-      url = "/tags/"
-      title = ""
-      weight = 2
-    [[languages.zh-cn.menu.main]]
-      identifier = "categories"
-      pre = ""
-      post = ""
-      name = "分类"
-      url = "/categories/"
-      title = ""
-      weight = 3
-    [[languages.en.menu.main]]
-        identifier = "documentation"
+    [languages.zh-cn.menu]
+      [[languages.zh-cn.menu.main]]
+        identifier = "posts"
         pre = ""
         post = ""
-        name = "文档"
-        url = "/categories/documentation/"
+        name = "文章"
+        url = "/posts/"
         title = ""
-        weight = 4
-      [[languages.en.menu.main]]
+        weight = 1
+      [[languages.zh-cn.menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "标签"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.zh-cn.menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "分类"
+        url = "/categories/"
+        title = ""
+        weight = 3
+      # 添加分类跳转链接时使用
+      # [[languages.zh-cn.menu.main]]
+      #   identifier = "documentation"
+      #   pre = ""
+      #   post = ""
+      #   name = "文档"
+      #   url = "/categories/documentation/"
+      #   title = ""
+      #   weight = 4
+      [[languages.zh-cn.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
         name = "关于"
         url = "/about/"
         title = ""
-        weight = 5
-      [[languages.en.menu.main]]
+        weight = 4
+      [[languages.zh-cn.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
         url = "https://github.com/henrywu97"
         title = "GitHub"
-        weight = 6
-
+        weight = 5
+    [languages.zh-cn.params]
+      # site description
+      description = "About uBlogger Theme"
+      # site keywords
+      keywords = ["Theme", "Hugo"]
+      # App icon config
+      [languages.zh-cn.params.app]
+        # optional site title override for the app when added to an iOS home screen or Android launcher
+        title = "uBlogger"
+        # whether to omit favicon resource links
+        noFavicon = false
+        # modern SVG favicon to use in place of older style .png and .ico files
+        svgFavicon = ""
+        # Android browser theme color
+        themeColor = "#ffffff"
+        # Safari mask icon color
+        iconColor = "#5bbad5"
+        # Windows v8-10 tile color
+        tileColor = "#da532c"
+      # Search config
+      [languages.zh-cn.params.search]
+        enable = true
+        # type of search engine ("lunr", "algolia")
+        type = "algolia"
+        # max index length of the chunked content
+        contentLength = 4000
+        # placeholder of the search bar
+        placeholder = ""
+        # max number of results length
+        maxResultLength = 10
+        # snippet length of the result
+        snippetLength = 30
+        # HTML tag name of the highlight part in results
+        highlightTag = "em"
+        # whether to use the absolute URL based on the baseURL in search index
+        absoluteURL = false
+        [languages.zh-cn.params.search.algolia]
+          index = "index.en"
+          appID = "PASDMWALPK"
+          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+      # Home page config
+      [languages.zh-cn.params.home]
+        # amount of RSS pages
+        rss = 10
+        # Home page profile
+        [languages.zh-cn.params.home.profile]
+          enable = true
+          # Gravatar Email for preferred avatar in home page
+          gravatarEmail = ""
+          # URL of avatar shown in home page
+          avatarURL = "/images/avatar.png"
+          # title shown in home page (HTML format is supported)
+          title = "吴昊的博客"
+          # subtitle shown in home page (HTML format is supported)
+          subtitle = "学习强国"
+          # whether to use typeit animation for subtitle
+          typeit = false
+          # whether to show social links
+          social = true
+          # disclaimer (HTML format is supported)
+          disclaimer = ""
+        # Home page posts
+        [languages.zh-cn.params.home.posts]
+          enable = true
+          # special amount of posts in each home posts page
+          paginate = 6
+      # Social config in home page
+      [languages.zh-cn.params.social]
+        GitHub = "xxxx"
+        Linkedin = ""
+        Twitter = "xxxx"
+        Instagram = "xxxx"
+        Facebook = "xxxx"
+        Telegram = "xxxx"
+        Medium = ""
+        Gitlab = ""
+        Youtubelegacy = "xxxx"
+        Youtubecustom = ""
+        Youtubechannel = ""
+        Tumblr = ""
+        Quora = ""
+        Keybase = ""
+        Pinterest = ""
+        Reddit = ""
+        Codepen = ""
+        FreeCodeCamp = ""
+        Bitbucket = ""
+        Stackoverflow = ""
+        Weibo = ""
+        Odnoklassniki = ""
+        VK = ""
+        Flickr = ""
+        Xing = ""
+        Snapchat = ""
+        Soundcloud = ""
+        Spotify = ""
+        Bandcamp = ""
+        Paypal = ""
+        Fivehundredpx = ""
+        Mix = ""
+        Goodreads = ""
+        Lastfm = ""
+        Foursquare = ""
+        Hackernews = ""
+        Kickstarter = ""
+        Patreon = ""
+        Steam = ""
+        Twitch = ""
+        Strava = ""
+        Skype = ""
+        Whatsapp = ""
+        Zhihu = ""
+        Douban = ""
+        Angellist = ""
+        Slidershare = ""
+        Jsfiddle = ""
+        Deviantart = ""
+        Behance = ""
+        Dribbble = ""
+        Wordpress = ""
+        Vine = ""
+        Googlescholar = ""
+        Researchgate = ""
+        Thingiverse = ""
+        Devto = ""
+        Gitea = ""
+        XMPP = ""
+        Matrix = ""
+        Bilibili = ""
+        Email = "xxxx@xxxx.com"
+        RSS = true
+        [languages.zh-cn.params.social.Mastodon]
+          id = "@xxxx"
+          prefix = "https://mastodon.technology/"
 
 [params]
   # uBlogger theme version
   version = "1.3.X"
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = "https://github.com/upagge/dolboblog-theme"
@@ -317,7 +452,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "uBlogger"
+      name = "Henry Wu"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
@@ -346,7 +481,7 @@ enableEmoji = true
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2021
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -514,19 +649,19 @@ enableEmoji = true
       copy = true
       # the maximum number of lines of displayed code by default
       # 默认展开显示的代码行数
-      maxShownLines = 10
+      maxShownLines = 100
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
     [params.page.math]
-      enable = false
+      enable = true
       # default block delimiter is $$ ... $$ and \\[ ... \\]
       # 默认块定界符是 $$ ... $$ 和 \\[ ... \\]
-      blockLeftDelimiter = ""
-      blockRightDelimiter = ""
+      blockLeftDelimiter = "$$"
+      blockRightDelimiter = "$$"
       # default inline delimiter is $ ... $ and \\( ... \\)
       # 默认行内定界符是 $ ... $ 和 \\( ... \\)
-      inlineLeftDelimiter = ""
-      inlineRightDelimiter = ""
+      inlineLeftDelimiter = "$"
+      inlineRightDelimiter = "$"
       # KaTeX extension copy_tex
       # KaTeX 插件 copy_tex
       copyTex = true
@@ -739,12 +874,12 @@ enableEmoji = true
   # 目录设置
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 6
+    endLevel = 4
 
 # Author config
 # 作者配置
 [author]
-  name = ".en"
+  name = "天天.zh-cn"
 
 # Sitemap config
 # 网站地图配置
