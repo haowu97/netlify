@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "Advanced Derivatives Analysis"
 date: 2021-03-04T10:30:57+08:00
 lastmod: 2021-03-05T10:30:57+08:00
 draft: true
@@ -11,7 +11,17 @@ tags: []
 categories: []
 ---
 
-Advanced Derivatives Analysis
+Homework 1
+
+[上期所](http://www.shfe.com.cn/) 能源化工7种
+
+请各组就自己分配的期货（期权）品种收集和整理各品种的**合约条款和交易规则**。通过此练习尽快熟悉各大交易所的期货和期权品种。
+
+下周二上课前提交电子版给：hanqian@xmu.edu.cn, 邮件标题请注明组别和
+
+负责的品种。
+
+
 
 Lectures recorded and posted online @ 9am every Monday and Wednesday
 
@@ -73,3 +83,4 @@ Grading Policy：一周内提供分组，所有作业都以分组形式完成
 - John Hull, Futures, Options and Other Derivatives, 10 ed.
 - 韩乾、薛晓明译，《金融衍生品：资本、货币与竞争》，北京大学出版社，2020 年：从人文科学角度来理解衍生品
      https://weidian.com/item.html?itemID=3346629674&spider_token=88ca
+

@@ -77,14 +77,12 @@ $$
 
 在确定了最优投资$I_{0}^{*}$之后，通过以下最大化问题求出最优消费即可。
 
-<div>
 $$
 \begin{align}
 \operatorname{Max}_{\{C_0,C_1\}} \quad &\mu\left(C_{0}\right)+\beta \mu\left(C_{1}\right)\\ 
 \text {s.t.} \quad & C_0+\frac{C_1}{1+r} \leqslant y_{0}+\left(\frac{\gamma \phi\left(I_{0}^{*}\right)}{1+r}-I_{0}^{*}\right)
 \end{align}
 $$
-<div>
 
 ## 图解
 
