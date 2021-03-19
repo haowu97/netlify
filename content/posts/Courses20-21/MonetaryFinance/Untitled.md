@@ -32,3 +32,32 @@ In chapter 3, i = 0 need $g_m = 0$ mean that money is enough to make
 CIA
 
 资本市场先开放的话，则只需要准备购买商品所需的货币即可。
+
+With $ g_{m} \leq 0, v_{l} g_{m}=V_{a} w g_{m} $ is the value in utility terms of the shopping time savings that results from additional holdings of real money balances. Equations (3.5) and (3.8) imply that money will be held to the point where the marginal net benefit, equal to the value of shopping time savings plus the discounted value of money's wealth value in the next period, $ 0 \mathrm{r}-v_{1} \mathrm{~g}_{\mathrm{m}}+\beta \mathrm{V}_{a}\left(a_{\mathrm{l}+1}, \mathrm{k}_{t}\right) /\left(1+\pi_{t+1}\right) $, just equals the
+net marginal utility of wealth. The first-order condition for optimal money holdings, together with (3.7) and (3.8) , implies
+
+
+
+
+
+
+$$
+-v_{l} g_{m}=V_{a}\left(a_{t}, k_{t-1}\right)\left(\frac{i_{t}}{1+i_{t}}\right)
+$$
+where $ i_{t} $ is the nominal rate of interest and, using (3.7) and (3.8) ,
+$ \frac{V_{a}\left(a_{t+1}, k_{t}\right)}{V_{a}\left(a_{t}, k_{t-1}\right)}=\frac{1+\pi_{t+1}}{1+i_{t}} $
+$$
+\begin{array}{l}
+-w_{t} g_{m}=\frac{i_{t}}{1+i_{t}} \\
+\qquad-w_{t} g_{m}=\frac{i_{t}}{1+i_{t}}
+\end{array}
+$$
+
+
+
+
+- When we assume that transaction costs take the form of
+real resources that are used up in the process of
+exchange, the household's budget constraint (3.18) then
+$ f\left(k_{t-1}\right)+(1-\delta) k_{t-1}+\tau_{t}+\left(1+r_{t-1}\right) b_{t-1}+\frac{m_{t-1}}{1+\pi_{t}} \geq c_{t}+m_{t}+b_{t}+k_{t}+\Upsilon\left(c_{t}, m_{t}\right) $
+transaction cost term $ \Upsilon $ depends on $ \mathrm{c} $ and $ \mathrm{m} $

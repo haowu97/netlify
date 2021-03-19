@@ -31,7 +31,7 @@ categories: []
 
 报错：failed  to launch Picgo App，可能是因为App路径中存在空格等不被识别的路径字符，**建议安装在没有空格的路径下**
 
-Failed to fetch，解决方法：打开picgo设置，点击设置Server选项，将端口改为36677端口，这是picgo推荐的默认端口号。
+Failed to fetch，解决方法：打开picgo设置，点击设置Server选项，将端口改为36677端口，这是picgo推荐的默认端口号。注意如果更新了picgo之后，也需要重新设置端口为36677.
 
  图片不显示 Package size exceeded the configured limit of 50 MB问题解决方案：
 

@@ -1,3 +1,5 @@
+
+
 Delta - sensitivity of (option) price to small changes in price of underlying asset
 
 Gamma - sensitivity of (option) price to large changes in price of underlying asset
@@ -29,7 +31,7 @@ Dela在期权套期保值交易中有很重要的应用，被称为Dela对冲交
 
 折线为期权的内在价值，红色虚线是期权的价值，蓝色阴影部分是期权的时间价值。其中，看跌期权的时间价值可能为负(e.g.当看跌期权已经实现最大收益时，图中为50，提前行权是最佳选择)。
 
-理论上看涨期权的时间价值总为正，因此不可能提前行权。然而实际中并非如此，当期权价格低于内在价值时，大多数投资者将提前行权，详细阅读[美国期权投资者是否理性行权？](https://mp.weixin.qq.com/s/5cYLUxpaNrYZkMxFrtAsWQ)，
+理论上看涨期权的时间价值总为正，因此不可能提前行权。然而实际中并非如此，当期权价格低于内在价值时，大多数投资者将提前行权，详细阅读[美国期权投资者是否理性行权？](https://mp.weixin.qq.com/s/5cYLUxpaNrYZkMxFrtAsWQ)
 
 Delta值即红色虚线的斜率。
 
@@ -39,9 +41,11 @@ Delta的取值范围在-1与1之间
 - 解释：由于看涨期权价格与标的物价格成正向关系，即期权价格与期权标的物价格关系曲线的斜率为正，我们说过 Delta本质上就是斜率，所以看张期权的 Delta为正。
 - 注：我们这是所说的 Delta为正是指看涨期权多头，如果是看涨期权空头，则 Delta为负！
 
-深度实值期权几乎等价于持有股票
+深度实值期权几乎等价于持有股票，因此期权交易者经常构建深度实值看涨期权以此替代现货多头头寸(多头替代)，相比于直接持有股票，需要的资金量更少，例如，公募基金经常使用该方法流出资金应对赎回需求。
 
 平值期权的德尔塔接近于0.5
+
+证明：
 
 以European Call Option为例，可以证明： ATMS Call Option的Delta接近于0.5, 且与ATMS Call Option相比，ATMF(at the money forward) Call Option的Delta更接近于0.5。
 $$
@@ -85,9 +89,9 @@ $$
 
 ## Gamma
 
-Gamma: curvature
+Gamma:衡量期权Delta相对于标的资产价格的变化率，也即期权理论价值对标的资产价格的二阶导数(curvature)。
 $$
-\Gamma = \frac{\partial c}{\partial^2 S^2} = \frac{\partial \Delta}{\partial S} 
+\Gamma = \frac{\partial p}{\partial^2 S^2} = \frac{\partial \Delta}{\partial S}
 $$
 从图形上容易得到，看涨、看跌期权的Gamma值都是正值。
 
@@ -96,9 +100,91 @@ $$
 - 深度虚值与深度实值的Delta值随标的资产变化均不大，因此Gamma接近于0，并且随着到期日临近，Gamma越来越接近于0(红色虚线越来越接近蓝色折线)；
 - 平值期权的Gamma最大，并且随着到期日临近，Gamma越来越大(红色虚线越来越接近蓝色折线)
 
-波动率变大，红色虚线上移，平值期权的Gamma变小，深度虚值与深度实值的Gamma变大，当波动率非常大时，三者的Gamma趋同
+| 看涨期权                                                     | 看跌期权                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210316092434.png) | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210316092532.png) |
+
+看涨期权多头Gamma随资产价格变化
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318082008.png)
+
+看涨期权多头Gamma随到期日变化
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318081912.png)
+
+看涨期权多头Gamma随波动率变化：波动率变大，红色虚线上移，平值期权的Gamma变小，深度虚值与深度实值的Gamma变大，当波动率非常大时，三者的Gamma趋同
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318082602.png)
+
+### 美国散户逼空Gamestock事件：Gamma squeeze
+
+散户除了买入GME股票外，还买入大量以GME股票为标的的看涨期权(美国存在对应的个股期权)。
+
+做市商为了提供流动性，因此大量卖出看涨期权，同时为了实现Delta对冲，做市商不断买入GME股票，推动了股价上涨。
+
+Gamma squeeze: 随着标的股价S上涨，由于Gamma>0，Delta越来越大，Delta对冲需要购买的GME股票越来越多，进一步加速股价的上涨。
+
+最后券商暂停散户交易。
+
+【练习】期权交易者经常构建深度实值看涨期权以此代替现货多头头寸。假如我们买入10手行权价格为50元的看涨期权，德尔塔为1.0，现货股票价格为75元。试问：如果股票价格下跌20元，下面哪一个是正确的？
+
+1. 期权交易将比1000股股票损失得更多；
+2. 期权交易将比1000股股票损失得更少；
+3. 两者都损失20000元。
+
+注：一手期权对应100股
+
+由于Gamma>0，因此随着价格下降Delta会减小，从而对股价下跌更不敏感，因此期权损失更少，选1。
+
+## Theta
+
+Theta衡量期权理论价值因为时间流逝而贬值的速度，是期权关于时间的风险度量指标
+$$
+Theta = \frac{\partial p}{\partial T}
+$$
+期权多头Theta<0，期权空头Theta>0。
+
+Theta绝对值越大，表明期权价格的时间衰减速度越快！
+
+随着到期日临近，期权价值都会降低，其中平值期权本身的时间价值最大(蓝色阴影部分最高)，因此贬值速度也最快，特别是在期权到期的一个月内，期权价值会迅速下降；其次是实值期权对时间变化较为敏感，最不敏感的是虚值期权。
 
 | 看涨期权                                                     | 看跌期权                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210316092434.png) | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210316092532.png) |
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318165503.png)
+
+Theta关于价格的分布是非对称的，随着期权存续期的增加，这种敏感度的不对称性越大。
+
+| T = 0.01                                                     | T = 1                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318170900.png) | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318173855.png) |
+
+Theta随到期日变化，实值与虚值期权Theta临近到期日都趋向于0，而平值期权Theta的绝对值越来越大。
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210318170408.png)
+
+Theta随波动率变化，波动率越大，Theta的绝对值均越来越大。
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318173654.png)
+
+【练习】估计看涨期权价格：S = 100, K = 100, T = 7, r = 0.015, 波动率 = 75%, Theta = -0.3
+
+解：在距离期权的到期的一个月内，Theta的平均值是初始值的两倍，因此平均$\bar{Theta} = -0.6$，最后在到期时平值期权的价值变为0，因此期权价值大约为 $7 \times|-0.6| +0= 4.2$，通过BS公式计算的价格为4.18
+
+## Vega
+
+Vega是期权价值变动与波动率变动的比值：
+
+
+$$
+Vega = \frac{\partial c}{\partial \sigma}
+$$
+期权多头的Vega值总为正，空头则为负。
+
+Vega随标的资产价格变化：平值期权的Vega值最大，实值/虚值程度越大Vega越小。
+
+
+
+平值期权与波动率线性相关，即Vega为常数
 
