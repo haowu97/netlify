@@ -125,7 +125,7 @@ No-arbitrage & Risk-neutral
 - It implies that the investor does not have to take risk into account if perfect hedge is allowed.
 - The investor actually is risk-neutral in this setting, requiring no risk premium.
 - In complete market (perfect hedge), risk-neutral probability is unique, vise versa.
-- Option pricing in incomplete market is much difficult.
+- Option pricing in incomplete market is much difficult.提前执行
 
 ## Multi-period Binomial tree
 
