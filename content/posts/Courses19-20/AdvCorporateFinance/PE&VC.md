@@ -113,3 +113,12 @@ In busts/high interest environments investment discipline “too strict”:
 - Signs of ”underinvestment”:
     - GPs complain that banks don’t lend even when they have good deals
     - Deals that do get made have high returns
+
+### Implication for China issue/ Topics worth studying
+
+- Cash reserve of SOEs vs. non-SOEs
+- stock repurchase waves: Nearly half of listed companies have recovered their equity through stock repurchase, the IPO market is also shrinking.
+- Investing strategies PE firms in China: foreign vs. domestic
+- The engagement of PE funds in the stock market: Why some of PE participate in public stock market investment instead of private equity investment.
+- Revolving credit line of Chinese listed firms: Set a debt limit, as long as it does not exceed the limit, you can continue to borrow.
+- PE-backed M&As: selection or better governance?
