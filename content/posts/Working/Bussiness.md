@@ -68,10 +68,19 @@ Non-fiction: 计量分析
 
 大仙贝：Globalisat'n & World Economy, Statistics for Business & Econ, Info Systems for Management
 
-艺林：
+艺林：[课程网站](http://canvas.sydney.edu.au)
 
 - 金融经济学(0434, 0521)
 - 国际金融(0419)
+
+基础经济数学(1200)
+
+|              | Will  be Posted on | Due  Date |
+| ------------ | ------------------ | --------- |
+| First  Quiz  | March  18          | March  25 |
+| Second  Quiz | April  1           | April  15 |
+| Third  Quiz  | April  29          | May  6    |
+| Fourth  Quiz | May  27            | June  3   |
 
 
 
