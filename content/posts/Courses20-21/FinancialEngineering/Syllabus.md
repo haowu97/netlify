@@ -8,8 +8,14 @@ description: ""
 upd: ""
 
 tags: []
-categories: []
+categories: 
 ---
+
+Homework 3
+
+构建交易策略，跟踪交易策略，汇报交易情况，对应的措施，风险管理方法
+
+[真格量化](https://quant.pobo.net.cn/login)：期货期权模拟实盘
 
 Homework 1
 

@@ -68,7 +68,7 @@ Non-fiction: 计量分析
 
 大仙贝：Globalisat'n & World Economy, Statistics for Business & Econ, Info Systems for Management
 
-艺林：[课程网站](http://canvas.sydney.edu.au)
+艺林：[课程网站](http://canvas.sydney.edu.au)，密码Usyd2019
 
 - 金融经济学(0434, 0521)
 - 国际金融(0419)
@@ -82,8 +82,9 @@ Non-fiction: 计量分析
 | Third  Quiz  | April  29          | May  6    |
 | Fourth  Quiz | May  27            | June  3   |
 
-
-
 关注：国际金融、衍生品、金融经济学、简单的计量统计分析
 
 TOkU6Ultt
+
+Large-Cap Stock
+
