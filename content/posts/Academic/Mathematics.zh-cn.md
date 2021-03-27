@@ -13,6 +13,12 @@ categories: []
 
 
 
+贝尔曼方程(Bellman Equation)
+
+值函数(value funciton)
+
+横截面条件(transversality conditions)
+
 [学习经济要达到怎样的数学水平？](https://www.zhihu.com/question/19956188)
 
 [学习经济学和金融学要达到怎样的数学水平？](https://www.sohu.com/a/161127896_776836)
