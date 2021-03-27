@@ -63,7 +63,7 @@ $$
 \max _{x} f(x) \text { subject to } g^{j}(x)=c_{j} \text { for } j=1, \ldots, m
 $$
 
-### .1.2.1 Lagrange method: constrained $\Rightarrow$ unconstrained
+### 1.2.1 Lagrange method: constrained $\Rightarrow$ unconstrained
 
 Transform the constrained problem into an unconstrained problem with $m$ more variables
 $$

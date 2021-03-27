@@ -1,14 +1,15 @@
+---
+title: "希腊字母"
+date: 2021-03-27T11:07:06+08:00
+lastmod: 2021-03-28T16:07:06+08:00
+draft: false
 
+description: ""
+upd: "期权对应希腊字母的定义、性质、实际交易中的应用"
 
-Delta - sensitivity of (option) price to small changes in price of underlying asset
-
-Gamma - sensitivity of (option) price to large changes in price of underlying asset
-
-Rho - sensitivity of (option) price to interest rates
-
-Vega - sensitivity of (option) price to volatility
-
-Theta - time decay of portfolio value, holding everything else constant
+tags: ['笔记']
+categories: ['金融工程']
+---
 
 ## Delta（德尔塔）
 
@@ -91,9 +92,9 @@ $$
 
 Gamma:衡量期权Delta相对于标的资产价格的变化率，也即期权理论价值对标的资产价格的二阶导数(curvature)。
 $$
-\Gamma = \frac{\partial p}{\partial^2 S^2} = \frac{\partial \Delta}{\partial S}
+\Gamma = \frac{\partial V}{\partial^2 S^2} = \frac{\partial \Delta}{\partial S}
 $$
-从图形上容易得到，看涨、看跌期权的Gamma值都是正值。
+从图形上容易得到，**看涨、看跌期权的Gamma值都是正值**。
 
 通过对Put-call parity两边求两次导数，易得看涨、看跌期权的Gamma值必须相等
 
@@ -140,7 +141,7 @@ Gamma squeeze: 随着标的股价S上涨，由于Gamma>0，Delta越来越大，D
 
 Theta衡量期权理论价值因为时间流逝而贬值的速度，是期权关于时间的风险度量指标
 $$
-Theta = \frac{\partial p}{\partial T}
+Theta = \frac{\partial V}{\partial T}
 $$
 期权多头Theta<0，期权空头Theta>0。
 
@@ -178,67 +179,100 @@ Vega是期权价值变动与波动率变动的比值：
 
 
 $$
-Vega = \frac{\partial c}{\partial \sigma}
+Vega = \frac{\partial V}{\partial \sigma}
 $$
 期权多头的Vega值总为正，空头则为负。
 
 Vega随标的资产价格变化：平值期权的Vega值最大，实值/虚值程度越大Vega越小。
 
+![image-20210327100634553](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210327100651.png)
 
-
-平值期权与波动率线性相关，即Vega为常数
+平值期权与波动率线性相关
 
 $$
-V = 0.4 \times S \sigma \sqrt{T} \\
-Vega = 0.4 \times S \sqrt{T}
+\begin{aligned}
+V&=S N(d 1)-K e^{-r \tau} N(d 2) \\
+&=S N(d 1)-S e^{-r T} N(d 2) \\
+&\approx S(N(d 1)-N(d 2))\\
+&=S N^{\prime}(\xi)(d 1-d 2) \\
+&= S N^{\prime}(\xi) \sigma * \sqrt{T} \approx \frac{S \sigma \sqrt{T}}{\sqrt{2 \pi}} \approx 0.4 * S \sigma \sqrt{T}
+\end{aligned}
 $$
-注意到，这种线性关用到了拉格朗日中值定理做近似，当$\sqrt{T}$较大时，$d_1-d_2 = \sigma \sqrt{T}$较大，因此近似不准确。
+其中， 第二个等号是因为期权是平值的；第三个等号运用了拉格朗日中值定理，当$\sqrt{T}$较大时，$d_1-d_2 = \sigma \sqrt{T}$较大，因此近似不准确；第一个约等号运用了在无风险利率 r 接近于0时, $ \exp (-r T) $ 约等于1的事实；最后一个约等号运用了$0.4=1 / \text { sqrt }\left(2^{*} p i\right)$。
 
+将上述公式稍微修改一下，就会得到平值期权隐含波动率的估计式:
+隐含波动率约等于
+$$
+\sigma_{IV} =  \frac{2.5V}{S \times \sqrt{T}}
+$$
+同时易得平值期权的Vega为常数
+$$
+Vega \approx 0.4 \times S \sqrt{T}
+$$
 
+Vega与到期日
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210327103631.png)
+
+随着到期日的临近，所有期权的Vega值都减小，波动率对价值的影响越来越弱。这是因为剩下的时间越短，潜在的股票价格变动也会更小。但是，相对于实值期权和虚值期权，平值期权的 Vega更大，并且保持了更长的时间后才逐渐趋于0。
 
 Vega与波动率
 
-波动率 很大时，虚值/实值期权的Vega都接近与平值期权，平值期权的Vega再一个狭窄的范围内波动
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210327103620.png)
 
-波动率增加，Vega变大
-
-Vega与
-
-
-
-隐含波动率起到了非常重要的作用
-
-隐含波动率的预测具有非常大的现实意义
+波动率增加，Vega变大；当波动率很大时，虚值/实值期权的Vega都趋向于平值期权，平值期权的Vega再一个狭窄的范围内波动(与之前的近似推导想相一致)。
 
 【练习】当标的物价格下跌时，市场中经常发生，看涨期权价格保持不变甚至上升的情况，如何解释？
 
-隐含波动率上涨
+当股票价格下跌的时候，尤其当基本面受到较大负面信息冲击时，出于避险需求，看跌期权的价格会被恐慌的投资者迅速推高，这意味着**隐含波动率会急剧上升**，隐含波动率的上升会使看涨期权价值增大。另一方面，根据看跌-看涨期权平价公式，隐含波动率的上升带来的看跌期权价格上涨，也会带动看涨期权的价格上涨。
 
+【练习】同样当标的物价格下跌时，市场中经常发生，看跌期权价格保持不变甚至下降的情况，如何解释？
 
+这个现象也是可能发生的，大部分是因为前期股票的估值过高，后期发生了价格回调。在回调过程中隐含波动率会大幅下降。因此，尽管股票的价格跌了，但是不足以弥补波动率的下降，从而导致看跌期权的价格下跌。这种现象在临近到期的虚值看跌期权中尤为明显。如果在接近期权到期的时候，市场上由于某种利好因素出现短暂高峰，随后因为利好消化结束出现回调，那么隐含波动率就会先出现飙升然后从高点迅速下降，此时看跌期权价格的下降幅度会更突出。
 
-同样当标的物价格下跌时，市场中经常发生，看跌期权价格保持不变甚至下降的情况，如何解释？
+详细阅读[看懂期权市场的实用小贴士](https://mp.weixin.qq.com/s/vJj_pNN73cea-NmOrzyHTQ)
 
-隐含波动率下跌
+扩展阅读[如何看待期权价格暴涨192倍？](https://mp.weixin.qq.com/s/aAtcNXFbuzA7oX25TDUN0w)
 
-[如何看待期权价格暴涨192倍？](https://mp.weixin.qq.com/s/aAtcNXFbuzA7oX25TDUN0w)
+隐含波动率对于期权价格起到了非常重要的作用，隐含波动率的预测具有非常大的现实意义。
 
 ## Rho
 
-Rho发挥的作用较小，通常对于十年以上的交易经验者，Rho才有意义
+Rho定义为期权价格的变化与利率变化之间的比率，用来衡量期权理论价值对利率变动的敏感性
 $$
 Rho = \frac{\partial V}{\partial r}
 $$
 
-## 如何解读希腊字母？
+实值期权Rho值>平值期权Rho值>虚值期权Rho值
 
-Delta中性交易：对于股票涨跌方向不感兴趣，只是看多/看空波动率。
+实值期权意味着融资量大，所以对利率的影响更敏感
 
-例子，做市商在开仓后，希望立即平仓来获取价差收益，为了规避标的价格变动风险，常进行Delta中性交易。
+利率对期权价格的影响通常很小，几乎可以忽略不计
+
+- 对于看涨期权，利率提高意味着初始融资成本下降，所以价值上升，Rho为正值
+- 对于看跌期权，利率提高意味着机会成本增加，所以价值下降，Rho为负值。
+
+Rho发挥的作用较小，通常十年以上的交易经验者才会在实际中运用Rho。
+
+## Delta中性交易
+
+Delta中性交易：对冲掉期权头寸的Delta，是整个资产组合的Delta为0。即对于股票涨跌方向不感兴趣，只是看多/看空波动率。
+
+- 当认为隐含波动率处于低位，且已实现波动率将上升的时候，可以买入期权并做 Delta中性组合——做多波动率
+- 当认为隐含波动率处于高位，且已实现波动率将下降的时候，可以卖出期权并做 Delta中性组合——做空波动率；
+
+做多期权(无论时看涨或者看跌)即做多波动率，因此对冲掉股价变动的损益之后，收益就来源于波动率(未来的实现>当前隐含波动率)。反之，做空期权即做空波动率。
+
+Delta hedge：仅仅对冲掉Delta，成本较低，但随着标的价格变动仍会有所波动。
+
+Delta-Gamma Hedge：同时对冲掉Delta和Gamma，成本更高，对于标的价格变动更不敏感。
+
+【Delta中性交易实例】做市商在开仓后，希望立即平仓来获取价差收益，为了规避标的价格变动风险，常进行Delta中性交易。
+
+- 某做市商为50手XYZ90看涨期权进行双边报价，买入报价为2.75，卖出报价为2.85。
+- 假如此时某交易员以市价报单卖出20手该期权，则做市商面临一定的Delta风险暴露。假设delta=0.45,那么他的交易头寸产生了+900的Delta暴露。为此，他決定卖空900股XYZ股票以构建 Delta中性组合。
+- 接下来，如果该做市商认为隐含波动率会保持不变或有上升，那么他会选择继续持有中性组合，同时等待潜在买方买走手中的20手期权。
+- 但是如果该做市商根据市场情況判断隐含波动率可能下降，那么他会立刻卖出另一个期权来对冲其90看涨期权多头的波动率风险可以看到，无论是投机者还是做市商，影响他们策略的重要因素就是隐含波动率的预测。
 
 《Dynamic Hedge》、《黑天鹅》作者的策略：一直购买深度虚值的看跌期权，大多数时候处于亏损状态，但亏损并不多，深度虚值的看跌期权不值钱；一旦发生黑天鹅事件，则股价将对暴跌，带来巨大收益
 
-Delta hedge：成本较低
-
-Delta-Gamma Hedge：成本更高，对于标的价格变动更不敏感
-
-做多期权(无论时看涨或者看跌)即做多波动率，因此对冲掉股价变动的损益之后，收益就来源于波动率(未来的实现>当前隐含波动率)
