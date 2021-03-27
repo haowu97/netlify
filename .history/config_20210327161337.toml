@@ -1,17 +1,17 @@
-baseURL = "http://wuhao.ink/"
+baseURL = "https://henrywu97.github.io/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
 # theme
 # 主题
-theme = "uBlogger"
+theme = "uBlogger0.62.0"
 # themes directory
 # 主题目录
 themesDir = "themes/"
 
 # website title
 # 网站标题
-title = "PurePlayer"
+title = "Henry Wu"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -226,7 +226,7 @@ enableEmoji = true
 
   [languages.zh-cn]
 	  weight = 2
-    title = "天天"
+    title = "吴昊"
     # language code, CN only here
     languageCode = "zh-CN"
     languageName = "简体中文"
@@ -334,9 +334,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = "uBlogger | Hugo Theme"
+          title = "吴昊的博客"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "学习强国"
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -421,7 +421,7 @@ enableEmoji = true
   # uBlogger theme version
   version = "1.3.X"
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = "https://github.com/upagge/dolboblog-theme"
@@ -452,7 +452,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "uBlogger"
+      name = "Henry Wu"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
@@ -481,7 +481,7 @@ enableEmoji = true
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2021
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -649,19 +649,19 @@ enableEmoji = true
       copy = true
       # the maximum number of lines of displayed code by default
       # 默认展开显示的代码行数
-      maxShownLines = 10
+      maxShownLines = 100
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
     [params.page.math]
-      enable = false
+      enable = true
       # default block delimiter is $$ ... $$ and \\[ ... \\]
       # 默认块定界符是 $$ ... $$ 和 \\[ ... \\]
-      blockLeftDelimiter = ""
-      blockRightDelimiter = ""
+      blockLeftDelimiter = "$$"
+      blockRightDelimiter = "$$"
       # default inline delimiter is $ ... $ and \\( ... \\)
       # 默认行内定界符是 $ ... $ 和 \\( ... \\)
-      inlineLeftDelimiter = ""
-      inlineRightDelimiter = ""
+      inlineLeftDelimiter = "$"
+      inlineRightDelimiter = "$"
       # KaTeX extension copy_tex
       # KaTeX 插件 copy_tex
       copyTex = true

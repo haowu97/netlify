@@ -4,7 +4,7 @@ baseURL = "https://henrywu97.github.io/"
 defaultContentLanguage = "en"
 # theme
 # 主题
-theme = "uBlogger"
+theme = "uBlogger0.62.0"
 # themes directory
 # 主题目录
 themesDir = "themes/"
