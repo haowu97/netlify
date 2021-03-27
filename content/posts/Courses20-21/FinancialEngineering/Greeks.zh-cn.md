@@ -64,12 +64,12 @@ $$
 
 对上面的等式在0处进行Taylor展开， 
 $$
-\begin{aligned}
+\begin{align}
 \Delta_{c a l l}^{A T M F}&=\Phi\left(\frac{\sigma \sqrt{T-t}}{2}\right) \\
 &\approx \Phi(0)+\Phi^{\prime}(0) \frac{1}{2} \sigma \sqrt{T-t}\\
 &=0.5+\frac{1}{\sqrt{2 \pi}} \frac{1}{2} \sigma \sqrt{T-t} \\
 &\approx 0.5+0.1995 \sigma \sqrt{T-1}
-\end{aligned}
+\end{align}
 $$
 接近于0.5。
 
@@ -195,13 +195,13 @@ Vega随标的资产价格变化：平值期权的Vega值最大，实值/虚值�
 平值期权与波动率线性相关
 
 $$
-\begin{aligned}
+\begin{align}
 V&=S N(d 1)-K e^{-r \tau} N(d 2) \\
 &=S N(d 1)-S e^{-r T} N(d 2) \\
 &\approx S(N(d 1)-N(d 2))\\
 &=S N^{\prime}(\xi)(d 1-d 2) \\
 &= S N^{\prime}(\xi) \sigma * \sqrt{T} \approx \frac{S \sigma \sqrt{T}}{\sqrt{2 \pi}} \approx 0.4 * S \sigma \sqrt{T}
-\end{aligned}
+\end{align}
 $$
 其中， 第二个等号是因为期权是平值的；第三个等号运用了拉格朗日中值定理，当$\sqrt{T}$较大时，$d_1-d_2 = \sigma \sqrt{T}$较大，因此近似不准确；第一个约等号运用了在无风险利率 r 接近于0时, $ \exp (-r T) $ 约等于1的事实；最后一个约等号运用了$0.4=1 / \text { sqrt }\left(2^{*} p i\right)$。
 
