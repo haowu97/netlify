@@ -63,14 +63,14 @@ $$
 对于ATMF Call Option, Delta中与无风险利率相关的项进一步被消除。
 
 对上面的等式在0处进行Taylor展开， 
-$$
-\begin{equation}
-\Delta_{c a l l}^{A T M F}=\Phi\left(\frac{\sigma \sqrt{T-t}}{2}\right) \\
-\approx \Phi(0)+\Phi^{\prime}(0) \frac{1}{2} \sigma \sqrt{T-t}\\
-=0.5+\frac{1}{\sqrt{2 \pi}} \frac{1}{2} \sigma \sqrt{T-t} \\
-\approx 0.5+0.1995 \sigma \sqrt{T-1}
-\end{equation}
-$$
+
+\begin{align}
+\Delta_{c a l l}^{A T M F}&=\Phi\left(\frac{\sigma \sqrt{T-t}}{2}\right) \\
+&\approx \Phi(0)+\Phi^{\prime}(0) \frac{1}{2} \sigma \sqrt{T-t}\\
+&=0.5+\frac{1}{\sqrt{2 \pi}} \frac{1}{2} \sigma \sqrt{T-t} \\
+&\approx 0.5+0.1995 \sigma \sqrt{T-1}
+\end{align}
+
 接近于0.5。
 
 德尔塔跟存续期的关系：
