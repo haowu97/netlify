@@ -52,8 +52,6 @@ categories: []
 
 
 
-
-
 平值期权
 
 - $ K = S_t $
