@@ -13,14 +13,19 @@ categories: []
 
 ## 快捷键
 
-| 查找       | `Ctrl + F` |
-| ---------- | ---------- |
-| 查找和替换 | `Ctrl + H` |
-| 偏好设置   | `Ctrl + ,` |
-| 选中当前行 | `Ctrl + L` |
-| 插入正文   | `Ctrl + 0` |
-| 全屏       | `F11`      |
-| 插入链接   | `Ctrl + K` |
+[官方快捷键+自定义快捷键方法](https://support.typora.io/Shortcut-Keys/#change-shortcut-keys)
+
+[设置行内公式快捷键](https://www.jianshu.com/p/4d8f04352dc8)
+
+| 查找       | `Ctrl + F`       |
+| ---------- | ---------------- |
+| 查找和替换 | `Ctrl + H`       |
+| 偏好设置   | `Ctrl + ,`       |
+| 选中当前行 | `Ctrl + L`       |
+| 插入正文   | `Ctrl + 0`       |
+| 全屏       | `F11`            |
+| 插入链接   | `Ctrl + K`       |
+| 行内代码   | Ctrl + Shift + ` |
 
 ## 其他
 

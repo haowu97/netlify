@@ -64,6 +64,8 @@ upd: ""
 
 3月20日, 11:00-13:00
 
+4月10号，周六 11点到1点  考75分钟
+
 Non-fiction: 计量分析
 
 大仙贝：Globalisat'n & World Economy, Statistics for Business & Econ, Info Systems for Management

@@ -24,7 +24,7 @@ Public equity: Stock market listed companies
 
 Public equity is liquid, ownership is dispersed, valuation is relatively easy, intermediaries are large, finance is often divorced from control and mentoring. 
 
-### The investment cycle
+## The investment cycle
 
 There is lots of rather specialised language associated with private equity: general partners, limited partners, committed capital, draw downs, gatekeepers, carried interest, vintages, hurdle rate, co-investment, fund-of-funds, follow-on-fund …
 
@@ -43,7 +43,7 @@ Deals got very large: US hospitals group HCA was acquired in November 2006 for \
 
 Blackstone agreed to acquire Chicago-based office building manager Equity Office Properties Trust for $36 billion in late November 2006. This is more of a real estate deal, but shows that the big PE groups are diversifying across the range of alternative asset classes.
 
-### How are funds structured?
+## How are funds structured?
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210318201259.png)
 
@@ -68,7 +68,7 @@ How does a private equity deal work?
 - Fund holds firm for 2-10 years, then exits
     - IPO, trade sale, secondary, liquidation
 
-### Fees and performance measures
+## Fees and performance measures
 
 LPs contribute capital for “pool” of future investments
 
@@ -98,7 +98,7 @@ Example:
 - GP: get \$10B*2% = 0.2B
 - If the final value of portfolio firm arrive at \$98B, then GP get $ 20\% \times (98B-9.8B)$, LP get $ 20\% \times (98B-9.8B)$.
 
-### Cyclical Market
+## Cyclical Market
 
 A common observation about the PE Industry: The market is incredibly cyclical
 
@@ -114,7 +114,7 @@ In busts/high interest environments investment discipline “too strict”:
     - GPs complain that banks don’t lend even when they have good deals
     - Deals that do get made have high returns
 
-### Implication for China issue/ Topics worth studying
+## Implication for China issue/ Topics worth studying
 
 - Cash reserve of SOEs vs. non-SOEs
 - stock repurchase waves: Nearly half of listed companies have recovered their equity through stock repurchase, the IPO market is also shrinking.
