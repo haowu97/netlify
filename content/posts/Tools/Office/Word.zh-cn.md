@@ -16,3 +16,7 @@ categories: []
 [解决粘贴图片到Word中显示不全](https://jingyan.baidu.com/article/a65957f43b280124e77f9b5d.html)
 
 [Word中插入的图片如何修改默认的环绕方式？](https://jingyan.baidu.com/article/f79b7cb3217bf49144023ec4.html)
+
+[取消限制编辑保护](https://jingyan.baidu.com/article/6c67b1d651d2692787bb1e86.html)
+
+[目录格式调整](https://blog.csdn.net/Kyrie001/article/details/80368778)
