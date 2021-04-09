@@ -17,9 +17,9 @@ Abstract
 
 Keywords
 
-Introduction
+### Introduction
 
-1. Question
+1. Question: important question
 2. Previous literature
 3. Puzzles(weakness of prior)
 4. In this paper, I do sth
@@ -32,21 +32,52 @@ Introduction
 
 Literature review: Two or three related fields
 
-(Hypothesis development)
+### (Hypothesis development)
 
-- In most cases, we don't have hypothesis before
+In most cases, we don't have hypothesis before
 
-Data & Sample
+Literature review
 
-Methodology
+- find closest literature about your topic
 
-Empirical Research
+Hypothesis
+
+- Baseline argument
+- mechanism behind baseline: use sub-sample/ under some condition
+    - In English, as much as possible mechanism
+    - In Chinese, just significant mechanism
+
+If relationship can go either way, empirical study is more important. 
+
+### Data & Sample
+
+Data source: describe the advantage if using non-US data
+
+selection procedure
+
+summary statistics
+
+- mean and medium is quiet different from each others, we may need reasonable winsorization: outliers 
+    - winsor: make outliers boundary value/1% or 99% percentile value (more popular than trim)
+    - trim: exclude some outliers
+- key variables in baseline model 
+
+### Methodology
+
+### Empirical Research
 
 1. Baseline
-2. Causality(Endogenous)
-3. Mechanisms
-4. Robust test
+2. Endogenous
+    1. Causality
+    2. Mechanisms(identification)
+3. Robust test
+4. extension: some close topic after main topic is clear
 
-Conclusion(Discussion)
+Heterogeneity: sub sample, eg. SOE& nonSOE
+
+### Conclusion(Discussion)
 
 1. policy suggestion
+
+
+
