@@ -1,7 +1,7 @@
 ---
 title: "Win10截屏软件"
 date: 2021-02-20T18:07:38+08:00
-draft: false
+draft: true
 
 description: ""
 upd: ""

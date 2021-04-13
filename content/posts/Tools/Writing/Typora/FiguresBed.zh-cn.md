@@ -47,6 +47,6 @@ https://blog.csdn.net/weixin_43571641/article/details/109817266
 Henrry-Wu/FigBed
 master
 Figs/
-https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed@master
+https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed
 ```
 
