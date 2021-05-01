@@ -93,3 +93,19 @@ TOkU6Ultt
 
 Large-Cap Stock
 
+## International Corporate Finance
+
+### Lecture 1: Multinational Financial Management & the International Monetary System
+
+Multinational Corporations (MNCs)
+
+Comparative Advantage
+
+Reasons to go global:
+
+The Process of Overseas Expansion
+
+Concerns about Globalization
+
+![image-20210501162404290](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210501162404290.png)
+
