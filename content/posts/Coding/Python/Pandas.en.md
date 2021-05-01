@@ -48,3 +48,9 @@ Duplicated value
 Missing data
 
 - [pandas.DataFrame.dropna](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html?highlight=dropna#pandas.DataFrame.dropna)
+
+
+
+Reshape:
+
+- [pandas.pivot](https://pandas.pydata.org/docs/reference/api/pandas.pivot.html)

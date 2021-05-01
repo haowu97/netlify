@@ -50,11 +50,12 @@ upd: ""
 | 2.12  | 股票分析 | 1800     |
 | 2.12  | 期权策略 | 1500     |
 | 3.19  | 金融工程 | 150      |
-| Total |          | 17151.44 |
+| 4.21  | 国际金融 | 600      |
+| Total |          | 17751.44 |
 
 ## 应收
 
-1000(石)
+2000(石)
 
 悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
 
@@ -84,7 +85,7 @@ Non-fiction: 计量分析
 | Third  Quiz  | April  29          | May  6    |
 | Fourth  Quiz | May  27            | June  3   |
 
-4.22是1003的期中
+4.22早上七点，1003的期中
 
 关注：国际金融、衍生品、金融经济学、简单的计量统计分析
 

@@ -27,6 +27,24 @@ sff
 
 [Katex公式插件](https://github.com/maginapp/vuepress-plugin-katex)
 
+[给网站添加logo](https://v1.vuepress.vuejs.org/zh/config/#head)
+
+## 静态资源
+
+在public文件夹下放置资源后，可以通过链接的形式访问，例如
+
+```markdown
+[name](/name.pdf)
+```
+
+图片可以直接插入到文中
+
+```markdown
+![An image](./image.png)
+```
+
+更多参考[静态资源官方文档](https://vuepress.vuejs.org/zh/guide/assets.html#%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84)
+
 ## Bug解决
 
 [解决VSCODE运行yarn时”因为在此系统上禁止运行脚本"报错](https://blog.csdn.net/larpland/article/details/101349586)

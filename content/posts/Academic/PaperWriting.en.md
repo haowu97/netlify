@@ -15,34 +15,38 @@ Title
 
 Abstract
 
-摘要是引言的摘要
-
 Keywords
 
 ### Introduction
 
-待整理
-
-引言是全文的摘要
+Abstract is the summary of the introduction, while the introduction is a summary of the full text.
 
 1. Raise a Question: 
-2. why important：
+2. Why important：
     1. Previous literature: debate or something missing
     2. Real world: examples, statistics
-3. Puzzles(weakness of prior)
-4. Hypothesis development: story behind is important
-5. Data & Sample & Methodology
+3. Puzzles: 
+    1. weakness of prior literature
+    2. contribution of my paper
+4. Hypothesis development: 
+    1. story behind is important
+    2. what to expect, and why?
+5. Data & Sample & Methodology(What I do?)
 6. Main results/findings(paragraph by paragraph)
     1. Baseline
-    2. IV/ Causality test
-    3. Mechanisms
-7. (Short summary): if findings are too much, summary something important
-8. (some drawback of the paper): 
+    2. Identification
+        1. IV/ Causality test
+        2. Mechanisms: accept or reject
+7. (Short summary): 
+    1. If findings are too much, summary something important
+    2. If there are not many findings, you can omit this part 
+8. (Some caveats/weakness/drawback of the paper): 
     1. problem that can't be solved easily 
-    2. not encouraged
-9. 
+    2. not encouraged to include this part
+9. Literature review: Two or three related fields
+10. Arrange later section
 
-Literature review: Two or three related fields
+Cite previous literature to simplify your thesis narrative.
 
 ### (Hypothesis development)
 
@@ -65,11 +69,11 @@ If relationship can go either way, empirical study is more important.
 
 Data source: describe the advantage if using non-US data
 
-selection procedure
+Selection procedure
 
-summary statistics
+Summary statistics
 
-- mean and medium is quiet different from each others, we may need reasonable winsorization: outliers 
+- mean and medium is quiet different from each others, we may need reasonable winsorization for outliers 
     - winsor: make outliers boundary value/1% or 99% percentile value (more popular than trim)
     - trim: exclude some outliers
 - key variables in baseline model 
@@ -87,9 +91,9 @@ summary statistics
 
 Heterogeneity: sub sample, eg. SOE& nonSOE
 
+Include variables one by one
 
-
-Mechanism vs Robust test vs Extension
+#### Mechanism vs Robust test vs Extension
 
 Mechanism(go deeper)
 
@@ -108,34 +112,20 @@ Extension(go wider)
 
 1. policy suggestion
 
+### Language issue
 
+Use present tense:
 
+- Most of the time, the general present tense is used, 
+- the past tense is generally a description of outdated documents.
 
+Active vs. passive voice: Use a positive tone for the conclusions you find
 
-Language issue
+This/that: specific nouns should be followed by this/that, for example:
 
-Use present tense
+- This suggest
 
-用过去式一般使
+- This results suggests(preferred)
 
-Active vs. passive vioce 对于自己发现的结论，使用肯定的语气
+Sentence fragments & run-on sentences: It’s better to write short sentences instead of long and difficult sentences.
 
-这那之后加名词
-
-This suggest
-
-This results suggests
-
-Sentence fragments & run-on sentences(最好写短句，不要写长难句)
-
-
-
-
-
-公司违约率：股价波动率；债券收益率；CDS spread
-
-
-
-
-
-引用前人的文献是为了简化自己的论文

@@ -74,6 +74,18 @@ categories: []
 
 [HUSTer收藏！研三标告诉你疫情期间论文怎么写](https://www.sohu.com/a/375687628_282173)
 
+## 研报来源
+
+收费：
+
+- Wind数据库
+- 同花顺Ifind
+
+免费：
+
+- 慧博投资：IOS端APP目前可以免费下载一篇
+- [萝卜投研](https://robo.datayes.com/)：全部可以免费下载
+
 ## 投研数据网站
 
 ### 世界综合

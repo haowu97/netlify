@@ -34,6 +34,8 @@ categories:
 
 ### Homework 3
 
+[50ETF期权的隐含波动率 交易分析](http://finance.eastmoney.com/a/201912131322421451.html)
+
 构建交易策略，跟踪交易策略，汇报交易情况，对应的措施，风险管理方法
 
 [真格量化](https://quant.pobo.net.cn/login)：期货期权模拟实盘
@@ -58,6 +60,8 @@ categories:
 
  （8）课程结束时提交本次作业。
 
+一周后的
+
 ### Homework 1
 
 [上期所](http://www.shfe.com.cn/) 能源化工7种
@@ -76,7 +80,7 @@ categories:
 
 \3. 历史持仓量（日度）.
 
-注意：（1）数据应包括各品种的连续、连二、连三、连四合约（不同合约的数据请用 excel 的不同 worksheets 储存）。
+注意：（1）数据应包括各品种的连续/连一、连二、连三、连四合约（不同合约的数据请用 excel 的不同 worksheets 储存）。
 
 ​          关于何为连续、连二、连三、连四合约，请参见：
 

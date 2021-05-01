@@ -39,3 +39,11 @@ filename.md
 # 忽略指定文件夹
 public/
 ```
+
+
+
+[Github上怎么修改别人的项目并且提交给原作者！图文并茂！](https://blog.csdn.net/qq_26787115/article/details/52133008)
+
+[GitHub给队友开放仓库权限](https://blog.csdn.net/qq_40306266/article/details/107906817)
+
+[Organization权限管理](https://blog.csdn.net/Q85038427/article/details/115748308)

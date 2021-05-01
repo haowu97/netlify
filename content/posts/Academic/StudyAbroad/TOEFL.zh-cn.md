@@ -1,8 +1,8 @@
 ---
-title: "TOEFL"
+title: "TOEFL考试经验总结"
 date: 2021-03-15T14:14:45+08:00
 lastmod: 2021-03-16T14:14:45+08:00
-draft: true
+draft: false
 
 description: ""
 upd: ""
@@ -16,8 +16,6 @@ TOEFL(the Test Of English as a Foreign Language)
 四六级和托福一般是这样的对应法则：
 
 ![img](https://pic2.zhimg.com/50/v2-a5386a7405e55e3327d066bbc1a529a1_hd.jpg?source=1940ef5c)
-
-
 
 托福备考最重要的必备资料就是**OG官方指南和TPO真题,** OG就是Official Guide简称，指的是ETS考试中心官方给出的应试指南，TPO真题就是ETS官方给的历年托福考试的真题，也就是都是以前考过的真题，对于备考训练是最贴近的训练题型。
 
@@ -121,15 +119,43 @@ URL: https://www.ets.org/toefl/test-takers/ibt/prepare/tests/
 
 URL: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
 
+## 日常复习规划
+
+
+
+
+
+
+
+单词：不背单词、欧陆词典
+
+口语：
+
+写作：
+
+听力：
+
+阅读：
+
+官方课程：每天推进两个单元
+
 ## 报名
 
-[官网](https://toefl.neea.cn/index)
+**ETS**：英文全称为Educational Testing Service，是美国教育考试服务中心的简称。官方网址：http://www.ets.org/。该机构成立于1947年，目前是世界上最大的私营非营利性教育考试评估机构，也是教育研究领域的领导者。该组织致力于为近200个国家的个人、教育机构和政府部门提供服务，并且在全球范围内开展和管理每年1200多万人次的考试，其中包括TOEFL,GRE和GMAT考试等。
+
+[The TOEFL Family of Assessments (ets.org)](https://www.ets.org/toefl/)
+
+**NEEA**：The National Education Examinations Authority，即中华人民共和国教育部考试中心。官方网址为：http://www.neea.edu.cn/。NEEA为ETS在中国的代理。
+
+NEEA教育部考试中心为考生提供新托福考试和GRE的网上报名系统。为了使用该系统报名，考生必须提供包括姓名，证件号码，邮寄地址，电话号码和电子邮箱地址等基本联系信息来完成报名系统NEEA用户注册，需要注意的是考生应该为自己的用户设置一个安全密码，来登陆自己的NEEA账户，之后，教育部考试中心报名系统将会给考生分配一个用户号码，即NEEA user ID。其中使用该ID可以在NEEA报名系统多次报名托福网考考试。申请人在成功注册，有了NEEA ID之后，网站自行为申请人分配的一次性的考试号，即ETS ID。在同时拥有了NEEA ID和ETS ID之后，申请人则可以开始报名托福考试或者GRE考试了。
+
+[NEEA官网报名](https://toefl.neea.cn/index)
 
 [报名流程参考](https://zhuanlan.zhihu.com/p/32543777)
 
 最好提前3个月报名，尤其是大城市比较火热的考点。
 
-
+### 地址填写规范
 
 按照托福的书写框来看，一般地址分为四行，也叫托福4行式:
 
@@ -181,8 +207,19 @@ URL: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
 
 
 
-## 拼分政策？
+## 分数
+
+**考试完成之后，则是查分环节，托福分数的查询步骤如下：**
+
+考试登录教育部托福考试报名网站：http://toefl.etest.net.cn/cn/
+
+考生输入自己的NEED用户ID和密码，然后登录查询就OK了。
+
+登录进去后，考生在“我的首页”点击查看成绩就可以查询到自己的托福成绩了。
+
+### 拼分政策？
 
 只要是你两年内参加的有效托福考试中，会按照你各部分最佳成绩的总和来算。
 
 比如你第一次口语超常考了29分，第二次只有24分，但是最优成绩选择的是29分。
+
