@@ -40,11 +40,3 @@ categories: ['金融工程']
 
 
 股指期货的价格发现
-
-
-
-
-
-```bash
-unable to access permission denied
-```
