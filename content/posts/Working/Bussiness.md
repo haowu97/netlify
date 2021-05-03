@@ -69,7 +69,11 @@ upd: ""
 
 Non-fiction: 计量分析
 
-大仙贝：Globalisat'n & World Economy, Statistics for Business & Econ, Info Systems for Management
+大仙贝：
+
+Globalisat'n & World Economy, 
+
+**Statistics for Business & Econ（6月9日，下午两点，已收750￥）**
 
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
 
@@ -93,6 +97,8 @@ TOkU6Ultt
 
 Large-Cap Stock
 
+
+
 ## International Corporate Finance
 
 ### Lecture 1: Multinational Financial Management & the International Monetary System
@@ -107,5 +113,215 @@ The Process of Overseas Expansion
 
 Concerns about Globalization
 
-![image-20210501162404290](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210501162404290.png)
+国际货币体系
 
+### Lecture 2: The Determination of Exchange Rates and the Foreign Exchange Market
+
+#### Foreign Exchange Market
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502123735331.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502124101683.png)
+
+#### Bid-Ask Spread
+
+**Bid-Ask Spread Calculation**
+
+**• Percentage spread = [(Ask – Bid) / Ask] x 100**
+
+• Example: If GBP is quoted at USD1.8419-28/GBP
+
+– USD1.8419/GBP is the bid rate, USD1.8428/GBP is the ask rate
+
+– Percentage spread = [(1.8428-1.8419) / 1.8428] x 100 = 0.049%
+
+####  Triangular Arbitrage
+
+ if 1 EUR = 1.47 USD and 1 SFR = 0.98 USD, what should be 
+
+SFR/EUR?
+
+− USD/EUR = 1.47USD/EUR and USD/SFR = 0.98USD/SFR
+
+− SFR/EUR = (1.47USD/EUR) / (0.98USD/SFR) = 1.5 SFR/EUR
+
+
+
+How does it work?
+
+■ If CNY/USD × USD/AUD × AUD/CNY < 1, one of the three rates must increase
+
+• The currency in denominator is too low relative to the currency in the 
+
+numerator
+
+• Buy USD with CNY , buy AUD with USD, or buy CNY withAUD
+
+■ If CNY/USD × USD/AUD × AUD/CNY > 1, one of the three rates must
+
+decrease
+
+• The currency in denominator is too high relative to the currency in the 
+
+numerator
+
+• Sell USD for CNY , sell AUD for USD, or sell CNY forAUD
+
+ 
+
+AUD1.60/USD × CNY4.77/AUD × USD0.14/CNY = 1.068 > 1
+
+– If you sell 1 USD for 1.60AUD
+
+– Then sell 1.60 AUD for 7.632 CNY ( = 1.60 x 4.77)
+
+– Then sell 7.632 CNY for 1.068 USD ( = 7.632 x 0.14)
+
+– Y ou have earned 1.068 USD – 1 USD = 0.068 USD, or 6.8% of your initial investment
+
+#### Forward Quotations
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502124250350.png)
+
+In interbank markets, forward rates are quoted as discounts or premiums on the spot rate, 
+
+know as the swap rate
+
+■ Swap rates are quoted as
+
+• Spot USD/AUD: 0.6850 (bid) – 0.6860 (ask)
+
+• 30-day USD/AUD: 40 (bid) – 45 (ask)
+
+➢ If forward bid < forward ask → AUD is at a forward premium
+
+• Add swap points to spot rate
+
+➢ If forward bid > forward ask → AUD is at a forward discount
+
+• Subtract swap points from spot rate
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502124408840.png)
+
+### Lecture 3: Parity Conditions: Purchasing Power Parity and Fisher Effect
+
+#### Purchasing Power Parity (PPP)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502125946394.png)
+
+Market price for £ is \$2.5, but the real value under PPP is only \$1.8. By how much is the GBP overvalued relative to USD in 1981?
+
+- (2.5 / 1.8) – 1 = 0.39
+- GBP is overvalued by 39% relative to USD
+
+By how much is the USD  undervalued relative to GBP in 1981?
+
+- [(1/2.5)/(1/1.8)] - 1 = - 0.28
+- or 1.8/2.5 - 1 = - 0.28
+- USD is undervalued by 28% relative to GBP 
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502131310899.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502130942234.png)
+
+Real exchange rate:
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210502133544332.png)
+
+#### Fisher Effect
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503081123047.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503081236206.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503081331002.png)
+
+### Lecture 4: Parity Conditions: Interest Rate Parity and Currency Forecasting
+
+#### IRP
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503082203357.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503082403693.png)
+
+#### UFR
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503082531388.png)
+
+#### Currency Forecasting
+
+Model-based Forecasts
+■ There are two principal model-based approaches:
+1. Fundamental analysis
+− Most common approach: regression
+2. Technical analysis
+
+### Lecture 5: Currency Futures and Options & Hedging Foreign Exchange Risk
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503085216818.png)
+
+Forward vs. Futures
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503091506419.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503091210957.png)
+
+### Week 6: Swaps, Managing Operating Exposure
+
+Swaps
+
+Interest Rate Forwards
+
+Forward Forwards
+
+Forward Rate Agreements
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503102508679.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210503102536314.png)
+
+#### Other Financial Instruments
+
+Eurodollar futures
+
+Structured notes
+
+Credit default swaps
+
+#### Measuring Foreign Exchange Exposure
+
+Translation Exposure
+
+Economic Exposure: operating exposure + transaction exposure
+
+### Week 7: International Financing and the Euromarkets
+
+Bond issued in the domestic market by a foreign company in the local currency
+– Wider investor base, lower financing costs
+– Subject to local laws and regulations
+– Can be fixed- or floating-rate
+» Global bonds: typically denominated in USD
+» USD-denominated bonds by non-US firms sold in the US (Yankee bonds)
+» JPY-denominated bonds by non-Japanese firms sold in Japan (Samurai bonds)
+» AUD-denominated bonds by non-Australian firms sold in Australia? (Kangaroo bonds)
+
+#### Eurocurrency Markets
+
+#### Eurobonds
+
+### Week 8: MNC Capital Budgeting
+
+What if Parent’s NPV ≠ Project’s NPV?
+1.  Both <0?
+– Reject project.
+2.   Both >0?
+– Accept project.
+3.   Project’s Perspective <0, Parent’s Perspective >0?
+– Reject. Positive value is only from favourable currency conditions, so could do better speculating 
+and not capital budgeting.
+4.  Project’s Perspective >0, Parent’s Perspective <0?
+– Accept, but utilize asset markets or financial markets to gain value:
+» Sell project to local investor
+» Bring in joint venture partner
+» Keep investment abroad and reinvest
+» Use forward, swap, or finance project in local debt or equity.

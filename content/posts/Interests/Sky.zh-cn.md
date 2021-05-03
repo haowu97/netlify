@@ -1,14 +1,19 @@
 ---
 title: "光遇攻略合集"
 date: 2021-02-03T20:56:47+08:00
+lastmod: 2021-05-01T21:17:53+08:00
 draft: false
 
-description: "sky"
-
+description: ""
 upd: "是天天啊"
+
+tags: ['Sky']
+categories: []
 ---
 
 ## 每日任务
+
+直接进入`旅人手册`小程序查看每日任务的图文攻略非常方便！每日更新！
 
 ### 冥想任务
 
@@ -28,12 +33,12 @@ upd: "是天天啊"
 | ------ | -------------- |
 | 晨岛   | 5+4(预言山谷)  |
 | 云野   | 13+8(圣岛)     |
-| 雨林   | 16             |
+| 雨林   | 16+2(树屋)     |
 | 霞谷   | 11+5(圆梦村)   |
 | 墓土   | 14+2(遗忘方舟) |
 | 禁阁   | 8              |
 | 暴风眼 | 10             |
-| 总计   | 96             |
+| 总计   | 98             |
 
 个人拥有永久翼63个。
 
@@ -71,11 +76,25 @@ upd: "是天天啊"
 
 ## 复刻先祖
 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210503181717.jpg)
+
 ![](https://wx1.sinaimg.cn/mw690/0087NTXCgy1godk9o8m3zj31ps1acb29.jpg)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210132442.jpg)
+
 
 ## 季节攻略
+
+### 集会季
+
+#### 先祖兑换图
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210503180949.jpg)
+
+#### 光翼
+
+![WeChat Image_20210503182303](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210503182409.jpg)
+
+
 
 ### 梦想季
 
@@ -168,5 +187,6 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 | 办公室斗篷礼包 | 198  |
 | 茶桌礼包       | 128  |
 | 120颗心        | 80   |
+| 集会季季卡     | 48   |
 | 总计           | 414  |
 

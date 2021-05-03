@@ -5,7 +5,7 @@ lastmod: 2021-04-30T21:17:53+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "Trilemma, Exchange Rate Systems, A Brief History of the International Monetary System"
 
 tags: ['Notes']
 categories: ['International Finance']
@@ -20,7 +20,7 @@ Ideally, policy makers want
 2. An independent monetary policy: Control over money supply and interest rates to stabilize economy
 3. Capital market integration (free flow of capital):Portfolio diversification, better capital allocation, lower cost of capital
 
-At any point in time, a country can pursue two of the three, but never all three simultaneously
+At any point in time, a country can pursue two of the three, but **never all three simultaneously**
 
 - Option 1: Monetary independence and free flow of capital, but volatile exchange rate, e.g. USA
 - Option 2: Fixed exchange rate and free flow of capital, but no monetary independence, e.g. Hong Kong
@@ -153,11 +153,11 @@ Required coordinated monetary policy.
 
 #### International Finance Institutions
 
-International Monetary Fund (IMF): Oversees exchange rate policies and provides rescue funding to countries in crisis
+*International Monetary Fund(IMF)*: Oversees exchange rate policies and provides rescue funding to countries in crisis
 
-World Bank: Lends to developing countries and support business entering developing markets
+*World Bank*: Lends to developing countries and support business entering developing markets
 
-Bank for International Settlements (BIS)
+*Bank for International Settlements (BIS)*
 
 - Central bank for industrial countries’ central banks
 - Helps manage and invest central banks’ foreign exchange reserves
@@ -180,7 +180,7 @@ Back to fixed rate system?
 
 In 1999, the 11 founding member countries of EMU surrendered their monetary autonomy and gave up their right to create money. 
 
-European Central Bank (ECB) is the only central bank with power to  issue currency, the Euro.
+*European Central Bank(ECB)* is the only central bank with power to  issue currency, the Euro.
 
 Nations must meet inflation, currency stability, and deficit spending standards.
 
