@@ -11,8 +11,6 @@ tags: ['软件']
 categories: []
 ---
 
-sff
-
 [yarn的安装和使用](https://blog.csdn.net/yw00yw/article/details/81354533)
 
 [yarn init(1)](https://yarn.bootcss.com/docs/cli/init/)
@@ -31,7 +29,7 @@ sff
 
 ## 静态资源
 
-在public文件夹下放置资源后，可以通过链接的形式访问，例如
+在`docs\.vuepress\public`文件夹下放置好对应文件后，可以在正文中通过链接的形式访问，例如
 
 ```markdown
 [name](/name.pdf)
@@ -40,7 +38,7 @@ sff
 图片可以直接插入到文中
 
 ```markdown
-![An image](./image.png)
+![An image](/image.png)
 ```
 
 更多参考[静态资源官方文档](https://vuepress.vuejs.org/zh/guide/assets.html#%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84)
