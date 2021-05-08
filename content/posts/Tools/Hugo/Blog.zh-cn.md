@@ -1,7 +1,11 @@
 ---
 title: "Hugo博客搭建"
-date: 2021-02-01T20:56:47+08:00
+date: 2021-02-01T21:17:53+08:00
+lastmod: 2021-05-07T21:17:53+08:00
 draft: false
+
+description: ""
+upd: "Hugo博客生成，部署到Github，托管到Netlify"
 
 tags: [Blog, Hugo]
 categories: ["Hugo博客搭建"]
