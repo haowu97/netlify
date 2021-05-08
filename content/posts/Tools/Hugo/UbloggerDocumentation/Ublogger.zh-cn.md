@@ -8,8 +8,8 @@ draft: false
 description: ""
 upd: ""
 
-tags: ['Notes']
-categories: ['Probability and Statistic']
+tags: ['Hugo']
+categories: []
 
 math: true
 ---

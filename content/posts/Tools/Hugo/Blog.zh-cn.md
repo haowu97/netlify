@@ -178,14 +178,14 @@ categories: [""]
 前提：已注册GitHub账号，登录
 
 1、登录后，点击右上角，出现下拉菜单，点击 Your repositories 进入页面
-![img](https://img2018.cnblogs.com/blog/488437/201908/488437-20190829162641399-1240861082.png)
+![488437-20190829162641399-1240861082](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154656.png)
 
 2、点击 New
 
-![img](https://img2018.cnblogs.com/blog/488437/201908/488437-20190829162830662-722937324.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154727.png)
 
 3、进入 Creat a new repository 页面
-![image-20210121195836444](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121195836444.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154737.png)
 
 4、图中的 yourname 要换成自己的github的用户名，即上图中Owner显示的用户名。最后点击Creat repository即完成
 
@@ -193,7 +193,7 @@ categories: [""]
 
 进入**站点根目录**下，执行：
 
-> $ **`hugo`**
+> **`hugo`**
 
 执行后，站点根目录下会生成一个 `public` 文件夹，该文件下的内容即Hugo生成的整个静态网站。每次更新内容后，将 pubilc 目录里所有文件 push到GitHub即可。
 
@@ -225,21 +225,21 @@ git push -u origin master
 
 **站点目录**下，新建文章，执行：
 
-> $ **`hugo new post/文章名.md`**
+> **`hugo new post/文章名.md`**
 
 添加文章内容或修修改改，包括修改主题之类的，在本地都可以实时看到
 
 修改完成，确定要上传到GitHub上后，**站点目录**`myBlog`下执行：
 
-> $ **`hugo`**
+> **`hugo`**
 
 进行编译，没错误的话修改的内容就顺利同步到`public`下了，然后**`cd public`**下，执行提交命令：
 
-> $ **`git add -A`**
+> **`git add -A`**
 >
-> $ **`git commit -m "20200204-1"`**
+> **`git commit -m "20200204-1"`**
 >
-> $ **`git push -u origin master`**
+> **`git push -u origin master`**
 
 至此OK，顺利的话应该是一步到位的。若是遇到问题的话再百度咯
 
@@ -259,15 +259,15 @@ Git一个关于Push失败的两种解决方案: https://www.jianshu.com/p/ea6ec8
 
 Github Pages可以绑定自己的域名，例如在阿里云/腾讯云购买好域名之后，首先进行**实名认证**(根据工信部2017年全面域名实名认证的要求，所有存量域名以及新注册域名均需完成域名实名认证)。然后添加相应的解析：
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121215641671.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154542.png)
 
 其中`185.199.109.153`是用`ping`命令找到的存放github pages的主机的IP地址，在cmd命令行中输入`ping xxx.github.io`便可获取：
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121221541289.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154539.png)
 
 最进入到Github pages仓库Setting页面，并滑动到Github Pages这一栏，在Custom Domain填上刚刚添加解析的域名并保存：
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210121222010131.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154546.png)
 
 ### 参考
 
@@ -309,7 +309,7 @@ git push -u origin master
 
 验证登陆后选择此前生成的仓库。
 
-![image-20210204204825869](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204204828.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210204204828.png)
 
 站点基本设置如下：
 
@@ -321,7 +321,7 @@ git push -u origin master
 
 `Site settings`中`Change site name`可以改变站点的链接为自己想要的链接(格式为`site name.netlify.app`)。
 
-![image-20210204222258469](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210204222258469.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210204222258469.png)
 
 ### 域名绑定
 
