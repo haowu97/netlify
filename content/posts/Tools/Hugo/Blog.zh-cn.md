@@ -193,7 +193,9 @@ categories: [""]
 
 进入**站点根目录**下，执行：
 
-> **`hugo`**
+```java
+hugo
+```
 
 执行后，站点根目录下会生成一个 `public` 文件夹，该文件下的内容即Hugo生成的整个静态网站。每次更新内容后，将 pubilc 目录里所有文件 push到GitHub即可。
 
@@ -211,7 +213,7 @@ git push -u origin master
 
 以后每次**站点目录**下执行 `hugo` 命令后，再到`public`下执行推送命令：
 
-```
+```shell
 git add -A
 git commit -m "[介绍，随便写点什么，比如日期]"
 git push -u origin master
@@ -225,21 +227,25 @@ git push -u origin master
 
 **站点目录**下，新建文章，执行：
 
-> **`hugo new post/文章名.md`**
+```java
+hugo new post/文章名.md
+```
 
 添加文章内容或修修改改，包括修改主题之类的，在本地都可以实时看到
 
 修改完成，确定要上传到GitHub上后，**站点目录**`myBlog`下执行：
 
-> **`hugo`**
+```java
+hugo
+```
 
 进行编译，没错误的话修改的内容就顺利同步到`public`下了，然后**`cd public`**下，执行提交命令：
 
-> **`git add -A`**
->
-> **`git commit -m "20200204-1"`**
->
-> **`git push -u origin master`**
+```shell
+git add -A
+git commit -m "20200204-1"
+git push -u origin master
+```
 
 至此OK，顺利的话应该是一步到位的。若是遇到问题的话再百度咯
 
