@@ -1,5 +1,6 @@
 ---
 title: "结构方程模型"
+draft: true
 output:
   word_document:
     toc: yes
@@ -284,7 +285,6 @@ semPaths(fit,whatLabel = "est")
 ```
 
 ![](main_files/figure-docx/unnamed-chunk-3-1.png)<!-- -->
-
 
 
 

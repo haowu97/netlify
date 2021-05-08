@@ -233,6 +233,26 @@ $$
 
 阿尔法策略的超额收益如果不能覆盖套期保值成本，那么策略是亏的。
 
+### 最优对冲比率
+
+股指期货的最优对冲比率公式为
+$$
+h=\rho_{i, m} \frac{\sigma_{i}}{\sigma_{m}}
+$$
+根据在CAPM模型中，
+$$
+\beta=\frac{\operatorname{Cov}\left(r_{i}, r_{m}\right)}{\sigma_{m}^{2}}
+$$
+进一步有
+$$
+h = \frac{\operatorname{Cov}\left(r_{i}, r_{m}\right)}{\sigma_{i} \sigma_{m}} \frac{\sigma_{i}}{\sigma_{m}} = \frac{\operatorname{Cov}\left(r_{i}, r_{m}\right)}{\sigma_{m}^{2}}=\beta
+$$
+因此可以用Beta作为股指期货对冲比率的替代指标。
+
+[对冲比率 （Hedge Ratio）](https://zhuanlan.zhihu.com/p/142808944)
+
+[计算实例](https://zhuanlan.zhihu.com/p/194325835)
+
 ## 股指期货的价格发现
 
 携带成本模型的最大局限在忽略了期现之间的动态互动过程，并假设现货价格是外生的。
