@@ -89,7 +89,7 @@ hugo new posts/test.md
 
 此时 `content` 文件夹下就多了一个 `test.md` 文件，打开文件就可以看到时间、文件名等信息已经自动生成了
 
-```markdown
+```yaml
 ---
 title: "Test"
 date: 2018-08-05T20:56:47+08:00

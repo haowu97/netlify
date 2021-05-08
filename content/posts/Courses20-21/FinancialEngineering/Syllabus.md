@@ -159,8 +159,6 @@ Grading Policy：一周内提供分组，所有作业都以分组形式完成
 
 参考资料
 
-- 姜洋，《发现价格:期货和金融衍生品》，中信出版集团，2019
-- 《当代中国期货市场口述史》，大连商品交易所，2019
 - John Hull, Futures, Options and Other Derivatives, 10 ed.
 - 韩乾、薛晓明译，《金融衍生品：资本、货币与竞争》，北京大学出版社，2020 年：从人文科学角度来理解衍生品
      https://weidian.com/item.html?itemID=3346629674&spider_token=88ca
