@@ -178,7 +178,7 @@ categories: [""]
 前提：已注册GitHub账号，登录
 
 1、登录后，点击右上角，出现下拉菜单，点击 Your repositories 进入页面
-![488437-20190829162641399-1240861082](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154656.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508154656.png)
 
 2、点击 New
 
@@ -245,15 +245,11 @@ git push -u origin master
 
 ### bug解决
 
-解决 fatal: Not a git repository (or any of the parent directories): .git 问题: https://blog.csdn.net/wenb1bai/article/details/89363588
-
-解决Git fatal: unable to auto-detect email address问题: https://blog.csdn.net/u013914471/article/details/88394310
-
-解决hint: Updates were rejected because the remote contains work that you do: https://www.cnblogs.com/czwangzheng/p/5086903.html
-
-[hexo + github pages搭建博客样式加载不出来_banjw的博客-CSDN博客_hexo样式加载不了](https://blog.csdn.net/banjw_129/article/details/82261165?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
-
-Git一个关于Push失败的两种解决方案: https://www.jianshu.com/p/ea6ec80ad5f2
+1. 解决 fatal: Not a git repository (or any of the parent directories): .git 问题: https://blog.csdn.net/wenb1bai/article/details/89363588
+2. 解决Git fatal: unable to auto-detect email address问题: https://blog.csdn.net/u013914471/article/details/88394310
+3. 解决hint: Updates were rejected because the remote contains work that you do: https://www.cnblogs.com/czwangzheng/p/5086903.html
+4. [hexo + github pages搭建博客样式加载不出来_banjw的博客-CSDN博客_hexo样式加载不了](https://blog.csdn.net/banjw_129/article/details/82261165?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
+5. Git一个关于Push失败的两种解决方案: https://www.jianshu.com/p/ea6ec80ad5f2
 
 ### 域名绑定
 
@@ -317,11 +313,11 @@ git push -u origin master
 
 点击`Deploy site`即可生成网站，此时网站可能构建失败：虽然 Netlify 可以自动检测网站程序，但是最好能够匹配电脑上装的那个静态网页生成器的版本。所以，建议在`Site settings`中修改 Netlify 构建网站的静态网页生成器版本号：`Build & deploy` --> `Enviroment` --> `Environment variables`，填入 `HUGO_VERSION` `0.80.0` （具体版本号以使用的为准），其中可以在命令行输入`hugo version`查询hugo版本。
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210204215828746.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508155159.png)
 
 `Site settings`中`Change site name`可以改变站点的链接为自己想要的链接(格式为`site name.netlify.app`)。
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210204222258469.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508155156.png)
 
 ### 域名绑定
 
