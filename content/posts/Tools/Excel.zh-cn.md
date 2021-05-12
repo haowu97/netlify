@@ -30,3 +30,9 @@ F4固定数据点
 Ctrl + ~1st显示公式  
 
 Excel文件恢复： https://jingyan.baidu.com/article/9989c746effd11f648ecfe2b.html
+
+
+
+## 回归
+
+[用Excel做回归分析](https://zhuanlan.zhihu.com/p/57875710)

@@ -19,7 +19,7 @@ Hugo官方下载地址: https://github.com/gohugoio/hugo/releases
 
 选择对应的最新版本hugo0.80._windows-64bit.zip
 
-压缩包解压后含有一个 exe 文件，把它加入到环境变量即可。
+压缩包解压后含有一个 exe 文件，**把该exe文件所在的路径加入到环境变量即可**。例如，若将`hugo.exe`放置于`D:\Blog\Hugo`文件夹下，则需要将`D:\Blog\Hugo`添加至环境变量。
 
 命令行(cmd)窗口输入`hugo version`，输出对应版本，例如`Hugo Static Site Generator v0.80.0-792EF0F4 windows/amd64 BuildDate: 2020-12-31T13:37:57Z`即为安装成功。
 

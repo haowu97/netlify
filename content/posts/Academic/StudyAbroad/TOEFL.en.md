@@ -66,3 +66,132 @@ You will learn more details about how each section is scored in weeks 2~5 of the
 [Prepare for the TOEFL iBT Test (For Test Takers) (ets.org)](https://www.ets.org/toefl/test-takers/ibt/prepare/)
 
 For information regarding *TOEFL iBT®* test preparation tools in accessible formats, visit [TOEFL iBT Test Preparation Tools in Accessible Formats](https://www.ets.org/toefl/ibt/register/disabilities/test_preparation/).
+
+
+
+## Reading
+
+
+Reading tips
+Practice questions
+
+
+
+**The first section is the Reading section.**
+
+This section uses reading passages from **university-level textbooks that introduce a topic**. 
+
+**There are 3 or 4 reading passages of about 700 words each**. For each passage, there are **10 multiple-choice questions**. You will be able to see the reading passage as you answer each question.
+
+Most questions have four choices and a single correct answer. Some questions ask you to select two or more correct answers from a larger group of choices.
+
+You will have **54 to 72 minutes** to complete the Reading section. During that time, you can return to previous questions to review or change your answers.
+
+### Academic texts
+
+1. Social sciences
+2. Arts
+3. Physical sciences
+4. Life sciences
+
+**Features** of Academic Reading
+
+1. Formal language
+  1. Few contractions or abbreviations
+  2. Specialized vocabulary
+  3. No idioms or slang expressions
+  4. Formal grammar
+2. Logical and obiective
+  1. Based on facts
+  2. Impersonal tone
+  3. Doesn't appeal to emotions
+3. Conceptually complex
+  1. Multidimensional ideas
+  2. Interconnected parts
+
+### Aproaching Reading Passages
+
+#### Identify the topic
+
+Take a look at the title and the illustration at the beginning of the passage.
+
+#### Skim the passage
+
+Take a glance at the first few sentences of the first paragraph.
+
+Take a look at the first sentence of each of the other paragraphs.
+
+Create an outline, for example,
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210510180340.png)
+
+#### Take notes for more detail
+
+**Just jot down phrases for time saving.**
+
+#### Read the questions & Scan for key words
+
+Remember that as you look at each question, **you' l be able to see the paragraph or paragraphs that the question refers to** on one side of your computer screen.
+
+You will also be able to scroll through the entire passage.
+
+You can return to previous questions to review and change your answers.
+
+### Question types
+
+You will learn more details about the Reading section this week through a series of videos about the different Reading question types.
+
+- **Factual Information and Negative Factual Information questions** ask about facts, details, definitions or other information presented/ Explicitly stated by the author.
+- **Inference questions** ask about ideas and arguments that are not explicitly stated in the text. **Rhetorical Purpose questions** are similar. They ask about *why* the author presents a piece of information.
+- **Vocabulary questions** measure whether you know the meaning of important words in a reading passage.
+- **Reference questions** look similar to Vocabulary questions. A word or phrase is highlighted in the passage, and you are asked what that word refers to.
+- **Sentence Simplification questions** ask you to choose a sentence with the same meaning as a given sentence.
+- For **Insert Text questions**, you are given a new sentence and asked where in the passage it would best fit. These questions require you to understand the logic of the passage and the grammatical connections between sentences.
+- **Prose Summary questions** ask you to select the major ideas from a passage by distinguishing them from minor points or ideas that are not in the passage. **Fill in a Table questions** ask you to correctly categorize facts presented in the passage.
+
+##### Factual Information and Negative Factual Information questions
+
+*Factual Information questions* ask you to recognize information explicitly stated in the text. This information can include:
+
+- Major ideas
+- Supporting details
+- Definitions
+
+In a *Negative Factual question,* 3 out of 4 answers are correct and only one answer choice is incorrect.
+
+*Factual Information* questions like:
+
+1. According to the paragraph, ...
+2. Paragraph X answers which of the following?
+
+*Negative factual Information* questions like:
+
+1. According to the paragraph which of the following is **NOT** true?
+2. The author mentions all of the following **EXCEPT**
+
+Tips:
+
+1. Don't select an answer just because it contains words or phrases from the paragraph. Evaluate each option to determine if it is correct
+2. For negative factual information questions, answer is either not in the paragraph, or it contradicts information in the paragraph
+
+#### Inference and Rhetorical Purpose Question
+
+An *Inference question* could ask you to identify information that is not explicitly stated. Like,
+
+1. Which of the following can be **inferred** from paragraph 1 about X?
+2. The author of the paragraph **implies** that X
+3. Paragraph X **suggests** which of the following about Y?
+
+*Rhetorical Purpose questions* ask why an author has presented a piece of information. Rhetorical Purpose Key words:
+
+1. to illustrate
+2. to explain
+3. to contrast
+4. to refute
+5. to note
+6. to support
+
+*Tips for Rhetorical Purpose questions*:
+
+1. **Eliminate wrong answers** if you cant identify the correct answer immediately.
+2. While **some statements may be true**, but it is not the reason why the author has presented the information.
