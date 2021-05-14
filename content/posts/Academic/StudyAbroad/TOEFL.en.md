@@ -1,4 +1,5 @@
 ---
+
 title: "TOEFL® Test Preparation: The Insider's Guide"
 date: 2021-04-22T14:14:45+08:00
 lastmod: 2021-04-23T14:14:45+08:00
@@ -149,7 +150,7 @@ You will learn more details about the Reading section this week through a series
 - For **Insert Text questions**, you are given a new sentence and asked where in the passage it would best fit. These questions require you to understand the logic of the passage and the grammatical connections between sentences.
 - **Prose Summary questions** ask you to select the major ideas from a passage by distinguishing them from minor points or ideas that are not in the passage. **Fill in a Table questions** ask you to correctly categorize facts presented in the passage.
 
-##### Factual Information and Negative Factual Information questions
+#### Factual Information and Negative Factual Information questions
 
 *Factual Information questions* ask you to recognize information explicitly stated in the text. This information can include:
 
@@ -195,3 +196,143 @@ An *Inference question* could ask you to identify information that is not explic
 
 1. **Eliminate wrong answers** if you cant identify the correct answer immediately.
 2. While **some statements may be true**, but it is not the reason why the author has presented the information.
+
+#### Vocabulary questions
+
+*Vocabulary questions* ask you to identify the meanings of words or phrases as they are used in a reading passage.
+
+**Word or phrase highlighted in the reading passage**. Question like,
+
+1. The word X in the passage **is closest in meaning to**
+2. The phrase X in the passage **is closest in meaning to**
+3. In stating X, the author **means hat**
+
+Words that students at university level should know. So the strategy is to **build vocabulary**.
+
+1. *Academic Vocabulary* (EXPECTED TO KNOW): Academic vocabulary words can be used across many fields of study.
+2. *Specialized Vocabulary* (DEFINED FOR YOU): Specialized vocabulary words are specific to one field. Don't need to know before.
+
+**Only academic vocabulary words will be tested in the Reading section**.
+
+Tips:
+
+1. Latin and Greek roots of English words
+
+#### Reference questions
+
+*Reference questions* look similar to Vocabulary questions. A word or phrase is highlighted in the passage, and you are asked what that word refers to.
+
+- Usually the word is a *pronoun*, like "she," "they" or "it".
+- It could also be a *relative pronoun*, like "which," "that" or "whom".
+
+#### Sentence Simplification questions
+
+*Sentence Simplification questions* ask you to identify a sentence that has essentially the same meaning as a sentence from a reading passage.
+
+- Which of the sentences below best **expresses the essential information** in the following sentence? Incorrect choices change the meaning in Important ways or leave out essential information.
+
+For Sentence Simplification questions, the *correct answer* choice:
+
+- May leave out minor or unimportant details/ **Non-essential information**
+- Restates the most important information/ **Essential information** in a simpler way
+
+We need to understand the relationship between pieces of information in the sentence. Some important information like, 
+
+- Cause/effect
+- Conclusion based on evidence
+
+*Less important information*
+
+- Examples
+- Text in parentheses
+- Specific numbers or dates
+
+#### Insert Text Questions
+
+For *Insert Text questions*, you are given a new sentence and asked where in the passage it would best fit. 
+
+These questions require you to understand the logical order of ideas in a reading passage and the grammatical connections between sentences.
+
+**Every reading passage has one Insert Text Question.**
+
+Tips: The text needed to be inserted usually include some pronouns. Really know your *pronouns* and match them to the words they refer to in a text.
+
+- this/these
+- that/those
+- they/them
+- him/her
+- he/she/it
+- which
+
+#### Prose Summary & Fill in a table questions
+
+The *Prose Summary questions* are designed to show that you recognize the major ideas and relative importance of information
+in a reading passage.
+
+When answering Prose Summary questions, you will need to **select the three answer choices** that express the most important ideas in the passage.
+
+In the real test, you will **drag and drop your answers into the box**.
+
+There are 6 answer choices, 
+
+- 3 correct choices express the most important ideas,
+- 3 incorrect choices **misrepresent information or discuss minor points**
+
+Prose Summary questions are worth **2 points** toward raw score.
+
+- get 2 points if you choose all 3 correct answers
+- get 1 point if you choose 2 correct answers
+- get zero points for 1 or no correct answers
+
+For Prose Summary and Fill in a Table questions, your **answers do not have to be in a particular order**.
+
+You can change your answer during the allotted time for the reading section.
+
+In *fill in a table questions*, you will need to drag and drop you answers into two(or three) categories.
+
+**Each reading passage will have one Prose summary question, or one Fill In A Table Question, but not both**.
+
+Tips: take notes and create an outline when reading.
+
+### Additional reading materials
+
+If you're looking to practice more and would like **additional reading material**s that have some similarities to *TOEFL®* Reading passages in tone and content, here are a few: 
+
+Articles about **archaeology** from Smithsonian Magazine:
+
+- http://www.smithsonianmag.com/history/archaeology/
+
+News articles about **science and culture** from National Geographic:
+
+- http://news.nationalgeographic.com/
+
+An Encyclopedia Britannica article about the **history and techniques of mountain climbing**:
+
+- http://www.britannica.com/topic/mountaineering
+
+Also, check out these reading survival guides from a university in Australia:
+
+- https://www.student.uwa.edu.au/__data/assets/pdf_file/0005/2495696/IE5-Reading-in-English.pdf
+- https://www.student.uwa.edu.au/__data/assets/pdf_file/0011/2748143/TN3-Read-Effectively.pdf
+
+### Exam Essay Example
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210514164218.png)
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210514164340.png)
+
+## Speaking
+
+4 tasks
+
+- 1 independent task to express an opinion on a familiar topic
+- 3 integrated tasks based on what is read and heard
+- Up to 30 seconds to prepare the response
+- Up to 1 minute to respond
+
+Time: 17 minutes
+
+Score scale: 0–30 points
+
+
+

@@ -98,6 +98,8 @@ If you do not have the discipline to do this, seek professional help from someon
 
 **创业板**、**商品期货**线下办理即可
 
+商品期货开户没有资金门槛
+
 股指期货需要在商品期货交易10笔之后，且保证前6个交易日账户里有50w资产
 
 ## 内/外盘

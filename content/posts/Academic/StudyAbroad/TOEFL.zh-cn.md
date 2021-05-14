@@ -17,9 +17,16 @@ categories: []
 
 [TOEFL iBT 模拟考试（应试者用） (ets.org)](https://www.ets.org/zh/toefl/test-takers/ibt/prepare/tests)
 
-[TOEFL托福OG 第五版 含音频 The Official Guide to the TOEFL Test_2018, 5th -7 - 外语学习 - 经管之家(原人大经济论坛) (pinggu.org)](https://bbs.pinggu.org/thread-6858131-1-1.html)
+OG(已下载)
 
+- [官方｜最新 《托福 OG 第五版》 资料，人手必备！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/208269623)
+- [TOEFL托福OG 第五版 含音频 The Official Guide to the TOEFL Test_2018, 5th -7 - 外语学习 - 经管之家(原人大经济论坛) (pinggu.org)](https://bbs.pinggu.org/thread-6858131-1-1.html)
 
+汇总
+
+[IBT资源下载总帖 - TOEFL(IBT)下载区 寄托家园留学论坛 (gter.net)](http://bbs.gter.net/thread-1391423-1-1.html)
+
+[一个月如何备考托福？《OG 5+TPO55-67+真题+规划表等资料》.zip - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/366909707)
 
 ETS 全称为*Educational Testing Service*，是目前世界上规模最大的教育考试评估机构，其管理的托福（TOEFL）、GRE、SAT 等标准化考试已在近年来为广大中国考生所熟知TOEFL(*the Test Of English as a Foreign Language*)。
 

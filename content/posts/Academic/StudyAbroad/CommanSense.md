@@ -1,0 +1,6 @@
+It is commonly thought that **B.C. stands for “before Christ” and A.D. stands for “after death.**” This is only half correct. How could the year 1 B.C. have been “before Christ” and A.D. 1 been “after death”? B.C. does stand for “before Christ.” A.D. actually stands for the Latin phrase *anno domini*, which means “in the year of our Lord.” The B.C./A.D. dating system is not taught in the Bible. It actually was not fully implemented and accepted until several centuries after Jesus’ death.
+
+In recent times, there has been a push to replace the B.C. and A.D. labels with **B.C.E and C.E., meaning “before common era” and “common era,” respectively**. The change is simply one of semantics—that is, AD 100 is the same as 100 CE; all that changes is the label. The advocates of the switch from BC/AD to BCE/CE say that the newer designations are better in that they are devoid of religious connotation and thus prevent offending other cultures and religions who may not see Jesus as “Lord.” The irony, of course, is that what distinguishes B.C.E from C.E. is still the life and times of Jesus Christ.
+
+More information: [What is the meaning of BC and AD (B.C. and A.D.)? | GotQuestions.org](https://www.gotquestions.org/BC-AD.html)
+
