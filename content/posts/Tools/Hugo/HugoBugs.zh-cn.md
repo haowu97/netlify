@@ -14,7 +14,12 @@ categories: ["Hugo博客搭建"]
 ## Failed to render pages
 
 ```
-ERROR 2021/04/13 22:27:28 Failed to render pages: render of "home" failed: execute of template failed: template: index.html:36:20: executing "content" at <.Render>: error calling Render: failed to execute template ["summary"] v: "D:\Workfiles\Blog\uBloggerSite\themes\uBlogger\layouts\_default\summary.html:59:29": execute of template failed: template: _default/summary.html:59:29: executing "_default/summary.html" at <partialCached "function/path.html" . .>: error calling partialCached: partial that returns a value needs a non-zero argument.
+ERROR 2021/04/13 22:27:28 Failed to render pages: render of "home" failed: 
+execute of template failed: template: index.html:36:20: 
+executing "content" at <.Render>: error calling Render: failed to execute template ["summary"] v: 
+"D:\Workfiles\Blog\uBloggerSite\themes\uBlogger\layouts\_default\summary.html:59:29": execute of template failed: template: _default/summary.html:59:29: 
+executing "_default/summary.html" at <partialCached "function/path.html" 
+. .>: error calling partialCached: partial that returns a value needs a non-zero argument.
 ```
 
 有两种原因都可能导致上述错误：
@@ -40,7 +45,9 @@ categories: [""]
 ## Failed to get JSON resource
 
 ```
-ERROR 2021/05/14 23:02:02 Failed to get JSON resource "https://api.twitter.com/1/statuses/oembed.json?id=877500564405444608&dnt=true": Get "https://api.twitter.com/1/statuses/oembed.json?id=877500564405444608&dnt=true": dial tcp 31.13.94.7:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ERROR 2021/05/14 23:02:02 Failed to get JSON resource "https://api.twitter.com/1/statuses/oembed.json?id=877500564405444608&dnt=true": 
+Get "https://api.twitter.com/1/statuses/oembed.json?id=877500564405444608&dnt=true": dial tcp 31.13.94.7:443: connectex: 
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
 If you feel that this should not be logged as an ERROR, you can ignore it by adding this to your site config:
 ignoreErrors = ["error-remote-getjson"]
 ```
