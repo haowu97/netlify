@@ -23,9 +23,6 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 
-# Ignore: Failed to get JSON resource 
-ignoreErrors = ["error-remote-getjson"]
-
 [languages]
   [languages.en]
     weight = 1
@@ -699,7 +696,7 @@ ignoreErrors = ["error-remote-getjson"]
     # 文章页面的分享信息设置
     [params.page.share]
       enable = true
-      Twitter = true
+      Twitter = false
       Facebook = true
       Linkedin = false
       Whatsapp = false

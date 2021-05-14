@@ -146,32 +146,6 @@ hugo
 
 此时你的博客目录下会多出一个 `public` 文件夹来。这便是 Hugo 生成的网站
 
-### Bug解决
-
-```
-ERROR 2021/04/13 22:27:28 Failed to render pages: render of "home" failed: execute of template failed: template: index.html:36:20: executing "content" at <.Render>: error calling Render: failed to execute template ["summary"] v: "D:\Workfiles\Blog\uBloggerSite\themes\uBlogger\layouts\_default\summary.html:59:29": execute of template failed: template: _default/summary.html:59:29: executing "_default/summary.html" at <partialCached "function/path.html" . .>: error calling partialCached: partial that returns a value needs a non-zero argument.
-```
-
-有两种原因都可能导致上述错误：
-
-1. Markdown文档中有奇怪的字符组合(非常离谱的才会导致这种错误)
-2. YAML头出现这种空置的引号`categories: [""]`，去掉引号即可正常显示
-
-```yaml
----
-title: "10. 理解货币"
-date: 2021-04-10T12:11:59+08:00
-lastmod: 2021-04-11T12:11:59+08:00
-draft: false
-
-description: ""
-upd: "货币创造"
-
-tags: ["笔记"]
-categories: [""]
----
-```
-
 ### 参考
 
 - Hugo安装: https://blog.csdn.net/qq_40992152/article/details/105370757

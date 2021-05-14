@@ -23,7 +23,6 @@ enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
 
-# Ignore: Failed to get JSON resource 
 ignoreErrors = ["error-remote-getjson"]
 
 [languages]
