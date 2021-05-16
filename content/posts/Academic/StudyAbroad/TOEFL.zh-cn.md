@@ -196,19 +196,25 @@ URL: https://www.ets.org/toefl/test-takers/ibt/prepare/tests/
 
 URL: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
 
-## 日常复习规划
+## 日常复习规划(下午)
 
-单词：不背单词、欧陆词典(零碎时间)
+2h
+
+单词：不背单词、欧陆词典(每天各30个)
+
+听力：TPO+复习
+
+阅读：TPO+复习
+
+
+
+3h
+
+官方课程：每天推进两个单元
 
 口语：书+accent(1h)
 
 写作：
-
-听力：TPO+复习(1h)
-
-阅读：
-
-官方课程：每天推进两个单元(1h)
 
 ## 报名
 
