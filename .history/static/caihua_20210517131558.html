@@ -32,7 +32,7 @@
 	</style>
     </head>
     <body>       
-    	<audio autoplay="autoplay" loop="loop" preload="auto" ><source src="http://music.163.com/song/media/outer/url?id=1381755293.mp3" type="audio/mpeg"></audio>
+    	<audio autoplay="autoplay" loop="loop" preload="auto" ><source src="http://music.163.com/song/media/outer/url?id=1396162013.mp3" type="audio/mpeg"></audio>
         <div id="main">
             <div id="error">亲，您使用的浏览器无法支持即将显示的内容，请换成谷歌(<a href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a href="http://firefox.com.cn/download/">Firefox</a>)浏览器哟~</div>
             <div id="wrap">
@@ -49,7 +49,7 @@
                     </div>
                 </div>
                 <div id="clock-box">
-                    <span><font color="#666666">天天已经爱了采花</font></span>
+                    <span><font color="#666666">天天和采花相爱了</font></span>
                         <div id="clock"></div>
                 </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
@@ -186,7 +186,8 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
             var together = new Date();
-            together.setFullYear(2020, 5, 20);
+            // 这里月份要比真实月份少设置一个月才是标准的时间, (＞﹏＜)
+            together.setFullYear(2020, 4, 20);
             together.setHours(21);
             together.setMinutes(21);
             together.setSeconds(21);

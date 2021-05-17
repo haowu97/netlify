@@ -1,9 +1,3 @@
-<head>
-    <div id='wx_pic' style='margin:0 auto;display:none;'>
-    <img src='./img/WeChat Image_20210217184948.jpg' />    
-    </div>
-</head>
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>天天爱采花呀</title>
@@ -37,38 +31,25 @@
 		.space{margin-right:150px;}
 	</style>
     </head>
-    <body>
-    	<audio autoplay="autoplay" loop="loop" preload="auto" ><source src="http://music.163.com/song/media/outer/url?id=1381755293.mp3" type="audio/mpeg"></audio>
+    <body>       
+    	<audio autoplay="autoplay" loop="loop" preload="auto" ><source src="http://music.163.com/song/media/outer/url?id=1396162013.mp3" type="audio/mpeg"></audio>
         <div id="main">
             <div id="error">亲，您使用的浏览器无法支持即将显示的内容，请换成谷歌(<a href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a href="http://firefox.com.cn/download/">Firefox</a>)浏览器哟~</div>
             <div id="wrap">
                <div id="text">
                     <div id="code">                 
-                    <span class="say">我的爱人，我会牵着你的手，走到满头白发的那一天，</span><br>
-                    <span class="say">我会守护你生命里的精彩，并陪伴你一路精彩下去。</span><br>
-                    <span class="say">你的幸福快乐，是我一生的追求。</span><br>
-                    <span class="say">我会每一天带着笑脸，和你说早安，</span><br>
-                     <span class="say">我会每一晚与你道声晚安再入梦乡，</span><br>
-                    <span class="say">我会带你去所有你想去的地方，</span><br>
-                    <span class="say">陪你闹看你笑</span><br>
-                    <span class="say">历经你生命中所有的点点滴滴。</span><br>
-                    <span class="say">我期待这一生与你一起走过，</span><br>
-                    <span class="say">我期待与你慢慢变老</span><br>
-                    <span class="say">等我们老到哪儿也去不了，</span><br>
-                    <span class="say">还能满载着一生的幸福快乐 ！</span><br>
-                    <br>
-                    <span class="say">我会为我们的未来撑起一片天空，</span><br>
-                     <span class="say">为我们的将来担负起一生的责任，</span><br>
-                      <span class="say">愿意为你去做每一件能让你开心快乐的事。</span><br>
-                       <span class="say">所有我们经历的点点滴滴，</span><br>
-                        <span class="say">都是我们一辈子最美的回忆。</span><br>
-                         <span class="say">我愿意爱你直到老去！</span><br>
-                   <br>
-                    <span class="say"><span class="space"></span> -- Yours,爱人</span>
+                    <span class="say">采花姐姐，</span><br>
+                    <span class="say">青梅竹马不是你，</span><br>
+                    <span class="say">情窦初开不是你，</span><br>
+                    <span class="say">只愿细水长流是你，</span><br>
+                     <span class="say">白头偕老也是你。</span><br>
+                    <span class="say">你是我遥遥万里，</span><br>
+                    <span class="say">我是你来日可期。</span><br>
+                    <span class="say"><span class="space"></span> -- 爱你的天天哦</span>
                     </div>
                 </div>
                 <div id="clock-box">
-                    <span><font color="#666666">天天已经爱了采花</font></span>
+                    <span><font color="#666666">天天和采花相爱了</font></span>
                         <div id="clock"></div>
                 </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
@@ -205,7 +186,8 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
             var together = new Date();
-            together.setFullYear(2020, 5, 20);
+            // 这里月份要比真实月份少设置一个月才是标准的时间, (＞﹏＜)
+            together.setFullYear(2020, 5-1, 20);
             together.setHours(21);
             together.setMinutes(21);
             together.setSeconds(21);

@@ -42,14 +42,14 @@
                     <span class="say">青梅竹马不是你，</span><br>
                     <span class="say">情窦初开不是你，</span><br>
                     <span class="say">只愿细水长流是你，</span><br>
-                     <span class="say">白头偕老也是你。</span><br>
+                    <span class="say">白头偕老也是你。</span><br>
                     <span class="say">你是我遥遥万里，</span><br>
                     <span class="say">我是你来日可期。</span><br>
                     <span class="say"><span class="space"></span> -- 爱你的天天哦</span>
                     </div>
                 </div>
                 <div id="clock-box">
-                    <span><font color="#666666">天天已经爱了采花</font></span>
+                    <span><font color="#666666">天天和采花相爱了</font></span>
                         <div id="clock"></div>
                 </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
@@ -186,7 +186,8 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
             var together = new Date();
-            together.setFullYear(2020, 5, 20);
+            // 这里月份要比真实月份少设置一个月才是标准的时间, (＞﹏＜)
+            together.setFullYear(2020, 5-1, 20);
             together.setHours(21);
             together.setMinutes(21);
             together.setSeconds(21);
