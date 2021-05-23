@@ -71,7 +71,6 @@ For information regarding *TOEFL iBT®* test preparation tools in accessible for
 
 ## Reading
 
-
 Reading tips
 Practice questions
 
@@ -400,7 +399,160 @@ Many test takers want to know how much time they should take to answer the quest
 
 The more listening you do in English, the easier it will be for you to follow conversations and lectures in English, including those on the TOEFL iBT test. So, listen to academic material in English as much as you can—radio and TV broadcasts, podcasts, documentaries, and audio books. If you want to improve the ease with which you can process material you hear in English, increase the amount of time you spend listening to academic material in English. 
 
+**Listen to academic lectures in English as much as possible**.
+
+Be sure to listen to lectures in **various subject** areas: science, social science, business, arts, literature.
+
+Start with **short lectures** on topics you are familiar with, then build up to **longer ones** on topics that are not familiar to you.
+
 **Keep listening, even if you miss something.**
+
+### Gist-content and Gist-purpose questions
+
+The gist of something is the main point or key idea.
+
+**Gist-content and Gist-purpose questions** require you to understand the general topic or main idea of a conversation or lecture, or its main purpose.
+
+1. Gist-content questions: identify main ideas/ topic in a conversation or lecture.
+2. Gist-purpose questions:  identify the main purpose of a conversation or lecture, namely, why is this lecture/ conversation happening?
+
+Recognizing the question type:
+
+- Mainly about
+- Mainly discussing
+- Why does the student...?
+- What is the main purpose...?
+
+There will always be **either a Gist-content question or a Gist-purpose question**, but never both.
+
+Always the **first question** after listening to the passage.
+
+If there are *two main ideas*, you'll be asked to choose 2 of the 4 answer options, instead of just one.
+
+### Detail Questions
+
+*Detail questions* require you to understand and remember significant details or facts from a conversation or lecture.
+
+Recognizing the question type:
+
+1. According to...
+2. What is...?
+
+Only **important details** would be questioned. 
+
+You will not be expected to memorize trivial details
+
+- such as whether something happened in 1977 or 1978
+
+The answer to a Detail question will always be **explicitly stated** in a conversation or lecture.
+
+### Function questions 
+
+*Function questions* ask you to identify **the particular meaning** of a statement in a given context. A Function question may ask you to determine what a speaker was trying to accomplish by saying a particular thing.
+
+The *real meaning* is usually different form the *surface or literal meaning*.
+
+Function questions can include phrases like: 
+
+1. "What does the professor mean when he says … ?"
+2. "Why does the student say … ?"
+
+### Attitude questions
+
+*Attitude questions* ask you to show understanding of the speaker's attitude or their feelings about something.
+
+Attitude questions can include phrases like: 
+
+1. What is the professor's attitude?
+2. What does the student think about?
+3. What can be **inferred**...?
+
+To identify the speaker's attitude, listen for phrases like
+
+1. "What I think..."
+2. "It seems to me..."
+
+The Attitude question will then refer to 
+
+1. how valid the speakers' argument is? or
+2. how sure of the facts the speaker Is.
+
+A speaker’s *tone of voice* cannot help you answer an Attitude question. Is the speakers voice:
+
+- Calm or emotional?
+- Relaxed or nervous?
+- Certain or confused?
+- Enthusiastic or bored?
+
+### Organization Questions
+
+*Organization questions* ask you to show understanding of how a lecture is structured. Organization questions can include phrases like:
+
+1. Why does the professor mention...?
+2. Why does the professor discuss...?
+
+Often about the *examples* in a lecture.
+
+*Tips*: Listen for Signal Words like,
+
+- Introduction
+- Major ideas
+- examples
+- conclusion
+
+These might be like,
+
+- Sequence words: First, next, then, second, finally
+- Time or chronology: After, at last, before, during, now, since
+- Obviously, of course
+- Cause and effect: Accordingly, as a result, because, for example, for instance
+- In conclusion, to summarize
+
+### Connecting Content Questions
+
+*Connecting Content questions* measure your understanding of the relationships among ideas in a conversation or lecture. They may ask you,
+
+1. Fill in a table or chart
+2. What is the likely outcome...? 
+    1. Make a prediction based on what was stated in a conversation or lecture.
+
+This type of question will ask you to put **together information from different sentences or different parts of the conversation or lecture**.
+
+You may be asked to identify things like
+
+- Steps in a process
+- Cause/ effect relationship
+- Classification
+- Make a prediction
+
+### Inference Questions
+
+*Inference questions* ask listeners to show an understanding of the **meaning of something not directly stated**. They use phrase like
+
+1. What are the implications of...?
+2. What does the professor **imply**...?
+3. What can be **inferred**...?
+
+### Additional Listening Materials
+
+Practice: Take the [Free Practice Test](https://www.ets.org/toefl/ibt/prepare/free_practice_test) and when listening to a conversation or lectures, try to **predict what kinds of questions will be asked, as well as what the answers to those questions will be**. Are any of the TOEFL questions the same or similar to your questions? What about the answers? The more you practice predicting what questions will be asked, the better you will get at predicting and the better you will get at listening for important information. This will help you improve your confidence about taking the Listening section of the test, as you realize you know what to expect, and what to listen for!
+
+If you're looking to practice more, you can use these resources to practice listening to the kinds of materials that are similar to *TOEFL®* Listening passages. The links will take you outside of the course and the UMOOCs platform.
+
+Podcasts about technology, space exploration and other topics:
+
+- http://www.npr.org/podcasts/510298/ted-radio-hour
+- http://www.npr.org/podcasts/470937634/are-we-there-yet
+
+Recorded programs and podcasts about news and culture:
+
+- http://learningenglish.voanews.com/programindex.html
+- https://www.englishclub.com/efl/category/podcasts/
+- http://www.bbc.co.uk/learningenglish/english/features/news-report
+
+Educational videos on a variety of academic topics:
+
+- http://www.smithsonianmag.com/videos/
 
 ## Speaking
 

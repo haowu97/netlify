@@ -11,6 +11,33 @@ tags: []
 categories: []
 ---
 
+存在与地下的水资源是最多的饮用水来源
+
+蓄水池
+
+- 有孔率
+- 渗透性
+
+p3
+
+sorting
+
+compaction
+
+不同岩层的储水性能分析
+
+p4
+
+water table
+
+vadose zone
+
+p5
+
+water table intersect
+
+
+
 置顶
 
 [(31 封私信 / 99+ 条消息) 备考托福，需要准备哪些资料？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/24124134)
@@ -198,9 +225,11 @@ URL: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
 
 ## 日常复习规划(下午)
 
-2h
+3h
 
 单词：不背单词、欧陆词典(每天各30个)
+
+官方课程：每天推进两个单元
 
 听力：TPO+复习
 
@@ -208,13 +237,15 @@ URL: https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf
 
 
 
-3h
-
-官方课程：每天推进两个单元
+2h
 
 口语：书+accent(1h)
 
 写作：
+
+
+
+模拟测试：考满分，官方软件
 
 ## 报名
 

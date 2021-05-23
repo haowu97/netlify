@@ -1,4 +1,16 @@
-# Latex杂记
+---
+title: "Latex使用笔记"
+date: 2021-03-03T17:38:51+08:00
+lastmod: 2021-03-03T17:38:51+08:00
+
+draft: false
+
+description: ""
+upd: "Latex速查，Beamer教程"
+
+tags: ['笔记']
+categories: ['Latex']
+---
 
 ## 公式
 
@@ -259,6 +271,15 @@ $$
 
 1. [希腊字母表](https://xilazimu.net/)
 2. [希腊字母和LaTeX命令对照表](https://www.xilazimu.net/m/articles/greek_letter_latex.html)
+
+## Beamer
+
+官方主题一览： https://mpetroff.net/files/beamer-theme-matrix/
+
+Beamer教程：
+
+1. https://ddswhu.me/resource/LaTeX/beamer_tutorial_2015.pdf
+2. https://bbs.pku.edu.cn/attach/cb/40/cb401e254626b3f9/beamerlog-1112.pdf
 
 ## 参考资料
 
