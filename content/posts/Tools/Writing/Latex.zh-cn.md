@@ -1,15 +1,15 @@
 ---
 title: "Latex使用笔记"
-date: 2021-03-03T17:38:51+08:00
-lastmod: 2021-03-03T17:38:51+08:00
+date: 2021-05-21T17:38:51+08:00
+lastmod: 2021-05-22T17:38:51+08:00
 
 draft: false
 
 description: ""
 upd: "Latex速查，Beamer教程"
 
-tags: ['笔记']
-categories: ['Latex']
+tags: ['笔记', 'Latex']
+categories: []
 ---
 
 ## 公式
