@@ -278,8 +278,8 @@ $$
 
 Beamer教程：
 
-1. https://ddswhu.me/resource/LaTeX/beamer_tutorial_2015.pdf
-2. https://bbs.pku.edu.cn/attach/cb/40/cb401e254626b3f9/beamerlog-1112.pdf
+1. [使用 Beamer 制作学术讲稿](https://www.wuhao.ink/Latex/Beamer/beamer_tutorial_2015.pdf)
+2. [Beamer 演示学习笔记](https://www.wuhao.ink/Latex/Beamer/beamerlog-1112.pdf)
 
 ## 参考资料
 

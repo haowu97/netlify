@@ -51,7 +51,14 @@ categories: ["Hugo博客搭建"]
 
 
 
+## 文件存储与访问
 
+Hugo中可以存放文件的文件夹有`assets`和`static`:
+
+1. 其中`assets`中的文件需要在正文中饮用后方可生成有效链接，详细参考[官方assets说明](https://gohugo.io/hugo-pipes/introduction/#asset-directory)
+2. `static`下的文件可以直接使用链接的形式访问，例如路径为`static/Latex/Beamer/beamer_tutorial_2015.pdf`的文件，可以在`baseURL.Latex/Beamer/beamer_tutorial_2015.pdf`链接中访问到，详细参见[官方static说明](https://gohugo.io/content-management/static-files/)
+
+## 其他
 
 `2021-02-18T17:57:18+08:00`中的`+8:00`表示太平洋标准时间
 
