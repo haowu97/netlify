@@ -61,7 +61,9 @@ upd: ""
 
 ## 待做
 
-5.31 国际经济学
+
+
+
 
 
 
@@ -73,6 +75,14 @@ upd: ""
 
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
 
+国际金融(900已收)
+
+quiz 6.11
+
+考试 6.21
+
+
+
 基础经济数学(1200)
 
 |              | Will  be Posted on | Due  Date |
@@ -81,6 +91,8 @@ upd: ""
 | Second  Quiz | April  1           | April  15 |
 | Third  Quiz  | April  29          | May  6    |
 | Fourth  Quiz | May  27            | June  3   |
+
+考试6.17
 
 ## International Corporate Finance
 
