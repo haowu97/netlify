@@ -12,6 +12,6 @@ tags: ['笔记']
 categories: ['概率论与数理统计']
 ---
 
+[标准正态分布表](https://www.wuhao.ink/DistributionTable/StandardNormalDistribution.pdf)
 
-
-![标准正态分布函数数值表1](C:\Users\Wuhao\Desktop\标准正态分布函数数值表1.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210528095912.jpg)
