@@ -14,4 +14,6 @@ categories: ['概率论与数理统计']
 
 [标准正态分布表](https://www.wuhao.ink/DistributionTable/StandardNormalDistribution.pdf)
 
+[T分布表](https://www.wuhao.ink/DistributionTable/StudentT.pdf)
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210528095912.jpg)

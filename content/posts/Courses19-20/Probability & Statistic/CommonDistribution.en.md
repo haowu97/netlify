@@ -41,5 +41,16 @@ categories: ['Probability and Statistic']
 | $\frac{\bar{X}_{n}-\mu}{S_{n} / \sqrt{n}} =\frac{\frac{X_{n}-\mu}{\sigma / \sqrt{n}}}{\sqrt{\frac{(n-1) S^{2}_n}{\sigma^{2}} /(n-1)}}\sim \frac{N(0,1)}{\sqrt{\chi_{n-1}^{2} /(n-1)}}$ | $t_{n-1}$           |
 | $\frac{\frac{(n-1) S_{X}^{2} / \sigma_{X}^{2}}{n-1}}{\frac{(m-1) S_{Y}^{2} \sigma_{Y}^{2}}{m-1}} \sim \frac{\chi_{n-1}^{2} /(n-1)}{\chi_{m-1}^{2} /(m-1)}$ | $F_{n-1,m-1}$       |
 
+### Interval Estimation
+
+$$
+\overline{\mathbf{X}}-\mathbf{Z} \alpha / 2 \frac{\sigma}{\sqrt{\mathbf{n}}} \leq \boldsymbol{\mu} \leq \overline{\mathbf{X}}+\mathbf{Z}_{\alpha / 2} \frac{\sigma}{\sqrt{\mathbf{n}}}
+$$
+
+
+
+$$
+\overline{\mathrm{X}}-t_{\alpha / 2, \mathrm{n}-1} \frac{\mathrm{s}}{\sqrt{\mathrm{n}}} \leq \mu \leq \overline{\mathrm{X}}+t_{\alpha / 2^{\mathrm{n}-1}} \frac{\mathrm{s}}{\sqrt{\mathrm{n}}}
+$$
 
 
