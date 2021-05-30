@@ -18,6 +18,11 @@ categories: ['概率论与数理统计']
 
 [T分布表](https://www.wuhao.ink/DistributionTable/StudentT.pdf)
 
+参考
+
+1. [附 录 (ustc.edu.cn)](http://staff.ustc.edu.cn/~jbs/applex3.pdf)
+2. [Stata: 快速呈现常用分布临界值表 - 简书 (jianshu.com)](https://www.jianshu.com/p/e3cfc559eaa2)
+
 ## 图片版
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210528095912.jpg)

@@ -7,3 +7,6 @@
 
 
 [Economics | MIT Graduate Admissions](http://gradadmissions.mit.edu/programs/economics)
+
+[Yale School of Management | Educating Leaders for Business and Society](https://som.yale.edu/)
+
