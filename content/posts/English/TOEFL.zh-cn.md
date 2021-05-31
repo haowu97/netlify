@@ -40,6 +40,8 @@ water table intersect
 
 置顶
 
+**月底(考试前十天)考虑转考**
+
 [(31 封私信 / 99+ 条消息) 备考托福，需要准备哪些资料？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/24124134)
 
 [TOEFL iBT 模拟考试（应试者用） (ets.org)](https://www.ets.org/zh/toefl/test-takers/ibt/prepare/tests)
