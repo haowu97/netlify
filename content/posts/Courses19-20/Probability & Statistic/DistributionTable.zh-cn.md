@@ -20,6 +20,8 @@ categories: ['概率论与数理统计']
 
 [F分布表](https://www.wuhao.ink/DistributionTable/F.pdf)
 
+[Studentised Range Q](https://www.wuhao.ink/DistributionTable/StudentisedRangeQ.pdf)
+
 其他参考
 
 1. [附 录 (ustc.edu.cn)](http://staff.ustc.edu.cn/~jbs/applex3.pdf)
