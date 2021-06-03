@@ -57,6 +57,8 @@ OG(已下载)
 
 [一个月如何备考托福？《OG 5+TPO55-67+真题+规划表等资料》.zip - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/366909707)
 
+[张红岩词以类记单词书PDF+PPT+MP3完整下载 - TOEFL(IBT)下载区 寄托家园留学论坛 (gter.net)](http://bbs.gter.net/thread-1439438-1-1.html)
+
 ETS 全称为*Educational Testing Service*，是目前世界上规模最大的教育考试评估机构，其管理的托福（TOEFL）、GRE、SAT 等标准化考试已在近年来为广大中国考生所熟知TOEFL(*the Test Of English as a Foreign Language*)。
 
 托福考试由美国著名教育測验机构ETS(Educational Testing Service)研发，它旨在评估有意到美国大学学习的外国学生在学术环境下运用和理解英语的能力。托福考试在全球范围内有三种不同的考试模式，分别为纸考PBT( paper based test，满分为677分)机考CBT(computer based test,满分为300分)，以及网考*iBT(internet based test，满分120分)*，本书中我们提到的托福均为网考internet based test，也即就是我们日常提到的*TOEFL iBT*。
@@ -72,6 +74,42 @@ ETS 全称为*Educational Testing Service*，是目前世界上规模最大的�
 官方提供的TPO模考服务，在做完题目的24小时后，考生是可以拿到**听、说、读、写各项得分和表现反馈。**
 
 但随考附赠的TPO机会只有一次且不能重复使用，更建议用市面上的TPO软件进行模考。一般来说，网上的TPO软件听力和阅读部分都会给你具体的错题个数，考生可以根据网上的评分细则进行大致估分。
+
+## 方法论
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210601101327.png)
+
+基础扎实
+
+- 发音：音标、连读、语调
+
+- 语法：词法、句法
+
+- 常见积累量
+    - 单词：阅读层面、听力层面、运用层面
+    - 积累量：单词、短语、句子
+
+大量输入
+
+- 听说
+    - 精听(跟读、听写)
+    - 泛听
+
+- 读写：
+    - 精读
+    - 泛读
+
+大量输出
+
+- 听说
+    - Text message
+    - 与人对话
+
+- 读写：
+    - 仿写
+    - 实战写作
+
+
 
 ## 单词
 

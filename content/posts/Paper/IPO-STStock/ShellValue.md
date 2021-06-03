@@ -45,11 +45,18 @@ This extreme imbalance between supply and demand gives rise to listed firms’ �
 
 In the first stage, we manually collect detailed information on a comprehensive sample of reverse mergers (RMs) in China that were completed in January 2007 to April 2016.
 
-在美国，借壳上市主要发生在场外市场（OTCBB）和粉单市场（Pinksheet）而不是主板市场，这些企业绝大部分不满足在主板上市的条件或者难以支付较 高的 IPO 承销费用。基于美国资本市场的实证证据表明：借壳上市的企业与 IPO 企业相比普 遍规模较小、成立时间较短、盈利能力较差、信息不对称程度较高（Adjei et al.，2008；Floros and Sapp，2011）。也就是说，美国的资本市场上企业在选择上市方式时存在基于资产质量的 自我选择，好的企业会通过 IPO 上市，而差的企业更倾向于采用借壳的方式上市（Carpentier et al.，2012；Poulsen and Stegemoller，2008）。
+
+
+在美国，借壳上市主要发生在场外市场（OTCBB）和粉单市场（Pinksheet）而不是主板市场，这些企业绝大部分不满足在主板上市的条件或者难以支付较 高的 IPO 承销费用。基于美国资本市场的实证证据表明：借壳上市的企业与 IPO 企业相比普遍规模较小、成立时间较短、盈利能力较差、信息不对称程度较高（Adjei et al.，2008；Floros and Sapp，2011）。也就是说，美国的资本市场上企业在选择上市方式时存在基于资产质量的自我选择，好的企业会通过 IPO 上市，而差的企业更倾向于采用借壳的方式上市（Carpentier et al.，2012；Poulsen and Stegemoller，2008）。[管理世界 2018 屈源育]
 
 ## 屈源育 会计研究 2018
 
 题目：上市公司売价值与资源配置效率
+
+【摘要】在严格的PO管制下，上市公司享有一部分由稀缺上市资格所带来的壳价值，本文实证检验了上市公司的壳价值含量对资源配置效率的彩响。本文首先检验了形响上市公司売价值和被借壳概率的因素，进而构建了一个衡量上市公司股价中売价值含量的指标ESV/MV。利用这一指标，本文检验了壳价值含量如何影响上市公
+司行为：壳价使含量越高的上市公司越倾向于采取消极的财务政策，如减少投资和融资水平，更不思意进行现金分红。因此壳价値降低了企业的生产效率，进而减少了资本市场资源配置的有效性。
+
+
 
 提出了度量上市公司股价中壳价值含量的指标ESV/MV。我们定义一个上市公司的期望壳价值(ESV)等于借壳交易能够实现的壳价值(SV)与被借壳概率(Pr)的乘积，并用期望壳价值(ESV)与市值(MV)比来度量上市公司的壳价值含量(ESV/MV)。
 
@@ -60,12 +67,19 @@ $$
 其中，SV与Pr分别通过以下回归模型估计
 
 $$
-\begin{aligned}
-\ln S V_{i t}&=a_{0}+a_{1} \ln M V_{i-1}+a_{2}\left(\ln M V_{i t-1}\right)^{2}+a_{3} S O E_{i t-1}+e_{i} \\
- P r_{i t}\left(\right.\text { Shell }_{i t}=1)&=b_{0}+b_{1} \text { Rsize }_{i-1}+b_{2} O P_{i t-1}+b_{3} \text { Sales }_{-} g_{i t-1} \\ &+b_{4} S T_{i t-1}+b_{5} I P O_{-} r e j_{i t-1}+b_{6} \text { Insider }_{i t-1} \\ &+b_{7} \text { Return }_{i t-1}+e_{i t} \end{aligned}
+\ln S V_{i t}=a_{0}+a_{1} \ln M V_{i-1}+a_{2}\left(\ln M V_{i t-1}\right)^{2}+a_{3} S O E_{i t-1}+e_{i}
 $$
 
+时间效应使模型变化较大(加入行业效应变化不大)
+
+但是加入时间效应使得我们难以利用回归模型进行样本外预测，因此我们依据以往文献的做法(**Campbell等，2008**)，依然采用基于横截面因素的基准模型作为我们的估计模型。[发表在JF上，待阅读]
+$$
+\begin{aligned}
+P r_{i t}\left(\right.\text { Shell }_{i t}=1)&=b_{0}+b_{1} \text { Rsize }_{i-1}+b_{2} O P_{i t-1}+b_{3} \text { Sales }_{-} g_{i t-1} \\ &+b_{4} S T_{i t-1}+b_{5} I P O_{-} r e j_{i t-1}+b_{6} \text { Insider }_{i t-1} \\ &+b_{7} \text { Return }_{i t-1}+e_{i t} \end{aligned}
+$$
 问题：Pr估计中Logistic回归的非平衡问题
+
+
 
 ## 国盛证券 研报 2019
 

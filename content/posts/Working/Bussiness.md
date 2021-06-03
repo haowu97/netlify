@@ -77,9 +77,21 @@ upd: ""
 
 国际金融(900已收)
 
-quiz 6.11
+**quiz 6.11**
 
-考试 6.21
+Quiz1：Topic 1 & 2 (KOM Ch. 2 & 3).
+
+Quiz2：Topic 3 & Topic 4 (KOM Ch. 4 (15) & 5 (16)).
+
+Quiz3：Topic 5 (KOM Ch. 6 (17)).
+
+Quiz4：Topic 6 (KOM Ch. 7(18)).
+
+Quiz5：Topic 9 (KOM Ch. 10 (21)) on optimum currency area. 
+
+**考试 6.21**
+
+The questions in the exam will be based on **Topics 6-10 (“Fixed exchange rates and foreign exchange intervention” up to “Macroeconomic impact of COVID-19 pandemic”).** However, the material from Topics 1-5 will also be relevant, as the latter topics utilize knowledge and material learned in the earlier topics.
 
 
 
@@ -92,7 +104,7 @@ quiz 6.11
 | Third  Quiz  | April  29          | May  6    |
 | Fourth  Quiz | May  27            | June  3   |
 
-考试6.17
+**考试6.17**
 
 ## International Corporate Finance
 
