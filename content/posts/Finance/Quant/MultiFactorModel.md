@@ -15,3 +15,4 @@ categories: []
 
 文中提到的John Cochrane 教授的著作 Asset Pricing（Cochrane 2005）的[PDF高清版](https://wuhao.ink/Finance/AssetPricingCochrane2005.pdf)
 
+教授的[个人主页](https://www.johnhcochrane.com/asset-pricing)，里面有对应的课程视频，视频放在了Youtube上。
