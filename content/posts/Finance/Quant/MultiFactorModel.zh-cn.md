@@ -15,6 +15,14 @@ categories: []
 
 [重读Fama——从CAPM到Fama-Macbeth回归再到三因子 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/131533515)
 
+[Fama-Macbeth中的两步回归的原理分别是什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/53768802/answer/460969682)
+
 文中提到的John Cochrane 教授的著作 Asset Pricing（Cochrane 2005）的[PDF高清版](https://wuhao.ink/Finance/AssetPricingCochrane2005.pdf)
 
 教授的[个人主页](https://www.johnhcochrane.com/asset-pricing)，里面有对应的课程视频，视频放在了Youtube上。
+
+
+
+
+
+[实证资产定价理论新进展 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/334415399)

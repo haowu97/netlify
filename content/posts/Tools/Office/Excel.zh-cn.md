@@ -1,10 +1,14 @@
 ---
-title: "Excel使用技巧"
-date: 2021-02-10T16:07:16+08:00
+title: ""Excel使用技巧"
+date: 2021-06-03T00:07:05+08:00
+lastmod: 2021-06-04T00:07:05+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "Excel使用经验汇总"
+
+tags: ['办公软件','Office']
+categories: []
 ---
 
 ## 快捷键
