@@ -11,6 +11,20 @@ tags: []
 categories: []
 ---
 
+意群(S+V)：
+
+1. he is ....
+2. you are
+
+
+
+40min 精读，练习
+
+1. 20min知识点
+2. 20min练习
+
+20min 泛读(复习上节的知识点，以意群为主)
+
 ## 简单句
 
 单词的词性：
@@ -771,20 +785,173 @@ There is/are这种最基本的句型，其实就是一种倒装句：
 >
 > what you can do the job with
 
+### 定语从句简化
 
+#### 简化为分词
 
+##### 现在分词V-ing
 
+> The man (who wants to see you) is waiting outside.
+>
+> The man (wanting to see you] is waiting outside
+>
+> 
+>
+> Do you know the girl [who is sitting next to John]?
+> Do you know the girl [sitting next to John]?
 
-意群(S+V)：
+##### 过去分词V-en
 
-1. he is ....
-2. you are
+> Grapes [that are grown in the Champagne area] make the best wines.
+>
+> Grapes [grown in the Champagne area] make the best wines.
 
+#### 简化为形容词
 
+如果定语从句是S+V+C的句型，主语补语是形容词，那么简化过程中省略掉主语和be动词之后，剩下的就是单纯的形容词补语。例如：
 
-40min 精读，练习
+> A chimpanzee is an animal that is capable of reason.
+>
+> A chimpanzee is an animal [capable of reason).
+>
+> 
+>
+> The boy, [who is usually tall and heavy for his age], wants to be a basketball player.
+>
+> The boy, [usually tall and heavy for his age], wants to be a basketball player.
 
-1. 20min知识点
-2. 20min练习
+#### 简化为名词
 
-20min 泛读(复习上节的知识点，以意群为主)
+如果定语从句是S+V+C的句型，而主语补语是个名词词组，那么在简化过程中省略掉主语与be动词之后，剩下的部分就是那个名词词组。这个名词词组是原来的主语补语，也就是传统语法所谓的*同位语*。例如：
+
+> The Great Wall of China, [which is the largest man-made structure on earth], is awesome.
+>
+> The Great Wall of China, [the largest man-made structure on earth], is awesome.
+
+#### 简化为不定式to do
+
+> If you want a loan, our manager is the person [whom/who you should see].
+>
+> If you want a loan, our manager is the person [to see]
+>
+> 
+>
+> I'll show you the way [how you can start this machine].
+>
+> I'll show you the way [to start this machine].
+>
+> 
+>
+> I'm looking for a bike [that my wife can ride].
+>
+> I'm looking for a bike [for my wife to ride].
+
+##### 动词不定式的语态（辩析）
+
+> There is still one more person <u>to notify</u>.
+>
+> There is still one more person <u>to be notified</u>.
+>
+> 
+>
+> There's still one more person <u>whom we must notify</u>.
+>
+> There's still one more person <u>who must be notified</u>.
+
+更重要的是养成“学会去理解”这个习惯
+
+> 当John步出办公室时，一朝车撞到了
+>
+> When John stepped out of his office, a car hit him.
+>
+> When John stepped out of his office, he was hit by a car.
+>
+> Stepping out of his office, he was hit by a car
+
+这样可以使句子交得更加简洁精炼。所以我们首先得知道，知道后再去大量阅读训练，最后灵活运用。
+
+### 副词从句简化
+
+我们在学三大从句的时候讲过，只有副词从句的连接词有实际的意义。因此在简化副词从句时，是否要保留连接词，需要根据意思去体会。只有省略掉连接词之后句意仍然清楚的，才可以省略。(名词从句、定语从句简化的时候春是直接省掉).。
+
+**副词从句的主语必须和主句的主语相同才可以省略**，否则就是错误。
+
+#### 简化为分词
+
+##### 现在分词V-ing
+
+> When John stepped out of his office, a car hit him.
+>
+> When John stepped out of his office, he was hit by a car.
+>
+> Stepping out of his office, he was his by a car.
+>
+> 
+>
+> [after he graduated from college], he found himself unemployed.
+>
+> [after graduating from college], he found himself unemployed.
+
+把after省掉的话意思也算接近，能接受。如果想讲的更清楚一点的话，就留下after.
+
+##### 过去分词V-en
+
+如果副词从句里面的动词是be动词、后面用过去分词当补语（也就是传统语法所谓的被动态）
+
+> [After it was redecorated], the house looks more comfortable.
+>
+> [Redecorated], the house looks more comfortable.
+
+因为过去分词本身除了被动语之外，还可以表示完成状恋，所以 redecorated一个字就可以代表「已经被装修过之后」。連接词after不留，大家还是看得出来是「之后」，所以不需要保留它。
+
+##### 前后主语不同
+
+> [When the job was concluded], the secretary went home.
+>
+> [The job concluded], the secretary went home.
+
+#### 简化为To V
+
+副词从句的动词词组中如果包括语气助动词在内，简化的结果就会变成动词不定式。以下整理出一些常用的词组分别说明
+
+##### In order to
+
+> The student studied hard [in order to get scholarship].
+
+中括号内的部分由下句中的副词从句简化而来：
+
+> The student studied hard [in order that he could get a scholarship].
+
+中括号内的部分是副词从句、由从属连接词in order that连接，修饰主句动词study的目的。副词从句的主语he省略掉的话意思仍然清楚。再把助动词could简化为表示不定式的to。最后把无意义的连接词that省掉，结果就是 in order to get a scholarship这个简化从句。
+
+##### So as to
+
+> The boy left home early [so as to be in time tor the concert].
+
+这个男孩很早就出门，目的是要赶上演唱会。中括号内的简化副词从句可以还原如下
+
+> The boy left home early [so that he could be in time for the concert
+
+副词从句的连接词原本是so that，引导副词从句（括号内部分）修饰主句动词left的目的。将副词从句主语he省略、语气助动词 could简化为表示不定式的to之后，空洞的的连接词that也一并省略，改以 so as to来表达目的。
+
+其他类似的还有only to, too ... to。
+
+#### 简化为其他
+
+1、介词词组
+
+> [While he is on duty], the officer never drinks.
+>
+> [While on duty], the officer never drinks
+
+2、名词
+
+> [Although he is a famous professor], my friend is extremely naive in practical matters.
+>
+> [Although a famous professor], my friend is extremely naive in practical matters.
+
+3、形容词
+
+> [when he was younger], the man could play mahjong for three days straight.
+>
+> [When younger], the man could play mahjong for three days straight.

@@ -22,6 +22,10 @@ categories: ['概率论与数理统计']
 
 [Studentised Range Q](https://www.wuhao.ink/DistributionTable/StudentisedRangeQ.pdf)
 
+[$\chi^2$分布](https://www.wuhao.ink/DistributionTable/Chi2.pdf)
+
+[Durbin-Watson统计量](https://www.wuhao.ink/DistributionTable/DurbinWatsonStatistic.pdf)
+
 其他参考
 
 1. [附 录 (ustc.edu.cn)](http://staff.ustc.edu.cn/~jbs/applex3.pdf)
