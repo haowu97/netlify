@@ -1,10 +1,16 @@
+[上市途径与盈余质量——基于反向收购与IPO上市的对比分析 - MBA智库文档 (mbalib.com)](https://doc.mbalib.com/view/c6e0cce527beb7ca3738f187067ca732.html)
+
+[检索-中国知网 (cnki.net)](https://kns.cnki.net/kns8/defaultresult/index)
+
+[金融学院-对外经济贸易大学 (uibe.edu.cn)](http://sbf.uibe.edu.cn/szdw/xyjs/zc/67933.htm)
+
+[Gate Fees Shell Values and Regulatory Risk in Chinese Equity Markets.pdf (tsinghua.edu.cn)](http://policyconf.pbcsf.tsinghua.edu.cn/Public/Uploads/upload/Gate Fees Shell Values and Regulatory Risk in Chinese Equity Markets.pdf)
+
 ## 研究思路
 
 注册制，壳资源价值与财务困境溢价
 
 - 财务困境溢价：事件研究股票收益，地方银行贷款数据
-
-
 
 
 
@@ -14,22 +20,19 @@
 
 注册制实施对ST股票收益率带来的冲击：事件研究法
 
+- 冲击的影响因素分析：地方政府保护，
 
 
-壳价值测算(参考屈源育)，因素
 
-- 市值规模
-- 产权性质：国有企业的壳价值较小
+公告(A股全市场) or 具体实施(创业板)的影响分析(PSM-DID)
 
 
+
+壳价值测算(参考屈源育)
+
+非壳价值 = 总价值 - 壳价值
 
 壳因子对冲组合收益率的冲击
-
-
-
-在创业板中研究具体的实施冲击：
-
-- 对壳价值(壳价值测算)大小的冲击(PSM-DID)：年度数据 
 
 
 

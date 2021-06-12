@@ -47,7 +47,7 @@ categories: []
 
 [CSMAR](http://cn.gtadata.com)
 
-[锐思数据](http://db.resset.com/)
+[锐思数据](http://db.resset.com/)；[锐思数据（RESSET/DB）-厦门大学图书馆 (xmu.edu.cn)](https://library.xmu.edu.cn/info/1078/1089.htm)
 
 ## 县级经济数据
 

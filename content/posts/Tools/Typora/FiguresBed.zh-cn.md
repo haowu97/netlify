@@ -1,11 +1,11 @@
 ---
-title: "Typora配置Picgo+Github图床"
+title: "Typora配置Picgo图床"
 date: 2021-03-04T18:58:21+08:00
 lastmod: 2021-03-04T18:57:57+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "Github、Gitee图床"
 
 tags: ['Typora', '图床']
 categories: []
@@ -13,17 +13,17 @@ categories: []
 
 因为七牛云需要自己的域名，所以放弃使用，转而使用Github作为图床。
 
-## 1. Picgo+Github图床
+## Picgo+Github图床
 
 [Picgo下载地址](https://github.com/Molunerfinn/PicGo/releases)，下载exe文件然后安装即可
 
 [Github+Picgo图床配置方法](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github图床)(官方文档)
 
-### 1.1 补充说明
+### 补充说明
 
-自定义域名设定：jsDelivr     默认要直接在仓库名后面 @ ，所以真正其是 https://cdn.jsdelivr.net/gh/username/repo@branch/file 的形式。当然，如果你放在仓库的默认分支，还可以直接将 branch 这个关键字直接删了，变成 https://cdn.jsdelivr.net/gh/username/repo/file 一样能获取到！所以 GitHub 图床设置中将链接设置为 https://cdn.jsdelivr.net/gh/username/repo 
+自定义域名设定：jsDelivr  默认要直接在仓库名后面 @ ，所以真正其是 https://cdn.jsdelivr.net/gh/username/repo@branch/file 的形式。当然，如果你放在仓库的默认分支，还可以直接将 branch 这个关键字直接删了，变成 https://cdn.jsdelivr.net/gh/username/repo/file 一样能获取到！所以 GitHub 图床设置中将链接设置为 https://cdn.jsdelivr.net/gh/username/repo 
 
-### 1.2 Bug
+### Bug
 
 **图床指定的存储路径必须提前创建好**
 
@@ -37,16 +37,42 @@ categories: []
 
 https://blog.csdn.net/weixin_43571641/article/details/109817266
 
-## 2.Typora配置修改
+## Picgo+Gitee图床
+
+GitHub图床有时会上传不上去，因此采用Gitee作为替代方案，两者同时使用。相对于GitHub，Gitee的仓库有容量大小限制，但是胜在速度快。
+
+- Gitee 单仓库容量上限为 500M，用户总仓库容量为 5G
+- GitHub单个仓库建议在1G以内，总仓库容量应该不设限，具体参考[官方说明](https://docs.github.com/en/github/managing-large-files/working-with-large-files/what-is-my-disk-quota)
+
+个人对图床的使用强度较大，根据过去一年的经验，按照200M/年的速度计算，500M可以使用2.5年，5G可以用25年，问题不大。
+
+配置的详细教程参考[PicGo + Gitee(码云)实现markdown图床 - 简书 (jianshu.com)](https://www.jianshu.com/p/b69950a49ae2)，使用的插件为`gitee 2.0.3`，个人的配置信息如下：
+
+```json
+"owner": "henrywu97",
+"path": "Figs",
+"repo": "figbed"
+```
+
+注意，**owner中原来的大写字母也必须改写为小写**，否则上传的路径不正确。
+
+其他参考：
+
+1. [PicGo + Gitee 搭建免费的个人图床 - Skykguj 's Blog (sky390.cn)](https://blog.sky390.cn/archives/96/)
+2. [Typora+PicGo+Gitee实现图片上传_萌太浪-CSDN博客](https://blog.csdn.net/u013206259/article/details/105911868)
+
+## Typora配置修改
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210303191458.png)
 
 **配置信息示例**
 
 ```
-Henrry-Wu/FigBed
+henrywu97/FigBed
 master
 Figs/
-https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed
+https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master
 ```
+
+
 

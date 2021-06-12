@@ -11,33 +11,6 @@ tags: []
 categories: []
 ---
 
-存在与地下的水资源是最多的饮用水来源
-
-蓄水池
-
-- 有孔率
-- 渗透性
-
-p3
-
-sorting
-
-compaction
-
-不同岩层的储水性能分析
-
-p4
-
-water table
-
-vadose zone
-
-p5
-
-water table intersect
-
-
-
 置顶
 
 **月底(考试前十天)考虑转考**
@@ -174,7 +147,7 @@ APP: 每日英语听力，小站托福，考满分，
 
 
 
-tingxie材料[高分新托福120系列模考软](http://bbs.gter.net/thread-1483952-1-1.html)
+材料[高分新托福120系列模考软](http://bbs.gter.net/thread-1483952-1-1.html)
 
 ## 口语
 

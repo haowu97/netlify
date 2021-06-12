@@ -10,7 +10,11 @@
 
 但是，随着新股发行改革呼声的高涨，2013 年11 月，十八届三中全会终于明确提出要推进股票发行注册制改革。随后，**证监会规定借壳上市标准与IPO 等同且不能在创业板借壳上市，提高了借壳门槛**。
 
+[借壳上市审核严格执行首次公开发行股票上市标准 _财政金融_中国政府网 (www.gov.cn)](http://www.gov.cn/zhuanti/2013-11/30/content_2604158.htm)
+
 2019年10月18日，证监会正式发布《关于修改上市公司重大资产重组管理办法的决定》（以下简称《重组办法》），在经历了三年的“史上最严新规”后，**并购重组新规放开了创业板“借壳”**，允许符合国家战略的高新技术产业和战略性新兴产业相关资产在创业板重组上市。
+
+[【第159号令】关于修改《上市公司重大资产重组管理办法》的决定 (csrc.gov.cn)](http://www.csrc.gov.cn/pub/zjhpublic/zjh/201910/t20191018_364680.htm)
 
 创业板借壳市场似乎并未迎来“春天”。截至2020年11月，也就是新规发布后的一年，仅有几家上市公司试图第一个“吃螃蟹”，但**创业板仍未出现成功借壳上市的案例**。
 
@@ -29,7 +33,7 @@
 科创板、创业板上市公司的市盈率分别普遍超过60倍和40倍，远远超过并购重组给予的估值。随着科创板和创业板注册制的大力推进，优质资产会越来越倾向IPO。
 
 
-在欧美成熟的资本市场，壳交易是非上市公司谋求 高效率、低成本、快速上市的集资方式，但是我国的情况 却不同。由于我国上市资格的稀缺，壳资源不仅成为许多非上市企业的借壳目标，也存在很多亏损企业为了“保壳”而造就的“ST 妖股”现象，即实施“212 步伐”，连续亏损两年再盈利一年，总能在濒临暂停上市或退市的时候扭亏。
+在欧美成熟的资本市场，壳交易是非上市公司谋求高效率、低成本、快速上市的集资方式，但是我国的情况 却不同。由于我国上市资格的稀缺，壳资源不仅成为许多非上市企业的借壳目标，也存在很多亏损企业为了“保壳”而造就的“ST 妖股”现象，即实施“212 步伐”，连续亏损两年再盈利一年，总能在濒临暂停上市或退市的时候扭亏。
 
 
 
@@ -37,13 +41,7 @@
 
 上市公司股票交易被实施退市风险警示的，在股票简称前冠以“\*ST”字样，被实施其他风险警示的，在股票简称前冠以“ST”字样，以区别于其他股票。公司同时存在退市风险警示和其他风险警示情形的，在公司股票简称前冠以“\*ST”字样。
 
-A **reverse merger**, also referred to as a “reverse takeover” or a “backdoor listing,” is a process whereby a private company is merged into a public company and the private company’s ownership team takes over control of the combined publicly traded company. At the time of the merger, the public company may be an empty “shell” (i.e., a dormant and non-operating entity) or it may have an existing set of assets and liabilities.
 
-Shell values reflect the marginal benefit/cost to the firms engaged in a RM, they are a “shadow price” for the economic cost of gaining access to China’s public equity market.
-
-This extreme imbalance between supply and demand gives rise to listed firms’ “shell value,” which reflects a firm’s scarce and valuable public listing status in China.
-
-In the first stage, we manually collect detailed information on a comprehensive sample of reverse mergers (RMs) in China that were completed in January 2007 to April 2016.
 
 
 
