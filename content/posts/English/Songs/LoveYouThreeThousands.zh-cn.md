@@ -13,7 +13,7 @@ categories: []
 
 {{< music "https://music.163.com/#/song?id=1396162013" >}}
 
-歌曲结构：
+### 歌曲结构
 
 - Intro--->Verse 1--->Pre-chorus 1--->Chorus
 - Verse 2--->Pre-chorus 2--->Chorus
@@ -21,7 +21,7 @@ categories: []
 - Chorus可参考Chorus
 - Outro参考Bridge
 
-分段解读
+### 图文教学
 
 Intro
 
@@ -46,6 +46,8 @@ Pre-chorus 2
 Bridge
 
 ![image-20210614222624393](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614222625.png)
+
+### 视频教学
 
 {{< bilibili id=BV1DJ411m7ec >}}
 
