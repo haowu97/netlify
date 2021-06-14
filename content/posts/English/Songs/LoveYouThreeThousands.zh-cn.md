@@ -48,3 +48,6 @@ Pre-chorus 2
 Bridge
 
 ![image-20210614222624393](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614222625.png)
+
+{{< bilibili id=BV1DJ411m7ec >}}
+
