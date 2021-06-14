@@ -37,7 +37,7 @@ Pre-chorus 1
 
 Verse 2
 
-![image-20210614221555157](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210614221555157.png)
+![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614231927.png)
 
 Pre-chorus 2
 
