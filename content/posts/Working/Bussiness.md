@@ -104,7 +104,9 @@ The questions in the exam will be based on **Topics 6-10 (“Fixed exchange rate
 | Third  Quiz  | April  29          | May  6    |
 | Fourth  Quiz | May  27            | June  3   |
 
-**考试6.17**
+**考试6.17，早上7：00**
+
+**考试6.18，早上7：00**
 
 ## International Corporate Finance
 

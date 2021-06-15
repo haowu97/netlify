@@ -44,6 +44,22 @@
 
 2020年12月31日，沪深交易所分别正式发布**退市新规**，并于发布之日起实施，中国资本市场“史上最严”退市制度正式落地。
 
+### 政策文件
+
+科创板：
+
+1. [发行承销 | 上海证券交易所 (sse.com.cn)](http://www.sse.com.cn/lawandrules/sselawsrules/stock/star/issue/)
+2. [关于发布《上海证券交易所科创板股票发行与承销实施办法》的通知 | 上海证券交易所 (sse.com.cn)](http://www.sse.com.cn/lawandrules/sserules/tib/issue/c/4729485.shtml)
+
+创业板：
+
+1. [关于发布《深圳证券交易所创业板首次公开发行证券发行与承销业务实施细则》的通知 (szse.cn)](http://www.szse.cn/lawrules/rule/allrules/bussiness/t20200612_578374.html)
+
+主板：
+
+1. [发行承销 | 上海证券交易所 (sse.com.cn)](http://www.sse.com.cn/lawandrules/sselawsrules/stock/main/issue/)
+2. [深圳证券交易所-主板股票 (szse.cn)](http://www.szse.cn/lawrules/rule/stock/main/index.html)
+
 ## 未来趋势
 
 #### 2. 严审核、高质量成为A股IPO发行主旋律
