@@ -48,8 +48,61 @@ with respect to something
 
 
 
-## 口语
+## 地道表达
 
 give it up
 
 - 
+
+that kind of thing
+
+- 类似地事情
+
+what's popping/ what's up
+
+- 你好
+- 发生了什么
+
+that's pretty legit
+
+- 厉害、牛皮
+
+the vibe
+
+- 气氛、氛围
+
+pop up
+
+- 突然出现，突然闪过(想法)
+
+pop in my mind
+
+- 从脑中闪过
+
+down-to-earth
+
+- 接地气
+
+- 
+
+what brings you to sth
+
+- 什么风把你吹来了
+
+## 发音技巧
+
+I'(ve) been
+
+- ve可以不发音
+
+I love (h)er/ (h)im
+
+- 辅音后的h常常不发音
+
+LA/ NBA/ CEO
+
+- 后两个字幕可以连读
+
+actually
+
+- ash-ly
