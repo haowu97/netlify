@@ -4,9 +4,9 @@ date: 2021-06-16T21:17:53+08:00
 lastmod: 2021-06-17T21:17:53+08:00
 draft: false
 
-description: "John B. Taylor
+description: ""
+upd: "John B. Taylor 
 Stanford University"
-upd: ""
 
 tags: ['Notes']
 categories: ['Monetary Finance']
