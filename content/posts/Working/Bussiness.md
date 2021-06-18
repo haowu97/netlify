@@ -42,16 +42,19 @@ upd: ""
 
 2021年
 
-| 日期  | 科目     | 收入     |
-| ----- | -------- | -------- |
-| 1.14  | 投资组合 | 600      |
-| 1.25  | 衍生品   | 300      |
-| 2.9   | 投资组合 | 600      |
-| 2.12  | 股票分析 | 1800     |
-| 2.12  | 期权策略 | 1500     |
-| 3.19  | 金融工程 | 150      |
-| 4.21  | 国际金融 | 600      |
-| Total |          | 17751.44 |
+| 日期  | 科目                              | 收入     |
+| ----- | --------------------------------- | -------- |
+| 1.14  | 投资组合                          | 600      |
+| 1.25  | 衍生品                            | 300      |
+| 2.9   | 投资组合                          | 600      |
+| 2.12  | 股票分析                          | 1800     |
+| 2.12  | 期权策略                          | 1500     |
+| 3.19  | 金融工程                          | 150      |
+| 4.21  | 国际金融                          | 600      |
+| 6.9   | Statistics for Business & Econ    | 750      |
+| 6.17  | Quantitative Methods In Economics | 1200     |
+| 6.18  | Statistics for Business & Econ    | 750      |
+| Total |                                   | 20451.44 |
 
 ## 应收
 
@@ -60,18 +63,6 @@ upd: ""
 悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
 
 ## 待做
-
-
-
-
-
-
-
-大仙贝：
-
-**Statistics for Business & Econ（6月9日，下午两点，已收750￥）**
-
-
 
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
 
@@ -94,17 +85,6 @@ Quiz5：Topic 9 (KOM Ch. 10 (21)) on optimum currency area.
 The questions in the exam will be based on **Topics 6-10 (“Fixed exchange rates and foreign exchange intervention” up to “Macroeconomic impact of COVID-19 pandemic”).** However, the material from Topics 1-5 will also be relevant, as the latter topics utilize knowledge and material learned in the earlier topics.
 
 
-
-基础经济数学(1200)
-
-|              | Will  be Posted on | Due  Date |
-| ------------ | ------------------ | --------- |
-| First  Quiz  | March  18          | March  25 |
-| Second  Quiz | April  1           | April  15 |
-| Third  Quiz  | April  29          | May  6    |
-| Fourth  Quiz | May  27            | June  3   |
-
-**考试6.17，早上7：00**
 
 统计：**考试6.18，早上7：00**
 

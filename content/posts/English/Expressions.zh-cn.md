@@ -23,6 +23,10 @@ give up on something
 
 - 放弃，比give up情感更加强烈
 
+have a good grasp of sth
+
+- 掌握了sth
+
 
 
 play an important role in something
@@ -53,6 +57,10 @@ with respect to something
 give it up
 
 - 
+
+have always been into sth
+
+- 感兴趣
 
 that kind of thing
 
