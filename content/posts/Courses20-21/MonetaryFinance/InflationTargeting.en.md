@@ -8,8 +8,8 @@ description: "John B. Taylor
 Stanford University"
 upd: ""
 
-tags: ['笔记']
-categories: ['货币金融学']
+tags: ['Notes']
+categories: ['Monetary Finance']
 ---
 
 Presented at the 12th Meeting of the Latin American Network of Central Banks and Finance Ministries
