@@ -173,7 +173,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 相比于某宝买心，官方的蜡烛太贵了！
 
-![QQ图片202106191703421](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210619170908.png)
+![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210619171843.png)
 
 ### 图像模式
 
