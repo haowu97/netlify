@@ -13,9 +13,8 @@ categories: ['Office办公指南']
 
 官方正版软件是收费的，这里提供了Windows的Abbyy FineReader 15**免安装破解版**，解压即可直接使用
 
-> 链接：https://pan.baidu.com/s/1oawIykvkCLJrLoopOfyAGg 
->
-> 提取码：c37z 
+- 链接：https://pan.baidu.com/s/1oawIykvkCLJrLoopOfyAGg 
+- 提取码：c37z 
 
 [有没有一款好用的，可以识别表格的OCR？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/317339143)
 
