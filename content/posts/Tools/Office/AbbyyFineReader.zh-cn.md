@@ -16,9 +16,10 @@ categories: ['Office办公指南']
 - 链接: https://pan.baidu.com/s/1oawIykvkCLJrLoopOfyAGg 
 - 提取码：c37z 
 
-[有没有一款好用的，可以识别表格的OCR？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/317339143)
+参考：
 
-
+1. [有没有一款好用的，可以识别表格的OCR？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/317339143)
+2. [如何用ABBYY FineReader 识别表格 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/269901769)
 
 
 
