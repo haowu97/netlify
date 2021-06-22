@@ -177,7 +177,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 ### 图像模式
 
-![44a2b323ccc7e2411a85c21c8e3b70ba](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206141233.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210206141233.jpg)
 
 ### 好友树
 
@@ -202,4 +202,6 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 | 蜡烛礼包(15白+2白+橙色斗篷)   | 30   |
 | 蜡烛礼包(64白+12白) x 2       | 128  |
 | 总计                          | 846  |
+
+UID: faafe44d-f733-4813-8db3-37d88437c1f6
 

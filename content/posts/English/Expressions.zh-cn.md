@@ -11,6 +11,12 @@ tags: ['英语','TOEFL']
 categories: []
 ---
 
+be fuelled by
+
+- 由于...
+
+
+
 gentle upward trend
 
 - 温和的上升趋势

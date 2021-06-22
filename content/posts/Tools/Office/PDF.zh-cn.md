@@ -8,7 +8,7 @@ description: ""
 upd: "Acrobat导出高清图片，PDF压缩"
 
 tags: ['办公软件']
-categories: []
+categories: ['Office办公指南']
 ---
 
 [Acrobat导出高清图片](https://www.duote.com/tech/9/25042.html)

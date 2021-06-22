@@ -54,7 +54,8 @@ upd: ""
 | 6.9   | Statistics for Business & Econ    | 750      |
 | 6.17  | Quantitative Methods In Economics | 1200     |
 | 6.18  | Statistics for Business & Econ    | 750      |
-| Total |                                   | 20451.44 |
+| 6.21  | International Finance             | 900      |
+| Total |                                   | 21351.44 |
 
 ## 应收
 
@@ -65,28 +66,6 @@ upd: ""
 ## 待做
 
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
-
-国际金融(900已收)
-
-**quiz 6.11**
-
-Quiz1：Topic 1 & 2 (KOM Ch. 2 & 3).
-
-Quiz2：Topic 3 & Topic 4 (KOM Ch. 4 (15) & 5 (16)).
-
-Quiz3：Topic 5 (KOM Ch. 6 (17)).
-
-Quiz4：Topic 6 (KOM Ch. 7(18)).
-
-Quiz5：Topic 9 (KOM Ch. 10 (21)) on optimum currency area. 
-
-**考试 6.21**
-
-The questions in the exam will be based on **Topics 6-10 (“Fixed exchange rates and foreign exchange intervention” up to “Macroeconomic impact of COVID-19 pandemic”).** However, the material from Topics 1-5 will also be relevant, as the latter topics utilize knowledge and material learned in the earlier topics.
-
-
-
-统计：**考试6.18，早上7：00**
 
 ## International Corporate Finance
 

@@ -8,7 +8,7 @@ description: ""
 upd: "word模板制作"
 
 tags: ['办公软件']
-categories: []
+categories: ['Office办公指南']
 ---
 
 [一劳永逸，打造自己的word常规模板](https://zhuanlan.zhihu.com/p/22737822)

@@ -8,7 +8,7 @@ description: ""
 upd: ""
 
 tags: ['办公软件','Office']
-categories: []
+categories: ['Office办公指南']
 ---
 
 [Visio2019中文版软件和安装教程](https://mp.weixin.qq.com/s/R-5ZL6Ap5Hcmmc8Zfxoc0A)

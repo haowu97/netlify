@@ -8,7 +8,7 @@ description: ""
 upd: ""
 
 tags: ['办公软件','Office']
-categories: []
+categories: ['Office办公指南']
 ---
 
 官方PPT/ Word/ Excel模板：[OfficePLUS，微软Office官方在线模板网站！](http://www.officeplus.cn/Template/Home.shtml)
