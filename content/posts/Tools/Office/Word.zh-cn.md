@@ -23,6 +23,10 @@ categories: ['Office办公指南']
 
 [目录格式调整](https://blog.csdn.net/Kyrie001/article/details/80368778)
 
+[Word如何在表格中添加斜线 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/269097744)
+
+
+
 ## 粘贴为纯文本的快捷键
 
 `Ctrl+v`粘贴默认使用来源格式，按`Ctrl`会出现粘贴选项，按`T`即可变为纯文本格式。
