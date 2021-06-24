@@ -13,6 +13,17 @@ categories: []
 
 因为七牛云需要自己的域名，所以放弃使用，转而使用Github作为图床。
 
+最近Github的图床不知道为啥在Picgo中也没法上传了(尝试了很多次找不到Bug)，所以转而使用Gitee图床了。
+
+尝试了[Markdown Nice](https://editor.mdnice.com/)平台的Github图床成功了(**需要科学上网**)。
+
+现在：
+
+1. 对于<1M的图片，用Gitee+Picg(科学上网)作为图床
+2. 对于>1M的图片，用GitHub+Markdown Nice作为图床(Gitee大于1M的图片无法直接显示)
+
+
+
 ## Picgo+Github图床
 
 [Picgo下载地址](https://github.com/Molunerfinn/PicGo/releases)，下载exe文件然后安装即可
