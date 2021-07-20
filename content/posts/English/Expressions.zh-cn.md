@@ -11,6 +11,12 @@ tags: ['英语','TOEFL']
 categories: []
 ---
 
+add spice to sth
+
+- 给sth增光添彩
+
+
+
 be fuelled by
 
 - 由于...
@@ -41,6 +47,10 @@ play an important role in something
 
 
 
+Spice sth up
+
+
+
 throw/shed/cast light on something
 
 - 〔提供新资料〕使某事物更容易理解
@@ -55,6 +65,24 @@ with respect to something
 
 - 与某事有关
 - 关于某事，谈到某事〔用于另起话题或回到之前的话题〕
+
+be too much of sth
+
+- 过于...
+- I'm too much of a perfectionist.
+
+can only dimly imagine
+
+- 想象不到
+
+be-all end-all
+
+- most important things, 最重要的事情
+
+There are very few things more adj than n.
+
+- n. 是最adj的事情
+- 
 
 
 
@@ -84,6 +112,10 @@ that's pretty legit
 the vibe
 
 - 气氛、氛围
+
+
+
+on the fence about sth
 
 pop up
 

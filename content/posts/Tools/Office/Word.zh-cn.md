@@ -25,7 +25,7 @@ categories: ['Office办公指南']
 
 [Word如何在表格中添加斜线 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/269097744)
 
-
+[怎么删除Microsoft Word页眉中的横线？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/114071317)
 
 ## 粘贴为纯文本的快捷键
 

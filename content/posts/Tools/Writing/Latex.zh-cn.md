@@ -9,7 +9,7 @@ description: ""
 upd: "Latex速查，Beamer教程"
 
 tags: ['笔记', 'Latex']
-categories: []
+categories: ['实用软件']
 ---
 
 ## 公式

@@ -6,11 +6,25 @@
 
 2001 年以后进入了核准制“严进宽管”的模式。然而，随着我国资本市场的发展，这种严格的准入制度使“上市资格”愈发稀缺，加之IPO漫长的排队时间和高昂的排队成本，让一些拥有上市资格的壳公司得到了价值支持，于是A 股市场不断上演ST 股的“不死鸟神话”。
 
+2011年之前，民营企业通过RM在中国上市的资格没有明确规定。对于在此期间使用 RM 进入公开市场的公司，隐含的期望是它们的质量应该与 IPO 公司相当。
+
+*2011年05月13日*，[关于《关于修改上市公司重大资产重组与配套融资相关规定的决定（征求意见稿）》公开征求意见的通知 (csrc.gov.cn)](http://www.csrc.gov.cn/pub/zjhpublic/G00306201/201105/t20110513_195492.htm)，首次明确了逆向收购的范围、条件和方法。
+
 从**2012年第三季度至2013 年底，A 股经历了史上最长的一次IPO 暂停**，在沪深两市排队等待IPO 的企业达七百多家，很多急于上市的企业纷纷另谋出路，借壳上市就成为了很好的选择，“壳资源”显得异常珍贵。**2013 年以来，共有29家上市公司发布了被“借壳”公告，在A 股市场掀起了一股曲线上市的热潮**，而濒临暂停上市或退市的ST 公司也急于通过出售资产、股权，重大重组和获取政府补助等方式实现保壳。
 
 但是，随着新股发行改革呼声的高涨，2013 年11 月，十八届三中全会终于明确提出要推进股票发行注册制改革。随后，**证监会规定借壳上市标准与IPO 等同且不能在创业板借壳上市，提高了借壳门槛**。
 
+*2013年11月30日*，[借壳上市审核严格执行首次公开发行股票上市标准 (csrc.gov.cn)](http://www.csrc.gov.cn/pub/newsite/zjhxwfb/xwdd/201311/t20131130_239075.html)，根据这项新政策，参与 RM 的非上市公司必须满足 IPO 要求。
+
+*2016年6月17日*，[关于就修改《上市公司重大资产重组管理办法》公开征求意见的通知 (csrc.gov.cn)](http://www.csrc.gov.cn/pub/zjhpublic/G00306201/201606/t20160617_299035.htm)，进一步收紧了RM监管。
+
 [借壳上市审核严格执行首次公开发行股票上市标准 _财政金融_中国政府网 (www.gov.cn)](http://www.gov.cn/zhuanti/2013-11/30/content_2604158.htm)
+
+*2014年5月17日*，[中国证监会研究部署学习贯彻《国务院关于进一步促进资本市场健康发展的若干意见》的相关工作 (csrc.gov.cn)](http://www.csrc.gov.cn/pub/newsite/zjhxwfb/xwdd/201405/t20140529_255106.html)。证监会主席肖刚宣布，证监会将控制IPO节奏以稳定市场预期。市场认为这是收紧IPO的明确信号。
+
+*2016年3月16日*，十二届全国人大四次全会根据《国民经济和社会发展“十三五”规划草案》的建议，删除了设立战略新兴委员会的方案。中国证监会。它为许多想要上市的未上市公司关闭了一扇门。
+
+*2016年9月8日*，证监会发布公告，为贯彻落实《中共中央国务院关于打赢脱贫攻坚战的决定》的政策，优先加快推进贫困地区企业IPO申请。这导致了很大的不确定性，对于大多数未上市公司来说，这被视为一个不好的信号，因为它们不在贫困地区。[【第19号公告】《中国证监会关于发挥资本市场作用服务国家脱贫攻坚战略的意见》 (csrc.gov.cn)](http://www.csrc.gov.cn/pub/zjhpublic/G00306201/201609/t20160909_303259.htm)
 
 2019年10月18日，证监会正式发布《关于修改上市公司重大资产重组管理办法的决定》（以下简称《重组办法》），在经历了三年的“史上最严新规”后，**并购重组新规放开了创业板“借壳”**，允许符合国家战略的高新技术产业和战略性新兴产业相关资产在创业板重组上市。
 
@@ -46,6 +60,35 @@
 
 
 在美国，借壳上市主要发生在场外市场（OTCBB）和粉单市场（Pinksheet）而不是主板市场，这些企业绝大部分不满足在主板上市的条件或者难以支付较 高的 IPO 承销费用。基于美国资本市场的实证证据表明：借壳上市的企业与 IPO 企业相比普遍规模较小、成立时间较短、盈利能力较差、信息不对称程度较高（Adjei et al.，2008；Floros and Sapp，2011）。也就是说，美国的资本市场上企业在选择上市方式时存在基于资产质量的自我选择，好的企业会通过 IPO 上市，而差的企业更倾向于采用借壳的方式上市（Carpentier et al.，2012；Poulsen and Stegemoller，2008）。[管理世界 2018 屈源育]
+
+
+
+## Lee et JCF 2019
+
+题目：Going public in China: Reverse mergers versus IPOs
+
+上市公司途径选择：
+
+两种上市方式的公司的比对(描述统计、OLS)
+
+RM firms are more profitable and growing faster than their IPO counterparts. They also tend to be earlier in their developmental life cycle. Contrary to prior evidence on Chinese RMs that choose to list in the U.S., we find no sign that Chinese RM firms choosing to list in the domestic market exhibit worse financial reporting quality.
+Furthermore, consistent with previous findings on the effect of political connectedness on IPO outcomes, we show that RM firms are less politically connected than matched IPO firms. This last finding suggests that firms with fewer political connections are aware of the disadvantage they face in the IPO process and are more likely to enter the market through a costly RM process.
+
+
+
+Post-listing performance：
+
+
+
+## Lee et al_2017
+
+Reverse Mergers, Shell Value, and Regulation Risk in Chinese Equity Markets
+
+We use several ways to cross-validate the THS sample. First, we get a **RM sample from WIND**, another major financial data vendor in China. We find that the **RM in THS is more comprehensive and accurate**. We also check the data from CSMAR. We find the **CSMAR data often misclassify or miss the shell transactions**. Second, we collect the financial analyst reports on shell firms, and we also consult practitioners at investment banks. We find the THS sample is comprehensive and accurate.
+
+
+
+
 
 
 

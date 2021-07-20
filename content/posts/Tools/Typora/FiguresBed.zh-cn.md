@@ -48,6 +48,16 @@ categories: []
 
 https://blog.csdn.net/weixin_43571641/article/details/109817266
 
+
+
+图片无法访问，打开网页后提示：
+
+```
+Failed to fetch version info for xxx/xxx.
+```
+
+解决方法：可能是因为太久没有使用GitHub，登陆并访问GitHub图床仓库后，即可解决。
+
 ## Picgo+Gitee图床
 
 GitHub图床有时会上传不上去，因此采用Gitee作为替代方案，两者同时使用。相对于GitHub，Gitee的仓库有容量大小限制，但是胜在速度快。

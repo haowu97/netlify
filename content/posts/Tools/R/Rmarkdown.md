@@ -1,4 +1,15 @@
-Rmarkdown
+---
+title: "Rmarkdown配置与使用指南"
+date: 2021-07-051T11:07:06+08:00
+lastmod: 2021-07-06T16:07:06+08:00
+draft: false
+
+description: ""
+upd: "R语言的编辑神器"
+
+tags: ['R']
+categories: []
+---
 
 如果需要插入一段 r 代码，可用如下形式：
 

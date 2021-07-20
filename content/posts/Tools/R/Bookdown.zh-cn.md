@@ -1,3 +1,16 @@
+---
+title: "Bookdown配置与使用指南"
+date: 2021-07-051T11:07:06+08:00
+lastmod: 2021-07-06T16:07:06+08:00
+draft: false
+
+description: ""
+upd: "R语言的写书神器"
+
+tags: ['R']
+categories: []
+---
+
 
 
 Bookdown可以将一系列的`.Rmd` 文档连在一起然后输出一个分章节的完整文件，或者输出一个长文档(支持输出PDF、Gitbook、EPUB、Word 文档等格式)，与此同时还带来了诸如交叉引用等更多的功能。
