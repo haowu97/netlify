@@ -96,6 +96,18 @@ categories: []
 
 ![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210720143825.jpg)
 
+#### 总攻略
+
+共有三个金人，烛火若干。
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210720213521.jpg)
+
+#### 礼包概述
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210720213818.jpg)
+
+
+
 #### 全季消费
 
 ![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210720143858.jpg)
