@@ -41,3 +41,12 @@ acrobat 文档无法保存。读取本文档时出现问题(14)。解决方法�
 参考：
 
 1. [Win10系统下Adobe Reader打开PDF出现错误14怎么解决－系统城 (xitongcheng.com)](http://www.xitongcheng.com/jiaocheng/win10_article_44555.html)
+
+## PDF转换
+
+[EPUB轉PDF轉換器。在线自由 — Convertio](https://convertio.co/zh/epub-pdf/)：亲测最好用
+
+[EPUB to PDF - Online Converter](https://www.onlineconverter.com/epub-to-pdf)
+
+图书管理神器Calibre也可以转。
+

@@ -20,8 +20,9 @@ azw3、mobi可以打开，epub打不开。
 免费电子书资源网站：
 
 1. [Jiumo Search 鸠摩搜索 - 文档搜索引擎 (jiumodiary.com)](https://www.jiumodiary.com/)：YYDS!
-2. [亚马逊免费电子书](https://www.amazon.cn/Kindle免费电子书/b/ref=sa_menu_kindle_l3_b116175071?ie=UTF8&node=116175071)
-3. [琳宝书屋](https://linbaoshuwu.com/)
+2. [Electronic library. Download books free. Finding books (4lib.org)](https://4lib.org/)：英文书搜索YYDS！
+3. [亚马逊免费电子书](https://www.amazon.cn/Kindle免费电子书/b/ref=sa_menu_kindle_l3_b116175071?ie=UTF8&node=116175071)
+4. [琳宝书屋](https://linbaoshuwu.com/)
 
 ## Calibre
 
@@ -37,3 +38,6 @@ azw3、mobi可以打开，epub打不开。
 
 1. [最强大的本地电子书管理工具：Calibre 使用指南 - 少数派 (sspai.com)](https://sspai.com/post/43843)
 2. [calibre User Manual — calibre 5.21.0 documentation (calibre-ebook.com)](https://manual.calibre-ebook.com/)
+
+
+

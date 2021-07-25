@@ -55,7 +55,8 @@ upd: ""
 | 6.17  | Quantitative Methods In Economics | 1200     |
 | 6.18  | Statistics for Business & Econ    | 750      |
 | 6.21  | International Finance             | 900      |
-| Total |                                   | 21351.44 |
+| 7.25  | International Finance             | 566      |
+| Total |                                   | 21937.44 |
 
 ## 应收
 
