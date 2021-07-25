@@ -8,7 +8,7 @@ description: ""
 upd: "英语学习方法论介绍，主要来自B站Up主昂克英文君"
 
 tags: []
-categories: []
+categories: ['English基础']
 ---
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210601101327.png)

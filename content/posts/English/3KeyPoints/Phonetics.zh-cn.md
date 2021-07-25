@@ -1,17 +1,28 @@
 ---
-title: "音标"
+title: "音标学习资料、音标体系介绍与对比"
 date: 2021-07-21T14:14:45+08:00
 lastmod: 2021-07-22T14:14:45+08:00
 draft: false
 
 description: ""
-upd: "关于音标应该知道的事情"
+upd: "学习资源分享；关于音标应该知道的事情"
 
 tags: []
-categories: ['English']
+categories: ['English基础']
 ---
 
-## 音标类型
+音标最适合的学习材料包括：
+
+1. 教材（KK音标）：《赖世雄美语音标》
+    1. [扫描版PDF](https://www.wuhao.ink/English/IntroductoryPhonetics.pdf)
+    2. 对应的Bi站音频
+        1. [简略版_bilibili](https://www.bilibili.com/video/BV1sD4y1D7tG)
+        2. [详细版_bilibili](https://www.bilibili.com/video/BV1ua4y1E7j9)
+2. 视频教程（DJ音标）：[全网最适合中国人的免费音标课(纯干货, 超详细!)_bilibili](https://www.bilibili.com/video/BV1iV411z7Nj)
+
+在学习上述材料之前，我们需要对国际上主流的音标体系做一定的了解：
+
+## 音标体系
 
 ### IPA国际音标
 
@@ -39,7 +50,7 @@ DJ音标跟英国语音学家DanielJones有关(名字首字母D和」)。他根�
 
 总的来说，尽管1949年前后在我国各大中学校任教的美国人或留美教授为数不少，但以Jones英语标准发音RP理论为准绳的我国英语语音教学体系，从未受到过根本动摇。RP一直是我国英语教学中阐述最为清楚、教材使用最广、录音资料最丰富的占主流的语音体系。
 
-所以，狭义的国际音标就是指的DJ音标。我们从小学习的也是DJ音标
+所以，狭义的国际音标就是指的DJ音标。我们从小学习的也是DJ音标。
 
 [DJ音标简介和示范 | 英语兔 (yingyutu.com)](https://www.yingyutu.com/dj)
 
