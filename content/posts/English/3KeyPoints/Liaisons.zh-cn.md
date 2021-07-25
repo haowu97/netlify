@@ -23,7 +23,7 @@ Take it all：
 2. k不送气
 3. flap t
 
-<iframe src="//player.bilibili.com/player.html?aid=19992217&bvid=BV1WW41147bm&cid=289474567&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+{{< bilibili id=BV1WW41147bm p=1 >}}
 
-
+<iframe src="//player.bilibili.com/player.html?aid=19992217&bvid=BV1WW41147bm&cid=289474567&page=1" scrolling="yes" border="2" frameborder="yes" framespacing="2" allowfullscreen="yes"> </iframe>
 
