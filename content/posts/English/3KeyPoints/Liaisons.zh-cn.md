@@ -11,7 +11,7 @@ tags: []
 categories: ['English基础']
 ---
 
-## Linking: 辅元连读
+## 辅元连读：Linking
 
 字尾辅音+字首元音：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
 
@@ -29,7 +29,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=1 >}}
 
-## Insertion: 元+元
+## 元+元：Insertion:
 
 
 
@@ -45,7 +45,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=2 >}}
 
-## Germination：辅辅略读
+## 辅辅略读：Germination
 
 *相同的辅音省略*：某字字尾是辅音，之后另有一字，而其字首亦有相同的辅音时，通常前者的辅音可省略，只念后者的辅音。这种情形常发生在[p]、[t]、[k]、[d]、[g]等辅音出现的时候。例：
 
@@ -73,9 +73,9 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=3 >}}
 
-## Germination：辅辅吞音
+## 辅辅吞音：Germination
 
-*吞音*（也叫失爆，失去爆破，不完全爆破，无声除阻）：在正常速度或快速的对话中，字尾有爆破音（[t]与[d]、[k]与[g]、[p]与[ b]）时，通常不会把爆破音的发音清楚地念出来，而是快要念出来时，马上憋气顿息，因此字尾爆破音的发音常常是听不到的。例：
+*失爆*（也叫*失去爆破*，*不完全爆破*，*无声除阻*）：在正常速度或快速的对话中，字尾有爆破音（[t]与[d]、[k]与[g]、[p]与[ b]）时，通常不会把爆破音的发音清楚地念出来，而是快要念出来时，马上憋气顿息，因此字尾爆破音的发音常常是听不到的。例：
 
 1. that fly
 2. top shelf
@@ -83,3 +83,21 @@ categories: ['English基础']
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=4)中也有详细讲解：
 
 {{< bilibili id=BV1WW41147bm p=4 >}}
+
+## 吞音：Glottal stop
+
+*声门闭塞音*，也叫*喉塞音*，指的是塞音（也即爆破音）发音时，只阻塞气流，不发出声音。具体到英语中，/t/ 和 /d/ 后面接 /n/ 或 /ən/ 时，/t/ 和 /d/要发喉塞音。例：
+
+1. button
+2. mountain
+3. student
+4. important
+
+具体讲解见以下视频：
+
+{{< bilibili id=BV1WW41147bm p=5 >}}
+
+{{< bilibili id=BV1YV411t7da >}}
+
+{{< bilibili id=BV1WW41147b >}}
+
