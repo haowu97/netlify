@@ -11,7 +11,7 @@ tags: []
 categories: ['English基础']
 ---
 
-## 辅元连读：Linking
+## Linking: 辅元连读
 
 字尾辅音+字首元音：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
 
@@ -29,7 +29,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=1 >}}
 
-## 元+元：Insertion:
+## Insertion: 元+元
 
 
 
@@ -45,7 +45,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=2 >}}
 
-## 辅辅略读：Germination
+## Germination: 辅辅略读
 
 *相同的辅音省略*：某字字尾是辅音，之后另有一字，而其字首亦有相同的辅音时，通常前者的辅音可省略，只念后者的辅音。这种情形常发生在[p]、[t]、[k]、[d]、[g]等辅音出现的时候。例：
 
@@ -73,7 +73,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=3 >}}
 
-## 辅辅吞音：Germination
+## Germination: 辅辅吞音
 
 *失爆*（也叫*失去爆破*，*不完全爆破*，*无声除阻*）：在正常速度或快速的对话中，字尾有爆破音（[t]与[d]、[k]与[g]、[p]与[ b]）时，通常不会把爆破音的发音清楚地念出来，而是快要念出来时，马上憋气顿息，因此字尾爆破音的发音常常是听不到的。例：
 
@@ -84,7 +84,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=4 >}}
 
-## 吞音：Glottal stop
+## Glottal stop: 吞音
 
 *声门闭塞音*，也叫*喉塞音*，指的是塞音（也即爆破音）发音时，只阻塞气流，不发出声音。具体到英语中，/t/ 和 /d/ 后面接 /n/ 或 /ən/ 时，/t/ 和 /d/要发喉塞音。例：
 
@@ -93,11 +93,58 @@ categories: ['English基础']
 3. student
 4. important
 
-具体讲解见以下视频：
+具体讲解见以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=5)：
 
 {{< bilibili id=BV1WW41147bm p=5 >}}
 
 {{< bilibili id=BV1YV411t7da >}}
 
-{{< bilibili id=BV1WW41147b >}}
+## H-dropping: 略读
 
+*H-dropping*常见于如he、him、his、her的代词中，可以直接省略/h/不发音，一般指代对象在前文出现过时使用；对于含/h/的名词，前文出现过多次时也可以使用。例
+
+1. let her/ him go
+2. Did **he** have lunch?
+    1. /dɪd i/
+    2. /dɪ* hɪ/
+3. Give **him** 5 bucks.
+    1. /gɪv ɪm/
+    2. 可以弱读成/gɪv əm/
+4. tell **him**.
+    1. /tɛl ɪm/
+    2. 可以弱读成/tɛl əm/
+5. take **his** letter.
+6. I wanna make **her** breakfast.
+    1. /mek er/
+
+具体讲解见以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=6)：
+
+{{< bilibili id=BV1WW41147bm p=6 >}}
+
+## G-dropping: 略读
+
+动词+ing中的g省略，也即/ɪŋ/ ---> /ɪn/。例
+
+1. going /go(w)iŋ/ ---> /go(w) ɪn/
+2. going on /go(w)i ŋon/--->/go(w)i non/
+
+具体讲解见以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=7)：
+
+{{< bilibili id=BV1WW41147bm p=7 >}}
+
+## Fusion: 变音 同化
+
+[t]、[d]与[j]的*同化*：在正常速度或快速的英语对话中，某字字尾有[t]或[d]辅音，而之后另字字首是[j]时，[t]与[j]就会连成一个音，同化成 [tʃ] 的音；[d]和[j]会连成一个音，同化成 [dʒ] 的发音。例：
+
+1. What about you?
+2. Would you/ could you?
+
+在美式英语中，还有以下变音现象：
+
+1. [s] + [j] ---> [ʃ]: this year 今年 [ðɪsˈjɪr] ---> [ðɪˈʃɪr]
+2. [t] + [j] ---> [tʃ]: last year 去年 [læstˈjɪr] ---> [læsˈtʃɪr] 
+3. [z] + [j] ---> [ʒ]
+
+赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=8)中也有详细讲解：
+
+{{< bilibili id=BV1WW41147bm p=8 >}}
