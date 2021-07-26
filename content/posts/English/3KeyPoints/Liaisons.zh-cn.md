@@ -15,6 +15,9 @@ categories: ['English基础']
 
 字尾辅音+字首元音：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
 
+1. **以辅音结尾的单词的结尾辅音一定要发到位，而且不要加上不存在的元音**，这样在正常语速中”自然而然”就会和下一个如果以元音开头的词连上，根本就不需要死记硬背任何连读规则。
+2. **英文字与字之间时没有界限的**，因此连读并不是锦上添花，而是就该这么读，如果不连读，就是发音没有到位的表现。
+
 例：
 
 1. Take it all，连读要点：
@@ -22,28 +25,48 @@ categories: ['English基础']
     2. k不送气（仅美式英语有），注意不送气和浊化有区别
     3. 闪音flap t（仅美式英语有）：一般是元音 + t + 元音时，t 不送气；但有时辅音+ t + 元音时，也不送气，例如started。
 2. Not at all.
-3. With a friend of mine.
-4. Startup.
+3. Take it easy.
+4. With a friend of mine.
+5. Startup.
 
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=1)中也有详细讲解：
 
 {{< bilibili id=BV1WW41147bm p=1 >}}
 
+更加深入的原理讲解见以下[视频](https://www.bilibili.com/video/BV1SZ4y1K7Lr?p=2)，或对应[文章](https://www.yingyutu.com/catenation)：
+
+{{< bilibili id=BV1SZ4y1K7Lr p=2 >}}
+
 ## Insertion: 元+元
 
+在英文中，当元音和元音碰到一起时，因为单词内、单词之间发音实际上没有界限，和容易”糊”到一起，所以比较难发音。很多时候就需要”人工干预"。
 
+一种最常见的"人工干预"就是元音前的 a 变 an 。
 
 规则：
 
 1. /e/+元音--->/e/+**/j/**+元音: playing
-2. /i/+元音--->/i/+**/j/**+元音: fire, he and I,
-3. /aɪ/+元音--->/aɪ/+**/j/**+元音: 
+2. /i/+元音--->/i/+**/j/**+元音: fire, he and I, she asked
+3. /aɪ/+元音--->/aɪ/+**/j/**+元音: I am
 4. /o/+元音--->/o/+**/w/**+元音: going, do it
-5. /u/+元音--->/u/+**/w/**+元音: you and I, doing
+5. /u/+元音--->/u/+**/w/**+元音: you and I, doing, too often
 
-[视频讲解](https://www.bilibili.com/video/BV1WW41147bm?p=2)：
+更一般的规则：
+
+1. 单元音/u/、/ʊ/，或者带有这个音特性的双元音/aʊ/、/o/的结尾 + /w/；
+2. 单元音/i/、/ɪ/，或者带有这个音特性的双元音/e/、/aɪ/、/ɔɪ/的结尾 + /j/
+
+**规则不需要死记硬背**，添加的辅音往往与之前的元音口型相似，发音时自然而然就会生成相应的辅音。
+
+其实之所以会有"加音“现象，完全是因为开头元音的口型在快速过渡到下ー个元音时，自然而然因为口型来不及改动所以多出一个音。
+
+具体见[视频讲解](https://www.bilibili.com/video/BV1WW41147bm?p=2)：
 
 {{< bilibili id=BV1WW41147bm p=2 >}}
+
+更加深入的原理讲解见以下[视频](https://www.bilibili.com/video/BV1SZ4y1K7Lr?p=3)，或对应[文章](https://www.yingyutu.com/intrusion)：
+
+{{< bilibili id=BV1SZ4y1K7Lr p=3 >}}
 
 ## Germination: 辅辅略读
 
@@ -132,7 +155,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1WW41147bm p=7 >}}
 
-## Fusion: 变音 同化
+## Fusion: 变音
 
 [t]、[d]与[j]的*同化*：在正常速度或快速的英语对话中，某字字尾有[t]或[d]辅音，而之后另字字首是[j]时，[t]与[j]就会连成一个音，同化成 [tʃ] 的音；[d]和[j]会连成一个音，同化成 [dʒ] 的发音。例：
 
