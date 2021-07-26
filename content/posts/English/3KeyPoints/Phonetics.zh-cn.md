@@ -1,5 +1,5 @@
 ---
-title: "音标学习资料、音标体系介绍与对比"
+title: "音标学习教程、音标体系介绍与对比"
 date: 2021-07-21T14:14:45+08:00
 lastmod: 2021-07-22T14:14:45+08:00
 draft: false
@@ -14,7 +14,7 @@ categories: ['English基础']
 音标最适合的学习材料包括：
 
 1. 教材（KK音标）：《赖世雄美语音标》
-    1. [扫描版PDF](https://www.wuhao.ink/English/IntroductoryPhonetics.pdf)
+    1. 《赖世雄美语音标》[扫描版PDF](https://www.wuhao.ink/English/IntroductoryPhonetics.pdf)
     2. 对应的Bi站音频
         1. [简略版_bilibili](https://www.bilibili.com/video/BV1sD4y1D7tG)
         2. [详细版_bilibili](https://www.bilibili.com/video/BV1ua4y1E7j9)

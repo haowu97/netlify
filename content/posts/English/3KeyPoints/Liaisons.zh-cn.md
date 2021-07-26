@@ -11,6 +11,12 @@ tags: []
 categories: ['English基础']
 ---
 
+本篇的内容几乎全部来自以下非常推荐的教程 or 教材，建议在完整掌握一套音标体系之后再学习以下内容（关于[音标学习教程](https://www.wuhao.ink/zh-cn/phonetics/)）：
+
+1. 醍醐灌顶，必看[你必须知道的英语语音技巧(让你的口语更纯正, 更地道!) bilibili](https://www.bilibili.com/video/BV1SZ4y1K7Lr)
+2. [【合集完结】【最全英语连读规则】英语听力口语发音提高秘诀 bilibili](https://www.bilibili.com/video/BV1WW41147bm)
+3. 赖世雄[《美语音标》](https://www.wuhao.ink/English/IntroductoryPhonetics.pdf)中的部分介绍
+
 ## Linking: 辅元连读
 
 字尾辅音+字首元音：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
