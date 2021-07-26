@@ -148,3 +148,141 @@ categories: ['English基础']
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=8)中也有详细讲解：
 
 {{< bilibili id=BV1WW41147bm p=8 >}}
+
+## 弱读 
+
+英语中所谓的”*弱读*"并不是指音量要弱，而是指一些词在词组语句中发生元音的音变，具体体现在让"饱满"的元音发音变成一个"弱一点"的音，而这个弱一点的音，一般是*中央元音/ə/*。一般常用的，少音节的虚词，如介词、连词、代词等，会弱读，常常将其中给的元音弱读成弱央元音——Schwa /ə/。例如：
+
+助动词：
+
+1. am
+2. are
+3. have: /hæv/ ---> /həv/ ---> /əv/
+    1. How long have you been ...?
+4. has
+5. do: /du/ ---> /də/
+6. does: /dʌz/ ---> /dəs/
+7. would
+8. can: /kæn/ ---> /kən/
+9. can't: /kænt/ ---> /kæn/
+10. could
+11. should
+
+介词：
+
+1. at
+2. for: /fɔr/ ---> /fər/
+3. from
+4. of: /ɔv/---> /əv/
+5. to: /tu/ ---> /tə/
+
+冠词：
+
+1. a: /ei/ ---> /ə/
+2. an: /ən/
+3. some
+
+连词：
+
+1. and: /ænd/ ---> /ənd/
+2. but: /bʌt/ ---> /bət/
+
+代词：
+
+1. you: /ju/ ---> /jə/
+2. us
+3. them
+4. her
+
+带有辅音/r/的单词：
+
+1. are: /ar/ ---> /ər/
+2. or: /ɔr/ ---> /ər/
+3. for: /fɔr/ ---> /fər/
+
+不过也有些词的弱读，元音/i/会变为/ɪ/, 比如he, me, she。
+
+当然也不是说，这些词什么时候都要弱读。*以下情況一般不弱读*：
+
+1. 在句字末尾，比如： May I do it for you?我可以帮你做这事儿吗？
+2. 和另一个词对比，比如: government of the people, by the people, for the people, 由人民组成的，由人民选出的，为人民服务的政府
+3. 重音表示强调：I' m not A rabbit!l' m THE rabbit.我不仅仅是"一只“兔子，我是"那只"（独一无二的）兔子 (没错，a/ei/ 和 the/ðə/是a/ei/和the/ði/的弱读)
+
+具体讲解见以下[视频](https://www.bilibili.com/video/BV11z4y197Cr)，或对应[文章](https://www.yingyutu.com/weak)：
+
+{{< bilibili id=BV11z4y197Cr >}}
+
+## 缩写
+
+want to ---> /wɑnt tu/ ---> /wɑn tu/ ---> /wɑn u/ ---> /wʌnə/ = *wanna*
+
+其中，/n/后面的/t/与/d/可以省略
+
+going to ---> *gonna*
+
+- I'm going to ---> I'm gonna ---> /ʌmənə/
+
+have got to ---> *gotta*
+
+be not/ have not ---> *ain't* （不规范，仅做了解）
+
+代词 + be:
+
+1. I'm: /aim/ ---> /ʌm/ or /əm/
+2. he's
+3. she's
+4. you're
+5. they're
+6. we're: /wɚ/
+
+代词 + will: 
+
+1. I'll: /ail/ ---> /əl/
+2. he'll
+3. she'll
+4. we'll
+5. you'll
+6. it'll: /ɪtəl/ ---> /ɪdəl/
+7. they'll
+
+## Unaspirated 爆破清辅音
+
+*不送气 or 浊化*：[s]出现在单音节或重音节的字中，之后有[p]、[k]、[t]等爆破清辅音时，[p]、[k]、[t]要分别念成[b]、[g]、[d]。例如：
+
+1. 单音节：
+    1. speak
+    2. skirt
+    3. steak
+2. 重音节：
+    1. spacious
+    2. skillful
+    3. standard
+
+[s]出现在非重音节的字中，之后有[p]、[k]、[t]等辅音时，仍维持原来念法。美国人即使在非重音节中也将[p]、[k]、[t]念成[b]、[g]、[d]。例如：
+
+1. whisper
+2. whisky
+3. sister
+
+注意，只有当爆破清辅音后 + 元音时，才做不送气的处理。例：
+
+1. disclose: /dɪˈskloz/
+
+Unaspirated爆破清辅音在赖世雄老师的《美语音标》辅音/s/部分有对应的讲解。
+
+弱读、缩写、Unaspirated爆破清辅音的具体讲解见以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=9)：
+
+{{< bilibili id=BV1WW41147bm p=9 >}}
+
+## Rhythm：节奏
+
+想说好英语，除了说对语音语调，还必须说对英语的节奏。
+
+1. 英语属于”重音等时性(stress-timed language)”语言。一般情况下，句中需要重读的单词中的重音之间的时长基本相等；
+2. 而我们的中文属于”*音节等时性(syllable-timed language)*"语言，一般情况下，音节，也就是每个字的时长相等。
+
+而想要说英语说地"地道"，咱们就要知道句中哪些词一般会弱读，这些弱读单词在说话时，一般不需要读出重音。
+
+具体讲解见以下[视频](https://www.bilibili.com/video/BV1rt4y197Dy)，或对应[文章](https://www.yingyutu.com/rhythm)：
+
+{{< bilibili id=BV1rt4y197Dy >}}
