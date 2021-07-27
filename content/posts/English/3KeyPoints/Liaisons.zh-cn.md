@@ -193,7 +193,7 @@ inpatient ---> impatient
 3. not to
 4. hundred dollar
 5. life force
-6. fish
+6. fish shop
 
 *3组爆破音*中对应的辅音，即[t]与[d]、[k]与[g]、[p]与[ b]出现时，亦可以省略，此时不用考虑浊辅音与清辅音出现的顺序。例：
 
@@ -287,7 +287,7 @@ inpatient ---> impatient
 5. write
 6. wrong
 
-其中的b,k,都是不发音的。
+其中的b, k, w 都是不发音的。
 
 单词之间的省音: ice(d) cream
 
@@ -310,7 +310,7 @@ inpatient ---> impatient
 1. button
 2. mountain
 3. student
-4. important
+4. important: /ɪm'pɔr *n t/
 5. certain
 6. written
 
@@ -441,7 +441,7 @@ inpatient ---> impatient
 11. what are you ---> wachya/ watcha
 12. what do you ---> whaddya/ wadya
 13. what did you ---> whatdja/ wadja
-14. can nott ---> can't
+14. can not ---> can't
 15. goodbye ---> g'bye
 16. I‘ve
 
@@ -506,19 +506,19 @@ be not/ have not ---> *ain't* （不规范，仅做了解）
 
 闪音”也适用于单词之间，也就是t的连读，比如：
 
-1. what Is
+1. what is
 2. it is
 3. get up
 4. not at all
-5. get It out
+5. get it out
 
 其实，在美式英语里，并不是所有元音之间的t都是闪音。
 
 如果前面有鼻音/n/，那么/t/的发音是这样的
 
-1. winter
-2. Interview
-3. want It
+1. winter: winner
+2. Interview: innerview
+3. want it
 
 听起来本身就像是个鼻音，或者说听上去像被省略了。
 
