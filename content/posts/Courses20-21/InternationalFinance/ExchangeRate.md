@@ -15,6 +15,8 @@ math: true
 
 *Exchange rates*: The price of one nation’s currency in terms of another currency. 
 
+- *Base currency* per *Quote currency*, the number of Base currency needed to buy 1 Quote currency.
+
 **Textbook notation**: 
 
 `AUD1.5/USD` or `AUD1.5 = USD 1`
