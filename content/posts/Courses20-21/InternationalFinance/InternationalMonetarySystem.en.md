@@ -161,6 +161,8 @@ Required coordinated monetary policy.
 
 - Central bank for industrial countries’ central banks
 - Helps manage and invest central banks’ foreign exchange reserves
+- The BIS is located in Basel, Switzerland.
+- 58 banks out of 54 countries are customers.
 
 ### Floating Exchange Rates (1971 - …)
 

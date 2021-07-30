@@ -111,6 +111,78 @@ $$
     2. This implies that the value of U.S. goods relative to value of EU goods rises. 
     3. As a result, U.S. exports fall, and U.S. imports rise, and both of these changes **reduce U.S. net exports**.
 
+## Foreign Exchange Markets
+
+### Characteristics of the FX Markets
+
+The volume of FX transactions has risen significantly of the last decades:
+
+1. In April 1989, the average total value of global foreign exchange trading was close to \$600 billion per day.
+2. In 2001 the daily volume of trading was \$1.2 trillion
+3. In April 2010, the daily global value of foreign exchange trading had jumped to around \$4,000 billion.
+4. In April 2013, average daily turnover is a mind-numbing \$​​​5.3 trillion. In three days foreign exchange turnover is sufficient to cover world trade in a year.
+
+The most important marktet places are London, New York, Tokio, Frankfurt and Singapore.
+
+They are highly interconnected this allows 24h trading except on the weekends.
+
+This integration rules out the possibility of good arbitrage opportunies.
+
+The exchange rate quoted in financial newspapers are for large transactions of over \$1 million.
+
+**International financial transactions have risen substantial** over the past 45 years
+
+- Reduced costs of communication and information
+- Less capital controls
+- More direct foreign investments by international corporations.
+- New financial instruments
+- More speculation
+- Cross border capital flows have outnumbered crossborder trade flows
+- The dominance of the US Dollar in international transactions
+
+### Spot and Forward Rates
+
+**Spot exchange rates**: The rate of a foreign-exchange contract for immediate delivery.
+
+**Forward exchange rate**: The rate fixed today that is applicable to a financial transaction that will take place in the future.
+
+- Forward dates are typically 30, 90, 180 or 360 days in the future.
+
+Forward and spot exchange rates, while not necessarily equal, do move closely together.
+
+*The future market drives the spot market, especialy FX swaps.*
+
+#### Spot Contracts
+
+Spot exchange: a contract for immediate exchange of currencies
+
+How it works:
+
+1. Trader 1 calls Trader 2 and asks for a price of a currency, say GBP
+2. The *bid price* is the exchange rate at which Trader 2 is willing to buy GBP
+3. The *ask (or offer) price* is the exchange rate at which Trader 2 is willing to sell GBP
+4. The difference (*bid-ask spread*) generates profits for Trader 2/ brokers
+
+The **bid-ask spread** (profit margin) on currency quotations is 
+
+- positively influenced by order costs, inventory costs, and currency risk, 
+- and negatively influenced by competition, and volume.
+
+The spread for heavily traded currencies like the $, €, RMB, £, and ¥ are low because of their liquidity.
+
+Often the **bid-ask spread** is quoted as a percentage term:
+$$
+\text{Percentage spread} = [(Ask – Bid) / Ask] \times 100
+$$
+In price quotation: The bid rate is always lower than the ask rate
+
+【Example】If GBP is quoted at USD 1.8419-28/GBP 
+
+- USD1.8419/GBP is the bid rate, USD1.8428/GBP is the ask rate
+- Percentage spread = [(1.8428-1.8419) / 1.8428] x 100 = 0.049%
+
+
+
 ## Central Bank Reputations and Expectations
 
 A nation’s official monetary authority, the *central bank* uses monetary policy to achieve price stability, set interest rates, or maintain a certain currency value.
