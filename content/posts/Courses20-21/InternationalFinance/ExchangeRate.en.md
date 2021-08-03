@@ -181,7 +181,78 @@ In price quotation: The bid rate is always lower than the ask rate
 - USD1.8419/GBP is the bid rate, USD1.8428/GBP is the ask rate
 - Percentage spread = [(1.8428-1.8419) / 1.8428] x 100 = 0.049%
 
+### Vehicle Currency and Cross-Rates 
 
+**Vehicle currency**, a currency that is actively used in many international financial transactions around the world.
+
+- U.S. Dollar primary vehicle currency (89% of all transactions)
+- transaction costs of making markets in certain currencies
+
+Exchange rate between two currencies, based on exchange rates between each of these currencies and the vehicle currency. 
+
+A **cross exchange rate** reflects the amount of one foreign currency per unit of another foreign currency
+
+- e.g. if 1 EUR = 1.47 USD and 1 SFR = 0.98 USD, what should be SFR/EUR? 
+    - USD/EUR = 1.47USD/EUR and USD/SFR = 0.98USD/SFR
+    - SFR/EUR = (1.47USD/EUR) / (0.98USD/SFR) = 1.5 SFR/EUR
+
+$$
+\begin{align}
+\frac{C N Y}{A U D}&=\frac{C N Y}{U S D} \times \frac{U S D}{A U D} \\
+&=\frac{C N Y}{U S D} \times 1 / \frac{A U D}{U S D}\\
+&=6.7 \times \frac{1}{1.480}=¥ 4.527 / A \$
+\end{align}
+$$
+
+#### Triangular Arbitrage
+
+In **cross exchange rate equilibrium**: 
+$$
+CNY/AUD = CNY/USD× USD/AUD 
+$$
+or
+$$
+CNY/USD × USD/AUD × AUD/CNY = 1
+$$
+**Currency arbitrage**: profiting from exchange rate inconsistencies across money centers.
+
+**Triangular currency arbitrage**: 
+
+- involves three currencies
+- keeps cross-rates in line with exchange rates quoted relative to a third currency
+
+**How does it work?**
+
+1. If *CNY/USD × USD/AUD × AUD/CNY < 1*, one of the three rates must increase
+    1. The *currency in denominator is too low* relative to the currency in the numerator
+    2. Buy USD with CNY, buy AUD with USD, or buy CNY with AUD
+2. If *CNY/USD × USD/AUD × AUD/CNY > 1*, one of the three rates must decrease
+    1. The *currency in denominator is too high* relative to the currency in the numerator
+    2. Sell USD for CNY, sell AUD for USD, or sell CNY for AUD
+
+【Example】Suppose exchange rates for AUD, USD, and CNY are AUD1.60/USD, CNY4.77/AUD, and USD0.14/CNY.
+
+AUD1.60/USD × CNY4.77/AUD × USD0.14/CNY = 1.068 > 1 
+
+1. If you sell 1 USD for 1.60 AUD
+2. Then sell 1.60 AUD for 7.632 CNY ( = 1.60 x 4.77)
+3. Then sell 7.632 CNY for 1.068 USD ( = 7.632 x 0.14)
+4. You have earned 1.068 USD – 1 USD = 0.068 USD, or 6.8% of your initial investment
+
+### Forward vs. Futures
+
+**Forward contract**: The terms of a financial transaction that will take place in the future but are fixed today
+
+**Futures contract**: A futures contract is the same as a forward contract except that it is *standardized* with respect to volume, currency, date of delivery.
+
+【Example】
+
+The spot rate is: 1.1152 EUR/USD
+The forward quotation is: 13.941 EUR/USD
+The forward rate is then:
+$$
+\mathrm{e}_{\$ / \euro}^{3 \mathrm{M}}=1.1152+13.941 / 10,000=1.1165941
+$$
 
 ## Central Bank Reputations and Expectations
 
