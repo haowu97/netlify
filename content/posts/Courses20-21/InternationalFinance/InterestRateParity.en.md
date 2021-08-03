@@ -29,7 +29,8 @@ math: true
 
 Besides the rates of return, two other important factors that influence the demand of deposit/currency:
 
-1. **Risk** of holding assets also influences decisions about whether to buy them.
+1. **Risk** of holding assets, ort he variability it contributes to savers’
+    wealth, also influences decisions about whether to buy them.
 2. **Liquidity** of an asset, or ease of using the asset to buy goods and services, also influences the willingness to buy assets.
 
 But for now, *assume that risk and liquidity of currency deposits in foreign exchange markets are essentially the same*, regardless of their currency denomination. 
@@ -96,7 +97,7 @@ The foreign exchange market is in *equilibrium* when deposits of all currencies 
 - Interest parity implies that deposits in all currencies are equally desirable assets.
 - Interest parity implies that *arbitrage* in the foreign exchange market is not possible.
 
-Interest parity says:
+(uncovered) Interest parity says:
 
 $$
 R_{\$}=R_{\epsilon}+\left(E_{\$ / \epsilon}^{e}-E_{\$ / \epsilon}\right) / E_{\$ / \epsilon}
@@ -158,3 +159,46 @@ If people expect the euro to appreciate in the future, then the expected rate of
 
 - An **expected appreciation** of a currency leads to an **actual appreciation today** (but not necessarily to the full degree) 
 - An **expected depreciation** of a currency leads to an **actual depreciation today** (but not necessarily to the full degree)
+
+## Covered  Interest Parity
+
+The **covered interest parity condition** states that the rates of return on dollar deposits and "covered" foreign deposits must be the same. 
+
+【Example】Let $ F_{\$ / \epsilon} $ stand for the one-year forward price of euros in terms of dollars, and suppose $ F_{\$ / \euro}=\$ 1.113 $ per euro. Assume that at the same time, the spot exchange rate $ E_{\$ / \euro}=\$ 1.05 $ per euro, $ R_{\$}=0.10 $, and $ R_{\epsilon}=0.04 . $ The (dollar) rate of return on a dollar deposit is clearly $ 0.10 $, or 10 percent, per year. What is the rate of return on a covered euro deposit?
+
+We answer this question as we did in the chapter. A $ \euro 1 $​ deposit costs $ \$ 1.05 $​ today, and it is worth $ \euro 1.04 $​ after a year. If you sell $ \euro 1.04 $​ forward today at the forward exchange rate of $ \$ 1.113 $​ per euro, the dollar value of your investment at the end of a year is $ (\$ 1.113 \text{ per euro)} \times(\$ 1.04)=\$ 1.158 . $​ The rate of return on a covered purchase of a euro deposit is therefore $ (1.158-1.05) / 1.05=0.103 . $​ This $ 10.3 $​​ percent per year rate of return exceeds the 10 percent offered by dollar deposits, so covered interest parity does not hold. In this situation, no one would be willing to hold dollar deposits; everyone would prefer covered euro deposits. 
+
+More formally, we can express the covered return on euro deposits as
+$$
+\frac{F_{\$ / \epsilon}\left(1+R_{\euro}\right)-E_{\$ / \epsilon}}{E_{\$ / \epsilon}}
+$$
+which is approximately equal to
+$$
+R_{\euro}+\frac{F_{\$ / \euro}-E_{\$ / \euro}}{E_{\$ / \euro}}
+$$
+when the product $ R_{\epsilon} \times\left(F_{\$ / \epsilon}-E_{\$ / \epsilon}\right) / E_{\$ / \epsilon} $ is a small number. The covered interest parity condition can therefore be written
+$$
+R_{\$}=R_{\euro}+\left(F_{\$ / \euro}-E_{\$ / \euro}\right) / E_{\$ / \euro}
+$$
+The quantity
+$$
+\left(F_{\$ / \euro}-E_{\$ / \euro}\right) / E_{\$ / \euro}
+$$
+is called the **forward premium** on euros against dollars. (It is also called the forward discount on dollars against euros.)
+
+The interest rate on dollar deposits equals the 
+
+1. interest rate on euro deposits 
+2. plus the forward premium on euros against dollars (the forward discount on dollars against euros).
+
+【Example】A Canadian company sales goods to a German company with a value of 100,000 EUR. They agree upon payment in Euro and a payment period of 3 months. The delivery takes place on May 13th 2015. On this date the spot rate is 1.3279 CAD per EUR. Therefore 100,000 Euro are the same as 132,790 CAD.
+
+The exporter takes out a 3M loan at the discounted value of 100,000 €. The discount rate is the interest rate for euro deposits. Then he converts this sum in dollar on the spot market. To compare this sum with the forward alternative the dollars received must be invested in a Canadian deposit for 3 months: Interest rates both for the euro and the dollar: r$ = 5%, r€ = 4%。
+$$
+100,000 \euro \cdot e_{\$ / \euro}^{3 M}=\frac{100,000 \euro}{\left(1+\frac{i_\euro}{4}\right)} \cdot e_{S / \epsilon}^{\$} \cdot\left(1+\frac{i_{\$}}{4}\right)
+$$
+then, we have
+$$
+\frac{e_{\$ / \epsilon}^{3 M}}{e_{\$ / \epsilon}^{S}}=\frac{\left(1+\frac{i_{\$}}{4}\right)}{\left(1+\frac{i_{\epsilon}}{4}\right)}
+$$
+which is in line with covered interest parity condition.
