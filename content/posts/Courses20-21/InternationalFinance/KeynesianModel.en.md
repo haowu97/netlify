@@ -35,48 +35,62 @@ Setting
 8. $ Y^\mathrm{SY} \quad=Y^\mathrm{DD} $
 
 Therefore, we can write aggregate demand as 
+
 $$
 Y^{\mathrm{DD}}=\mathrm{C}_{0}+\mathrm{c} \cdot \mathrm{Y}+\mathrm{I}_{0}+\mathrm{G}_{0}+\mathrm{X}_{0}-\left(\mathrm{M}_{0}+\mathrm{m} \cdot \mathrm{Y}\right)
 $$
+
 or 
+
 $$
 Y^{\mathrm{DD}}=\mathrm{C}_{0}+\mathrm{I}_{0}+\mathrm{G}_{0}+\mathrm{X}_{0}-\mathrm{M}_{0}+(\mathrm{c}-\mathrm{m}) \cdot \mathrm{Y}
 $$
+
 Using the equilibrium condition we find:
+
 $$
 \mathrm{Y}=\mathrm{Y}^{\mathrm{S} Y}=\mathrm{Y}^{\mathrm{DD}}
 $$
+
 Solving for the **equilibrium level of income**,
+
 $$
 Y = \frac{\mathrm{C}_{0}+\mathrm{I}_{0}+\mathrm{G}_{0}+\mathrm{X}_{0}-\mathrm{M}_{0}}{1-c+m}
 $$
+
 Simplified to
+
 $$
 Y = \frac{\mathrm{A}_{0}+\mathrm{X}_{0}-\mathrm{M}_{0}}{s+m}
 $$
+
 where:
 
 - $A_0$ = Autonomous component of domestic aggregate demand
 - Marginal saving propensity $s = 1 – c$​.​
 
 Trade balance (TB):
+
 $$
 TB=NX = X_0 - (M_0 + m·Y)
 $$
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803172617.png)
 
 ### Equilibrium: The “Small” Keynesian Cross
 
-Derived by the National Savings Identity: $S - I = X - M$​
+Derived by the National Savings Identity: $S - I = X - M$
+
 $$
 Y = \frac{\mathrm{A}_{0}+\mathrm{X}_{0}-\mathrm{M}_{0}}{s+m}
 $$
+
 with
+
 $$
 S - I = (Y-C_0-cY-G_0) - I_0 = sY - C_0 -G_0- I_0 = sY-A_0\\
 X-M = X_0 - M_0-mY
 $$
-
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803223609.png)
 
@@ -91,11 +105,13 @@ $$
 
 【Example】$ \Delta \mathrm{G}_{0}=\Delta \mathrm{A}_{0}=\$ 1 $ billion
 
-Differentiate $ Y^{\neg}=\frac{A_{0}+X_{0}-M_{0}}{s+m} $​ partially with respect to $ A_{0} $​
+Differentiate $ Y^{\neg}=\frac{A_{0}+X_{0}-M_{0}}{s+m} $ partially with respect to $ A_{0} $
+
 $$
 \quad \Delta \mathrm{Y}=\frac{1}{\mathrm{~s}+\mathrm{m}} \cdot \Delta \mathrm{A}_{0} = \mathrm{m} \cdot \$ 1 \text{ billion} 
 $$
-with $ s=0.3 $​ and $ m=0.2 $​ : $ \Delta \mathrm{Y}=\frac{1}{0.3+.02} \cdot \$ 1 $​ billion $ =\frac{1}{0.5} \cdot \$ 1 $​ billion, $ \Delta \mathrm{Y}=2 \cdot \$ 1 $​​​​ billion
+
+with $ s=0.3 $ and $ m=0.2 $ : $ \Delta \mathrm{Y}=\frac{1}{0.3+.02} \cdot \$ 1 $ billion $ =\frac{1}{0.5} \cdot \$ 1 $ billion, $ \Delta \mathrm{Y}=2 \cdot \$ 1 $ billion
 
 ### The Export Multiplier
 
@@ -105,9 +121,11 @@ $$
 $$
 
 Proof:
+
 $$
 \Delta \mathrm{NX}=\Delta \mathrm{X}-\Delta \mathrm{M}=\Delta \mathrm{X}_{0}-\mathrm{m} \cdot \frac{1}{\mathrm{~s}+\mathrm{m}} \Delta \mathrm{X}_{0} =\left(\frac{\mathrm{s}+\mathrm{m}}{\mathrm{s}+\mathrm{m}}-\frac{\mathrm{m}}{\mathrm{s}+\mathrm{m}}\right) \Delta \mathrm{X}_{0}=\frac{\mathrm{s}}{\mathrm{s}+\mathrm{m}} \cdot \Delta \mathrm{X}_{0}
 $$
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803232216.png)
 
 ### Derivation of the export multiplier
@@ -117,11 +135,14 @@ $$
  \Delta \mathrm{NX}=\Delta \mathrm{X}-\Delta \mathrm{M}=0-0-\mathrm{m} \cdot \Delta \mathrm{Y}
 $$
 
-since $ \Delta \mathrm{Y}=\frac{1}{\mathrm{s}+\mathrm{m}} \cdot \Delta \mathrm{G}_{0} $​, we have
+since $ \Delta \mathrm{Y}=\frac{1}{\mathrm{s}+\mathrm{m}} \cdot \Delta \mathrm{G}_{0} $, we have
+
 $$
 \Delta \mathrm{NX}=-\mathrm{m} \cdot \Delta \mathrm{Y}=-\mathrm{m} \cdot \frac{1}{\mathrm{~s}+\mathrm{m}} \cdot \Delta \mathrm{G}_{0}=\frac{-\mathrm{m}}{\mathrm{s}+\mathrm{m}} \cdot \Delta \mathrm{G}_{0} 
 $$
+
 Then
+
 $$
 \frac{\Delta \mathrm{NX}}{\Delta \mathrm{G}_{0}}=\frac{-\mathrm{m}}{\mathrm{s}+\mathrm{m}}
 $$
@@ -129,6 +150,7 @@ $$
 ### Taxes
 
 Disposable Income $ \left(Y^{\text {disp }}\right): $ $Y^{\text {disp }}=Y-T$
+
 $$
 C=C_{0}+c \cdot Y^{\text {disp }}=C_{0}-C \cdot(Y-T)=C_{0}+C \cdot Y-c 
 $$
@@ -150,10 +172,13 @@ $$
 #### Income Tax
 
 With $T=tY$,
+
 $$
 Y^{\mathrm{DD}} =C_{0}+C \cdot Y-C \cdot t \cdot Y+I_{0}+G_{0}+X_{0}-M_{0}-m \cdot Y
 $$
+
 Equilibrium:
+
 $$
 Y^{e} =\frac{C_{0}+I_{0}+G_{0}+X_{0}-M_{0}}{1-c \cdot(1-t)+m}
 $$
@@ -161,32 +186,40 @@ $$
 ## Two Country Keynesian Model
 
 For a Large Country: If income in the foreign country, $ Y^{*} $, increases, foreigners import more from the home country.
+
 $$
 X=\bar{X}+m^{*} Y^{*}
 $$
+
 The new formula for equilibrium income:
+
 $$
 Y=\frac{\bar{A}+\bar{X}-\bar{M}+m^{*} Y^{*}}{s+m}
 $$
+
 Similarly, the solution for equilibrium foreign income is
+
 $$
 Y^{*}=\frac{\bar{A}^{*}+\bar{M}+m Y-\bar{X}}{s^{*}+m^{*}}
 $$
+
 Equilibrium income for each country is indicated algebraically by solving the two equations simultaneously. 
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803234641.png)
 
 FIGURE: Simultaneous Solution for Both Countries' Incomes
 
-1. A domestic expansion shifts the domestic line up so that the new intersection occurs at $ D^{\prime} $. The increase in $ Y $ is greater than in the small-country model - which ignored the repercussion effect of higher income abroad (point $ D $​ ).
+1. A domestic expansion shifts the domestic line up so that the new intersection occurs at $ D^{\prime} $. The increase in $ Y $ is greater than in the small-country model - which ignored the repercussion effect of higher income abroad (point $ D $ ).
 2. It can also be used to illustrate the point about an adverse trend in the U.S. trade balance. The line that gives U.S. income, Y(as a function of foreign income, $Y^*$), shifts out faster than the line that gives foreign income (as a function of U.S income). At point $D^"$ it lies above the trade balance equilibrium schedule.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210804001541.png)
 
 The multiplier for a domestic expansion turns out to be
+
 $$
 \frac{\Delta Y}{\Delta A}=\frac{1}{s+m-\frac{m^{*} m}{s^{*}+m^{*}}}
 $$
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803234412.png)
 
 ### Policy Analysis
@@ -258,21 +291,21 @@ Onlyby deliberately using bothindependent policy instrumentscould the government
 Setting:
 
 1. $\mathrm{Y}^{DD}=\mathrm{C}+\mathrm{I}+\mathrm{G}+\mathrm{NX}$
-2. $ C=C_{0}+c \cdot Y $​
-3. $ \mathrm{I}=\mathrm{I}_{0}-\mathrm{h} \cdot \mathrm{i} $​​ 
-4. $ G=G_{0} $​​
+2. $ C=C_{0}+c \cdot Y $
+3. $ \mathrm{I}=\mathrm{I}_{0}-\mathrm{h} \cdot \mathrm{i} $
+4. $ G=G_{0} $
 5. $ \mathrm{NX}=\mathrm{NX}_{0}$
 6. $ \mathrm{Y}^{\mathrm{SY}} \quad=\mathrm{Y}$
 7. $Y^{SY} = Y^{DD}$
 
 where:
 
-1. $ \mathrm{i}= $​ Interest rate 
+1. $ \mathrm{i}= $ Interest rate 
 2. $\mathrm{h}=$ Marginal efficency of investment
 
 *FIGURE*: Effect of a Fall in the Interest Rate, i
 
-- If monetary policy lowers the interest rate from $ i_{1} $​​ to $ i_{2} $​​, then it stimulates investment from $ I_{1} $​​ to $ I_{2} $​​. The saving-investment line shifts out, raising the level of income from $ Y_{1} $​​ to $ Y_{2} $​​. This inverse relationship between $ i $​​ and $ Y $​​ is the IS curve.
+- If monetary policy lowers the interest rate from $ i_{1} $ to $ i_{2} $, then it stimulates investment from $ I_{1} $ to $ I_{2} $. The saving-investment line shifts out, raising the level of income from $ Y_{1} $ to $ Y_{2} $. This inverse relationship between $ i $ and $ Y $ is the IS curve.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210804194853.png)
 
@@ -280,7 +313,7 @@ where:
 
 *FIGURE*: **Monetary Expansion**
 
-- The upward-sloping LM curve gives equilibrium in the money market. An increase in the money supply shifts the LM curve out, *driving down the interest rate*, $ i $​​, at point $ M $​​, and as a result increasing income, $ Y $​​​​​. The *trade balance worsens*.
+- The upward-sloping LM curve gives equilibrium in the money market. An increase in the money supply shifts the LM curve out, *driving down the interest rate*, $ i $, at point $ M $, and as a result increasing income, $ Y $. The *trade balance worsens*.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210804195143.png)
 
