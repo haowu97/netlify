@@ -1,11 +1,11 @@
 ---
-title: "Current Account and Exchange Rate"
+title: "The Foreign Exchange Market and Trade Elasticities"
 date: 2021-08-01T21:17:53+08:00
 lastmod: 2021-08-02T21:17:53+08:00
 draft: false
 
 description: ""
-upd: "Marshall-Lerner-Condition"
+upd: "Marshall-Lerner-Condition, J-curve"
 
 tags: ['Notes']
 categories: ['International Finance']
@@ -90,3 +90,8 @@ In the *short run the Marshal Learner condition is not fullfilled* because:
 2. Volumes of imports and exports are fixed by long term contracts
 3. Price elasticity of supply and demand usually rises over time
 
+
+
+
+
+![image-20210804050129115](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210804050129115.png)

@@ -22,9 +22,9 @@ Ideally, policy makers want
 
 At any point in time, a country can pursue two of the three, but **never all three simultaneously**
 
-- Option 1: Monetary independence and free flow of capital, but volatile exchange rate, e.g. USA
-- Option 2: Fixed exchange rate and free flow of capital, but no monetary independence, e.g. Hong Kong
-- Option 3: Monetary independence and fixed exchange rate, but capital controls, e.g. China
+- Option 1: Monetary independence and free flow of capital, but volatile exchange rate, e.g. USA, Flexible Exchange Rates
+- Option 2: Fixed exchange rate and free flow of capital, but no monetary independence, e.g. Hong Kong, Gold Standard
+- Option 3: Monetary independence and fixed exchange rate, but capital controls, e.g. China, Bretton Woods
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210501163331.png)
 
@@ -127,6 +127,8 @@ Floating Exchange Rates (1971 - …)
 
 ### The Gold Standard (1821 – 1944)
 
+*Money can be exchanged for gold at a fixed rate*.
+
 Gold is durable, storable, portable, easily recognized, divisible, and easily standardized.
 
 Value of gold is relatively stable over long periods of time due to high production costs.
@@ -134,6 +136,25 @@ Value of gold is relatively stable over long periods of time due to high product
 Require all governments to play by the rules.
 
 Large gold and capital flows led to unrealistic exchange rates.
+
+【Example】
+
+$ 1 \$=1 $ ounce gold
+
+ $ 1 £=2 $ ounces gold
+
+Then, $ 1 £ \cdot e=2 \$ \Rightarrow \mathrm{e}(\$ / £)=2 \$ / £ $.
+
+#### Money Supply-Price Mechanism
+
+Using the example of a restrictive monetary policy
+
+1. Money supply decreases
+2. Price level falls
+3. Net exports increase: Exports increase, imports decrease
+4. Foreign exchange supply increases
+5. Gold reserves increase
+6. Money supply increases
 
 ### Bretton Woods (1946 - 1971)
 
@@ -147,7 +168,10 @@ Created the IMF and World Bank.
 
 The system allowed stable exchange rates but less flexible economic policies.
 
-Required coordinated monetary policy.
+Consequence: 
+
+- Asymmetric monetary policy
+- Required coordinated monetary policy.
 
 1971: Oil price shocks caused a run on gold and USD convertibility terminated 
 
@@ -166,17 +190,33 @@ Required coordinated monetary policy.
 
 ### Floating Exchange Rates (1971 - …)
 
+Exchange rates are formed according to the *law of supply and demand* on the foreign exchange market.
+
 In theory: exchange rate changes offset international inflation differences
 
 - High inflation → currency depreciation → increases competitiveness without wage/employment adjustments
 - Real exchange rate stability
 
-In practice: increased real exchange rate volatility, more economic uncertainty due to higher future government policy uncertainty.
+In practice: increased real exchange rate volatility, more *economic uncertainty* due to higher future government policy uncertainty.
 
 Back to fixed rate system?
 
 - Requires credibility and price stability
 - Average duration of fixed rate systems is only 4.67 years …
+
+Advantages:
+
+- You can choose your own inflation rate (autonomous interest rate policy)
+- No speculation possible (in theory)
+- No under/overvaluations (in theory)
+- Efficient allocation of capital
+
+Disadvantages:
+
+- Flexible exchange rates cause transaction costs.
+- Flexible exchange rates generate avoidable risks.
+- Flexible exchange rates reduce transparency in goods markets.
+- Flexible exchange rates can trigger and intensify currency crises
 
 #### The European Monetary Union (EMU)
 
@@ -186,7 +226,7 @@ In 1999, the 11 founding member countries of EMU surrendered their monetary auto
 
 Nations must meet inflation, currency stability, and deficit spending standards.
 
-Governments can issue Euro-denominated bonds, but are unable to print money to service debts
+Governments can issue Euro-denominated bonds, but are unable to print money to service debts.
 
 ECB provides price stability, while member states are responsible for budgetary and borrowing needs
 
