@@ -56,7 +56,9 @@ upd: ""
 | 6.18  | Statistics for Business & Econ    | 750      |
 | 6.21  | International Finance             | 900      |
 | 7.25  | International Finance             | 566      |
-| Total |                                   | 21937.44 |
+| 8.4   | International Finance             | 1000     |
+| 8.6   | Microeconomics                    | 400      |
+| Total |                                   | 23337.44 |
 
 ## 应收
 
