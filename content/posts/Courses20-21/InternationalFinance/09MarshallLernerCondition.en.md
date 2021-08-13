@@ -1,7 +1,7 @@
 ---
 title: "The Foreign Exchange Market and Trade Elasticities"
-date: 2021-08-01T21:17:53+08:00
-lastmod: 2021-08-02T21:17:53+08:00
+date: 2021-08-06T21:17:53+08:00
+lastmod: 2021-08-07T21:17:53+08:00
 draft: false
 
 description: ""

@@ -1,11 +1,11 @@
 ---
 title: "Exchange Rate"
-date: 2021-04-29T21:17:53+08:00
-lastmod: 2021-04-30T21:17:53+08:00
+date: 2021-07-28T21:17:53+08:00
+lastmod: 2021-07-29T21:17:53+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "Nominal exchange rate, Real exchange rate, Foreign Exchange Markets"
 
 tags: ['Notes']
 categories: ['International Finance']

@@ -1,11 +1,11 @@
 ---
 title: "Introduction"
-date: 2021-07-27T21:17:53+08:00
-lastmod: 2021-07-28T21:17:53+08:00
+date: 2021-04-28T21:17:53+08:00
+lastmod: 2021-04-29T21:17:53+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "international finance v.s. international trade"
 
 tags: ['Notes']
 categories: ['International Finance']
