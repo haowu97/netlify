@@ -4,8 +4,8 @@ date: 2021-08-09T14:14:45+08:00
 lastmod: 2021-08-10T14:14:45+08:00
 draft: false
 
-description: "Greek Mythology, Japanese Mythology"
-upd: ""
+description: ""
+upd: "Greek Mythology, Japanese Mythology, Norse Mythology"
 
 tags: []
 categories: []
@@ -65,4 +65,3 @@ World Tree: Yggdrasill
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210812155207.png)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210812164811.jpg)
-

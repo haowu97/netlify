@@ -29,7 +29,7 @@ math: true
 
 Besides the rates of return, two other important factors that influence the demand of deposit/currency:
 
-1. **Risk** of holding assets, ort he variability it contributes to savers’
+1. **Risk** of holding assets, or the variability it contributes to savers’
     wealth, also influences decisions about whether to buy them.
 2. **Liquidity** of an asset, or ease of using the asset to buy goods and services, also influences the willingness to buy assets.
 
@@ -37,7 +37,7 @@ But for now, *assume that risk and liquidity of currency deposits in foreign exc
 
 We therefore say that *investors are primarily concerned about the rates of return on currency deposits*. 
 
-Rates of return that investors expect to earn are determined by 
+**Rates of return** that investors expect to earn are determined by 
 
 1. *interest rates* that the assets will earn
 2. *expectations* about appreciation or depreciation
@@ -85,14 +85,18 @@ We simplify the analysis (or formula) by saying that the dollar rate of return o
 2. plus the expected rate of appreciation of euro against dollar (or the rate of depreciation of the dollar against the euro)
 
 $$
-R_{\epsilon}+\left(E_{\$ / \epsilon}^{e}-E_{\$ / \epsilon}\right) / E_{\$ / \epsilon}
+R_{\euro}+\left(E_{\$ / \euro}^{e}-E_{\$ / \euro}\right) / E_{\$ / \euro}
 $$
+
+If $R_{\$}-\left[R_{\euro}+\left(E_{\$ / \euro}^{e}-E_{\$ / \euro}\right) / E_{\$ / \euro}\right]$ is positive, dollar deposits yield higher expected rate of return (better to hold wealth in dollars)
+
+If $R_{\$}-\left[R_{\euro}+\left(E_{\$ / \euro}^{e}-E_{\$ / \euro}\right) / E_{\$ / \euro}\right]$ is negative, euro deposits yield higher expected rate of return (better to hold wealth in euros)
 
 ## Equilibrium in the Foreign Exchange Market
 
 ### Interest Rate Parity
 
-The foreign exchange market is in *equilibrium* when deposits of all currencies offer the same expected rate of return, which is called**(uncovered) interest parity**.
+The foreign exchange market is in *equilibrium* when *deposits of all currencies offer the same expected rate of return*, which is called **(uncovered) interest parity**.
 
 - Interest parity implies that deposits in all currencies are equally desirable assets.
 - Interest parity implies that *arbitrage* in the foreign exchange market is not possible.
@@ -108,11 +112,11 @@ Why should this condition hold? Suppose it didn't.
 - Suppose $R_{\$}>R_{\epsilon}+\left(E_{s / \epsilon}^{e}-E_{\$ / \epsilon}\right) / E_{\$ / \epsilon}$
 - Then no investor would want to hold euro deposits, driving down the demand and price of euros.
 - Then all investors would want to hold dollar deposits, driving up the demand and price of dollars.
-- The dollar would appreciate and the euro would depreciate, increasing the right side until equality was achieved (for a given $ \left.E_{\$ / \epsilon}^{e}\right) $ :
+- The dollar would appreciate and the euro would depreciate, increasing the right side until equality was achieved (for a given $E_{\$ / \epsilon}^{e}$​) 
 
 ### The Equilibrium Exchange Rate
 
-Depreciation of the domestic currency today lowers the expected rate of return on foreign currency deposits. Why?
+*Depreciation of the domestic currency today lowers the expected rate of return on foreign currency deposits*. Why?
 
 - When the domestic currency depreciates, the initial cost of investing in foreign currency deposits increases, thereby lowering the expected rate of return of foreign currency deposits.
 
@@ -120,19 +124,23 @@ Appreciation of the domestic currency today raises the expected return of deposi
 
 - When the domestic currency appreciates, the initial cost of investing in foreign currency deposits decreases, thereby raising the expected rate of return of foreign currency deposits.
 
-Figure: The Relation Between the Current Dollar/Euro Exchange Rate and the Expected Dollar Return on Euro Deposits
+*Figure*: The Relation Between the Current Dollar/Euro Exchange Rate and the Expected Dollar Return on Euro Deposits
 
-- Given $E_{\$ / \epsilon}^{e}=1.05$​ and $R_{\epsilon}=0.05$​, an appreciation of the dollar against the euro raises the expected return on euro deposits, measured in terms of dollars.
+- Given $E_{\$ / \epsilon}^{e}=1.05$ and $R_{\epsilon}=0.05$, an appreciation of the dollar against the euro raises the expected return on euro deposits, measured in terms of dollars.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803094646.png)
 
-Figure: Determination of the Equilibrium Dollar/Euro Exchange Rate
+*Figure*: Determination of the Equilibrium Dollar/Euro Exchange Rate
 
 - Equilibrium in the foreign exchange market is at point 1, where the expected dollar returns on dollar and euro deposits are equal.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803095151.png)
 
 ## Interest Rates, Expectations, and Equilibrium
+
+So far, we have assumed that interest rates and people's expectations are fixed.
+
+What happens if we relax these assumptions one at a time?
 
 ### The effects of changing interest rates
 
@@ -141,15 +149,15 @@ An increase in the interest rate paid on deposits denominated in a particular cu
 - Higher interest rates on dollar-denominated assets cause the dollar to appreciate.
 - Higher interest rates on euro-denominated assets cause the dollar to depreciate.
 
-Figure: Effect of a Rise in the Dollar Interest Rate
+*Figure*: Effect of a Rise in the Dollar Interest Rate
 
 - A rise in the interest rate offered by dollar deposits from $ R_{\$}^{1} $ to $ R_{\$}^{2} $ causes the dollar to appreciate from $ E_{\$^{\prime} \epsilon}^{1}( $ point 1$ ) $ to $ E_{\$ / \epsilon}^{2}( $ point 2$ ) $.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803095520.png)
 
-Figure: Effect of a Rise in the Euro Interest Rate
+*Figure*: Effect of a Rise in the Euro Interest Rate
 
-- A rise in the interest rate paid by euro deposits causes the dollar to depreciate from $ E_{\$ / \euro}^{1} $​ (point 1) to $ E_{\$ / \euro}^{2}$​(point 2). (This figure also describes the effect of a rise in the expected future $\$ / \euro$​ exchange rate.)
+- A rise in the interest rate paid by euro deposits causes the dollar to depreciate from $ E_{\$ / \euro}^{1} $ (point 1) to $ E_{\$ / \euro}^{2}$ (point 2). (This figure also describes the effect of a rise in the expected future $\$ / \euro$ exchange rate.)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210803095700.png)
 
@@ -158,6 +166,7 @@ Figure: Effect of a Rise in the Euro Interest Rate
 If people expect the euro to appreciate in the future, then the expected rate of return on euros therefore increases (for given interest rates).
 
 - An **expected appreciation** of a currency leads to an **actual appreciation today** (but not necessarily to the full degree) 
+    - The previous figure can also be used to demonstrate how this change affects the equilibrium.
 - An **expected depreciation** of a currency leads to an **actual depreciation today** (but not necessarily to the full degree)
 
 ## Covered  Interest Parity

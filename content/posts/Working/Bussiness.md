@@ -68,6 +68,12 @@ upd: ""
 
 ## 待做
 
+8.15 国际金融 上午10点半到12点半 700
+
+8.17 商务统计 晚上11点半，2小时 800
+
+
+
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
 
 ## International Corporate Finance

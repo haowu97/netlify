@@ -13,6 +13,10 @@ categories: ['International Finance']
 math: true
 ---
 
+Exchange rates play a central role in international finance.
+
+- People can compare the prices of goods and services produced in different countries using exchange rates.
+
 ## Nominal exchange rate
 
 *Exchange rates*: The price of one nation’s currency in terms of another currency. Namely, the rate at which a person can trade the currency of one country for the currency of another.
@@ -37,6 +41,8 @@ However, **industry notation**:
 - … yes, it can get confusing
 
 ### Exchange Rate Quotes
+
+There are two ways to quote the exchange rates between currencies:
 
 - *Direct quote/ (Price quote)*: units of domestic currency per unit of foreign currency; quoting domestic currency first (in the numerator)
 - *Indirect quote/ (quantity quote)*: units of foreign currency per unit of domestic currency; quoting foreign currency first (in the numerator)
@@ -113,6 +119,10 @@ $$
 
 ## Foreign Exchange Markets
 
+Billions of dollars are changing hands each day.
+
+Major exchange transactions are made in *commercial banks, corporations, non-bank financial institutions, central banks*.
+
 ### Characteristics of the FX Markets
 
 The volume of FX transactions has risen significantly of the last decades:
@@ -142,9 +152,9 @@ The exchange rate quoted in financial newspapers are for large transactions of o
 
 ### Spot and Forward Rates
 
-**Spot exchange rates**: The rate of a foreign-exchange contract for immediate delivery.
+**Spot exchange rates**: The rate of a foreign-exchange contract for *immediate* delivery.
 
-**Forward exchange rate**: The rate fixed today that is applicable to a financial transaction that will take place in the future.
+**Forward exchange rate**: The rate fixed today that is applicable to a financial transaction that will take place *in the future*.
 
 - Forward dates are typically 30, 90, 180 or 360 days in the future.
 

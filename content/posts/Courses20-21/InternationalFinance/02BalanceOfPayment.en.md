@@ -5,13 +5,18 @@ lastmod: 2021-07-28T21:17:53+08:00
 draft: false
 
 description: ""
-upd: "GDP, GNP, BoP, Capital outflow, saving..."
+upd: "GDP, GNP, BoP, Capital outflow, saving"
 
 tags: ['Notes']
 categories: ['International Finance']
 
 math: true
 ---
+
+The two concepts in international macroeconomics are particularly important: 
+
+1. national income accounting and 
+2. balance of payment accounting.
 
 ## National Income Accounting
 
@@ -24,6 +29,11 @@ Y^{GDP} = C+I+G+\underbrace{(X-M)}_{\text{Net foreign contrburtion to the GDP}}
 $$
 
 *GNP* measures the value of goods and services produced by only a country's citizens but both domestically and abroad.
+
+- GNP will count the economic activities of expatriates and other
+    citizens outside the country's borders but GDP will not.
+- GDP will consider the activities of non-citizens within those borders, but GNP will not.
+
 $$
 Y^{GNP} = C+I+G+\underbrace{(X-M+BIREC)}_{\text{Net foreign contrburtion to the GNP}}
 $$
@@ -41,15 +51,17 @@ Net expenditure by foreign individuals and institutions: $EX-IM$
 $$
 CA= EX -IM = Y - (C+ I + G )
 $$
-When production > domestic expenditure, EX > IM: CA > 0 and trade balance > 0
+When *production (Y) > domestic expenditure (C+I+G)*, EX > IM: CA > 0 and trade balance > 0
 
 - when a country exports more than it imports, it earns more income from exports than it spends on imports
 - **net foreign wealth is increasing**
+- then country has **current account surplus**.
 
-When production < domestic expenditure, EX < IM: CA < 0 and trade balance < 0
+When *production (Y) < domestic expenditure (C+I+G)*, EX < IM: CA < 0 and trade balance < 0
 
 - when a country exports less than it imports, it earns less income from exports than it spends on imports
 - **net foreign wealth is decreasing**
+- then country has **current account deficit**
 
 $CA$​​ can also be expressed as $NX$​​(Net export).
 
@@ -59,7 +71,11 @@ $CA$​​ can also be expressed as $NX$​​(Net export).
 $$
 S = Y - C - G
 $$
-An open economy can save by building up its capital stock or by acquiring foreign wealth.
+An open economy can save 
+
+1. by building up its capital stock (higher I) 
+2. or by acquiring foreign wealth (higher CA).
+
 $$
 S = I + CA
 $$
@@ -72,26 +88,39 @@ $$
 S - I = CA
 $$
 
-1. $\mathrm{CA}>0$​ implies $\mathrm{S}-\mathrm{I}>0$​ and $\mathrm{S}>\mathrm{I}$​
-2. $\mathrm{CA}<0$​ implies $\mathrm{S}-\mathrm{I}<0 $​ and $\mathrm{S}<\mathrm{I}$
+1. $\mathrm{CA}>0$ implies $\mathrm{S}-\mathrm{I}>0$ and $\mathrm{S}>\mathrm{I}$
+2. $\mathrm{CA}<0$ implies $\mathrm{S}-\mathrm{I}<0$ and $\mathrm{S}<\mathrm{I}$
 
 ### Private and Government Saving
 
-*Private saving*:
+*Private saving*, is the part of the disposable income that is saved rather than consumed:
 $$
 S^p= Y^d - C = Y -T -C
 $$
-where $Y^d = Y - T$​​ is *disposable income*.
+where $Y^d = Y - T$ is *disposable income*.
 
 *Government saving* (taxes minus spending):
 $$
 S^g = T - G
 $$
-Link between $S^p$, $S^g$​ and national saving:
+Link between $S^p$, $S^g$ and national saving:
 $$
 S = (Y -T -C)+ (T -G) = S^p+ S^g
 $$
 
+We can re-write the national income identity using $ S^{p} $ and $ S^{g} $ :
+
+$$
+S^{g}+S^{p}=S=I+C A
+$$
+
+This implies
+
+$$
+S^{p}=I+C A-S^{g}=I+C A+G-T
+$$
+
+The above equation can be interpreted as follows: P*rivate savings increases when government runs a budget deficit* ($\mathrm{G}-\mathrm{T}>0$​​ implies a government budget deficit).
 
 ## Balance of Payments Accounts
 
@@ -101,7 +130,9 @@ A country’s *balance of payments* accounts accounts for its payments to and it
 
 Every transaction is booked twice - debit and credit, because otherwise the BoP would imply that someone is giving up something for nothing.
 
-An international transaction involves two parties, and **each transaction enters the accounts twice**: once as a credit (e.g. goods) and once as a debit (e.g. money).
+Every international transaction involves two parties, and **each transaction enters the accounts twice**: once as a credit (e.g. goods) and once as a debit (e.g. money).
+
+That's why the *balance of payment should always be equal to 0*!
 
 The general principle: **whatever enters the country is a debit(+), and anything that exits is a credit(-)** (whether it be goods or money).
 
@@ -111,6 +142,7 @@ The general principle: **whatever enters the country is a debit(+), and anything
 
 - Debit: balance of goods, in Canada
 - Credit: short-term capital account, in Canada (regardless if payment is in cash, bank cheque, or loan)
+- Every movement of goods is offset by a balancing movement of capital.
 
 *Paying for asset purchases* (e.g. German company buys a hotel in Quebec)
 
@@ -170,14 +202,14 @@ OFFICIAL RESERVE TRANSACTIONS (ORT)
 
 Following examples treat the U.S. as home country.
 
-【Good import)】Import Fax machine and pay for purchase with a $1,000 check.
+【Good import】Import Fax machine and pay for purchase with a $1,000 check.
 
 |                                                              | Credit | Debit  |
 | ------------------------------------------------------------ | ------ | ------ |
 | Fax machine purchase (Current account, good import)          |        | $1,000 |
 | Sale of bank deposit by Citibank (Financial account, asset sale) | $1,000 |        |
 
-【Service import)】Suppose that during your travels in France, you pay $200 for a fine dinner at the Restaurant. Lacking cash, you place the charge on your Visa credit card.
+【Service import】Suppose that during your travels in France, you pay $200 for a fine dinner at the Restaurant. Lacking cash, you place the charge on your Visa credit card.
 
 |                                                              | Credit | Debit |
 | ------------------------------------------------------------ | ------ | ----- |
@@ -186,10 +218,12 @@ Following examples treat the U.S. as home country.
 
 【Asset purchase】buys a newly issued share of stock of BP in the U.K.
 
-|                                                              | Credit |      |
-| ------------------------------------------------------------ | ------ | ---- |
-| purchase of a share of BP (Financial account, U.S. asset purchase) |        | $95  |
-| Sale of claim on First Card (Financial account, U.S. asset sale) | $95    |      |
+|                                                              | Credit | Debit |
+| ------------------------------------------------------------ | ------ | ----- |
+| purchase of a share of BP (Financial account, U.S. asset purchase) |        | $95   |
+| Sale of claim on First Card (Financial account, U.S. asset sale) | $95    |       |
+
+Note that acquisition of foreign assets enters as debit because the US must pay foreigners for those assets. Likewise, disposal of US assets will enter as credit because foreigners owning US assets must pay to get them.
 
 【Transfer payment】Consider how the U.S. balance of payments accounts are affected when U.S. banks forgive (that is, announce that they will simply forget about) $5,000 in debt owed to them by the government of the imaginary country of Bygonia.
 
@@ -270,9 +304,19 @@ where e is exchange rate(price quotation).
 
 Errors and omissions lead to a statistical discrepancy:
 
-- Statistics does not observe directly debit and credit side of the transaction since data from a transaction may come from different sources that differ in coverage, accuracy, and timing.
+- Statistics does not observe directly debit and credit side of the transaction since data from a transaction may come from *different sources that differ in coverage, accuracy, and timing*.
 - <u>The balance of payments accounts therefore seldom balance</u> in practice. Therefore, if debit does not equal credit, the difference between the sum of debit and the sum of credit is called "*statistical discrepancy*" or "*errors and omissions*"
 - <u>The statistical discrepancy is the account added to or subtracted from the financial account</u> to make it balance with the current account and capital account.
+
+### U.S. Balance of Payments Accounts
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210813222016.png)
+
+The sum of Current Account and Capital Account equals to -＄463.01 billion.
+
+This means that the US needs ＄463.01 billion to cover its current account deficit (by either borrowing from foreigners or by selling assets to them).
+
+The net financial account value is ＄195.23 billion. This implies that the United States incurred ＄267.78 billion less in foreign debt than it actually needed to fund its current plus capital account deficit!
 
 ### BoP Accounting Identities
 
