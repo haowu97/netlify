@@ -4,6 +4,8 @@ date: 2021-04-28T21:17:53+08:00
 lastmod: 2021-04-29T21:17:53+08:00
 draft: false
 
+author: "Henry Wu"
+
 description: ""
 upd: "international finance v.s. international trade"
 
