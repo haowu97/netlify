@@ -58,7 +58,8 @@ upd: ""
 | 7.25  | International Finance             | 566      |
 | 8.4   | International Finance             | 1000     |
 | 8.6   | Microeconomics                    | 400      |
-| Total |                                   | 23337.44 |
+| 8.15  | International Financ              | 700      |
+| Total |                                   | 24037.44 |
 
 ## 应收
 
@@ -67,8 +68,6 @@ upd: ""
 悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
 
 ## 待做
-
-8.15 国际金融 上午10点半到12点半 700
 
 8.17 商务统计 晚上11点半，2小时 800
 

@@ -15,7 +15,7 @@ math: true
 
 ## The Demand for Foreign Currency Assets
 
-*Factors* that influence the return on assets determine the demand for those assets.
+*Factors* that influence the return on assets determine the *individual's demand for those assets*.
 
 **(Nominal) Rate of return**: the percentage change in value that an asset offers during a time period.
 

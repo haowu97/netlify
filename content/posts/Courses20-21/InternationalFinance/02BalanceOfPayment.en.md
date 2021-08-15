@@ -4,8 +4,6 @@ date: 2021-07-27T21:17:53+08:00
 lastmod: 2021-07-28T21:17:53+08:00
 draft: false
 
-author: "Henry Wu"
-
 description: ""
 upd: "GDP, GNP, BoP, Capital outflow, saving"
 
