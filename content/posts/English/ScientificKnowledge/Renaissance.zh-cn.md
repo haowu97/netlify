@@ -5,7 +5,7 @@ lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "humanism, Michelangelo, Dante"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
@@ -19,7 +19,7 @@ categories: ['TOEFL科学常识']
 
 人文主义是资产阶级反对封建束缚谋取自身政治经济地位的思想武器。
 
-文艺复兴最先在意大利各城市兴起（如弗洛伦萨），以后扩展到西欧各国，于16世纪达到顶峰，带来一段科学与艺术革命时期，揭开了近代欧洲历史的序幕。
+文艺复兴最先在*意大利各城市兴起（如弗洛伦萨）*，以后扩展到西欧各国，于16世纪达到顶峰，带来一段科学与艺术革命时期，揭开了近代欧洲历史的序幕。
 
 文艺复兴时期的艺术不再只服务于宗教和皇室，开始变得*世俗化(secular)*，其中出现了许多的*肖像画（portrait）*和非常精美的*壁画艺术（fresco）*。此外，文艺复兴时期的*雕塑（sculpture）*也有着显著的特点，艺术特点是以人为本，要求打破宗教束缚、解放人性，推动了科学、文化的巨大进步，有较强的启发意义。
 
@@ -47,7 +47,7 @@ TPO37 Lecture3: *Giorgio Vasari* was an Italian painter, architect and scholar. 
 
 - 米开朗琪罗(Michelangelo)，代表作《最后的审判》(the last judgment)、
 - 拉斐尔(Raphael)，代表作《西斯廷圣母》（Sistine Madonna）、
-- 达·芬奇(DaVinci)，代表作《蒙娜丽莎》(Mona Lisa)。
+- 达·芬奇(Da Vinci)，代表作《蒙娜丽莎》(Mona Lisa)。
 
 米开朗琪罗、拉斐尔和达·芬奇都是壁画大师。
 

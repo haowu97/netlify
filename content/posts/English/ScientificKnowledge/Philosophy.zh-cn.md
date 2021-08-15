@@ -5,7 +5,7 @@ lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "Ancient Greek Philosophy, Socrates, Plato, Aristotle"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
