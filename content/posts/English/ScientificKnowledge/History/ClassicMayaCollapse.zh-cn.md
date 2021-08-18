@@ -1,5 +1,5 @@
 ---
-title: "Classic Maya Collapse: 玛雅文明衰败"
+title: "历史类 | Classic Maya Collapse: 玛雅文明衰败"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false

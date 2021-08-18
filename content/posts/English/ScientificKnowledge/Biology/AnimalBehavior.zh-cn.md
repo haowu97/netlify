@@ -1,5 +1,5 @@
 ---
-title: "Animal Behavior: 动物行为"
+title: "生物类 | Animal Behavior: 动物行为"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Geology: 地质学"
+title: "地质类 | Geology: 地质学"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false

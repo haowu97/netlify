@@ -1,5 +1,5 @@
 ---
-title: "The Application of Astronomy: 天文应用"
+title: "天文类 | The Application of Astronomy: 天文应用"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false

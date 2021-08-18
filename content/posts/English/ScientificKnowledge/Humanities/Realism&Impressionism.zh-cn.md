@@ -1,5 +1,5 @@
 ---
-title: "Realism & Impressionism: 现实主义 & 印象主义"
+title: "人文类 | Realism & Impressionism: 现实主义 & 印象主义"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false
