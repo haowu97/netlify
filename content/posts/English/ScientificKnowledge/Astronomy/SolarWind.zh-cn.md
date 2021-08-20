@@ -10,7 +10,7 @@ upd: "Solar wind, Fast and slow solar wind, Aurora, Geomagnetic stroms, Comets"
 
 resources:
 - name: "featured-image"
-  src: "https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TheSun.png"
+  src: "https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/thesun.png"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
