@@ -60,7 +60,8 @@ upd: ""
 | 8.6   | Microeconomics                    | 400      |
 | 8.15  | International Financ              | 700      |
 | 8.17  | Statistics for Business & Econ    | 800      |
-| Total |                                   | 24837.44 |
+| 8.19  | Asset Pricing                     | 1100     |
+| Total |                                   | 25937.44 |
 
 ## 应收
 

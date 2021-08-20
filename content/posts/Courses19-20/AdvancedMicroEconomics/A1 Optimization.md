@@ -133,9 +133,9 @@ $(x, \lambda)$ satisfies Kuhn-Tucker conditions for the problem if
 
 1. $L_{i}(x, \lambda)=f_{i}\left(x^{*}\right)-\left.\sum_{j=1}^{m} \lambda_{j}^{*} \frac{\partial g^{j}}{\partial x_{i}}\right|_{x^{*}}=0$ for $i=1, \ldots, n$
 
-2. $g^{j}(x)-c_{j}=0 \text{ & } \lambda_{j} > 0$ 
+2. $g^{j}(x)-c_{j}=0 \text{ \& } \lambda_{j} > 0$ 
 
-    or $g^{j}(\mathbf{x})-c_{j}<0 \text{ & } \lambda_{j}=0$ for $j=1, \ldots, m$ 
+    or $g^{j}(\mathbf{x})-c_{j}<0 \text{ \& } \lambda_{j}=0$ for $j=1, \ldots, m$ 
 
 The second set of conditions are equivalent to
 $$
