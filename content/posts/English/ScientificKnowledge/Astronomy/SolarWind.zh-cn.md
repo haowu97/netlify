@@ -7,6 +7,10 @@ draft: false
 description: ""
 upd: "Solar wind, Fast and slow solar wind, Aurora, Geomagnetic stroms, Comets"
 
+resources:
+- name: "featured-image"
+  src: "https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TheSun.png"
+
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
@@ -52,13 +56,14 @@ A **geomagnetic storm** (commonly referred to as *solar storm*) is a *temporary 
 
 The disturbance that drives the magnetic storm may be a *solar coronal mass ejection* (CME) or a *co-rotating interaction region* (CIR), a high-speed stream of solar wind originating from a coronal hole. The frequency of geomagnetic storms increases and decreases with the *sunspot cycle*.
 
+- During solar maximum, geomagnetic storms occur more often, with the majority driven by CMEs. 
+- During solar minimum, storms are mainly driven by CIRs (though CIR storms are more frequent at solar maximum than at minimum).
+
 The **solar cycle** or solar magnetic activity cycle is a nearly periodic *11-year change* in the Sun's activity measured in terms of *variations in the number of observed sunspots* on the solar surface. Levels of solar radiation and ejection of solar material (solar wind), the number and size of sunspots, *solar flares*, and coronal loops all exhibit a *synchronized fluctuation*, from active to quiet to active again, with a period of 11 years.
 
 *Figure*: Solar wind cycle
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/SolarWindCycle.jpg)
-
-During solar maximum, geomagnetic storms occur more often, with the majority driven by CMEs. During solar minimum, storms are mainly driven by CIRs (though CIR storms are more frequent at solar maximum than at minimum).
 
 Geomagnetic storm **effects**
 
