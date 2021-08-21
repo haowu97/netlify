@@ -1,5 +1,5 @@
 ---
-title: "地质类 | Water Cycle: 水循环"
+title: "环境类 | Water Cycle: 水循环"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false

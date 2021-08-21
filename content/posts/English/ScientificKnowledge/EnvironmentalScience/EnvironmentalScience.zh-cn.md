@@ -1,5 +1,5 @@
 ---
-title: "Environmental Science: 环境科学"
+title: "环境类 | Environmental Science: 环境科学"
 date: 2021-08-02T21:17:53+08:00
 lastmod: 2021-08-03T21:17:53+08:00
 draft: false
