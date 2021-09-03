@@ -5,7 +5,7 @@ lastmod: 2021-07-24T14:14:45+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "囊括了日常口语中绝大部分的发音规则与技巧!"
 
 tags: []
 categories: ['English基础']
@@ -34,6 +34,7 @@ categories: ['English基础']
 3. Take it easy.
 4. With a friend of mine.
 5. Startup.
+6. Half an hour
 
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=1)中也有详细讲解：
 

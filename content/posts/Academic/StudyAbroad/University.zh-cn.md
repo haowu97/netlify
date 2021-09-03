@@ -1,5 +1,3 @@
-
-
 [QS World University Rankings 2021: Top Global Universities | Top Universities (qschina.cn)](https://www.qschina.cn/university-rankings/world-university-rankings/2021)
 
 [院校管理 寄托院校库 (gter.net)](https://schools.gter.net/)
@@ -75,3 +73,8 @@ https://samf.ku.dk/phd-skolen/
 
 全球生活成本查询网站：[Cost of Living (numbeo.com)](https://www.numbeo.com/cost-of-living/)
 
+## 香港
+
+港科商学院：[HKUST PhD Programs](http://phd.bm.ust.hk/)
+
+申请12月1日截止

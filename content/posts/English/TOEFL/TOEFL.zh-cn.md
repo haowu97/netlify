@@ -15,6 +15,15 @@ categories: []
 
 在托福考试前，可以选择 4 个免费的送分地址， 如果不确定这次成绩可以见人，可以选择在出分后，以“增送成绩”的方式，付146RMB来送分。这4个地址直到考试前一晚22:00（考试当地时间）都还是可以修改的。过了22:00就没机会啦。
 
+网课：
+
+1. [TOEFL-win/TOEFL: 托福王炸福利包，托福雅思gre，gmat资料，百度网盘，威学，张巍gre，新东方，fiona，黎老师写作，考满分，微臣onepass，张艳听力，孟一博，吴克亮，杨帅，黄翰生，顾加北，杜仕明，何琼，王陆，周璐 (github.com)](https://github.com/TOEFL-win/TOEFL)
+2. [Jackwire/Jackwire.github.io: 托福雅思GRE和GMAT资料，申请文书集合。存在百度网盘里](https://github.com/Jackwire/Jackwire.github.io)
+3. [GRE备考薅羊毛攻略](https://github.com/Jackwire/Jackwire.github.io/blob/master/files/sugestions/gre.md)
+4. [托福提分攻略全揭秘&新政首考体验&机构选择](https://github.com/Jackwire/Jackwire.github.io/blob/master/files/sugestions/toefl1.md)
+5. [我是一位托福老师，总结一下十多年的工作经验吧 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/363801394)
+6. [（2）托福GRE网课那些事儿 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/117399765)
+
 [(31 封私信 / 99+ 条消息) 备考托福，需要准备哪些资料？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/24124134)
 
 [TOEFL iBT 模拟考试（应试者用） (ets.org)](https://www.ets.org/zh/toefl/test-takers/ibt/prepare/tests)
@@ -59,6 +68,8 @@ APP：不背单词，墨墨背单词，扇贝
 
 ## 阅读
 
+**网课：费扬阅读**
+
 托福网考的阅读考试一共有3-5篇文章，考试时间为60-100分钟。每篇阋读文章的长度约在700字左右，比之前两种形式的托福阅读文章都要更长一些，每篇文章后边有11-13个题目，均为选择题。题目主要包括10类：
 
 1. 事实信息题( factual information question),
@@ -83,6 +94,11 @@ APP：不背单词，墨墨背单词，扇贝
 主旨题：正确+必须是文中主要观点
 
 ## 听力
+
+网课：
+
+1. 微臣琦叔
+2. Fiona
 
 托福网考的听力考试一共有2-3个听力段子组合，每个组合由1个校园对话(conversation)和2个学术讲座(lecture)组成，所以一共有6-9个听力段子。整个听力考试会持续60-90分钟，每个校园对话的长度是3-5分钟，之后有5个题目，每个学术讲座的长度是4-6分钟，之后有6个题目。与大多数的英语能力考试不一样的是，在托福网考的听力部分中，考生在听录音资料之前无法提前看到题目，但考生可以**在听录音过程中记笔记以帮助理解**。除听力部分之外，**托福网考的口语和写作部分也会涉及对学生听力能力的考察**，因此学生听力水平的高低将会极大的影响学生的最后的分数。在我个人看来，托福网考就是个听力为王的考试，**听力能力强的考生会在整个考试中处于非常有力的位置**。因此，同学们千万不能放松对于听力能力的练习。
 
@@ -120,7 +136,11 @@ APP: 每日英语听力，小站托福，考满分，
 
 
 
+口语：
 
+1. Fiona
+2. 威学fancy
+3. 小站大花：[小站托福口语_免费高速下载|百度网盘-分享无限制 (baidu.com)](https://pan.baidu.com/s/1HZBiUR1O0kF7d1uDbQ3mAQ#list/path=%2F)
 
 
 
@@ -161,6 +181,8 @@ APP: 每日英语听力，小站托福，考满分，
 [**yeeaoobox**是一款专业的英语口语考试模拟软件](http://www.121down.com/soft/softview-47602.html)
 
 ## 写作
+
+网课：***黎老师***
 
 托福网考的写作考试要求考生在约1小时内完成两篇作文。
 
@@ -337,8 +359,12 @@ NEEA教育部考试中心为考生提供新托福考试和GRE的网上报名系�
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210508204512.jpg)
 
-### 拼分政策？
+### 拼分政策
+
+[托福拼分，看这一篇就够了！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/62173513)
 
 只要是你两年内参加的有效托福考试中，会按照你各部分最佳成绩的总和来算。
 
 比如你第一次口语超常考了29分，第二次只有24分，但是最优成绩选择的是29分。
+
+**注：单项考试总分仍然会显示在成绩单上！**

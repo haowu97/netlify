@@ -12,6 +12,8 @@ tags: ['笔记', 'Latex']
 categories: ['实用软件']
 ---
 
+[Muboard - Mathematics Chalkboard With LaTeX and Markdown Support](https://muboard.net/)
+
 ## 公式
 
 ### 1.1 公式环境

@@ -42,26 +42,29 @@ upd: ""
 
 2021年
 
-| 日期  | 科目                              | 收入     |
-| ----- | --------------------------------- | -------- |
-| 1.14  | 投资组合                          | 600      |
-| 1.25  | 衍生品                            | 300      |
-| 2.9   | 投资组合                          | 600      |
-| 2.12  | 股票分析                          | 1800     |
-| 2.12  | 期权策略                          | 1500     |
-| 3.19  | 金融工程                          | 150      |
-| 4.21  | 国际金融                          | 600      |
-| 6.9   | Statistics for Business & Econ    | 750      |
-| 6.17  | Quantitative Methods In Economics | 1200     |
-| 6.18  | Statistics for Business & Econ    | 750      |
-| 6.21  | International Finance             | 900      |
-| 7.25  | International Finance             | 566      |
-| 8.4   | International Finance             | 1000     |
-| 8.6   | Microeconomics                    | 400      |
-| 8.15  | International Financ              | 700      |
-| 8.17  | Statistics for Business & Econ    | 800      |
-| 8.19  | Asset Pricing                     | 1100     |
-| Total |                                   | 25937.44 |
+| 日期  | 科目                                     | 收入     |
+| ----- | ---------------------------------------- | -------- |
+| 1.14  | 投资组合                                 | 600      |
+| 1.25  | 衍生品                                   | 300      |
+| 2.9   | 投资组合                                 | 600      |
+| 2.12  | 股票分析                                 | 1800     |
+| 2.12  | 期权策略                                 | 1500     |
+| 3.19  | 金融工程                                 | 150      |
+| 4.21  | 国际金融                                 | 600      |
+| 6.9   | Statistics for Business & Econ           | 750      |
+| 6.17  | Quantitative Methods In Economics        | 1200     |
+| 6.18  | Statistics for Business & Econ           | 750      |
+| 6.21  | International Finance                    | 900      |
+| 7.25  | International Finance                    | 566      |
+| 8.4   | International Finance                    | 1000     |
+| 8.6   | Microeconomics                           | 400      |
+| 8.15  | International Finance                    | 700      |
+| 8.17  | Statistics for Business & Econ           | 800      |
+| 8.19  | Asset Pricing                            | 1100     |
+| 8.26  | portfolio theory&management (withdrawal) | 150      |
+| 8.26  | business analysis and valuation          | 800      |
+| 8.31  | Forecasting for Economics and Business   | 300      |
+| Total |                                          | 27187.44 |
 
 ## 应收
 
@@ -76,6 +79,10 @@ upd: ""
 
 
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
+
+大仙贝：9.8早晨8点，一个小时，25道选择题，金融机构与市场（500）
+
+菠萝：9月24日下午四点 International Finance（800）
 
 ## International Corporate Finance
 

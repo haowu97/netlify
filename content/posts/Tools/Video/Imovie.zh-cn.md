@@ -1,5 +1,5 @@
 ---
-title: "iMovie踩坑指南"
+title: "视频剪辑 | iMovie踩坑指南"
 date: 2021-04-07T12:11:59+08:00
 lastmod: 2021-04-08T12:11:59+08:00
 draft: false

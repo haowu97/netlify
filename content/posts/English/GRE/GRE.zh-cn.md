@@ -275,6 +275,8 @@ GRE写作官方题库是公开的。
 
 
 
+[GRE® 普通考试 (ets.org)官方资料信息](https://www.ets.org/s/gre/pdf/gre_test_taker_brochure_chinese.pdf)
+
 [GRE POWERPREP Practice Tests (ets.org)](https://www.ets.org/gre/revised_general/prepare/powerprep)
 
 考试前的2-4周，模拟考8-10套题目。
@@ -289,5 +291,14 @@ GRE写作官方题库是公开的。
 
 
 
+资料来源公众号：CourseHeroUnlock
 
+网课
 
+链接：https://pan.baidu.com/s/1SpuG_0vDWtobbe516gdidQ 
+提取码：umyp 
+
+曲根词汇
+
+链接：https://pan.baidu.com/s/1qbRMvtaLRY_-g3pWGidjNw 
+提取码：pm1v
