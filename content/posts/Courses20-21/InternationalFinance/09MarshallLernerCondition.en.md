@@ -13,6 +13,84 @@ categories: ['International Finance']
 math: true
 ---
 
+## Marshall-Lerner Condition
+
+### Assumptions
+
+Consider a two-country model with no capital flows where supply of exports and imports are perfectly elastic and changes in the volume of exports and imports have no effect on prices
+
+The volume of exports and imports vary with the exchange rate.
+
+Under these assumptions, the quantity of domestic currency demanded is equal to the value of domestic exports, and the quantity of domestic currency supplied is equal to the value of the domestic imports.
+
+$$
+B=P_{X} Q_{X}-S P_{M}^{*} Q_{M}=X-S M
+$$
+
+where
+
+- $ P_{x}= $ price in domestic currency of domestic exports
+
+- $ Q_{x}= $ volume of domestic exports
+- $ P_{M}= $ price in foreign currency of domestic imports
+- $ Q_{M}= $ volume of domestic imports
+- $ S= $ nominal exchange rate
+- $ X= $ value of exports in domestic currency
+- $ M= $ value of imports in foreign currency
+
+### Differentiate
+
+$$
+\frac{\partial B}{\partial S}=\frac{\partial X}{\partial S}-S \frac{\partial M}{\partial S}-M
+$$
+
+where $ B=B(S), X=X(S) $ and $ M=M(S) $ are function of $ S $. Then divide by $ M $
+
+$$
+\frac{\partial B}{\partial S} \frac{1}{M}=\frac{\partial X}{\partial S} \frac{1}{M}-\frac{S}{M} \frac{\partial M}{\partial S}-1
+$$
+
+and in equilibrium, the trade balance is
+
+$$
+B=X-S M=0 \Longrightarrow X=S M
+$$
+
+Substitute $ S / X $ in place of $ 1 / M $, and obtain
+
+$$
+\frac{\partial B}{\partial S} \frac{S}{X}=\frac{\partial X}{\partial S} \frac{S}{X}-\frac{S}{M} \frac{\partial M}{\partial S}-1
+$$
+
+Hence, rewrite as
+
+$$
+\begin{aligned}
+\frac{\partial B}{\partial S} &=\left(\frac{\partial X / X}{\partial S / S}-\frac{\partial M / M}{\partial S / S}-1\right) \frac{X}{S} \\
+&=\left(\eta_{X}+\eta_{M}-1\right) \frac{X}{S}
+\end{aligned}
+$$
+
+where $ \eta_{X}=\frac{\partial X / X}{\partial S / S} $ is price elasticity of demand for exports, and $ \eta_{M}=-\frac{d M / M}{d S / S} $ is the price elasticity of demand for imports. An exchange rate depreciation implies a positive effect on the trade balance when
+
+$$
+\frac{\partial B}{\partial S}>0
+$$
+
+which is equivalent to
+
+$$
+\left(\eta_{X}+\eta_{M}-1\right) \frac{X}{S}>0
+$$
+
+Since $ X / S>0 $, we obtain the **Marshall-Lerner condition**
+
+$$
+\eta_{X}+\eta_{M}>1
+$$
+
+While this condition is fulfilled in the long-run, in the short-run the sum of the elasticities turns out to be less than one. So, a domestic depreciation (devaluation) implies a deterioration of the current account in the short-term and an improvement in the long-term.
+
 ## The Foreign Exchange Market and the Reaction of the Current Account
 
 *Figure*: Increase in Demand for Foreign Currency
@@ -94,4 +172,4 @@ In the *short run the Marshal Learner condition is not fullfilled* because:
 
 
 
-![image-20210804050129115](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210804050129115.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210804050129115.png)

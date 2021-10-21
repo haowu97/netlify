@@ -6,6 +6,12 @@
 
 [Gate Fees Shell Values and Regulatory Risk in Chinese Equity Markets.pdf (tsinghua.edu.cn)](http://policyconf.pbcsf.tsinghua.edu.cn/Public/Uploads/upload/Gate Fees Shell Values and Regulatory Risk in Chinese Equity Markets.pdf)
 
+
+
+
+
+**Title**: 注册制推出对ST股票壳价值的影响——基于A股的实证研究
+
 ## 研究思路
 
 注册制，壳资源价值与财务困境溢价

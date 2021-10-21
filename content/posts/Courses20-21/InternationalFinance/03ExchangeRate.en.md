@@ -235,10 +235,10 @@ $$
 
 1. If *CNY/USD × USD/AUD × AUD/CNY < 1*, one of the three rates must increase
     1. The *currency in denominator is too low* relative to the currency in the numerator
-    2. Buy USD with CNY, buy AUD with USD, or buy CNY with AUD
+    2. **Clockwise strategy**: Buy USD with CNY, buy AUD with USD, and buy CNY with AUD
 2. If *CNY/USD × USD/AUD × AUD/CNY > 1*, one of the three rates must decrease
     1. The *currency in denominator is too high* relative to the currency in the numerator
-    2. Sell USD for CNY, sell AUD for USD, or sell CNY for AUD
+    2. **Anti clockwise strategy**: Sell CNY for AUD, sell AUD for USD, sell USD for CNY.
 
 【Example】Suppose exchange rates for AUD, USD, and CNY are AUD1.60/USD, CNY4.77/AUD, and USD0.14/CNY.
 

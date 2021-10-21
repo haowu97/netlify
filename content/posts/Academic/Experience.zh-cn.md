@@ -1,5 +1,7 @@
 [谷歌学术高级搜索技巧大放送 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/345830168)
 
+[经济研究经验、资料Public Goods (christinecai.github.io)](https://christinecai.github.io/items/PublicGoods.html)
+
 ## 文献综述
 
 简练地概括文献内容，在2k字以内综述40篇以上的文章。

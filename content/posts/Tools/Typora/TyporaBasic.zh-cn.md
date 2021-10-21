@@ -40,3 +40,9 @@ categories: []
 ### 改写模式
 
 Typora中按F12键会进入改写模式，此时输入的字符会覆盖后面的字符
+
+## 文件找回
+
+文件->偏好设置->恢复未保存的草稿->找到要恢复的文档
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FileRetrieve.png)

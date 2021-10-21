@@ -1,11 +1,11 @@
 ---
-title: "美语发音秘诀 | American Accent Training 读书笔记"
+title: "美语发音秘诀 | American Accent Training 学习笔记"
 date: 2021-07-21T14:14:45+08:00
 lastmod: 2021-07-22T14:14:45+08:00
 draft: false
 
 description: ""
-upd: "学习资源分享；关于音标应该知道的事情"
+upd: "本篇对American Accent Training的知识点进行了系统的整理。"
 
 tags: []
 categories: ['English基础']
@@ -192,7 +192,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 | 3.介词+名词： on the table | 7.联系紧密的副词+形容词； quite well |
 | 4.系动词+表语： get tired  | 8.其他联系的词群： someone like you  |
 
-## 4. 节奏（语法概述）
+## 4. 节奏
 
 汉语和美语的节奏对比
 
@@ -216,6 +216,25 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/ConsistentNounStressinChangingVerbTenses.jpg)
 
+## 5. 弱读
+
+**弱读音**：指缺乏，舌部，颌部，喉运动所产主的附加音。
+
+弱读可以有效提高流利度。
+
+**单词中的弱读**：非重读音节容易出现弱读音
+
+- photo /foutou/
+- photograph /'foutəgræf/ ---> /'fout græf/
+- photographer /fə'tagrəfər/ ---> /f 'tagr f r/
+
+**句子中的弱读**
+
+- 弱读为/ə/: to /tu/→/tə/
+- 进一步去掉元音: to /tu/→/tə/→/t/
+- 音长缩短声音变小: he, she, we
+
 ## Reference
 
 {{< bilibili id=BV1tV411W7Nj >}}
+

@@ -14,6 +14,8 @@ categories: ['实用软件']
 
 [Muboard - Mathematics Chalkboard With LaTeX and Markdown Support](https://muboard.net/)
 
+[特殊符号大全 (fhdq.net)](http://www.fhdq.net/)
+
 ## 公式
 
 ### 1.1 公式环境

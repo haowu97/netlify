@@ -64,25 +64,51 @@ upd: ""
 | 8.26  | portfolio theory&management (withdrawal) | 150      |
 | 8.26  | business analysis and valuation          | 800      |
 | 8.31  | Forecasting for Economics and Business   | 300      |
-| Total |                                          | 27187.44 |
+| 9.08  | Financial Market & Institution           | 500      |
+| 9.10  | International Finance                    | 800      |
+| 9.15  | Econometrica                             | 700      |
+| 9.17  | Forecasting for Economics and Business   | 300      |
+| 9.24  | International Finance                    | 800      |
+| 10.06 | Forecasting for Economics and Business   | 300      |
+| 10.07 | Financial Market&Institution             | 600      |
+| 10.09 | Probability and Statistic                | 800      |
+| 10.20 | Advanced Macroeconomics                  | 1200     |
+| 10.20 | Forecasting for Economics and Business   | 300      |
+| Total |                                          | 32587.44 |
 
 ## 应收
 
-2000(石)
+1200(石)
 
 悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
 
+采花：2700
+
+1200 AdvancedMacro 你个大菠萝🍍
+
 ## 待做
-
-8.17 商务统计 晚上11点半，2小时 800
-
-
 
 艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
 
-大仙贝：9.8早晨8点，一个小时，25道选择题，金融机构与市场（500）
+Forecasting for Economics and Business
 
-菠萝：9月24日下午四点 International Finance（800）
+- 1000: Thursday 02/12/2021
+
+
+
+kley :[简信CRM (jxcrm.net)](http://yqc.cus.jxcrm.net/pc/#/contract/info?current_corp=Aj0FOwFgVDAHNAtp&contract_id=UmQEMg1kB2MDNg1mWjgLNVZn) 600
+
+- w003_FIN 413 _quiz2_2021-10-29 02:00
+
+
+
+这门是finance 的多伦多时间10.29 3pm-5:20pm 
+
+- 中国时间**10.30** 3am-5:20am 1200rmb
+
+
+
+高级宏观 十一月十号国内12点：你个大菠萝🍍 1400
 
 ## International Corporate Finance
 

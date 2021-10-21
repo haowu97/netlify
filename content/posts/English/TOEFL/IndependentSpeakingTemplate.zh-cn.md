@@ -8,7 +8,7 @@ description: ""
 upd: "15个有助于破题的好段子，建议背诵"
 
 tags: ['笔记', 'TOEFL']
-categories: ['TOEFL汇总']
+categories: ['TOEFL笔记']
 ---
 
 ## 图书馆学习安静好
@@ -25,9 +25,9 @@ M: **Well**,(**Personally**), I don't **think/  agree with the statement**  that
 
 T: **That's because** I think libraries are actually good places for students to study.
 
-E: **I mean/ you know**  it's very quiet there, so students could **focus on** the things that they are **dealing with** like **reading books, writing papers or preparing for exams** and **stuff like that**. So they could finish the assignments quickly.
+E: **I mean/ you know**  it's very quiet there, so students could **focus on** the things that they are **dealing with** like **reading books, writing papers or preparing for exams** and **stuff like that**. So they **could finish the assignments** quickly.
 
-C: But other places are not so **ideal for** study. Take dorms for instance. It will be noisy there since some people might play the guitar or some of them might talk loudly on the phone. Therefore students who want to study there might **get distracted** easily.
+C: But other places are not so **ideal for** study. **Take dorms for instance**. It will be noisy there since some people might play the guitar or some of them might talk loudly on the phone. Therefore students who want to study there might **get distracted** easily.
 
 A: For instance, I prepared for my finals at the library last semester and there I was able to **review the textbooks, do problem sets and go over my class notes** in just 2 days which was faster than studying in my dorm, And then I was ready for the upcoming tests.
 
@@ -45,13 +45,13 @@ A: For instance, I prepared for my finals at the library last semester and there
 
 If you have the chance to go to the outer space, will you go or not?
 
-Well, if I have the chance to go to the outer space, I will definitely go because I love astronomy and I actually want to be an astronomer in the future. **So if I could do this**, I am able to experience a lot of exciting things like a world without gravity, and I am able to see some beautiful nebulae, especially the Crab nebula which is my favorite. And also, I think if I am lucky enough, I will be able to meet some aliens and stuff which will be fantastic.(92words)
+Well, if I **have the chance to** go to the outer space, I will definitely go because I love astronomy and I actually want to be an astronomer in the future. **So if I could do this**, I am able to **experience a lot of exciting things** like a world without gravity, and I am able to see some beautiful nebulae, **especially** the Crab nebula **which is my favorite**. And also, I think if I am lucky enough, I will be able to meet some aliens and stuff which will be fantastic.(92words)
 
 ## 参加比赛得奖棒
 
-Talk about a positive even and the result.
+Talk about a positive event and the result.
 
-Well, when I was a freshman, I joined a music club on campus because I love singing. And I signed up for a singing competition on campus. Since it was my first time, I was extremely nervous. But in order to do a good job, I practiced hard every day. I spent at least four hours a day at school, practicing dancing and singing and memorizing lyrics and stuff. And to my surprise, I got the frst prize, which was really exciting and I was really proud of myself. (89words)
+Well, when I was a freshman, I joined a music club on campus because I love singing. And I **signed up for** a singing competition on campus. Since it was my first time, I was **extremely** nervous. But in order to do a good job, I practiced hard every day. I **spent** at least four hours a day at school, practicing dancing and singing and memorizing lyrics and stuff. And **to my surprise**, I got the frst prize, which was really exciting and I was really **proud of myself**. (89words)
 
 ### 活用
 
@@ -71,7 +71,7 @@ Well, when I was a freshman, I joined a music club on campus because I love sing
 
 A/D: Students should take a year off before entering college。
 
-Well I think it's a good idea for students to take a year off before entering college. That‘s because it can help them take a break. You know students were very busy back in high school. They had to spend at least 10 hour a day at school attending classes, dealing with homework, preparing for exams and stuff and so they were pretty stressed out. Therefore, if they could take a year off, they could travel a lot where they are able to enjoy **beautiful scenery**, **taste delicious food** and **meet some new friends**, which will definitely help them get relaxed. And they will be able to focus better on their schoolwork after entering college.(115words)
+Well I think it's a good idea for students to take a year off before entering college. **That‘s because** it can **help** them **take a break**. You know students were very busy back in high school. They had to **spend** at least 10 hours a day at school *attending classes, dealing with homework, preparing for exams* and stuff and so they were **pretty** stressed out. Therefore, if they could take a year off, they could travel a lot where they are able to enjoy **beautiful scenery**, **taste delicious food** and **meet some new friends**, which will definitely help them **get relaxed**. And they will be able to focus better on their **schoolwork** after entering college.(115words)
 
 ### 活用
 
@@ -138,7 +138,7 @@ Well I think it's a good idea for students to take a year off before entering co
 
 Talk about most your favorite teacher。
 
-Well, my favorite teacher is my TOEFL speaking teacher Fiona. I like her because her class is very interesting. I mean she always tells some jokes, arranges games or asks us to form groups to do some group discussions or presentations. So I could get actively involved in the class and learn better. But other teachers' classes are a little bit boring: some of them will do all the talking in the class and some of them just show us slides and ask us to write everything down. So will get distracted and even fall asleep in these classes. (100words)
+Well, my favorite teacher is my TOEFL speaking teacher Fiona. I like her because her class is very interesting. I mean she always *tells some jokes, arranges games or asks us to form groups to do some group discussions or presentations*. So I could **get actively involved in** the class and learn better. But other teachers' classes are a little bit boring: some of them will do all the talking in the class and some of them just show us slides and ask us to write everything down. So I will get distracted and even fall asleep in these classes. (100words)
 
 ### 活用
 

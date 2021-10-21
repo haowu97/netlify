@@ -8,7 +8,7 @@ description: ""
 upd: "托福口语看这个就够了"
 
 tags: ['笔记', 'TOEFL']
-categories: ['TOEFL汇总']
+categories: ['TOEFL笔记']
 ---
 
 ## 关于托福口语

@@ -153,10 +153,20 @@ inpatient ---> impatient
 
 *顺行同化(Progressive Assimilation)*，后一个音受到前一个音影响，前一个音不变后一个音变化。
 
-复数词尾s
+复数/ 第三人称单数 词尾s
 
 1. 跟在清辅音后读作/s/: books: /bʊks/
 2. 跟在浊辅音后读作/z/: dogs: /dɔgz/
+
+动词ed
+
+1. 跟在清辅音后读作/t/ soaked
+2. 跟在浊辅音后读作/d/ battered
+
+所有格类似
+
+- Toms dad
+- cat's fur
 
 ### 前后音相互作用
 

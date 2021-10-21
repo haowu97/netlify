@@ -104,6 +104,8 @@ American Accent Training美语发音秘诀(原美语发音13秘诀)
 2. 听力层级：看到+听到
 3. 运用层级：看到+听到+运用
 
+[Online Etymology Dictionary | Origin, history and meaning of English words (etymonline.com)](https://www.etymonline.com/)
+
 ## 2. 听力口语
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/2021-6-29/1624982177704-image.png)

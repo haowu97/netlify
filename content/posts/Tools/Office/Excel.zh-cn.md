@@ -11,6 +11,8 @@ tags: ['办公软件','Office']
 categories: ['Office办公指南']
 ---
 
+[如何使用EXCEL创建日历(baidu.com)](https://jingyan.baidu.com/article/76a7e4090cdb6cfc3b6e15f7.html)
+
 ## 快捷键
 
 | 功能                | 快捷键              |
