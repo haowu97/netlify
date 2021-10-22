@@ -730,3 +730,216 @@ How could people in rural areas enjoy these benefits?
 
 Could students benefit from dealing with few assignments?
 
+## 九大话题
+
+### 教育类
+
+#### 学生层面
+
+**academic learning**
+
+1. more knowledge: 地道表达
+    1. knowledge/ expertise/ proficiency
+    2. academic learning
+    3. boost/ improve/ enhance + academic/ school performance
+    4. finish/ complete/ accomplish + homework / assignments/ tasks /projects
+    5. apply knowledge into practice
+    6. sb can acquire/ gain/ obtain /attain + academic expertise/ knowledge
+    7. sb can broaden/ extend / improve/ increase + knowledge
+    8. sth can provide students with the access to a wide range of/ considerable/ comprehensive + knowledge
+    9. sth can enrich their knowledge/// enlarge their knowledge base
+2. trigger interest
+    1. excite/ generate/ stimulate/ trigger/ motivate +  students' interest/ passion/ enthusiasm
+    2. explore the unknown world
+    3. participate in/ engage themselves in/ involve themselves in / be engaged/be involved in
+    4. allocate/ distribute time to doing
+
+**skills**
+
+1. interpersonal skills
+    1. extracurricular/ after-school activities
+    2. hone/ practice/ develop +skills
+    3. cultivate/ foster/ nurture/ shape+ ones personalities/ characteristics
+    4. interpersonal / communicative/ social + skills/ tactics/  strategies
+    5. converse/ interact/ socialize with sb
+    6. people from assorted / diverse/ various/ a variety of backgrounds and cultures
+2. time management skills
+    1. label and arrange them in the order of urgency
+    2. prioritize tasks in demand for / demanding/ requiring + instant/ immediate attention
+
+**qualities**
+
+1. independent
+    1. themselves/ individually / by themselyes /on their own
+    2. independence and autonomy / self-reliance/ self-determination
+    3. be independent and autonomous
+2. persistent
+    1. confront / be confronted with/ in the confrontation of
+    2. hardships / obstacles/ adversities/ enigmas/ frustration/ desperation
+    3. persistence /perseverance/ grit
+    4. achieve success regardless of/disregarding any setbacks
+
+**professional development**
+
+1. locate careers
+    1. be competitive in
+    2. win/ gain/ attain/ obtain + competitiveness/ competitive edges in
+    3. locate/ pursue/ hunt for/ search for
+2. promote
+    1. get +promotion / advancement
+    2. promote/ advance
+    3. move up one‘s career ladder
+
+【Example】Schools should require young children (aged 5-11) to work together in a small group instead of working alone during the process of learning many activities.
+
+小组合作
+
+1. academic learning
+    1. more know ledge
+    2. trigger Interest
+
+2. personal development
+    1. interpersonal skills
+    2. time management skills
+
+#### 教师层面
+
+**benefit students**（根据题目人对学生的好中选择两个小点）
+
+**benefit teachers**
+
+1. teaching methods
+    1. diverse/ assorted/ a variety of/ numerous/ excessive/ substantial
+    2. teaching/ pedagogical/ instructional  + tactics/ approaches/ strategies/ techniques
+    3. adopt /employ/ follow + 教学方法
+    4. involve/ engage students in discussions
+    5. Increase/ boost/ enhance + students’ engagement / involvement
+2. achievement/Satisfaction/ motivation
+    1. a sense of achievement/ motivation/ attainment / accomplishment
+    2. motivate/ stimulate /urge/ spur/ inspire sb to do
+
+【Example】Agree or disagree? All school teachers should be required to take courses every 5 years to update their knowledge. (13.12.01)
+
+破题：应该每五年上课
+
+1. benefit students
+    1. more knowledge
+    2. trigger interest
+
+2. benefit teachers
+  1. teaching methods
+  2. motivation
+
+#### 学校层面
+
+**benefit students**（根据题目从对学生的好中选择两个小点）
+
+**benefit schools**
+
+1. enrollment/ reputation
+    1. prestigious / renowned/ well-known
+    2. lead to / contribute to/ result in enrollment growth 
+    3. increase/ enhance/ boost + enrollment rate
+    4. applicants/ students + regard/ consider ... as the most essential / vital/ decisive / dominant/ prominent + element / ingredient / factor / component in their college search process
+2. donation(from alumni: company)
+    1. a + quality/ a well-rounded/ decent/ first-class + education
+    2. boost / raise/ increase+ a school's revenue
+    3. build/ establish+alumni links
+
+【Example】Agree or disagree Would you rather your school spend money on social events and facilities or on improving the cafeteria menus?(13.08.17)
+
+破题：投入社会活动
+1. benefit students
+    1. interpersonal skill
+    2. lime management skills
+2. benefit schools
+  1. enrollment/ reputation
+  2. donation(from alumnus; company)
+
+### 工作类
+
+#### 员工层面
+
+##### 职业选择
+
+1. benefits of high salaries
+    1. improve one's professional life
+    2. improve one's personal life(oneself+family members) --> work
+2. benefits of 另一点 (说该工作缺点的两个好处，最好和职业相关)
+
+工作相关
+
+- job: positions, careers, professions, vocations, occupations
+- in the workplace/ in the work field
+- pursue/ hunt for /search for+ a career
+- embark on a career(从事)
+
+【Example】Which would you choose: a higher pay job with long hours or an average pay job with normal work hours? Explain your choice. using specificreasons and details.(16.07.09)
+
+破题：选择高薪长时间的工作
+
+1. higher salaries
+  1. improve one s professional life: take courses, equipment
+  2. improve one s personal life: relax
+2. long hours
+  1. more knowledge
+  2. a better relationship with colleagues 
+
+##### 职业生活
+
+1. efficient
+    1. reduce time
+    2. reduce errors
+
+2. relationship
+    1. with colleagues
+    2. with employers
+    3. with clients
+
+工作效率
+
+- increase /improve/ boost/ enhance + productivity efficiency
+- lower/ undermine/ impair/ hamper+ productivity
+- eliminate personal + distractions/ distractors/ distracters/ interruptions/
+- commit mistakes
+- rectify/ correct/ revise errors
+- decrease the risks/ chances /possibilities/ likelihoods + of errors
+
+人际关系
+
+- employees/ subordinates/ co-workers/ colleagues/ fellow workers
+- render assistance to sb
+- promote/ advance
+- move up a career ladder
+- sth + ensure/ guarantee/Secure + promotion/ advancement
+- sb + promote/ advance
+
+【Example】Whether to finish a project at one time or to work at several projects at the same time (15.03.28)
+
+破题：一次只做一个事情
+
+1. efficient
+    1. reduce time
+    2. reduce errors
+2. relationship
+    1. with colleagues
+    2. with employers
+
+#### 老板层面
+
+#### 公司层面
+
+### 品质类
+
+### 生活类
+
+### 友谊类
+
+### 社会类
+
+### 政府类
+
+### 环境类
+
+### 媒体类
+
