@@ -17,7 +17,7 @@ categories: ['TOEFL笔记']
     - 总分+并列
 - 语言质量
 
-## 写作思路与格式
+## 1. 写作思路与格式
 
 例题：Some students enjoy taking distance learning courses on the courses or television. Other students would rather take all of their courses with a teacher in classroom. Which is these options do you think is better?
 
@@ -155,7 +155,7 @@ over( whether/what引导的) 名词性从句
 
 【Example】Academic **performance**, the foundation of students' future development, will be **boosted** when they receive online education.(总结总论点1) Personal **development**, essential contributors to students' future success, will be **facilitated**, if they are educated on the Internet.(总结总论2) To conclude, only by having distance education, instead of being taught in classrooms, can students reap numerous benefits.（总结全文）
 
-## 模板
+## 2. 模板
 
 开头段
 
@@ -184,7 +184,7 @@ over( whether/what引导的) 名词性从句
 
 a battery of  一连串
 
-## 题型分类
+## 3. 题型分类
 
 内容维度：
 
@@ -240,7 +240,7 @@ A
 
 点：now respect teachers
 
-## 破题方法
+## 4. 破题方法
 
 ### 利弊题
 
@@ -364,7 +364,7 @@ Do you agree or disagree with the following statement? *To truly enjoy a vacatio
       1. X worries
       2. happiness（理由说）
 
-## 题型写法
+## 5. 题型写法
 
 ### 反面对比法
 
@@ -425,7 +425,7 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 
 - To conclude, only by considering those mentioned above can we draw the conclusion that younger people nowadays spend more time on improving the world than in the past.
 
-## 进阶句式
+## 6. 进阶句式
 
 ### 句子构成
 
@@ -521,7 +521,7 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 
 - She said the sun rises from the east.
 
-## 高阶句法
+## 7. 高阶句法
 
 ### 变化主语
 
@@ -730,9 +730,11 @@ How could people in rural areas enjoy these benefits?
 
 Could students benefit from dealing with few assignments?
 
-## 九大话题
+## 8. 九大话题
 
-### 教育类
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFELIndependentWritingBreak.png)
+
+### 8.1 教育类（重点）
 
 #### 学生层面
 
@@ -856,7 +858,7 @@ Could students benefit from dealing with few assignments?
   1. enrollment/ reputation
   2. donation(from alumnus; company)
 
-### 工作类
+### 8.2 工作类（重点）
 
 #### 员工层面
 
@@ -927,19 +929,548 @@ Could students benefit from dealing with few assignments?
 
 #### 老板层面
 
+老板的品质
+
+1. efficient
+    1. reduce time
+    2. reduce errors
+
+2. relationship
+      1. with subordinates
+      2. with clients: reputation, image, satisfaction
+
+老板相关
+
+- superiors/ employers/ leaders / executives/ supervisors/ monitors
+- clients and customers
+
+【Example】Agree or disagree? An effective leader should try to make others feel that they are part of the decision making process. w(13.01.12)
+
+破题：应该让其他人参与
+
+1. efficient
+    1. reduce time
+    2. reduce errors
+2. relationship
+      1. with subordinates
+      2. with clients: reputation, image, satisfaction
+
 #### 公司层面
 
-### 品质类
+1. Inner operation
+    1. efficiency
+    2. relationship
+2. external development
+    1. reputation: attract employees
+    2. investment from others
 
-### 生活类
+公司相关
 
-### 友谊类
+- firms/ enterprises/ corporations/ organizations/ agencies/ businesses
+- the success / achievement/ prosperity of a corporation
+- generate/ create/ boost +profits /revenues
 
-### 社会类
+【Example】Some methods for already successful companies to develop
 
-### 政府类
+1. produce new version of products
+2.  introduce new line of products
+3. have a partner with other company(15.05.16A)
 
-### 环境类
+破题：选择和其他公司合作
 
-### 媒体类
+1. inner operation
+    1. efficiency
+    2. relationship
+2. external development
+    1. reputation: attract employees
+    2. investment from others
+
+### 8.3 品质类
+
+#### 品质成功
+
+某种品质能够带来成功的原因
+
+1. efficiency
+    1. reduce time
+    2. reduce errors(concentrate/misunderstanding)
+2. assistance
+    1. from parents
+    2. from strangers
+
+成功，目标：
+
+- contribute to+好/ lead to+中性/ result in+中性
+- triumph/ satisfaction/ prosperity/ success/ achievement
+- accomplish / achieve / attain / fulfill/ meet /reach+ an objective target/ aim
+- commit/dedicate/ devote oneself to
+
+梦想：
+
+- pursue their dreams/ in the pursuit of their dreams
+- strive for/ struggle for + a dream
+- realize one‘s dream/ reach a dream
+
+【Example】Agree or disagree? It is important to make sure that others know about your strengths and accomplishments: if you are not so, you will be never successful in life. (13.01. 13)
+
+破题：让别人知道我们的成就更好
+
+1. efficiency
+    1. reduce time
+    2. reduce errors(concentrate/misunderstanding)
+2. assistance
+    1. from parents
+    2. from strangers
+#### 以貌取人
+
+vary constantly VS personalities: not change
+
+1. mood
+2. seasons/fashion/ ages/ living places
+
+uniform
+
+1. at the workplace
+2. at school
+
+相关表达：
+
+- various/ assorted/ different/ distinct / diverse/ diversified
+- according to/ in agreement with/ in consonance with/ in line with
+- change/ alter/ shift/ vary
+- leave a favorable/ good /positive + impression on
+
+【Example】Agree or disagree? The way a person dresses in is a good indication of his/her personality and character. (13.06.15)(14.12. 14)(17.02.25)
+
+破题：衣着不能反映人的品质
+
+1. vary constantly VS personalities: not change
+    1. mood
+    2. seasons/fashion/ ages/ living places
+2. uniform
+    1. at the workplace
+    2. at school
+
+### 8.4 生活类（重点）
+
+食、住、行、动、买
+
+1. health
+    1. physical health
+        1. exercise/ work out/ do physical activities/ be physically active
+        2. keep a sedentary lifestyle/ lead a sedentary lifestyle
+        3. distract / prevent /exclude + sb from a sedentary lifestyle
+    2. mental health
+        1. pressure/ tension/ stress
+        2. undergo/ experience/ endure/suffer from
+        3. cope with / deal with/ handle/ address / tackle combat + pressure/ stress/ tension
+        4. adopt ... as a + stress-relief/ stress-shrinking/ stress-reducing/ stress-eliminating + strategy ///adopt ... as a stress reducer
+        5. alter one's stress level
+        6. raise/ lower ones stress level
+        7. distract sb/ serve as a distracter/ provide a distraction + from
+        8. daily/ routine + worries/ concerns/ trivia
+        9. happiness/ delight/ elation/ enjoyment/ joy/ exhilaration / well-being/ bliss/ contentment
+2. relationship
+    1. new friends
+        1. build/ establish + relationship / connection/ bond
+        2. a close/ strong/ intimate/ harmonious + bond
+        3. encounter/ come across/ get acquainted with
+        4. expand/ extend+ one's current social circle/ network
+        5. a wider/ larger friend circle
+    2. communicate
+        1. maintain/ strengthen+relationship / connection / bond
+        2. acquainted friends/ acquaintances/ companions
+    3. old friends
+    4. assistance
+
+【Example】It is better to spend money on travelling than saving money.(15.06.13)
+
+破题：花钱旅游更好
+
+1. health
+    1. physical health
+    2. mental health
+2. relationship
+    1. new friends
+    2. old friends
+
+#### 买买买题
+
+1. students
+    1. computers
+    2. sport equipment
+2. adults
+    1. mobile phones
+    2. automobiles
+3. professional life
+    1. computers
+    2. automobiles
+4. personal life
+    1. mobile phones
+    2. sport equipment
+
+【Example】Agree or disagree? People often buy products not because they really need them but because other people have them. (13.05.11)(14.11.02)
+
+破题：是因为真需要
+
+1. students
+    1. computers
+    2. sport equipment
+2. adults
+    1. mobile phones
+    2. automobiles
+
+### 8.5 友谊类
+
+#### 8.5.1 友谊杀手
+
+1. x communication
+    1. X topics
+    2. x time
+2. x assistance
+    1. x solve problems in the workplace
+    2. x solve problems in the daily life
+
+相关表达：
+
+- facilitate/ trigger / improve + communication/ interaction / socialization
+- share the same topics
+- help sb do sth/ assist sb in doing sth/ render assistance to sb in doing/ aid sb to do
+
+【Example】Do you agree or disagree with the following statement? Competition between friends always has a negative effect on their friendship. (16.07.02)
+
+破题：竟争会对友谊造成负面影响
+
+1. x communication
+    1. X topics
+    2. x time
+2. x assistance
+    1. x solve problems in the workplace
+    2. x solve problems in the daily life
+
+#### 8.5.2 友谊意义
+
+1. education
+    1. academic learning
+    2. personal development
+
+2. professional life
+  1. locate a career
+  2. promotion
+3. personal life/health
+    1. physical health
+    2. mental health
+
+【Example】Agree or disagree? It is better for people to have friends who are intelligent than to have friends who have a good sense of humor. (15.11.02A(15.06.27)(17.0)4.15)
+
+破题：选择聪明的朋友
+
+1. education
+    1. academic learning
+    2. personal development
+
+2. professional life
+    1. locate a career
+    2. promotion
+
+### 8.6 社会类
+
+#### 8.6.1 古今对比
+
+属于现象题
+
+1. education
+  1. knowledge(the access to education)
+    1. the policy of compulsory education
+    2. be enrolled in/ be admitted to
+    3. have the access to education/ receive education
+    4. be reachable/ accessible/ approachable
+    5. regardless of/ disregarding families financial conditions
+    6. destitute/ poverty-stricken / impoverished/ low-income families
+  2. skills & qualities(a well-rounded education)
+2. technology
+  1. search engines
+    1. with the advent / arrival/ onset of
+    2. change/ alter / transform / revolutionize + every facet of life
+    3. electronic + devices/gadgets / gears/ equipment
+    4. type in key words / queries into search engines
+    5. be exposed to/ be presented with / be exhibited with + a great deal of / a large amount of + information
+  2. social media tools
+    1. social networking sites / social interaction networks/ social media tools/ forums
+    2. regardless of/ disregarding + the limitations / constraints/ restrictions of time and Space
+
+古今相关表达：
+
+- recently/ currently / nowadays/ these days
+- in the contemporary/ current /modern/ recent + time
+- than in the past/ than decades ago/ than a generation ago/ compared with the case in the past /// than before/ previously /formerly
+
+【Example】Agree or disagree? It is easier for parents to raise children nowadays than50 years ago.(13.03.24)(16.10.28)
+
+破题：现在更容易养小孩
+
+1. education
+    1. knowledge(the access to education)
+    2. skills & qualities(a well-rounded education)
+2. technology
+    1. search engines
+    2. social media tools
+
+#### 8.6.2 青年老人
+
+1. professional life
+    1. locate a career
+    2. promote
+2. personal life
+    1. health
+    2. relationship
+
+相关表达：
+
+- the youth/ young people / youngsters/ adolescents/ teenagers/ juveniles
+- the old / the elderly/ the senior/ the old citizens/ the elderly citizens / the senior citizens
+
+【Example】In modern times, grandparents cannot give useful advice for their grandchildren because the world they live in 50 years ago are too different from now.(15.09,.17)
+
+破题：老年人不能给年轻人建议
+
+1. professional life
+    1. locate a career
+    2. promote
+2. personal life
+    1. health
+    2. relationship
+
+### 8.7 政府类
+
+#### 8.7.1 民生民计
+
+分生活：
+
+1. professional life
+    1. locate a career 
+    2. promote
+    3. efficiency
+    4. relationship
+
+2. personal life
+    1. friends
+    2. health
+
+分人：
+
+1. good for students
+    1. academic learning
+    2. personal development
+2. good for adults
+  1. locate a career
+  2. promote
+  3. efficiency
+  4. relationship
+  5. professional
+  6. personal life
+
+政府相关表达：
+
+- the government/ the (local) authority / the governors/ the officials
+- the public/ the local people/ citizens/ individuals
+- sth benefit sb
+- sth place sb as beneficiaries
+- sth place sb as victims
+- sb reap and harvest benefits from sth
+
+政策相关：
+
+- Issue / implement/ introduce + a policy/ strategy  / tactic
+- implement / impose / carry out / enforce a policy
+- be responsible / accountable for
+- take/ undertake/ assume/ shoulder + responsibilities
+- raise/ elevate/ heighten + one’s living standard
+- address/ tackle/ handle/ cope with/ deal with / work out the problem of
+- the lack/ absence of + involvement/ engagement
+
+【Example】The government should provide free Internet access to citizens as they dowith other public services such as building road. (15.04.12)(15.12.05)(16.09.10A)
+
+破题：政府应该提供免费的网络
+
+1. good for students
+    1. academic learning
+    2.  interest
+
+2. good for adults
+  1. efficiency
+  2. relationship
+
+#### 8.7.2 削减财政
+
+被削减的领域，能被其他替代。
+
+相关表达：replace/ displace/ supplant/ take over
+
+【Example】In your opinion, if a local government is facing economic problems, which of the following areas should it spend less money on? Library or public transportation or Police (14.01. 18)
+
+破题：减少图书馆，图书馆能被代替
+1. technology 
+    1. search engines
+    2. social media tools
+2. schools
+    1. from teachers
+    2. from students
+
+### 8.8 环境类
+
+#### 8.8.1 保护措施
+
+1. publicize
+  1. community service
+  2. school, courses
+2. practice
+  1. air pollution: vegetation +transportation
+  2. water pollution: fertilizers, pesticides + effluents/ water wastes
+  3. noise pollution: transportation+ factories
+  4. research
+
+相关表达
+
+1. 宣传
+    1. publicize/ spread + the knowledge of
+    2. protect/ safeguard / preserve + the environment
+    3. build encourage/ foster/ develop / heighten / increase/ raise + the awareness of environmental protection
+    4. extend/ increase + one's commitment to
+    5. commit oneself to sth
+2. 污染
+    1. exert/ have + a(n) adverse/ negative/ severe/ detrimental/ grievous + Impact on
+    2. positive/ favorable / profound + impact on
+    3. pose a threat / challenge to
+    4. contaminate/ pollute
+3. 空气污染
+    1. automobiles/ vehicles/ combustion engine vehicles
+    2. mass/ public + transit / transportation
+    3. the combustion/ consumption of fossil fuels
+    4. emit/ release
+    5. adverse/ disastrous/ devastating/ detrimental/ noxious/ disadvantageous + exhausts/ emissions
+    6. air /atmospheric+pollution
+4. 水污染
+    1. fertilizers/ pesticides
+    2. during the process of cultivating crops
+    3. prevent the remains of chemicals from being washed into water systems
+
+【Example】Agree or disagree? Despite the fact that many countries sav they care about environmental problems, the environmental situation will not improve significantly in the future.(13.03. 30)
+
+破题：环境在未来会被改善
+
+1. publicize
+    1. community service
+    2. school, courses
+2. practice
+    1. pollution
+    2. research
+
+#### 8.8.2 环境重要
+
+1. benefits individuals
+    1. air quality
+    2. water quality
+2. benefit the government
+    1. attract talents
+    2. attract Investors
+
+【Example】Agree or disagree? To increase economic growth, the government should ignore the environmental concerns. (13.09.08)
+
+破题：不能忽视环境问题，环墳问题很重要
+
+1. benefits individuals
+    1. air quality
+    2. water quality
+2. benefit the government
+    1. attract talents
+    2. attract Investors
+
+### 8.9 媒体类
+
+#### 8.9.1 负面影响
+
+1. physical health
+    1. keep sedentary
+    2. food. advertisement
+2. mental health
+    1. laziness
+    2. violence
+
+相关表达：
+
+- advertising/ advertisements/ adverts
+- obesity/ weight gain
+- aggressive and violent behaviors
+- aggression/ violence
+
+【Example】Movies and television programs have more negative influence than positive ones on how young people behave (15.02.01
+
+破题：有更多的负面影响
+
+1. physical health
+    1. keep sedentary
+    2. food. advertisement
+2. mental health
+    1. laziness
+    2. violence
+
+#### 8.9.2 媒体相关
+
+切生活：
+
+1. professional life
+    1. locate a career 
+    2. promote
+    3. efficiency
+    4. relationship
+
+2. personal life
+    1. friends
+    2. health
+
+切人：
+
+1. good for students
+    1. academic learning
+    2. personal development
+2. good for adults
+    1. locate a career
+    2. promote
+    3. efficiency
+    4. relationship
+    5. professional
+    6. personal life
+
+【Example】Agree or disagree? Only movies that can teach us something in real life are worth watching.(13.09.01)(16.05.28)
+
+破题：只有教给我们真实生活的电影值得看
+
+1. professional life
+    1. locate a career 
+    2. promote
+
+2. personal life
+    1. friends
+    2. health
+
+### 8.10 常用表达
+
+due to/ owing to/ thanks to/ because of+原因
+
+so as to/ with an attempt to/ in order to + 目的
+
+thus/ thereby/ therefore/ hence+结果
+
+will /can/tend to/be likely to/be inclined to 将会做
+
+function/work/ act+ as
+
+essential/ vital decisive/ dominant/ prominent
+
+element /ingredient/factor/component
+
+especially/ particularly / in particular
+
+in most cases/on most occasions/ under most circumstances/ on a regular basis/ frequently/ generally
 
