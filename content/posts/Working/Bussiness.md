@@ -110,6 +110,14 @@ kley :[简信CRM (jxcrm.net)](http://yqc.cus.jxcrm.net/pc/#/contract/info?curren
 
 高级宏观 十一月十号国内12点：你个大菠萝🍍 1400
 
+
+
+大仙贝：
+
+- 计量经济学，11.11双11下午2点，2hours
+- 选择和计算题的quiz
+- 800rmb
+
 ## International Corporate Finance
 
 ### Lecture 1: Multinational Financial Management & the International Monetary System

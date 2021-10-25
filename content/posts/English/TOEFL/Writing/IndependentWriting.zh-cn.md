@@ -86,8 +86,8 @@ N
 
 同位语
 
-1. N为中性词， the foundation of a quality life
-2. N为褒义词， the objective everyone strives for
+1. N为中性词， **the foundation of** a quality life
+2. N为褒义词， **the objective everyone strives for**
 
 over( whether/what引导的) 名词性从句
 
@@ -881,11 +881,11 @@ Could students benefit from dealing with few assignments?
 破题：选择高薪长时间的工作
 
 1. higher salaries
-  1. improve one s professional life: take courses, equipment
-  2. improve one s personal life: relax
+      1. improve one s professional life: take courses, equipment
+      2. improve one s personal life: relax
 2. long hours
-  1. more knowledge
-  2. a better relationship with colleagues 
+      1. more knowledge
+      2. a better relationship with colleagues 
 
 ##### 职业生活
 
@@ -1135,7 +1135,7 @@ uniform
 
 - facilitate/ trigger / improve + communication/ interaction / socialization
 - share the same topics
-- help sb do sth/ assist sb in doing sth/ render assistance to sb in doing/ aid sb to do
+- help sb do sth/ **assist sb in doing sth**/ render assistance to sb in doing/ aid sb to do
 
 【Example】Do you agree or disagree with the following statement? Competition between friends always has a negative effect on their friendship. (16.07.02)
 
@@ -1181,23 +1181,23 @@ uniform
 
 1. education
   1. knowledge(the access to education)
-    1. the policy of compulsory education
-    2. be enrolled in/ be admitted to
-    3. have the access to education/ receive education
-    4. be reachable/ accessible/ approachable
-    5. regardless of/ disregarding families financial conditions
-    6. destitute/ poverty-stricken / impoverished/ low-income families
+        1. the policy of compulsory education
+            2. be enrolled in/ be admitted to
+                3. have the access to education/ receive education
+                    4. be reachable/ accessible/ approachable
+                        5. regardless of/ disregarding families financial conditions
+                            6. destitute/ poverty-stricken / impoverished/ low-income families
   2. skills & qualities(a well-rounded education)
 2. technology
   1. search engines
-    1. with the advent / arrival/ onset of
-    2. change/ alter / transform / revolutionize + every facet of life
-    3. electronic + devices/gadgets / gears/ equipment
-    4. type in key words / queries into search engines
-    5. be exposed to/ be presented with / be exhibited with + a great deal of / a large amount of + information
+        1. with the advent / arrival/ onset of
+            2. change/ alter / transform / revolutionize + every facet of life
+                3. electronic + devices/gadgets / gears/ equipment
+                    4. type in key words / queries into search engines
+                        5. be exposed to/ be presented with / be exhibited with + a great deal of / a large amount of + information
   2. social media tools
-    1. social networking sites / social interaction networks/ social media tools/ forums
-    2. regardless of/ disregarding + the limitations / constraints/ restrictions of time and Space
+        1. social networking sites / social interaction networks/ social media tools/ forums
+            2. regardless of/ disregarding + the limitations / constraints/ restrictions of time and Space
 
 古今相关表达：
 
@@ -1263,12 +1263,12 @@ uniform
     1. academic learning
     2. personal development
 2. good for adults
-  1. locate a career
-  2. promote
-  3. efficiency
-  4. relationship
-  5. professional
-  6. personal life
+      1. locate a career
+      2. promote
+      3. efficiency
+      4. relationship
+      5. professional
+      6. personal life
 
 政府相关表达：
 
