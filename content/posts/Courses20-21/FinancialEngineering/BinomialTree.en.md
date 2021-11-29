@@ -127,6 +127,8 @@ No-arbitrage & Risk-neutral
 - In complete market (perfect hedge), risk-neutral probability is unique, vise versa.
 - Option pricing in incomplete market is much difficult.提前执行
 
+$ C=\left[p . C_{u}+(1-p) \cdot C_{d}\right] \times e^{-r T / N} \quad $ where $ \quad p=\frac{e^{r T / N}-d}{u-d} $
+
 ## Multi-period Binomial tree
 
 Derivative: European options

@@ -109,13 +109,13 @@ $$
 **exports and imports**.
 
 1. A *real depreciation* of the value of U.S. products means a fall in a dollar’s purchasing power of EU products relative to a dollar’s purchasing power of U.S. products.
-    1. This implies that U.S. goods become less expensive and less valuable relative to EU goods.
-    2. This implies that the value of U.S. goods relative to value of EU goods falls
-    3. As a result, U.S. exports rise, and U.S. imports fall, and both of these changes **raise U.S. net exports**.
+   1. This implies that U.S. goods become less expensive and less valuable relative to EU goods.
+   2. This implies that the value of U.S. goods relative to value of EU goods falls
+   3. As a result, U.S. exports rise, and U.S. imports fall, and both of these changes **raise U.S. net exports**.
 2. A *real appreciation* of the value of U.S. products means a rise in a dollar’s purchasing power of EU products relative to a dollar’s purchasing power of U.S. products.
-    1. This implies that U.S. goods become more expensive and more valuable relative to EU goods.
-    2. This implies that the value of U.S. goods relative to value of EU goods rises. 
-    3. As a result, U.S. exports fall, and U.S. imports rise, and both of these changes **reduce U.S. net exports**.
+   1. This implies that U.S. goods become more expensive and more valuable relative to EU goods.
+   2. This implies that the value of U.S. goods relative to value of EU goods rises. 
+   3. As a result, U.S. exports fall, and U.S. imports rise, and both of these changes **reduce U.S. net exports**.
 
 ## Foreign Exchange Markets
 
@@ -191,7 +191,7 @@ In price quotation: The bid rate is always lower than the ask rate
 - USD1.8419/GBP is the bid rate, USD1.8428/GBP is the ask rate
 - Percentage spread = [(1.8428-1.8419) / 1.8428] x 100 = 0.049%
 
-### Vehicle Currency and Cross-Rates 
+### Vehicle Currency and Cross-Rates
 
 **Vehicle currency**, a currency that is actively used in many international financial transactions around the world.
 
@@ -203,15 +203,15 @@ Exchange rate between two currencies, based on exchange rates between each of th
 A **cross exchange rate** reflects the amount of one foreign currency per unit of another foreign currency
 
 - e.g. if 1 EUR = 1.47 USD and 1 SFR = 0.98 USD, what should be SFR/EUR? 
-    - USD/EUR = 1.47USD/EUR and USD/SFR = 0.98USD/SFR
-    - SFR/EUR = (1.47USD/EUR) / (0.98USD/SFR) = 1.5 SFR/EUR
+  - USD/EUR = 1.47USD/EUR and USD/SFR = 0.98USD/SFR
+  - SFR/EUR = (1.47USD/EUR) / (0.98USD/SFR) = 1.5 SFR/EUR
 
 $$
-\begin{align}
+\begin{aligned}
 \frac{C N Y}{A U D}&=\frac{C N Y}{U S D} \times \frac{U S D}{A U D} \\
 &=\frac{C N Y}{U S D} \times 1 / \frac{A U D}{U S D}\\
 &=6.7 \times \frac{1}{1.480}=¥ 4.527 / A \$
-\end{align}
+\end{aligned}
 $$
 
 #### Triangular Arbitrage
@@ -234,11 +234,11 @@ $$
 **How does it work?**
 
 1. If *CNY/USD × USD/AUD × AUD/CNY < 1*, one of the three rates must increase
-    1. The *currency in denominator is too low* relative to the currency in the numerator
-    2. **Clockwise strategy**: Buy USD with CNY, buy AUD with USD, and buy CNY with AUD
+   1. The *currency in denominator is too low* relative to the currency in the numerator
+   2. **Clockwise strategy**: Buy USD with CNY, buy AUD with USD, and buy CNY with AUD
 2. If *CNY/USD × USD/AUD × AUD/CNY > 1*, one of the three rates must decrease
-    1. The *currency in denominator is too high* relative to the currency in the numerator
-    2. **Anti clockwise strategy**: Sell CNY for AUD, sell AUD for USD, sell USD for CNY.
+   1. The *currency in denominator is too high* relative to the currency in the numerator
+   2. **Anti clockwise strategy**: Sell CNY for AUD, sell AUD for USD, sell USD for CNY.
 
 【Example】Suppose exchange rates for AUD, USD, and CNY are AUD1.60/USD, CNY4.77/AUD, and USD0.14/CNY.
 

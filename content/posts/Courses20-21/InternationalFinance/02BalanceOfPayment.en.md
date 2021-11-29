@@ -37,20 +37,25 @@ $$
 $$
 Y^{GNP} = C+I+G+\underbrace{(X-M+BIREC)}_{\text{Net foreign contrburtion to the GNP}}
 $$
+
 BIREC: Balance of Income Receipts from Employment and Capital.
 
 ### National Income Identity for an Open Economy
 
 The national income identity for an open economy is
+
 $$
 Y = C + I + G + EX - IM = C + I + G + CA
 $$
+
 Expenditure by domestic individuals and institutions: $C+I+G$.
 
 Net expenditure by foreign individuals and institutions: $EX-IM$
+
 $$
 CA= EX -IM = Y - (C+ I + G )
 $$
+
 When *production (Y) > domestic expenditure (C+I+G)*, EX > IM: CA > 0 and trade balance > 0
 
 - when a country exports more than it imports, it earns more income from exports than it spends on imports
@@ -68,9 +73,11 @@ $CA$​​ can also be expressed as $NX$​​(Net export).
 ### Saving and the Current Account
 
 *National saving* (S) = national income (Y) that is not spent on consumption (C) or government purchases (G).
+
 $$
 S = Y - C - G
 $$
+
 An open economy can save 
 
 1. by building up its capital stock (higher I) 
@@ -79,6 +86,7 @@ An open economy can save
 $$
 S = I + CA
 $$
+
 For *closed economy with government*, $CA = 0$, than:
 $$
 S = I
@@ -159,15 +167,15 @@ CURRENT ACCOUNT (CA)
 
 - Merchandise: *Merchandise balance*
 - Services
-    - Transportation
-    - Tourism
-    - Business and professional services: *Balances of goods and services*
+  - Transportation
+  - Tourism
+  - Business and professional services: *Balances of goods and services*
 - Income receipts
-    - Interest and dividend payments,
-    - Earnings of workers operating in foreign countries: *Balances of goods, services and income*
+  - Interest and dividend payments,
+  - Earnings of workers operating in foreign countries: *Balances of goods, services and income*
 - Unilateral transfers
-    - Government grants
-    - Private remittances: *Current account balance*
+  - Government grants
+  - Private remittances: *Current account balance*
 
 CAPITAL ACCOUNT: Records special asset transfers, but this is a minor account for most cuntries.
 
@@ -175,61 +183,61 @@ FINANCIAL ACCOUNT / PRIVATE CAPITAL ACCOUNT (KA)
 
 - Direct investment
 - Portfolio investment (securities and banking flows)
-    - Long term: *Basic balance*
-    - Short term: *Overall balance*
+  - Long term: *Basic balance*
+  - Short term: *Overall balance*
 
 OFFICIAL RESERVE TRANSACTIONS (ORT)
 
 - Changes in foreign central banks’ holding of domestic assets
 - Changes in the domestic central bank’s holding of foreign assets
-    - Gold
-    - IMF credits and SDR
-    - Foreign exchange reserves
+  - Gold
+  - IMF credits and SDR
+  - Foreign exchange reserves
 
 ---
 
-| **Debit**                                                    | **Balance of Payments**                                      | **Credit**                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Import of goods**  e.g. buying a Toyota                    | **Merchandise Balance**  Exchange of goods                   | **Export of goods**  e.g. selling a train to Texas Railways  |
-| **Import of services**  A Canadian travels in Sweden         | **Services Balance**  Exchange of services                   | **Export  of services**  A Chinese spends her  holidays in  Jasper |
-| **Income paid (on capital and  labour)** Dividend payments to an American Hedge funds | **Balance of Income Receipts from Employment and**  **Capital (BIREC)** | **Income  received (on capital and**  **labour)**  e.g. A citizen of Victoria  works in  Seattle |
-| **Unilateral Transfers paid**  e.g. foreign workers' remittances | **Balance of Unilateral Transfers**                          | **Unilateral  Transfers received**  e.g. gifts (transfers)  from other  countries |
-| **Asset  transfers paid**  e.g. debt relief to other countries | **Capital Account**:  records  special transfers of assets   | **Asset  transfers received**  e.g. copyrights and trademarks |
-| **Direct investment abroad Financial  (capital) outflow/ “Export of capital”**  Foreign  assets purchased by domestic citizens are a debit (–), because  capital enters the country. | **Financial Account (FA)**  Private Capital Account          | **Direct investment at home Financial (capital) inflow**/  “**Import of capital”** Domestic assets (e.g. real  estate) sold to foreigners are a credit  (+) because capital leaves the country. |
-| **Portfolio investments  abroad**  Foreign financial assets (e.g. shares, bonds, cash) purchased or  accepted by residents. Capital flows into the country | **Financial Account (FA)**  Private Capital Account          | **Portfolio investments at home**  Domestic financial assets (e.g. shares, bonds, cash) sold or transferred to foreigners. Capital  leaves the country |
-| **Increase  in foreign reserves**                            | **Official Reserve  Transactions**  **Account (ORT)**        | **Decrease of foreign  reserves**                            |
-| **Sum**                                                      | **=**                                                        | **Sum**                                                      |
+| **Debit**                                                                                                                                                                            | **Balance of Payments**                                                 | **Credit**                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Import of goods**  e.g. buying a Toyota                                                                                                                                            | **Merchandise Balance**  Exchange of goods                              | **Export of goods**  e.g. selling a train to Texas Railways                                                                                                                                     |
+| **Import of services**  A Canadian travels in Sweden                                                                                                                                 | **Services Balance**  Exchange of services                              | **Export  of services**  A Chinese spends her  holidays in  Jasper                                                                                                                              |
+| **Income paid (on capital and  labour)** Dividend payments to an American Hedge funds                                                                                                | **Balance of Income Receipts from Employment and**  **Capital (BIREC)** | **Income  received (on capital and**  **labour)**  e.g. A citizen of Victoria  works in  Seattle                                                                                                |
+| **Unilateral Transfers paid**  e.g. foreign workers' remittances                                                                                                                     | **Balance of Unilateral Transfers**                                     | **Unilateral  Transfers received**  e.g. gifts (transfers)  from other  countries                                                                                                               |
+| **Asset  transfers paid**  e.g. debt relief to other countries                                                                                                                       | **Capital Account**:  records  special transfers of assets              | **Asset  transfers received**  e.g. copyrights and trademarks                                                                                                                                   |
+| **Direct investment abroad Financial  (capital) outflow/ “Export of capital”**  Foreign  assets purchased by domestic citizens are a debit (–), because  capital enters the country. | **Financial Account (FA)**  Private Capital Account                     | **Direct investment at home Financial (capital) inflow**/  “**Import of capital”** Domestic assets (e.g. real  estate) sold to foreigners are a credit  (+) because capital leaves the country. |
+| **Portfolio investments  abroad**  Foreign financial assets (e.g. shares, bonds, cash) purchased or  accepted by residents. Capital flows into the country                           | **Financial Account (FA)**  Private Capital Account                     | **Portfolio investments at home**  Domestic financial assets (e.g. shares, bonds, cash) sold or transferred to foreigners. Capital  leaves the country                                          |
+| **Increase  in foreign reserves**                                                                                                                                                    | **Official Reserve  Transactions**  **Account (ORT)**                   | **Decrease of foreign  reserves**                                                                                                                                                               |
+| **Sum**                                                                                                                                                                              | **=**                                                                   | **Sum**                                                                                                                                                                                         |
 
 Following examples treat the U.S. as home country.
 
 【Good import】Import Fax machine and pay for purchase with a $1,000 check.
 
-|                                                              | Credit | Debit  |
-| ------------------------------------------------------------ | ------ | ------ |
-| Fax machine purchase (Current account, good import)          |        | $1,000 |
+|                                                                  | Credit | Debit  |
+| ---------------------------------------------------------------- | ------ | ------ |
+| Fax machine purchase (Current account, good import)              |        | $1,000 |
 | Sale of bank deposit by Citibank (Financial account, asset sale) | $1,000 |        |
 
 【Service import】Suppose that during your travels in France, you pay $200 for a fine dinner at the Restaurant. Lacking cash, you place the charge on your Visa credit card.
 
-|                                                              | Credit | Debit |
-| ------------------------------------------------------------ | ------ | ----- |
-| Meal purchase (Current account, U.S. service import)         |        | $200  |
+|                                                                  | Credit | Debit |
+| ---------------------------------------------------------------- | ------ | ----- |
+| Meal purchase (Current account, U.S. service import)             |        | $200  |
 | Sale of claim on First Card (Financial account, U.S. asset sale) | $200   |       |
 
 【Asset purchase】buys a newly issued share of stock of BP in the U.K.
 
-|                                                              | Credit | Debit |
-| ------------------------------------------------------------ | ------ | ----- |
+|                                                                    | Credit | Debit |
+| ------------------------------------------------------------------ | ------ | ----- |
 | purchase of a share of BP (Financial account, U.S. asset purchase) |        | $95   |
-| Sale of claim on First Card (Financial account, U.S. asset sale) | $95    |       |
+| Sale of claim on First Card (Financial account, U.S. asset sale)   | $95    |       |
 
 Note that acquisition of foreign assets enters as debit because the US must pay foreigners for those assets. Likewise, disposal of US assets will enter as credit because foreigners owning US assets must pay to get them.
 
 【Transfer payment】Consider how the U.S. balance of payments accounts are affected when U.S. banks forgive (that is, announce that they will simply forget about) $5,000 in debt owed to them by the government of the imaginary country of Bygonia.
 
-|                                                              | Credit | Debit |
-| ------------------------------------------------------------ | ------ | ----- |
-| U.S. banks’ debt forgiveness (Capital account, U.S. transfer payment) |        | $95   |
+|                                                                            | Credit | Debit |
+| -------------------------------------------------------------------------- | ------ | ----- |
+| U.S. banks’ debt forgiveness (Capital account, U.S. transfer payment)      |        | $95   |
 | Reduction in banks’ claims on Bygonia (Financial account, U.S. asset sale) | $95    |       |
 
 ### Current account
@@ -244,12 +252,12 @@ Note that acquisition of foreign assets enters as debit because the US must pay 
 - *Trade deficit* (NX < 0): an excess of imports over exports (trade balance is smaller zero or negative)
 - *Balanced trade*: a situation in which exports equal imports. (trade balance equals zero)
 
-| Subaccounts                          | Items                                        | Example                                                      |
-| ------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Merchandise / Goods                  | Goods (visibles, tangibles)                  | A  Canadian citizen buys a Porsche or Alberta sells oil to the U.S. |
-| Services                             | Services  (invisibles intangibles)           | A Swiss going on  vacation to the sea is always an import of services |
+| Subaccounts                          | Items                                        | Example                                                                                                                         |
+| ------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Merchandise / Goods                  | Goods (visibles, tangibles)                  | A  Canadian citizen buys a Porsche or Alberta sells oil to the U.S.                                                             |
+| Services                             | Services  (invisibles intangibles)           | A Swiss going on  vacation to the sea is always an import of services                                                           |
 | Primary income (factor income) BIREC | Compensation of  employees Investment income | A Canadian works  in Seattle or a German professor in Ottawa. A private equity company earns  profits on its investments abroad |
-| Secondary income (transfers)         | Donations  (Unilateral transactions)         | Foreign aid,  money transfers to the family abroad           |
+| Secondary income (transfers)         | Donations  (Unilateral transactions)         | Foreign aid,  money transfers to the family abroad                                                                              |
 
 *Factors of influence*
 
@@ -261,13 +269,17 @@ Note that acquisition of foreign assets enters as debit because the US must pay 
 6. The **policies** of the government towards international trade.
 
 Export:
+
 $$
 X = X^{DD}(\underbrace{P_{-}, P^{*}_{+}, e_{+}}_{e^{real}}, Y^{*}_{+}, \text{Transport Cost}_{-}, \text{Politics}, \text{Preference})
 $$
+
 Import:
+
 $$
 M = M^{DD}(\underbrace{P_{+}, P^{*}_{-}, e_{-}}_{e^{real}}, Y_{+},  \text{Transport Cost}_{-}, \text{Politics}, \text{Preference})
 $$
+
 where e is exchange rate(price quotation), + means positive relation, - means negative relation.
 
 ### Financial Account/ Private Capital Account
@@ -287,7 +299,7 @@ where e is exchange rate(price quotation), + means positive relation, - means ne
 - The real interest rates being paid on foreign assets
 - The real interest rates being paid on domestic assets
 - The perceived economic and political risks of holding assets abroad. 
-    - Most important: Exchange risk
+  - Most important: Exchange risk
 - The government policies that affect foreign ownership of domestic assets.
 
 Capital exports:

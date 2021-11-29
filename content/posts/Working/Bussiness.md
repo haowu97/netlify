@@ -9,48 +9,50 @@ upd: ""
 
 ## 已收
 
+
+
 2020年
 
-| 日期  | 科目       | 收入     |
-| ----- | ---------- | -------- |
-|       | 咸鱼       | 951.44   |
-|       |            | 800      |
-|       |            | 300      |
-|       |            | 300      |
-|       |            | 150      |
-|       |            | 300      |
-| 10.23 | 统计作业   | 500      |
-| 10.14 | 衍生品     | 600      |
-| 10.25 | 固定收益   | 200      |
-| 10.28 | 公司金融   | 300      |
-| 10.29 | 高危       | 400      |
-| 10.30 | 中级微观   | 300      |
-| 10.30 | 高级宏观   | 550      |
-| 11.01 | R作业      | 650      |
-| 11.03 | 衍生品     | 450      |
-| 11.10 | 高危2      | 400      |
-| 11.12 | R作业      | 600      |
-| 11.19 | 衍生品     | 150      |
-| 11.25 | 衍生品     | 900      |
-| 11.25 | 衍生品     | 500      |
-| 11.30 | 金融计量   | 600      |
-| 12.10 | 博弈论     | 300      |
+| 日期    | 科目    | 收入       |
+| ----- | ----- | -------- |
+|       | 咸鱼    | 951.44   |
+|       |       | 800      |
+|       |       | 300      |
+|       |       | 300      |
+|       |       | 150      |
+|       |       | 300      |
+| 10.23 | 统计作业  | 500      |
+| 10.14 | 衍生品   | 600      |
+| 10.25 | 固定收益  | 200      |
+| 10.28 | 公司金融  | 300      |
+| 10.29 | 高危    | 400      |
+| 10.30 | 中级微观  | 300      |
+| 10.30 | 高级宏观  | 550      |
+| 11.01 | R作业   | 650      |
+| 11.03 | 衍生品   | 450      |
+| 11.10 | 高危2   | 400      |
+| 11.12 | R作业   | 600      |
+| 11.19 | 衍生品   | 150      |
+| 11.25 | 衍生品   | 900      |
+| 11.25 | 衍生品   | 500      |
+| 11.30 | 金融计量  | 600      |
+| 12.10 | 博弈论   | 300      |
 | 12.15 | 计量经济学 | 700      |
 | 12.16 | 金融经济学 | 800      |
-| 12.18 | 宏观       | 800      |
-| 总计  |            | 12501.44 |
+| 12.18 | 宏观    | 800      |
+| 总计    |       | 12501.44 |
 
 2021年
 
-| 日期  | 科目                                     | 收入     |
+| 日期    | 科目                                       | 收入       |
 | ----- | ---------------------------------------- | -------- |
-| 1.14  | 投资组合                                 | 600      |
-| 1.25  | 衍生品                                   | 300      |
-| 2.9   | 投资组合                                 | 600      |
-| 2.12  | 股票分析                                 | 1800     |
-| 2.12  | 期权策略                                 | 1500     |
-| 3.19  | 金融工程                                 | 150      |
-| 4.21  | 国际金融                                 | 600      |
+| 1.14  | 投资组合                                     | 600      |
+| 1.25  | 衍生品                                      | 300      |
+| 2.9   | 投资组合                                     | 600      |
+| 2.12  | 股票分析                                     | 1800     |
+| 2.12  | 期权策略                                     | 1500     |
+| 3.19  | 金融工程                                     | 150      |
+| 4.21  | 国际金融                                     | 600      |
 | 6.9   | Statistics for Business & Econ           | 750      |
 | 6.17  | Quantitative Methods In Economics        | 1200     |
 | 6.18  | Statistics for Business & Econ           | 750      |
@@ -74,17 +76,22 @@ upd: ""
 | 10.09 | Probability and Statistic                | 800      |
 | 10.20 | Advanced Macroeconomics                  | 1200     |
 | 10.20 | Forecasting for Economics and Business   | 300      |
-| Total |                                          | 32587.44 |
+| 10.30 | International Finance                    | 1200     |
+| 10.30 | International Finance                    | 1742     |
+| 11.05 | Forecasting for Economics and Business   | 300      |
+| 11.09 | Financial Market&Institution             | 900      |
+| 11.10 | Forecasting for Economics and Business   | 300      |
+| 11.10 | Advanced Macroeconomics                  | 1400     |
+| 11.10 | Econometrica                             | 800      |
+| 11.26 | International Finance                    | 800      |
+| 11.27 | International Finance                    | 800      |
+| Total |                                          | 36329.44 |
 
 ## 应收
 
 1200(石)
 
 悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
-
-采花：2700
-
-1200 AdvancedMacro 你个大菠萝🍍
 
 ## 待做
 
@@ -93,30 +100,9 @@ upd: ""
 Forecasting for Economics and Business
 
 - 1000: Thursday 02/12/2021
+- 11.10
 
-
-
-kley :[简信CRM (jxcrm.net)](http://yqc.cus.jxcrm.net/pc/#/contract/info?current_corp=Aj0FOwFgVDAHNAtp&contract_id=UmQEMg1kB2MDNg1mWjgLNVZn) 600
-
-- w003_FIN 413 _quiz2_2021-10-29 02:00
-
-
-
-这门是finance 的多伦多时间10.29 3pm-5:20pm 
-
-- 中国时间**10.30** 3am-5:20am 1200rmb
-
-
-
-高级宏观 十一月十号国内12点：你个大菠萝🍍 1400
-
-
-
-大仙贝：
-
-- 计量经济学，11.11双11下午2点，2hours
-- 选择和计算题的quiz
-- 800rmb
+11.26国际金融，天池，800已收
 
 ## International Corporate Finance
 
@@ -154,7 +140,7 @@ Concerns about Globalization
 
 – Percentage spread = [(1.8428-1.8419) / 1.8428] x 100 = 0.049%
 
-####  Triangular Arbitrage
+#### Triangular Arbitrage
 
  if 1 EUR = 1.47 USD and 1 SFR = 0.98 USD, what should be 
 
@@ -163,8 +149,6 @@ SFR/EUR?
 − USD/EUR = 1.47USD/EUR and USD/SFR = 0.98USD/SFR
 
 − SFR/EUR = (1.47USD/EUR) / (0.98USD/SFR) = 1.5 SFR/EUR
-
-
 
 How does it work?
 
@@ -185,8 +169,6 @@ decrease
 numerator
 
 • Sell USD for CNY , sell AUD for USD, or sell CNY forAUD
-
- 
 
 AUD1.60/USD × CNY4.77/AUD × USD0.14/CNY = 1.068 > 1
 
@@ -271,8 +253,9 @@ Real exchange rate:
 
 Model-based Forecasts
 ■ There are two principal model-based approaches:
+
 1. Fundamental analysis
-− Most common approach: regression
+   − Most common approach: regression
 2. Technical analysis
 
 ### Lecture 5: Currency Futures and Options & Hedging Foreign Exchange Risk
@@ -331,16 +314,17 @@ Bond issued in the domestic market by a foreign company in the local currency
 ### Week 8: MNC Capital Budgeting
 
 What if Parent’s NPV ≠ Project’s NPV?
-1.  Both <0?
-– Reject project.
-2.   Both >0?
-– Accept project.
-3.   Project’s Perspective <0, Parent’s Perspective >0?
-– Reject. Positive value is only from favourable currency conditions, so could do better speculating 
-and not capital budgeting.
-4.  Project’s Perspective >0, Parent’s Perspective <0?
-– Accept, but utilize asset markets or financial markets to gain value:
-» Sell project to local investor
-» Bring in joint venture partner
-» Keep investment abroad and reinvest
-» Use forward, swap, or finance project in local debt or equity.
+
+1. Both <0?
+   – Reject project.
+2. Both >0?
+   – Accept project.
+3. Project’s Perspective <0, Parent’s Perspective >0?
+   – Reject. Positive value is only from favourable currency conditions, so could do better speculating 
+   and not capital budgeting.
+4. Project’s Perspective >0, Parent’s Perspective <0?
+   – Accept, but utilize asset markets or financial markets to gain value:
+   » Sell project to local investor
+   » Bring in joint venture partner
+   » Keep investment abroad and reinvest
+   » Use forward, swap, or finance project in local debt or equity.

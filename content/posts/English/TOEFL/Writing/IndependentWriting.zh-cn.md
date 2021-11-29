@@ -16,6 +16,11 @@ categories: ['TOEFL笔记']
 - 语言逻辑
     - 总分+并列
 - 语言质量
+    - 句式
+    - 搭配
+
+
+various sentence structures and appropriate word choices
 
 ## 1. 写作思路与格式
 
@@ -53,6 +58,8 @@ categories: ['TOEFL笔记']
     - 分论点2
 
 结尾段：60Z
+
+**总字数 450 - 500z，最好在500字以上能拿高分，不超过550z**
 
 
 
@@ -144,6 +151,10 @@ over( whether/what引导的) 名词性从句
 【分论点2】**Additionally**, when having a distance education program, students will become more determined.
 
 【解释2】**To be more specific**, the more distance-learning courses they take on the Internet, the more distractions they will be exposed to, stimulating them to resist temptations and foster their persistence; **however**, it is impossible for them to encounter these lures in traditional classrooms.
+
+##### 对比部分
+
+全文4处对比常用：never / under no circumstance + 反问 + 2句自己写
 
 ### 结尾段
 
@@ -508,11 +519,15 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 插入语：插入语是游离句子语法之外的结构，是对句子意思的补充，其位置灵活，补充在任何突然想解释说明的部分的后面，删去后句子的语法仍然正确。其结构形式多样，如副词、介词短语、从句、非谓语等。
 
 - 三大从句
+    - 定语从句 N + who / which / that
+    - 状语从句 when / if / because …
+    - 名词性从句 (主，宾，表，同位语)：that / whether / how [ … over + whether … ]
+
 - 四小结构
-    - 非谓语动词（副词从句简化）
-    - 介词短语/ 介系词（副词从句简化）
-    - 形容词短语做后置定语（定语从句简化）
-    - 同位语（定语从句简化）
+    - 非谓语动词（副词从句简化）：N + doing / done; 句子, doing
+    - 介词短语/ 介系词（副词从句简化）：prep + N
+    - 形容词短语做后置定语（定语从句简化）: N +（adj短语）
+    - 同位语（定语从句简化）：N1, N2
 
 
 ### 小词大用
@@ -530,12 +545,18 @@ A.变化主语--避免总是用 people
 - 非"人"名词
 - doing
 - it形式主语
+    - it is **well-know/ well-acknowledged** that
+    - it is adj for sb to do
+
 
 B.给主语带帽子
 
 - 状语从句（的省略）
 - 非谓语
 - 介词短语
+    - with/ without + N + 非谓语/ 介词短语 / 副词
+    - by doing
+
 
 【Example】研究者接受新的观点，就会受益
 
@@ -565,6 +586,10 @@ B.给主语带帽子
 - 倒装：never，only by doing, Not only, but also
 - The more
 - 反问句
+
+全文中每一个特殊句式一般用2遍 
+
+自己写的句子 ：特殊句式 = 1:1
 
 #### 强调句
 
@@ -622,6 +647,17 @@ People under no circumstances live away from junk food
 
 正确： Seldom will he get punished
 
+
+
+**Never + can we ignore (the fact) that 句子**.
+
+- e.g Never can we ignore that doing exercise is beneficial for students' health
+
+好处: **Never can we ignore the significance of A to B**. (结构一致N/doing)
+
+- e.g. never should we ignore the significance of doing exercise to improving physical health.
+- never should we ignore the significance of exercise to physical health.
+
 ###### 特殊： Not only+半倒装， but also
 
 Not only+半倒装，but(also)+完整&正常的句子
@@ -645,7 +681,7 @@ not only和 but also的主语尽量一致
 
 状语的形式包括
 
-a.介词短语，女如by. through. via
+a.介词短语，如by. through. via
 
 b.状语从句，如 when sb do. if sb do
 
@@ -1474,3 +1510,20 @@ especially/ particularly / in particular
 
 in most cases/on most occasions/ under most circumstances/ on a regular basis/ frequently/ generally
 
+
+
+
+
+
+
+
+
+
+
+
+
+TV programs, the foundation of a quality life, have been valued and even trigger ~~a~~ heated discussion**s** over which kind of TV channels/ **shows** people should watch/ **view**.  Entertainment programs, in some people's view, are beneficial to us/ are more attractive / appealing. Contrary to these people's opinion is my perspective that educational programs, from which we can learn knowledge, are worth watching due to the contributions adults and students.
+
+
+
+What must be prioritized is that watching instructional programs, instead of viewing entertainment shows, is beneficial to adults, by helping them search for a career and get promotion. To begin with, educational programs can help people  find a career. To be more specific, through wathcing educational shows, adults can kown the developement of varies fields, locate vacant jobs and find their interests, helping them find thier ; however, there is no such chance that they learn the development of assorted industries and 
