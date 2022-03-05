@@ -11,6 +11,8 @@ tags: ['Typora']
 categories: []
 ---
 
+1.0以前的Beta版都是免费的：[Typora — macOS release channel](https://typora.io/releases/all)
+
 ## 快捷键
 
 以下仅记录常用快捷键，详细完整版参考[官方快捷键文档](https://support.typora.io/Shortcut-Keys/)。

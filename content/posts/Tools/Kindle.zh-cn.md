@@ -11,11 +11,7 @@ tags: ['Kindle']
 categories: []
 ---
 
-
-
 azw3、mobi可以打开，epub打不开。
-
-
 
 免费电子书资源网站：
 
@@ -38,6 +34,3 @@ azw3、mobi可以打开，epub打不开。
 
 1. [最强大的本地电子书管理工具：Calibre 使用指南 - 少数派 (sspai.com)](https://sspai.com/post/43843)
 2. [calibre User Manual — calibre 5.21.0 documentation (calibre-ebook.com)](https://manual.calibre-ebook.com/)
-
-
-

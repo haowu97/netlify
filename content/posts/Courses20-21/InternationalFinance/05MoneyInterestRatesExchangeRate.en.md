@@ -32,9 +32,9 @@ Three **functions of money** (why we demand/hold money):
 liquid v.s. Illiquid asset
 
 - Money is a *liquid asset*: it can be easily used to pay for goods and services or to repay debt without substantial transaction costs. 
-    - But monetary or liquid assets earn *little or no interest*.
+  - But monetary or liquid assets earn *little or no interest*.
 - *Illiquid* assets require substantial transaction costs in terms of time, effort, or fees to convert them to funds for payment. 
-    - But they generally earn a higher interest rate or rate of return than monetary assets.
+  - But they generally earn a higher interest rate or rate of return than monetary assets.
 
 The interest rate is thus *the opportunity cost of holding money*.
 
@@ -45,8 +45,8 @@ The interest rate is thus *the opportunity cost of holding money*.
 The central bank controls the quantity of money that circulates in an economy, the **money supply**.
 
 - In *Australia*, it is controlled by the Reserve Bank of Australia (RBA).
-    - The RBA directly regulates the amount of currency in circulation.
-    - It indirectly influences the amount of checking deposits, debit card accounts, and other monetary assets. 
+  - The RBA directly regulates the amount of currency in circulation.
+  - It indirectly influences the amount of checking deposits, debit card accounts, and other monetary assets. 
 
 The actual *money supply mechanism is quite complex*.
 
@@ -59,6 +59,7 @@ It will be a vertical straight line when we get to the graphical explanation!
 **Money demand** represents the amount of monetary assets that people are willing to hold (instead of illiquid assets).
 
 In the last chapter, we have seen that an **individual's asset demand** depends on three factors:
+
 - *Expected return* of an asset (if the interest rate of an asset goes up, you don't want to keep your wealth in monetary form and instead, you want to buy high-interest assets)
 - The *riskiness* of the asset's expected return (not an important factor for money demand as long as you live in a country that does not experience unexpected price changes)
 - The *liquidity* of an asset (higher value of transactions increases the need for liquidity which also increases the demand for money)
@@ -68,11 +69,11 @@ The total demand for money by *all households and firms* in the economy is calle
 **Three main factors** determine *aggregate (nominal) money demand*:
 
 1. **Interest rates/expected rates of return**: monetary assets pay little or no interest, so the interest rate on non-monetary assets like bonds, loans, and deposits is the opportunity cost of holding monetary assets.
-    1. A higher interest rate means a higher opportunity cost of holding monetary assets → lower demand of money.
+   1. A higher interest rate means a higher opportunity cost of holding monetary assets → lower demand of money.
 2. **Prices**: the prices of goods and services bought in transactions will influence the willingness to hold money to conduct those transactions. 
-    1. A higher level of average prices means a greater need for liquidity to buy the same amount of goods and services → higher demand of money.
+   1. A higher level of average prices means a greater need for liquidity to buy the same amount of goods and services → higher demand of money.
 3. **Income**: greater income implies more goods and services can be bought, so that more money is needed to conduct transactions.
-    1. A higher **real national income** (GNP) means more goods and services are being produced and bought in transactions, increasing the need for liquidity → higher demand of money.
+   1. A higher **real national income** (GNP) means more goods and services are being produced and bought in transactions, increasing the need for liquidity → higher demand of money.
 
 The aggregate demand of money can be expressed as:
 $$
@@ -178,9 +179,9 @@ Now *suppose that the FED increases the dollar supply* to $M^2_{US}$ (downward s
 How would a change in the supply of euros affect the U.S. money market and foreign exchange markets?
 
 1. An *increase* in the supply of euros causes a depreciation of the euro (an appreciation of the dollar).
-    1. The increase in the supply of euros reduces interest rates in the EU, reducing the expected rate of return on euro deposits.
-    2. This reduction in the expected rate of return on euro deposits causes the euro to depreciate.
-    3. We predict no change in the U.S. money market due to the change in the supply of euros.
+   1. The increase in the supply of euros reduces interest rates in the EU, reducing the expected rate of return on euro deposits.
+   2. This reduction in the expected rate of return on euro deposits causes the euro to depreciate.
+   3. We predict no change in the U.S. money market due to the change in the supply of euros.
 2. A *decrease* in the supply of euros causes an appreciation of the euro (a depreciation of the dollar).
 
 *Figure*: Effect of an Increase in the European Money Supply on the Dollar/Euro Exchange Rate
@@ -232,11 +233,12 @@ $$
 Let’s consider the effect of a *permanent* increase in domestic money supply both in the short run and in the long run.
 
 - A *permanent increase in a country’s money supply* causes a *proportional long-run depreciation* of its currency.
-    - However, the dynamics of the model predict a large depreciation first and a smaller *subsequent appreciation*.
+  - However, the dynamics of the model predict a large depreciation first and a smaller *subsequent appreciation*.
 - A *permanent decrease in a country’s money supply* causes a *proportional long-run appreciation* of its currency.
-    - However, the dynamics of the model predict a large appreciation first and a smaller *subsequent depreciation*.
+  - However, the dynamics of the model predict a large appreciation first and a smaller *subsequent depreciation*.
 
 【Example】Suppose than one big mac costs ＄2 in the US and e1.6 in France. This means that the USD/Euro exchange rate is ＄1.25/€.
+
 1. Suppose the money supply is doubled in the US. This causes all prices to double as well.
 2. Now, the price of big mac is ＄4 in the US but there is no change in French McDonald's franchises.
 3. This implies that the exchange rate between USD and Euro becomes ＄2.5/€. In other words, USD depreciates against Euro and the value of USD in Euro terms is halved.

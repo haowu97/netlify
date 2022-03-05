@@ -2,8 +2,6 @@
 
 [院校管理 寄托院校库 (gter.net)](https://schools.gter.net/)
 
-
-
 ## 检索策略
 
 国外的工作网站搜索PHD Student
@@ -12,17 +10,11 @@
 
 [Job Search | Indeed](https://www.indeed.com/)
 
-
-
 针对丹麦所有大学：http://www.study-in-denmark.cn/?page_id=718 
 
 针对全欧洲的大学、科研院所：https://euraxess.ec.europa.eu/jobs/search
 
-
-
 哥本哈根大学：[PhD-positions – University of Copenhagen (ku.dk)](https://employment.ku.dk/phd/)
-
-
 
 ## 美国
 
@@ -33,12 +25,6 @@
 Rutgers, Food and Business Economics
 
 [美国博士（PHD），每个人都能找到适合自己的学校 (qq.com)](https://mp.weixin.qq.com/s/FHwBZRR1Ope2eDmHYxw59A)
-
-
-
-
-
-
 
 ## 新加坡
 
@@ -88,15 +74,9 @@ https://bschool.nus.edu.sg/
 https://samf.ku.dk/phd-skolen/english/
 https://samf.ku.dk/phd-skolen/
 
-
-
-
-
 [🔥年薪近40万💰经济学博士全奖 挪威经济学院招博士)](https://www.xiaohongshu.com/discovery/item/60d5602d000000000102c415?secondshare=weixin)
 
 [(40 封私信 / 99+ 条消息) 请问一下，北欧读博需要花很多钱吗？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/356412377)
-
-
 
 全球生活成本查询网站：[Cost of Living (numbeo.com)](https://www.numbeo.com/cost-of-living/)
 
@@ -113,4 +93,3 @@ https://samf.ku.dk/phd-skolen/
 [墨尔本大学招博士，免除全额学费，每年30,000澳元津贴 (qq.com)](https://mp.weixin.qq.com/s/xNASPDGumnZVep3kxOYPrA)
 
 2020.1.1截止
-

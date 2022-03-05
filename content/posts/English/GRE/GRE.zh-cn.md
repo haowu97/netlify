@@ -1,8 +1,16 @@
-
-
 [LER0ever/GRE-CN: GRE Preparation for Chinese students. 中文主导的GRE备考资料整理。 (github.com)](https://github.com/LER0ever/GRE-CN)
 
+再要你命3k+短语小红书
 
+填空24套+36套
+
+杨鹏 长难句（微臣长难句）
+
+结构化阅读 复习+练习
+
+数学（blibli）
+
+作文
 
 Graduate Record Examination
 
@@ -11,19 +19,11 @@ Graduate Record Examination
 
 Educational Test service：美国教育考试中心出题
 
-
-
 Analytical Writing
-
-
 
 Verbal Reasoning
 
-
-
 Quantitative Reasoning
-
-
 
 有一个是加试，但无法确定是哪一个
 
@@ -36,8 +36,6 @@ Section6 数学
 
 也可能先出现语文。
 
-
-
 考试时间接近4小时：
 
 - 写作 60分钟
@@ -45,8 +43,6 @@ Section6 数学
 - 数学 35分钟/section
 
 ## Analytical Writing
-
-
 
 满分6分，均分3分左右。
 
@@ -85,8 +81,6 @@ Section6 数学
 - GRE数学存在相当比例的图表题，国人普遍对图表不敏感，这是由于我们国家的数学考试的习惯而決定的。
 - 因为我们从小到大实在太习惯在纸上做数学题了，所以GRE机考的形式可能会让很多同学不太适应这也是导致我们在数学上总有失误的原因。
 
-
-
 ## 报名及考试
 
 [报名网址](https://gre.neea.edu.cn/login.do)：gre.neea.edu.cn
@@ -94,8 +88,6 @@ Section6 数学
 报名费：¥1665.00
 
 每个月有3场左右的考试
-
-
 
 考试需要携带：
 
@@ -107,8 +99,6 @@ Verbal与Quantitative考完点击Report可以直接出分。
 7-10天之后正式成绩将出来。
 
 4次免费送分机会
-
-
 
 **GRE考试疫情防控温馨提示**
 
@@ -126,8 +116,6 @@ Verbal与Quantitative考完点击Report可以直接出分。
 
 **考试当天**
 
-
-
 - 在考试过程中，考生须全程佩戴口罩。请您自备口罩带到考点使用。在现场照相及身份验证时，您会被要求取下口罩，请予以配合
 - 建议您比常规的考试到达时间再提前30分钟或更早到达考点，确保有足够的时间完成体温检测及防疫健康信息码（健康码）、通讯大数据行程卡（行程码）的检查等防疫流程，按时进入考场
 - 在进入考点所在校园时，请配合校方的疫情防控要求，例如，健康码扫描、行程码扫描、体温检测、访客登记等。只有健康码和行程码均为绿码、体温检测低于37.3摄氏度的考生才被允许进入校园
@@ -135,8 +123,6 @@ Verbal与Quantitative考完点击Report可以直接出分。
 - 在考试当天请保持良好的卫生，如使用考点提供的免洗消毒洗手液擦手、勤洗手等
 - 请遵循考试当天的指引，尽可能和其他考生及考点工作人员保持1米间距
 - 考试结束后，请带走您使用过的文具（草稿纸不允许带走）
-
-
 
 **异常情况应对**
 
@@ -150,21 +136,15 @@ Verbal与Quantitative考完点击Report可以直接出分。
 
 如果您因为以下特殊情况不能如期参加考试：
 
-
-
 - 在政府要求的14天强制隔离期、医学观察期或自我隔离期内
 - 考前14天内有发烧、持续咳嗽、呼吸困难或其它流感症状
 - 考试当天因两次体温检测≥37.3度或无法出示绿色健康码或绿色行程码未能进入校园
 - 考试当天因两次体温检测≥37.3度或无法出示绿色健康码或绿色行程码未能入场考试
 - 考试过程中因发烧、持续咳嗽、呼吸困难或其它流感症状无法完成考试
 
-
-
 请及时联系教育部考试中心GRE考试全国服务热线（电话：010-82345673，电子邮箱：greibt@mail.neea.edu.cn ），提供就医证明申请免费转考或全额退费。已经在考点《两次测温异常登记表》上登记的考生无需提供就医证明。
 
 如需更多关于新冠病毒自我防护的信息，请参考世界卫生组织给公众的建议：https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public。
-
-
 
 教育部考试中心GRE网考考试报名网
 
@@ -188,9 +168,9 @@ GRE满分340+6.0分，最低分260+0分
 语文数学部分的分数范围130~170分(以1分为阶梯)
 
 - 基于Section的自适应考试：后面section的难度由第一部分的得分决定
-    - easy：Section1答对0-6题进入Easy模式，最后得分范围大概为130-151分
-    - Medium：Section1答对7-12题进入Medium模式，最后得分范围大概为143-161分。
-    - Hard：Section1答对13-20题进入Hard模式，最后得分范围大概为151-170分。
+  - easy：Section1答对0-6题进入Easy模式，最后得分范围大概为130-151分
+  - Medium：Section1答对7-12题进入Medium模式，最后得分范围大概为143-161分。
+  - Hard：Section1答对13-20题进入Hard模式，最后得分范围大概为151-170分。
 
 325是一个GRE的节点分数。
 
@@ -202,8 +182,6 @@ GRE满分340+6.0分，最低分260+0分
 GRE考试并不是一个选拔考试，只是一个基础水平测试。
 
 - 并非越高越好，一般只要过线即可
-
-
 
 下面的介绍，只是我们对于申请美国研究生总体GRE分数对应的一个大概的、平均的汇总。
 
@@ -223,8 +201,6 @@ Quantitative
 - 理工科：3-3.5分
 - 文科：**4分**
 
-
-
 考试有效期为5年
 
 ## 单词
@@ -237,23 +213,15 @@ Quantitative
 
 ![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210626143144178.png)
 
-
-
 [再要你命三千（or GRE单词），该怎么背？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/48475352)
 
 [GRE核心词汇一本通 | Quizlet](https://quizlet.com/class/7094359/)
 
 [背单词计划表 (exam4.us)](https://exam4.us/)
 
-
-
-
-
 [Online Etymology Dictionary | Origin, history and meaning of English words (etymonline.com)](https://www.etymonline.com/)
 
 [英语词汇神书 《Word Power Made Easy》 英语说文解字 高清 原版及中英文版 附带音频 - 外语学习 - 小木虫 - 学术 科研 互动社区 (muchong.com)](http://muchong.com/html/202002/14106259.html)
-
-
 
 第一阶段：单词+理论课
 
@@ -273,23 +241,17 @@ GRE写作官方题库是公开的。
 
 可以模考一下试试看https://gre.viplgw.cn/mockExam.html?version=1
 
-
-
 [GRE® 普通考试 (ets.org)官方资料信息](https://www.ets.org/s/gre/pdf/gre_test_taker_brochure_chinese.pdf)
 
 [GRE POWERPREP Practice Tests (ets.org)](https://www.ets.org/gre/revised_general/prepare/powerprep)
 
 考试前的2-4周，模拟考8-10套题目。
 
-
-
 ## 资料
 
 [Magoosh GRE Blog: Study Resources](https://magoosh.com/gre/)
 
 [Zhouzhiling/GRE: GRE备考资料分享 (github.com)](https://github.com/Zhouzhiling/GRE)
-
-
 
 资料来源公众号：CourseHeroUnlock
 
@@ -301,4 +263,4 @@ GRE写作官方题库是公开的。
 曲根词汇
 
 链接：https://pan.baidu.com/s/1qbRMvtaLRY_-g3pWGidjNw 
-提取码：pm1v
+提取码：pm1v 

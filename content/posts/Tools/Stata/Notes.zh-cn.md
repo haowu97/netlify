@@ -1,12 +1,21 @@
+---
+title: "Stata笔记"
+date: 2021-06-09T21:17:53+08:00
+lastmod: 2021-06-10T21:17:53+08:00
+draft: false
+
+description: ""
+upd: "Stata奇技淫巧"
+
+tags: ['笔记']
+categories: []
+
+math: true
+---
+
 
 
 [聊一聊Stata中时间变量的处理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/103817704)
-
-
-
-
-
-
 
 
 

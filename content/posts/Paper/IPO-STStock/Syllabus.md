@@ -149,11 +149,3 @@ IPO申请拒绝率
  
 
 其他软件都行，只要我后期问到你code里面的一些细节时你能回答上来就行。比如，宣告日如果在周末该怎么处理，estimation window与上一个事件日重叠该怎么处理，trading day与calendar date的差异等等，这些完善代码的过程在后期勘误的过程中都会遇到。
-
- 
-
-退市新规： http://www.xinhuanet.com/fortune/2020-12/15/c_1126860285.htm
-
- 
-
- 

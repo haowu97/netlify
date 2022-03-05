@@ -16,6 +16,7 @@ math: true
 ## The Trilemma or the “Impossible Trinity”
 
 Ideally, policy makers want
+
 1. A stable exchange rate: Less risk for doing business overseas, decreases economic volatility
 2. An independent monetary policy: Control over money supply and interest rates to stabilize economy
 3. Capital market integration (free flow of capital):Portfolio diversification, better capital allocation, lower cost of capital
@@ -31,7 +32,7 @@ At any point in time, a country can pursue two of the three, but **never all thr
 Attempts to achieve all three by Mexico, Thailand, Korea, Russia, Brazil, … have failed. When countries attempt to achieve all 3 of the impossible trilemma dimensions and speculators recognized these were not sustainable:
 
 - 1994-1995: Mexican Crisis
-    - IMF bailout created moral hazard
+  - IMF bailout created moral hazard
 - 1997: Asian currency crisis
 - 1998: Russian crisis
 - 1998-1999: Brazilian crisis
@@ -43,7 +44,7 @@ Currently, the international monetary system is a hybrid system
 - Floating Currencies: Free (clean) float
 - Managed Floating Currencies/ Dirty float
 - Fixed/Pegged Currencies
-    - Extreme case: dollarization/euroization
+  - Extreme case: dollarization/euroization
 - Target-Zone Arrangement
 - Crawling Peg
 

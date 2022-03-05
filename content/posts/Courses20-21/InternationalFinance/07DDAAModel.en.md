@@ -18,7 +18,7 @@ Preview
 - Long-run models are useful when all prices of inputs and outputs have time to adjust.
 - In the short run, some prices of inputs and outputs may not have time to adjust, due to labor contracts, costs of adjustment, or imperfect information about willingness of customers to pay at different prices.
 - This chapter builds on the short-run and long-run models of exchange rates to explain how output is related to exchange rates in the short run.
-    - It shows how macroeconomic policies can affect production, employment, and the current account.
+  - It shows how macroeconomic policies can affect production, employment, and the current account.
 
 ## 1. Real exchange rate and aggregate demand
 
@@ -43,7 +43,7 @@ Determinants of **consumption expenditure** include:
 Determinants of the **current account** include:
 
 - Real exchange rate: prices of foreign products (P*) relative to the prices of domestic products (P), both measured in domestic currency:
-    - As the prices of foreign products rise relative to those of domestic products, expenditure on domestic products rises, and expenditure on foreign products falls.
+  - As the prices of foreign products rise relative to those of domestic products, expenditure on domestic products rises, and expenditure on foreign products falls.
 - Disposable income: more disposable income means more expenditure on foreign products (imports).
 
 *Current account is modeled as a function of real exchange rate and disposable income*:  CA(Y - T, $\frac{EP^*}{P}$) 
@@ -51,8 +51,6 @@ Determinants of the **current account** include:
 Assume that a real depreciation leads to an increase in the current account: the volume effect (import decreases) dominates the value effect (import value increases due to the higher real exchange rate).
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/RealCA.png)
-
-
 
 Aggregate demand is therefore expressed as:
 $$
@@ -67,8 +65,6 @@ $$
 Note $ T, I $ and $ G $ are exogenous.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/YD.png)
-
-
 
 If all other factors remain unchanged, a rise in output (real income), *Y*, increases aggregate demand. Because the increase in aggregate demand is less than the increase in output, the slope of the aggregate demand function is less than 1 (as indicated by its position within the 45-degree angle).
 
@@ -132,8 +128,8 @@ The schedule of exchange rate and output combinations that are consistent with e
 
 - Foreign exchange markets: interest parity represents equilibrium:
 - Money market 
-    - Equilibrium occurs when the quantity of real monetary assets supplied matches the quantity of real monetary assets demanded:
-    - A rise in income from production causes the demand of real monetary assets to increase (notice the downward shift of the L(R, Y) curve in the lower part of the graph).
+  - Equilibrium occurs when the quantity of real monetary assets supplied matches the quantity of real monetary assets demanded:
+  - A rise in income from production causes the demand of real monetary assets to increase (notice the downward shift of the L(R, Y) curve in the lower part of the graph).
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/DerivingAAcurve.png)
 
@@ -198,8 +194,8 @@ An increase in government purchases or a decrease in taxes increases aggregate d
 
 - The DD curve shifts right.
 - Higher output increases the demand for real monetary assets, 
-    - thereby increasing interest rates,
-    - causing the domestic currency to appreciate (E falls).
+  - thereby increasing interest rates,
+  - causing the domestic currency to appreciate (E falls).
 
 By shifting DD1 to the right, *a temporary fiscal expansion causes a currency appreciation and a rise in output*.
 
@@ -212,8 +208,8 @@ Resources used in the production process can either be over-employed or underemp
 When resources are used effectively and sustainably, economists say that production is at its **potential or natural level**.
 
 - When resources are not used effectively, resources are **underemployed**: high unemployment, few hours worked, idle equipment, lower than normal production of goods and services.
-- When resources are not used sustainably, labor is **over-employed**: low unemployment, many overtime hours, over-utilized equipment, higher than normal production of goods and services.
 
+- When resources are not used sustainably, labor is **over-employed**: low unemployment, many overtime hours, over-utilized equipment, higher than normal production of goods and services.
 3. Temporary changes in monetary and fiscal policy
 
 A temporary fall in world demand shifts DD1 to DD2, reducing output from Yf to Y2 and causing the currency to depreciate from E1 to E2 (point 2). 
@@ -233,12 +229,12 @@ The two policies have different exchange rate effects: The monetary policy resto
 Policies to maintain full employment may seem easy in theory, but are hard in practice.
 
 1. We have assumed that prices and expectations do not change, but people may anticipate the effects of policy changes and modify their behavior.
-    1. Workers may require higher wages if they expect overtime and easy employment, and producers may raise prices if they expect high wages and strong demand due to monetary and fiscal policies.
-    2. Fiscal and monetary policies may therefore create price changes and inflation, thereby preventing high output and employment: inflationary bias. 
+   1. Workers may require higher wages if they expect overtime and easy employment, and producers may raise prices if they expect high wages and strong demand due to monetary and fiscal policies.
+   2. Fiscal and monetary policies may therefore create price changes and inflation, thereby preventing high output and employment: inflationary bias. 
 2. Economic data are difficult to measure and to understand. 
-    1. Policy makers cannot interpret data about asset markets and aggregate demand with certainty, and sometimes they make mistakes.
+   1. Policy makers cannot interpret data about asset markets and aggregate demand with certainty, and sometimes they make mistakes.
 3. Changes in policies take time to be implemented and to affect the economy.
-    1. Because they are slow, policies may affect the economy after the effects of an economic change have dissipated.
+   1. Because they are slow, policies may affect the economy after the effects of an economic change have dissipated.
 4. Policies are sometimes influenced by political or bureaucratic interests.
 
 ## 4. Permanent changes in monetary and fiscal policy
@@ -334,12 +330,12 @@ The J-curve describes the time lag with which a real currency depreciation impro
 
 - In the DD-AA model, the pass-through rate is 100%: import prices in domestic currency exactly match a depreciation of the domestic currency.
 - In reality, pass-through may be less than 100% due to price discrimination in different countries. 
-    - Firms that set prices may decide not to match changes in the exchange rate with changes in prices of foreign products denominated in domestic currency.
+  - Firms that set prices may decide not to match changes in the exchange rate with changes in prices of foreign products denominated in domestic currency.
 
-–	If prices of foreign products in domestic currency do not change much because of a pass-through rate less than 100%, then 
-–	the value of imports will not rise much after a domestic currency depreciation, and the current account will not fall much, making the J-curve effect smaller.
-–	the volume of imports and exports will not adjust much over time, since domestic currency prices do not change much. 
-–	Pass-through of less than 100% dampens the effect of depreciation or appreciation on the current account.
+–    If prices of foreign products in domestic currency do not change much because of a pass-through rate less than 100%, then 
+–    the value of imports will not rise much after a domestic currency depreciation, and the current account will not fall much, making the J-curve effect smaller.
+–    the volume of imports and exports will not adjust much over time, since domestic currency prices do not change much. 
+–    Pass-through of less than 100% dampens the effect of depreciation or appreciation on the current account.
 
 ### A low-output liquidity trap
 

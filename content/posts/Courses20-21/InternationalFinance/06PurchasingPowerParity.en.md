@@ -99,17 +99,17 @@ $$
 The monetary approach makes a number of specific predictions about the long-run effects on the exchange rate of changes in money supplies, interest rates, and output levels:
 
 1. *Money supply*: a permanent rise in the domestic money supply 
-    1. causes a proportional increase in the domestic price level, 
-    2. thus causing a proportional depreciation in the domestic currency (through PPP). 
-    3. This is same prediction as long-run model without PPP.
+   1. causes a proportional increase in the domestic price level, 
+   2. thus causing a proportional depreciation in the domestic currency (through PPP). 
+   3. This is same prediction as long-run model without PPP.
 2. *Interest rates*: a rise in domestic interest rates
-    1. lowers the demand of real monetary assets,
-    2. and is associated with a rise in domestic prices, 
-    3. thus causing a proportional *depreciation* of the domestic currency (through PPP). 
+   1. lowers the demand of real monetary assets,
+   2. and is associated with a rise in domestic prices, 
+   3. thus causing a proportional *depreciation* of the domestic currency (through PPP). 
 3. *Output level*: a rise in the domestic level of production and income (output) 
-    1. raises domestic demand of real monetary assets, 
-    2. and is associated with a decreasing level of average domestic prices (for a fixed quantity of money supplied),
-    3. thus causing a proportional appreciation of the domestic currency (through PPP).
+   1. raises domestic demand of real monetary assets, 
+   2. and is associated with a decreasing level of average domestic prices (for a fixed quantity of money supplied),
+   3. thus causing a proportional appreciation of the domestic currency (through PPP).
 
 All three changes cause prices to adjust so that the quantity of real monetary assets supplied matches the quantity of real monetary assets demanded, and cause exchange rates to adjust according to PPP.
 
@@ -124,6 +124,7 @@ A change in the *growth rate* of the money supply results in a change in the *gr
 - Inflation, however, does affect nominal interest rates. How?
 
 The *Fisher effect* (named affect Irving Fisher) describes the relationship between nominal interest rates and inflation.
+
 - Derive the Fisher effect from the *interest parity condition*:
 
 $$
@@ -137,9 +138,11 @@ $$
 $$
 
 - Hence,
-$$
-R_{\$}-R_{\euro}=\pi_{U S}^{e}-\pi_{E U}^{e}
-$$
+  
+  $$
+  R_{\$}-R_{\euro}=\pi_{U S}^{e}-\pi_{E U}^{e}
+  $$
+
 - The **Fisher effect**: a rise in the domestic inflation rate causes an equal rise in the interest rate on deposits of domestic currency in the long run, when other factors remain constant.
 
 ### Permanent Increase in the Growth Rate of Money Supply
@@ -173,8 +176,6 @@ Thereafter, the money supply and prices are predicted to grow at rate $ \pi+ \De
 - (The money supply, price level, and exchange rate are all measured on a natural **logarithmic scale**, which makes variables that change at constant proportional rates appear as straight lines when they are graphed against time. The slope of the line equals the variable’s proportional growth rate.)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210814174506.png)
-
-
 
 Previously: Increase in $R_\$$ leads to dollar appreciation (based on UIP or assets approach), NOT depreciation.
 

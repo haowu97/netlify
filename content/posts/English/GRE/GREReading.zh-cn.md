@@ -20,15 +20,15 @@ categories: ["GRE"]
 - 任意一个Verbal Section里面，阅读文章都有4篇，分别涉及自然科学（natural sciences）、生命科学（biological sciences）、社会科学（social sciences）、人文学科（humanities）这四大学科，每个学科门类通常各占1篇。这4篇文章合计配有8-9道阅读题。
 - 还有1-2道逻辑单题，往往涉及非学术的生活和社会话题。
 
-|             | Section（含长文） | Section（纯短文） |
-| ----------- | ----------------- | ----------------- |
-| 长450±20字  | 1篇，4题          | 0篇，0题          |
-| 短160±20字  | 1篇，2-3题        | 1篇，3-4题        |
-| 短120±20字  | 2篇，1-2题        | 3篇，1-2题        |
-| 逻辑40-80字 | 1篇，1题          | 1-2篇，1题        |
-| 总计        | 4+1篇，10题       | 4+（2-1）篇，10题 |
+|          | Section（含长文） | Section（纯短文） |
+| -------- | ------------ | ------------ |
+| 长450±20字 | 1篇，4题        | 0篇，0题        |
+| 短160±20字 | 1篇，2-3题      | 1篇，3-4题      |
+| 短120±20字 | 2篇，1-2题      | 3篇，1-2题      |
+| 逻辑40-80字 | 1篇，1题        | 1-2篇，1题      |
+| 总计       | 4+1篇，10题     | 4+（2-1）篇，10题 |
 
-GRE阅读文章都取材于学术期刊和著作，学术英文往往讨论一些抽象的话题或与此相关的作品、研究和活动。
+GRE阅读文章都取材于学 术期刊和著作，学术英文往往讨论一些抽象的话题或与此相关的作品、研究和活动。
 
 - GRE文章与正常的学术英文也有差别。正常学术论文也许有8000 字，篇幅足够，论证充分，论据较多，有些甚至用图表和图片展示来辅助论证，一目了然。但是，这样的学术文章经测试专家压缩、改编后， 变为大约450字、160字或120字的GRE文章。这意味着，GRE文章的**信息高度浓缩**，证据省略较多，论点和观点的数目也减少了。
 - **严密的逻辑推理结构**
@@ -42,16 +42,16 @@ Verbal: 20 questions-30 min; 160+(170)-85%+
 
 - Sentence: 10 questions-11~12 min
 - Reading comprehension: 10 questions-**17~18min**
-    - Questions: 10q - 9-10min = **50~60’’/q**
-    - Passages: 850~900 words- 6-7min=**150~160 words/min**
+  - Questions: 10q - 9-10min = **50~60’’/q**
+  - Passages: 850~900 words- 6-7min=**150~160 words/min**
 
-|             | Section（含长文） | Section（纯短文）   | 考试要求                           |
-| ----------- | ----------------- | ------------------- | ---------------------------------- |
-| 长450±20字  | 1篇，4题          | 0篇，0题            | 450words/2.5-3min,  1min/question  |
-| 短160±20字  | 1篇，2-3题        | 1篇，3-4题          | 160words/1min,  1min/question      |
-| 短120±20字  | 2篇，1-2题        | 3篇，1-2题          | 120words/50seconds,  1min/question |
-| 逻辑40-80字 | 1篇，1题          | 1-2篇，1题          | 1-1.5min                           |
-| 总计        | 4+1篇，10题       | 4+（2-1）  篇，10题 | 17±1 min；正确率  7/10             |
+|          | Section（含长文） | Section（纯短文）   | 考试要求                               |
+| -------- | ------------ | -------------- | ---------------------------------- |
+| 长450±20字 | 1篇，4题        | 0篇，0题          | 450words/2.5-3min,  1min/question  |
+| 短160±20字 | 1篇，2-3题      | 1篇，3-4题        | 160words/1min,  1min/question      |
+| 短120±20字 | 2篇，1-2题      | 3篇，1-2题        | 120words/50seconds,  1min/question |
+| 逻辑40-80字 | 1篇，1题        | 1-2篇，1题        | 1-1.5min                           |
+| 总计       | 4+1篇，10题     | 4+（2-1）  篇，10题 | 17±1 min；正确率  7/10                 |
 
 ### Abilities (OG)
 
@@ -65,55 +65,55 @@ Verbal: 20 questions-30 min; 160+(170)-85%+
 Word: 8k单词对于阅读够用
 
 - 95% v. + ad. + 抽象NP (noun phrase)
-    - 认识越多越好
+  - 认识越多越好
 - vs.5% technical terms 专业术语，专业名词
-    - 可以全部不用认识
-    - e.g. serotonin, norepinephrine, Cretaceous period
+  - 可以全部不用认识
+  - e.g. serotonin, norepinephrine, Cretaceous period
 - 每句话有1-2个词，基本单词足够
-    - 120w * 5% = 6w
-    - 160w * 5% = 8w
-    - 450w * 5% = 20w
+  - 120w * 5% = 6w
+  - 160w * 5% = 8w
+  - 450w * 5% = 20w
 
 Sentence
 
 - 25-30 words/sentence，也存在很短或者很长的长难句
 - **句子抓主干**：**主谓宾** > 修饰(不重要)，svo > modifiers
-    - 存在**宾语从句**时，从句往往是重点
-    - 名词抽象时要抓住修饰
+  - 存在**宾语从句**时，从句往往是重点
+  - 名词抽象时要抓住修饰
 - **功能作用(核心)** > 语法分类 / 句子翻译(不重要)：function / relations
 
 Paragraphs
 
-| 总                     | 分                        |
+| 总                      | 分                         |
 | ---------------------- | ------------------------- |
-| 论点                   | 论据                      |
+| 论点                     | 论据                        |
 | main idea              | supporting ideas, support |
 | general                | specific, details         |
 | thesis                 | evidence                  |
 | claim, view, assertion | reasons, arguments        |
 | theory, explanation    | facts, observations       |
 | hypothesis, model      | data, mechanism           |
-| 1st 句                 | 2nd. 3rd. 4th 句          |
+| 1st 句                  | 2nd. 3rd. 4th 句           |
 | **kw** (key words)     | **a b c**: x y z: u v w   |
 | aw (attitude words)    | x y z                     |
 
 Passage
 
-| 总              | 分              |
+| 总               | 分               |
 | --------------- | --------------- |
-| 主题            | 论点            |
+| 主题              | 论点              |
 | Topic           | theses          |
 | general         | specific        |
 | TW(Topic Words) | kw1 kw2         |
-| [作者本人观点]  | 并列分论点      |
+| [作者本人观点]        | 并列分论点           |
 | Thesis = TS; TW | kw1 + kw2       |
-| [不同人物观点]  | 对立或替代观点  |
+| [不同人物观点]        | 对立或替代观点         |
 | TW              | kw1 vs. aw /kw2 |
 
  **minor and major points**
 
 1. Major points: 证据；a
-2. Minor points: ⼩小证据，证据的举例；a1,a2,a’,e(example)
+2. Minor points: 小证据，证据的举例；a1,a2,a’,e(example)
 
 结论句 conclusion sentence
 
@@ -121,11 +121,9 @@ Passage
 - paragraph: [kw. a. b. c.] cs.
 - passage: [TW.kw1. kw2.] CS
 - cues for cs: 
-    - thus, then, hence, therefore, as a result,
-    - The point is..., Together
-    - In general, In summary
-
-
+  - thus, then, hence, therefore, as a result,
+  - The point is..., Together
+  - In general, In summary
 
 identifying the author's perspective
 
@@ -142,11 +140,11 @@ developing and considering alternative
 
 - analyzing a text and reaching conclusions about it
 - drawing conclusions from the information provided
-    - kw. a. b. c.,→cs？
+  - kw. a. b. c.,→cs？
 - reasoning from incomplete data, inferring missing information
-    - a→[b]→c
+  - a→[b]→c
 - identifying the author's assumptions
-    - necessary condition: [a]→b→ c
+  - necessary condition: [a]→b→ c
 
 ### Skill
 
@@ -196,8 +194,6 @@ developing and considering alternative
 
 There is some dispute about the method of transport involved. Some biologists argue that ocean and air currents are responsible for the transport of plant seeds to Hawaii. Yet the results of flotation experiments and the low temperatures of air currents cast doubt on these hypotheses. More probable is bird transport.
 
-
-
 The author of the passage is primarily concerned with
 
 A discussing different approaches biologists have taken to testing theories about the distribution of plants in Hawaii
@@ -213,8 +209,6 @@ B discussing different theories about the transport of plant seeds to Hawaii
 【Eample】*Traditionally*, **pollination** by wind *has been* viewed as a reproductive process marked by random events in which the vagaries of the wind are compensated for by the **generation of vast quantities of pollen(kw1)**.
 
 However, a number of features that are **characteristic** of wind-pollinated plants **reduce pollen waste(kw2)**.
-
-
 
 The author of the passage is primarily concerned with discussing
 
@@ -237,8 +231,6 @@ The kind of intelligence favored by the interplay of increasingly smarter catche
 解析：**首局/转折句的主干中的新词就是kw**
 
 The elements of intelligence and consciousness come together marvelously to produce different **styles** in predator and prey.
-
-
 
 The author is primarily concerned with
 
@@ -280,7 +272,7 @@ The author is primarily concerned with
 
 | Core                                 | Function                      |
 | ------------------------------------ | ----------------------------- |
-| different styles                     | kw2: h≠c. kw2’(段落的第二句)  |
+| different styles                     | kw2: h≠c. kw2’(段落的第二句)        |
 | (A.N. fear vs aggression)            | h1=c1, h1≠c1                  |
 | (=arousal. c: searching vs. h: wary) | h2=C2, C2.1.C2.2 ≠ h2.1. h2.2 |
 
@@ -348,9 +340,9 @@ The author is primarily concerned with
 
 解析：类似于机制解释类文章，阅读策略，**记住首尾**（该方法是一种有效确认石油资源的方法）即可，**中间非常多的动词步骤压根不需要记住**。
 
-| Core                                      | Function        |
-| ----------------------------------------- | --------------- |
-| s-method+                                 | kw / ts         |
+| Core                                      | Function      |
+| ----------------------------------------- | ------------- |
+| s-method+                                 | kw / ts       |
 | (**source**→Wave→ec→...→data→**profile**) | (a→b→c→d→e)机制 |
 
 For the following question, **consider each of the choices separately and select all that apply**.（多选题）
@@ -417,17 +409,17 @@ Correctly note与fail to see相反，这里相当于发生了让步；but发生�
 
 - *主干>修饰*：句⼦子抓主干 SVO => np1 V np1
 - 例外：**名词抽象 抓住修饰**
-    - *长名词短语一般找第一个名词，第一个抽象则继续找第二个*
+  - *长名词短语一般找第一个名词，第一个抽象则继续找第二个*
 - 并列成分（主语并列，谓语并列，宾语并列），只抓一个即可，各个并列成分等价
 
 **主句>从句**：
 
 - *主句>从句*：SVO > CP (clause phrase)
-    - that / which / v-ing / v-ed / , np that…(同位语)
-    - 从句修饰遵循*就近原则*，一般修饰最近的词
+  - that / which / v-ing / v-ed / , np that…(同位语)
+  - 从句修饰遵循*就近原则*，一般修饰最近的词
 - *主句>从句*：
-    - svo because / when / if svo.
-    - 重点通常不在独立从句（补充说明），重点在主句主干
+  - svo because / when / if svo.
+  - 重点通常不在独立从句（补充说明），重点在主句主干
 - 例外：**主语从句/宾语从句，要单独分析从句主干**。
 - 从句/修饰的嵌套仍然抓主句即可
 
@@ -452,19 +444,21 @@ Correctly note与fail to see相反，这里相当于发生了让步；but发生�
 出现以下结构时，中间句也很可能会作为考题的考点：
 
 - 句⼦蕴含对比 → 提炼一对反义词
-    - 比较与对比like, similar; unlike, rather than, more than, different fromcontrast, whereas
-    - 数字比较(most)、时间比较(first)
-    - 让步转折
-        - although, though, while; despite, in spite of+NP[主句转折]
-        - did/does, may/might, may seem, there is some evidence [But]
-        - of course, certainly, undoubtedly, no doubt, no problem [But]
-        - It is true that, to be sure, Granted; this is not to deny [But]
-        - 无上述提示词而突然出现的相反态度或内容为让步 [But」
-    - *否定肯定not.. but/instead/rather...
+  
+  - 比较与对比like, similar; unlike, rather than, more than, different fromcontrast, whereas
+  - 数字比较(most)、时间比较(first)
+  - 让步转折
+    - although, though, while; despite, in spite of+NP[主句转折]
+    - did/does, may/might, may seem, there is some evidence [But]
+    - of course, certainly, undoubtedly, no doubt, no problem [But]
+    - It is true that, to be sure, Granted; this is not to deny [But]
+    - 无上述提示词而突然出现的相反态度或内容为让步 [But」
+  - *否定肯定not.. but/instead/rather...
 
-- 中间⼤大写
-    - 段中人名 Hargrave and Geen: H.G;
-    - 物种名 cladocerans:c 便于定位
+- 中间大写
+  
+  - 段中人名 Hargrave and Geen: H.G;
+  - 物种名 cladocerans:c 便于定位
 
 ### 总结：阅读提炼的重点
 
@@ -480,7 +474,7 @@ GRE文章结构总览
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/GREPassageLayers.jpg)
 
-## 题型与解法
+## 3. 题型与解法
 
 GRE阅读的速度是150-160words/min；做题的时间平均为1minute=1'，
 
@@ -515,11 +509,11 @@ GRE阅读的速度是150-160words/min；做题的时间平均为1minute=1'，
 
 **练习**：建议考生分类训练。在做完一些文章和题目以后，将已经做过的比如50道题做一个题型归类，然后集中30-60分钟左右集中只看比如作用题、选择句子题、取非题，再集中2-3个小时集中看已经做过的逻辑支持、反对、假设等题目。这样就能对解法更加熟悉。
 
-### 核心题
+### 3.1 核心题
 
 通常通过寻找各段首句、转折句，通常占3/10。
 
-#### 主题与结构题
+#### 3.1.1 主题与结构题
 
 主题题**解法**：有TS，定位TS；无TS，则找CS；无CS，则综合各个kw，即综合各个观点，包括表示态度的however句。
 
@@ -535,20 +529,20 @@ GRE阅读的速度是150-160words/min；做题的时间平均为1minute=1'，
 - The **primary purpose** of the passage is to
 - Which of the following is the most accurate description of the **organization**?
 
-#### 态度题
+#### 3.1.2 态度题
 
 选项为态度词，定位态度句即可：
 
 - 多考负态度
 - 让步-转折+态度句基本为必考
 
-#### 写法题
+#### 3.1.3 写法题
 
 问the author does which of the following? ，按逻辑关系解题；
 
 问哪种方法原文没有使用（EXCEPT），排除法解题。
 
-### 信息题
+### 3.2 信息题
 
 难度较大，题目占1-2/10。
 
@@ -560,7 +554,7 @@ GRE阅读的速度是150-160words/min；做题的时间平均为1minute=1'，
 **技巧**：
 
 - 从选项找线索，**与文章核心（主题、论点、态度）相背离的首先排除**
-    - 此时看选项即可，无需定位（因为有2-3个选项很容易看出是错的）
+  - 此时看选项即可，无需定位（因为有2-3个选项很容易看出是错的）
 - 剩下大概2个选项再**精确定位**原文内容。
 
 信息题常常和**多选题**一起出现：
@@ -568,7 +562,7 @@ GRE阅读的速度是150-160words/min；做题的时间平均为1minute=1'，
 - For the following question, consider each of the choices separately and select all that apply.
 - 一定是3选多
 
-### 定点题
+### 3.3 定点题
 
 考的最多，占7-8/10。
 
@@ -618,7 +612,7 @@ The passage suggests that to consider people as "thinking machines" is to consid
 只要能够定位，列举题属于送分题，占0-1/10左右。
 
 - 连续列举：原文连续并列3-4个内容，问哪个有(或没有)提到: mention/cite/refer to/state(EXCEPT) 。常为多选题。
-    - 一个精确没有(EXCEPT)的内容，往往与原文的主题、态度无关或相反
+  - 一个精确没有(EXCEPT)的内容，往往与原文的主题、态度无关或相反
 - 论据列举：原文存在并列证据，问“作者提到哪个是缺陷（weakness）或理由（reasons）”，答案为并列其中之一。（少见）
 
 **Although** much has been **accomplished** for the modern period, premodern cultures have proved more **difficult**: sources are restricted in number, fragmentary, difficult to interpret, and often contradictory.
@@ -780,12 +774,12 @@ The author refers to a hungry lizard primarily in order to
 - 结论/cs
 - 论点/kw 态度/aw
 - 论据/a/b/ support, evidence, example
-    - 最常见！
-    - Select the sentence that provides support (a/b) for an answer(kw) to a question(TW)
+  - 最常见！
+  - Select the sentence that provides support (a/b) for an answer(kw) to a question(TW)
 - *对比/distinguish
 - *让步/qualify(限制)
 
-### 推理题
+### 3.4 推理题
 
 #### 逻辑题
 
@@ -908,7 +902,7 @@ Which of the following most closely *parallels* the situation described in the *
 
 解析：加粗的单词为需要保留的单词，选C。
 
-### 选项与定位
+### 3.5 选项与定位
 
 为了能够熟练定位，建议考生花2-3个小时时间，集中看50-60道题题干 ，不看选项，只看题干什么题型、什么解法、如何定位。任何技能，经过专业的集中训练之后，都可以再精进一步。
 
@@ -926,8 +920,6 @@ Was Felix Mendelssohn (1809–1847) a great composer? On its face, the question 
 | kw1. a b       | great+.(+,+)         |
 | vs. kw2. x. y. | critical: -(<S.B. H) |
 
-
-
 1.The passage suggests that anyone attempting to evaluate Mendelssohn’s career must confront which of the following **dichotomies**?
 
 A. The tension between Mendelssohn’s career as a composer and his career as a pianist and conductor
@@ -941,8 +933,6 @@ D. The inconsistency between Mendelssohn’s reputation during his lifetime and 
 E. The gap between Mendelssohn’s prodigious musical beginnings and his decline in later years
 
 解析：对应到原文的**转折句(kw2)**，But Mendelssohn’s enduring popularity has often been at odds — sometimes quite sharply — with his critical standing，选C
-
-
 
 2.The author mentions Schumann and Brahms primarily in order to
 
@@ -966,16 +956,14 @@ Since the Hawaiian Islands have never been connected to other land masses, the g
 
 **现象解释型**文章
 
-| Cues            | Function  | Core        |
-| --------------- | --------- | ----------- |
-| the result of   | TW        | dispersal   |
-| dispute         | TW'(补充) | dispute     |
-| Some biologists | kw1       | current     |
-| Yet... doubt    | aw-       | doubt       |
-| More probable   | kw2+      | bird+       |
-| ...             | (X)       | (6.ex-/in-) |
-
-
+| Cues            | Function | Core        |
+| --------------- | -------- | ----------- |
+| the result of   | TW       | dispersal   |
+| dispute         | TW'(补充)  | dispute     |
+| Some biologists | kw1      | current     |
+| Yet... doubt    | aw-      | doubt       |
+| More probable   | kw2+     | bird+       |
+| ...             | (X)      | (6.ex-/in-) |
 
 1.The author of the passage is **primarily concerned with**
 
@@ -990,8 +978,6 @@ D. resolving a dispute about the adaptability of plant seeds to bird transport
 E. resolving a dispute about the ability of birds to carry plant seeds long distances
 
 解析：**主题题**，选B
-
-
 
 2.The author mentions the results of flotation experiments on plant seeds most probably **in order to**
 

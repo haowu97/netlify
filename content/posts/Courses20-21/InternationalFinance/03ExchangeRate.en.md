@@ -74,9 +74,11 @@ Amount of currency appreciation/depreciation = (New value - Old value) / Old val
 【Example 1】Suppose the Canadian dollar devaluate against the euro: The exchange rate goes down from $ e_{1}=0.8 \frac{E U R}{C A D} $​ to $ e_{2}=0.72 \frac{E U R}{C A D} $​.
 
 This is a devaluation by
+
 $$
 (e_2-e_1)/e_1 = \text{-10\%}
 $$
+
 【Example 2】If the Thai baht fell 17% against the US dollar, by how much has the USD appreciated against the baht?
 
 Let $ e_{1}=\mathrm{USD} / \mathrm{THB} $, then $ \mathrm{THB} / \mathrm{USD}=1 / e_{1} $
