@@ -3,7 +3,7 @@ title: "Cover Letter Notes"
 date: 2022-05-20T15:21:31+08:00
 draft: false
 
-description: "kkkkkkkkkkkkkkkkkkkk"
+description: "kkkkkkkkkkkkkkkkkkkk,不知道有什么用"
 upd: "CHNS官方英文文档的中文机器翻译版汇总"
 
 tags: []

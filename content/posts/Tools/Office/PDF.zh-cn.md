@@ -50,3 +50,6 @@ acrobat 文档无法保存。读取本文档时出现问题(14)。解决方法�
 
 图书管理神器Calibre也可以转。
 
+
+
+[在Adobe Acrobat Pro调整PDF页面大小（使得页面一样大_acrobat调整pdf页面大小为a4](https://blog.csdn.net/weixin_39589455/article/details/106754197)
