@@ -1,77 +1,19 @@
 ---
-title: "TOEFL® Test Preparation: The Insider's Guide"
-date: 2021-04-22T14:14:45+08:00
-lastmod: 2021-04-23T14:14:45+08:00
+title: ""
+date: 2022-04-13T21:17:53+08:00
+lastmod: 2021-04-14T21:17:53+08:00
 draft: false
 
 description: ""
-upd: "Notes on Official TOEFL guide"
+upd: ""
 
 tags: []
 categories: []
+
+math: true
 ---
 
-To search institutions that accept TOEFL scores, visit the [TOEFL Destination Search](http://www.toeflgoanywhere.org/search-who-accepts-toefl). You can search by institution name, location or TOEFL score requirement. Be sure to confirm any institution's information (such as score requirements) with the institution directly.
-
-## A Look Inside the TOEFL Test
-
-![](https://moocs.unipus.cn/files/course/2019/10-15/104044ca0e33859752.png)
-
-The TOEFL Test allows you to demonstrate that you have the English language skills necessary for effective communication in academic setting. Here's an overview of what to expect on the test.
-
-The TOEFL Test has four sections: **Reading, Listening, Speaking, and Writing**. All four sections are completed in one testing session, with three hours of testing time.
-
-The first section is **Reading**.
-
-- The Reading section has three or four passages of about 700 words each.
-- For each passage, you will answer 10 multiple choice questions.
-- You will have 54 to 72 minutes to complete the Reading section. During that time, you can return to previous questions to review or change your answers.
-
-Next is the **Listening** section.
-
-- For this section, you will wear a headset to hear the conversations and lectures.
-- There are 2 or 3 conversations. Each is about 3 minutes long and has 5 multiple choice questions.
-- There are 3 or 4 lectures. Each of those about 3 to 5 minutes long and has 6 multiple choice questions.
-- In the Listening section, you will only hear the conversations and lectures one time. Also, you must answer the questions in the order that they are presented. In this section, you can't go back to previous questions.
-- You will have 41 to 57 minutes to complete the section.
-
-You probably noticed that **in the Reading and Listening sections, the testing time and number of questions can vary.** That is because every test includes some extra questions that are being evaluated by ETS for use in future tests and do not count toward your score.
-
-So, your test will either have extra Reading questions or extra Listening questions, but never both. And you won't know which questions are the extra ones, so make sure you do your best on all of them.
-
-After the Listening section, there is a required **10-minute break**. So use the time to have some water or a snack and refresh yourself for the rest of the test.
-
-After the break is the **Speaking** section.
-
-- The Speaking section has four tasks and takes about 17 minutes to complete.
-- For each task, you will be asked a question and will be given a short time to prepare your response. Then, you will speak into the microphone on your headset for 45 to 60 seconds, depending on the question.
-- Some tasks require you to listen to part of a conversation or lecture, so you will continue to use your headset. Some also require you to read a short passage.
-
-Last is the **Writing** section.
-
-- You will complete two writing tasks in 50 minutes by typing your responses into the computer.
-- In the first task, you will read a passage and listen to a short lecture, then write your response. You will have 20 minutes to write your response.
-- In the second task, you will be asked your opinion on an issue and you will have 30 minutes to write your response.
-
-And that's it. After you finish the test, you should go do something fun. You've earned it. You did your best on an important test and that's a great accomplishment.
-
-### How the TOEFL Test Is Scored
-
-Each of the four sections of the test—Reading, Listening, Speaking and Writing—is scored on a scale from 0~30. The total score is the sum of the four section scores, with a range of 0~120.
-
-You will learn more details about how each section is scored in weeks 2~5 of the course.
-
-## Practice
-
-[Prepare for the TOEFL iBT Test (For Test Takers) (ets.org)](https://www.ets.org/toefl/test-takers/ibt/prepare/)
-
-For information regarding *TOEFL iBT®* test preparation tools in accessible formats, visit [TOEFL iBT Test Preparation Tools in Accessible Formats](https://www.ets.org/toefl/ibt/register/disabilities/test_preparation/).
-
-
-
-## Listening
-
-
+## Overview
 
 The second section of the *TOEFL iBT®* test is the Listening section.
 
@@ -108,9 +50,7 @@ You will learn more details about the Listening section this week through a seri
 - **Connecting Content questions** measure your understanding of the relationships among ideas in a conversation or lecture.
 - **Inference questions** ask you to draw conclusions or predict outcomes based on the information presented in a conversation or lecture.
 
-
-
-### Approaching Listening Passages
+## Approaching Listening Passages
 
 *Get oriented*: The image on the screen and the narrator‘s words will help you figure out what the situation
 
@@ -139,7 +79,7 @@ Also, remember that often, when a *TOEFL®* speaker wants you to pay close atten
 
 **Taking Notes**
 
-As you practice for the *TOEFL iBT®* Listening section on your own, start out by listening twice to each practice lecture and taking notes. Your notes should be brief; don't try to write down *everything* you hear. The first time through, take notes on the main idea and key supporting points for that idea. The second time you listen, try to fill in more of the supporting details in your notes, paying attention to how the ideas connect with one another. Remember that in the real TOEFL iBT test you will hear the lecture only once, so you will also need to practice taking notes on lectures while listening just once. See if taking notes helps you answer the questions or not. Some test takers find that taking notes is helpful, but others find that they miss too much of the lecture while trying to take notes. Determine which approach works best for you.
+As you practice for the *TOEFL iBT®* Listening section on your own, start out by listening twice to each practice lecture and taking notes. Your notes should be brief; don't try to write down *everything* you hear. The first time through, take notes on the main idea and key supporting points for that idea. The second time you listen, try to fill in more of the supporting details in your notes, paying attention to how the ideas connect with one another. Remember that in the real TOEFL iBT test **you will hear the lecture only once**, so you will also need to practice taking notes on lectures while listening just once. See if taking notes helps you answer the questions or not. Some test takers find that taking notes is helpful, but others find that they miss too much of the lecture while trying to take notes. Determine which approach works best for you.
 
 **Managing Your Time**
 
@@ -157,7 +97,7 @@ Start with **short lectures** on topics you are familiar with, then build up to 
 
 **Keep listening, even if you miss something.**
 
-### Gist-content and Gist-purpose questions
+## Gist-content and Gist-purpose questions
 
 The gist of something is the main point or key idea.
 
@@ -179,7 +119,7 @@ Always the **first question** after listening to the passage.
 
 If there are *two main ideas*, you'll be asked to choose 2 of the 4 answer options, instead of just one.
 
-### Detail Questions
+## Detail Questions
 
 *Detail questions* require you to understand and remember significant details or facts from a conversation or lecture.
 
@@ -196,7 +136,7 @@ You will not be expected to memorize trivial details
 
 The answer to a Detail question will always be **explicitly stated** in a conversation or lecture.
 
-### Function questions 
+## Function questions 
 
 *Function questions* ask you to identify **the particular meaning** of a statement in a given context. A Function question may ask you to determine what a speaker was trying to accomplish by saying a particular thing.
 
@@ -207,7 +147,7 @@ Function questions can include phrases like:
 1. "What does the professor mean when he says … ?"
 2. "Why does the student say … ?"
 
-### Attitude questions
+## Attitude questions
 
 *Attitude questions* ask you to show understanding of the speaker's attitude or their feelings about something.
 
@@ -234,7 +174,7 @@ A speaker’s *tone of voice* cannot help you answer an Attitude question. Is th
 - Certain or confused?
 - Enthusiastic or bored?
 
-### Organization Questions
+## Organization Questions
 
 *Organization questions* ask you to show understanding of how a lecture is structured. Organization questions can include phrases like:
 
@@ -258,7 +198,7 @@ These might be like,
 - Cause and effect: Accordingly, as a result, because, for example, for instance
 - In conclusion, to summarize
 
-### Connecting Content Questions
+## Connecting Content Questions
 
 *Connecting Content questions* measure your understanding of the relationships among ideas in a conversation or lecture. They may ask you,
 
@@ -275,7 +215,7 @@ You may be asked to identify things like
 - Classification
 - Make a prediction
 
-### Inference Questions
+## Inference Questions
 
 *Inference questions* ask listeners to show an understanding of the **meaning of something not directly stated**. They use phrase like
 
@@ -283,7 +223,7 @@ You may be asked to identify things like
 2. What does the professor **imply**...?
 3. What can be **inferred**...?
 
-### Additional Listening Materials
+## Additional Listening Materials
 
 Practice: Take the [Free Practice Test](https://www.ets.org/toefl/ibt/prepare/free_practice_test) and when listening to a conversation or lectures, try to **predict what kinds of questions will be asked, as well as what the answers to those questions will be**. Are any of the TOEFL questions the same or similar to your questions? What about the answers? The more you practice predicting what questions will be asked, the better you will get at predicting and the better you will get at listening for important information. This will help you improve your confidence about taking the Listening section of the test, as you realize you know what to expect, and what to listen for!
 
@@ -303,19 +243,4 @@ Recorded programs and podcasts about news and culture:
 Educational videos on a variety of academic topics:
 
 - http://www.smithsonianmag.com/videos/
-
-## Speaking
-
-4 tasks
-
-- 1 independent task to express an opinion on a familiar topic
-- 3 integrated tasks based on what is read and heard
-- Up to 30 seconds to prepare the response
-- Up to 1 minute to respond
-
-Time: 17 minutes
-
-Score scale: 0–30 points
-
-
 

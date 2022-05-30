@@ -2,6 +2,8 @@
 
 [经济研究经验、资料Public Goods (christinecai.github.io)](https://christinecai.github.io/items/PublicGoods.html)
 
+[知乎热议：科研工具汇总 (qq.com)](https://mp.weixin.qq.com/s/ApCZPAjAV3ocC1inVQUoLA)
+
 ## 文献综述
 
 简练地概括文献内容，在2k字以内综述40篇以上的文章。

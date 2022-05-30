@@ -27,6 +27,18 @@ categories: ['Office办公指南']
 
 [怎么删除Microsoft Word页眉中的横线？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/114071317)
 
+[word如何设置超链接颜色 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/102789954)
+
 ## 粘贴为纯文本的快捷键
 
 `Ctrl+v`粘贴默认使用来源格式，按`Ctrl`会出现粘贴选项，按`T`即可变为纯文本格式。
+
+
+
+| 快捷键   | 功能                     |
+| -------- | ------------------------ |
+| Shift+F3 | 选中的全部文本切换为大写 |
+
+## 公式
+
+手写符号识别：[Detexify LaTeX handwritten symbol recognition (kirelabs.org)](http://detexify.kirelabs.org/classify.html)

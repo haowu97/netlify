@@ -102,7 +102,10 @@ The foreign exchange market is in *equilibrium* when *deposits of all currencies
 - Interest parity implies that *arbitrage* in the foreign exchange market is not possible.
 
 (uncovered) Interest parity says:
-
+$$
+R_{\$}+1=\left(1+R_{\euro}\right)\left(E_{\$ / \euro}^{e} / E_{\$ / \euro}\right)
+$$
+or
 $$
 R_{\$}=R_{\epsilon}+\left(E_{\$ / \epsilon}^{e}-E_{\$ / \epsilon}\right) / E_{\$ / \epsilon}
 $$

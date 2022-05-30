@@ -87,24 +87,44 @@ upd: ""
 | 12.10 | International Finance                    | 1000     |
 | 12.13 | International Finance                    | 450      |
 | 12.14 | Probability and Statistic                | 800      |
-| 12.20 | Econometrica                             | 1000     |
+| 12.20 | Econometrics                             | 1000     |
 | Total |                                          | 39579.44 |
 
 2022年
 
-| 日期 | 科目                            | 收入 |
-| ---- | ------------------------------- | ---- |
-| 2.10 | Probability and Statistic(fall) | 400  |
+| 日期 | 科目                            | 收入   |
+| ---- | ------------------------------- | ------ |
+| 2.10 | Probability and Statistic(fail) | 400    |
+| 3.18 | Probability and Statistic       | 800    |
+| 3.18 | International Finance           | 500    |
+| 4.4  | International Finance           | 450    |
+| 4.11 | Financial Econometrics          | 1200   |
+| 4.27 | International Finance           | 1237.5 |
+| 4.28 | Microeconomics                  | 800    |
+| 5.7  | BANK3011                        | 700    |
+| 5.12 | Econometrics                    | 1200   |
+| 5.13 | Financial Engineering           | 200    |
+| 5.14 | Financial Econometrics          | 1200   |
+| 5.14 | Financial Econometrics          | 600    |
+|      |                                 |        |
 
 ## 应收
 
-2000-800-500 = 700(石)
-
-悉尼大学VPN：[VPN Service (sydney.edu.au)](https://secure-client.sydney.edu.au/)（需要账号登陆）
+杰瑞：5.13  Financial Engineering  200已收--->过了给400
 
 ## 待做
 
-艺林：[课程网站](http://canvas.sydney.edu.au)，账号ypan5641密码Usyd2019
+天池：
+
+- 改成6.6高金，两门2500
+- ECMT2150：6.15，早上11点到13点，中级计量2150，1000已收
+- 六月十八号早上七点，高金和6.6的类似，
+- 6.18：R计量2130，期末给你1500吧
+
+Stark:
+
+-  FINM2416 6.14，中国早上七点，800未收
+-  finm1416，6.17，900已收
 
 ## International Corporate Finance
 

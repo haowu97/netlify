@@ -31,3 +31,8 @@ categories: ['Office办公指南']
 
 
 
+无损提取Word、PPT中的高清图片：
+
+- [批量获取excel word ppt中的图片及音视频文件 - 知乎 (zhihu.com)](https://www.zhihu.com/zvideo/1447145347365249024?playTime=2.2)
+- [怎么把word里的图片无损的导出来？ ? - 知乎 (zhihu.com)](https://www.zhihu.com/question/31645349)
+
