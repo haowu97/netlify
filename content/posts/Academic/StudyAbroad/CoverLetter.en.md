@@ -1,4 +1,15 @@
+---
+title: "Cover Letter Notes"
+date: 2022-05-20T15:21:31+08:00
+lastmod: 2022-05-30T21:17:53+08:00
+draft: false
 
+description: ""
+upd: "CHNS官方英文文档的中文机器翻译版汇总"
+
+tags: []
+categories: []
+---
 
 
 
