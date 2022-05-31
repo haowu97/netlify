@@ -4,14 +4,14 @@ date: 2022-05-04T21:17:53+08:00
 lastmod: 2022-05-05T21:17:53+08:00
 draft: false
 
-description: ""
+description: "uBlogger theme provides multiple shortcodes on top of built-in ones in Hugo."
 upd: ""
 
 tags: []
 categories: []
-
-math: true
 ---
+
+<!--more-->
 
 ## CV (curriculum vitae) 
 
