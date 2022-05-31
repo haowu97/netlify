@@ -3,12 +3,14 @@ title: "经济金融研究常用数据库"
 date: 2021-02-20T17:14:04+08:00
 draft: false
 
-description: ""
+description: "本文收录了经济金融研究中的常用数据建库。"
 upd: "本文收录了经济金融研究中的常用数据建库。"
 
 tags: ['学术', '数据']
 categories: []
 ---
+
+<!--more-->
 
 大数据工具导航: http://hao.199it.com/
 
