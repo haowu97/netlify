@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Great Research Assistant Cover Letter"
+title: "How to Write a Cover Letter"
 date: 2021-05-20T17:14:04+08:00
 draft: false
 
@@ -16,7 +16,7 @@ Some online guides about cover letter:
 
 - [gsas-cvs-and-cover-letters.pdf (harvard.edu)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
 - [hes-resume-cover-letter-guide.pdf (harvard.edu)](https://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-- [Cover Letter Examples (cornell.edu)](https://www.engineering.cornell.edu/sites/default/files/departments/career services/Cover Letter Guide (accessible for website).pdf)
+- [Cover Letter Examples (cornell.edu)](https://www.engineering.cornell.edu/sites/default/files/departments/career%20services/Cover%20Letter%20Guide%20(accessible%20for%20website).pdf)
 - [How to Write a Great Research Assistant Cover Letter (Sample Included) ](https://www.shemmassianconsulting.com/blog/research-assistant-cover-letter)
 - [Research Assistant Cover Letter Example | Resume Genius](https://resumegenius.com/cover-letter-examples/research-assistant-cover-letter)
 - [Research Assistant Cover Letter Sample | Monster.com](https://www.monster.com/career-advice/article/research-assistant-cover-letter)
