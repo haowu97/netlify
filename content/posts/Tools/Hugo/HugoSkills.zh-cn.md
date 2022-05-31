@@ -18,10 +18,8 @@ categories: ["Hugo博客搭建"]
 ```yaml
 title: ""
 date: 2021-08-06T21:17:53+08:00
-lastmod: 2021-08-07T21:17:53+08:00
 draft: false
 
-description: ""
 upd: ""
 
 tags: []

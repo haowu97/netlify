@@ -1,10 +1,8 @@
 ---
 title: "美国主要经济数据"
 date: 2021-03-28T17:14:04+08:00
-lastmod: 2021-03-29T16:55:26+08:00
 draft: false
 
-description: ""
 upd: ""
 
 tags: ['学术', '数据']

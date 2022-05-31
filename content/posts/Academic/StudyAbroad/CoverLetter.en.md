@@ -1,16 +1,15 @@
 ---
 title: "Cover Letter Notes"
-date: 2022-05-20T15:21:31+08:00
 draft: false
 
-description: "kkkkkkkkkkkkkkkkkkkk,不知道有什么用"
+description: "uBlogger theme provides multiple shortcodes on top of built-in ones in Hugo."
 upd: "CHNS官方英文文档的中文机器翻译版汇总"
 
 tags: []
 categories: []
 ---
 
-
+<!--more-->
 
 - I am completing my PhD in [department or field] and I expect to finish [or defend, or  graduate] in [Month, Year].
 - Under the direction of Dieter Fischer, I am completing my Ph.D. in historical musicology  at Harvard University with an expected degree date of May 2019. 

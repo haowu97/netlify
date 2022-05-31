@@ -1,10 +1,8 @@
 ---
 title: "中国健康与营养调查(CHNS)文档"
 date: 2021-02-22T15:21:31+08:00
-lastmod: 2021-03-06T21:17:53+08:00
 draft: false
 
-description: "CHNS官方英文文档的中文机器翻译版汇总"
 upd: "CHNS官方英文文档的中文机器翻译版汇总"
 
 tags: ['学术', '数据库', 'CHNS']

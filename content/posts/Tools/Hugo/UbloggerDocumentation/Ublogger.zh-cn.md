@@ -1,8 +1,6 @@
 ---
 title: "Ublogger主题踩坑指南"
 date: 2021-05-04T17:38:51+08:00
-lastmod: 2021-05-05T17:38:51+08:00
-
 draft: false
 
 description: ""
@@ -10,8 +8,6 @@ upd: ""
 
 tags: ['Hugo']
 categories: []
-
-math: true
 ---
 
 ## 多行公式渲染失败

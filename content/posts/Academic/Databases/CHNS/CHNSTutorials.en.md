@@ -1,10 +1,8 @@
 ---
 title: "China Health and Nutrition Survey (CHNS) Study Notes"
 date: 2021-02-23T17:59:50+08:00
-lastmod: 2021-02-24T17:59:50+08:00
 draft: false
 
-description: ""
 upd: "The data volume of CHNS is very large, and it merges the data of many years, so it feels very confusing for people who just got started. This article records my experience of processing the CHNS database."
 
 tags: ['Academic', 'Database', 'CHNS']
