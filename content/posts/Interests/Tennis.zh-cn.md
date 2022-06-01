@@ -99,11 +99,25 @@ Wilson Pro Staff
 
 单反拍推荐（头轻，自重大）：
 
+- Pro Staff
 - Clash 100
 - Gravity MP
 - Yonex EZONE 98 
 - Yonex VCORE
 - Babolat Pure Strike
+
+参考：
+
+- [The Best Racquets for the One-Handed Backhand - Racquet Characteristics to Look For - YouTube](https://www.youtube.com/watch?v=VWGiOICwolY)
+- [Best Tennis Rackets for One Handed Backhand in 2021 - YouTube](https://www.youtube.com/watch?v=x8NL7E_raKs)
+
+### 2.3 假拍鉴别
+
+Pro Staff、Pure Drive这种比较火的球拍有很多高仿，根据经验有以下鉴别方法：
+
+- 官网查询
+- 看涂装成色
+- 测重量：假拍差距较大
 
 ## 3. 球员&比赛
 

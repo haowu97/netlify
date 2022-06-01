@@ -1,13 +1,12 @@
 ---
 title: "光遇攻略合集"
 date: 2021-02-03T20:56:47+08:00
-lastmod: 2021-05-01T21:17:53+08:00
 draft: false
 
 description: ""
 upd: "是天天啊"
 
-tags: ['Sky']
+tags: ['兴趣']
 categories: []
 ---
 

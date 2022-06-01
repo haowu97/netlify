@@ -42,7 +42,7 @@
 
 ### 具体项目
 
-方向很不错但是哈佛商学院：[Wei Yang Tham on Twitter: "A whole slew of postdoc and RA positions opening up at Harvard! With labs working on: Climate & Sustainability Customer Data (Marketing) Digital Value (Big Data and AI in organizations) Secure and Fair Machine Learning Tech 4 all (Broadening access to benefits of innovation)" / Twitter](https://twitter.com/wytham88/status/1524752055096729600)
+方向很不错但是哈佛商学院：[D^3 Open Positions | Laboratory for Innovation Science at Harvard](https://lish.harvard.edu/d3-open-positions)
 
 耶律大学，要两名推荐人的信息，可以提供签证：[ra_tobin_job_ad (nber.org)](https://www.nber.org/sites/default/files/2020-09/ra_tobin_job_ad.pdf)
 
