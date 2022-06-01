@@ -1,15 +1,16 @@
 ---
 title: "Hugo踩坑指南"
 date: 2021-05-12T21:17:53+08:00
-lastmod: 2021-05-13T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Hugo Bug汇总"
+description: "Hugo部署中遇到的Bug汇总。"
+upd: "Hugo部署中遇到的Bug汇总。"
 
 tags: [Blog, Hugo]
 categories: ["Hugo博客搭建"]
 ---
+
+<!--more-->
 
 ## Failed to render pages
 

@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Crypto"
+date: 2022-06-02T00:04:47+08:00
 draft: true
 
 description: ""
@@ -10,3 +10,4 @@ tags: []
 categories: []
 ---
 
+<!--more-->
