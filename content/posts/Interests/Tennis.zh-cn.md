@@ -3,13 +3,12 @@ title: "网球学习记录"
 date: 2022-05-03T21:17:53+08:00
 draft: false
 
-description: ""
+description: "本文记录了网球学习中遇到的一些问题，包括握拍、球拍选择、比赛信息等。"
+upd: "本文记录了网球学习中遇到的一些问题，包括握拍、球拍选择、比赛信息等。"
 
 tags: ["兴趣"]
 categories: []
 ---
-
-本文记录了网球学习中遇到的一些问题，包括握拍、球拍选择、比赛信息等。
 
 <!--more-->
 
@@ -117,5 +116,3 @@ Wilson Pro Staff
 - 比分直播（比视频直播更快）
 
 [Roland-Garros - The 2022 Roland-Garros Tournament official site (rolandgarros.com)](https://www.rolandgarros.com/en-us/)
-
-## 
