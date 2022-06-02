@@ -1,12 +1,12 @@
 ---
-title: "How to Write a Proposal"
+title: "研究计划/研究设计/Proposal怎么写"
 date: 2022-05-04T21:17:53+08:00
 draft: false
 
-description: "Some guides about Proposal."
-upd: "Some guides about Proposal."
+description: "关于研究计划/研究设计/Proposal的写作指南。"
+upd: "关于研究计划/研究设计/Proposal的写作指南。"
 
-tags: ["Application"]
+tags: []
 categories: []
 ---
 
