@@ -4,11 +4,10 @@ date: 2022-05-04T21:17:53+08:00
 draft: false
 
 description: "Some Platforms to find RA opportunities."
-upd: "Some Platforms to find RA opportunities.."
+upd: "Some Platforms to find RA opportunities."
 
 tags: []
 categories: []
-
 ---
 
 <!--more-->

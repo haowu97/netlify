@@ -1,12 +1,28 @@
+---
+title: "关于出国读博选校的一些信息"
+date: 2022-05-04T21:17:53+08:00
+draft: false
+
+description: "出国读博选校指南，涵盖留学主要国家的相关信息。"
+upd: "出国读博选校指南，涵盖留学主要国家的相关信息。"
+
+tags: ["出国", "留学"]
+categories: []
+---
+
+<!--more-->
+
+## 院校排名
+
 [QS World University Rankings 2021: Top Global Universities | Top Universities (qschina.cn)](https://www.qschina.cn/en/university-rankings/world-university-rankings/2021)
 
 [院校管理 寄托院校库 (gter.net)](https://schools.gter.net/)
 
-[(40 封私信 / 99+ 条消息) 请问一下，北欧读博需要花很多钱吗？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/356412377)
+## 读博成本
 
 全球生活成本查询网站：[Cost of Living (numbeo.com)](https://www.numbeo.com/cost-of-living/)
 
-
+[请问一下，北欧读博需要花很多钱吗？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/356412377)
 
 ## 检索策略
 
@@ -250,8 +266,3 @@ https://samf.ku.dk/phd-skolen/
 [墨尔本大学招博士，免除全额学费，每年30,000澳元津贴 (qq.com)](https://mp.weixin.qq.com/s/xNASPDGumnZVep3kxOYPrA)
 
 2020.1.1截止
-
-## PHD
-
-6.1截止，申请材料很简单：[PhD candidate: Applied Microeconomics — AcademicTransfer](https://www.academictransfer.com/en/312045/phd-candidate-applied-microeconomics/apply/#apply)
-
