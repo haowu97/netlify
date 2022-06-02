@@ -29,6 +29,7 @@ ignoreErrors = ["error-remote-getjson"]
 [languages]
   [languages.en]
     weight = 1
+    title = "Henry"
     # language code
     languageCode = "en"
     # language name
@@ -148,7 +149,7 @@ ignoreErrors = ["error-remote-getjson"]
           # subtitle shown in home page (HTML format is supported)
           subtitle = "Whatever you do, keep practicing"
           # whether to use typeit animation for subtitle
-          typeit = false
+          typeit = true
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
@@ -341,7 +342,7 @@ ignoreErrors = ["error-remote-getjson"]
           # subtitle shown in home page (HTML format is supported)
           subtitle = "学习强国"
           # whether to use typeit animation for subtitle
-          typeit = false
+          typeit = true
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
@@ -464,7 +465,7 @@ ignoreErrors = ["error-remote-getjson"]
       post = ""
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
-      typeit = true
+      typeit = false
 
   # Footer config
   # 页面底部信息配置
@@ -876,7 +877,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Table Of Contents settings
   # 目录设置
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 4
 
 # Author config

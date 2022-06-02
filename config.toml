@@ -877,7 +877,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Table Of Contents settings
   # 目录设置
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 4
 
 # Author config
