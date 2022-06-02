@@ -3,10 +3,10 @@ title: "经济学期刊合集"
 date: 2021-03-15T09:33:39+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "国内外主要经济学期刊。"
+upd: "国内外主要经济学期刊。"
 
-tags: ['学术', '期刊']
+tags: ['学术']
 categories: []
 ---
 

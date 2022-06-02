@@ -1,7 +1,7 @@
 ---
 title: "计量经济学问题汇总"
 date: 2021-05-31T14:14:45+08:00
-draft: false
+draft: true
 
 description: ""
 upd: "计量好难啊！"
