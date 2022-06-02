@@ -89,82 +89,82 @@ Review of Finance
 
 一流期刊（12）A
 
-Economic Journal
-Games and Economic Behavior
-International Economic Review
-Journal of Econometrics
-Journal of Economic Theory
-Journal of Finance
-Journal of Labor Economics
-Journal of Monetary Economics
-Rand Journal of Economics
-Review of Economics and Statistics
-Journal of Financial Economics
-Review of Financial Studies
+- Economic Journal
+- Games and Economic Behavior
+- International Economic Review
+- Journal of Econometrics
+- Journal of Economic Theory
+- Journal of Finance
+- Journal of Labor Economics
+- Journal of Monetary Economics
+- Rand Journal of Economics
+- Review of Economics and Statistics
+- Journal of Financial Economics
+- Review of Financial Studies
 
 二流期刊（34）B
 
-American Journal of Agricultural Economics
-AEA Papers and Proceedings
-Brookings Papers on Economic Activity
-Econometric Theory
-Economic Theory
-European Economic Review
-Journal of Applied Econometrics
-Journal of Business and Economic Statistics
-Journal of Comparative Economics
-Journal of Development Economics
-Journal of Economic Behavior and Organization
-Journal of Economic Dynamics and Control
-Journal of Economic Education
-Journal of Economic Growth
-Journal of Economic History
-Journal of Economic Perspective
-Journal of Economics and Management Strategy
-Journal of Environmental Economics and Management
-Journal of Experimental Economics
-Journal of Health Economics
-Journal of Human Resources
-Journal of Industrial Economics
-Journal of International Economics
-Journal of Law and Economics
-Journal of Mathematical Economics
-Journal of Money, Banking and Credit
-Journal of Population Economics
-Journal of Public Economics
-Journal of Real Estate Economics and Finance
-Journal of Regulatory Economics
-Journal of Risk and Uncertainty
-Journal of Urban Economics
-Social Choice and Welfare
-Review of Economic Dynamics
+- American Journal of Agricultural Economics
+- AEA Papers and Proceedings
+- Brookings Papers on Economic Activity
+- Econometric Theory
+- Economic Theory
+- European Economic Review
+- Journal of Applied Econometrics
+- Journal of Business and Economic Statistics
+- Journal of Comparative Economics
+- Journal of Development Economics
+- Journal of Economic Behavior and Organization
+- Journal of Economic Dynamics and Control
+- Journal of Economic Education
+- Journal of Economic Growth
+- Journal of Economic History
+- Journal of Economic Perspective
+    Journal of Economics and Management Strategy
+- Journal of Environmental Economics and Management
+- Journal of Experimental Economics
+- Journal of Health Economics
+- Journal of Human Resources
+- Journal of Industrial Economics
+- Journal of International Economics
+- Journal of Law and Economics
+- Journal of Mathematical Economics
+- Journal of Money, Banking and Credit
+- Journal of Population Economics
+- Journal of Public Economics
+- Journal of Real Estate Economics and Finance
+- Journal of Regulatory Economics
+- Journal of Risk and Uncertainty
+- Journal of Urban Economics
+- Social Choice and Welfare
+- Review of Economic Dynamics
 
 三流期刊（27）C
 
-Canadian Journal of Economics
-China Economic Review
-Econometric Journal
-Economic inquiry
-Economica
-Economic Development and Cultural Change
-Economics Letters
-Economics of Transition
-Health economics
-Industrial & labor relations review
-International Journal of Game Theory
-International Journal of Industrial Organization
-Journal of agricultural economics
-Journal of institutional & theoretical economics
-Journal of law, economics & organization
-Journal of regional science
-Journal of transport economics & policy
-Land economics
-Mathematical Social Sciences
-National Tax Journal
-Oxford Bulletin of Economics and Statistics
-Oxford economics papers
-Public Choice
-Review of Economic Design
-Review of Income and Wealth
-Scandinavian Journal of Economics
-Southern Economic Journal
+- Canadian Journal of Economics
+- China Economic Review
+- Econometric Journal
+- Economic inquiry
+- Economica
+- Economic Development and Cultural Change
+- Economics Letters
+- Economics of Transition
+- Health economics
+- Industrial & labor relations review
+- International Journal of Game Theory
+- International Journal of Industrial Organization
+- Journal of agricultural economics
+- Journal of institutional & theoretical economics
+- Journal of law, economics & organization
+- Journal of regional science
+- Journal of transport economics & policy
+- Land economics
+- Mathematical Social Sciences
+- National Tax Journal
+- Oxford Bulletin of Economics and Statistics
+- Oxford economics papers
+- Public Choice
+- Review of Economic Design
+- Review of Income and Wealth
+- Scandinavian Journal of Economics
+- Southern Economic Journal
