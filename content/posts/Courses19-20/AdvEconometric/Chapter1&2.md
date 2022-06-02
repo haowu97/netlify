@@ -1,3 +1,18 @@
+---
+title: "经典线性回归模型"
+date: 2021-03-10T21:17:53+08:00
+draft: false
+
+description: "经典线性回归模型：假设、估计量性质、检验与应用。"
+upd: "经典线性回归模型：假设、估计量性质、检验与应用。"
+
+tags: ['笔记']
+categories: ['计量经济学']
+
+---
+
+<!--more-->
+
 # 1. General Regression Analysis
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223329.png)
@@ -12,7 +27,7 @@ Hausman检验可以用来检验设否正确设定
 
 当假定$u$服从正太分布时，$E(xu)=0$与$E(u|X)=0$等价
 
-<img src="https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223348.png" alt="image-20200218095533580" style="zoom:67%;" />
+![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223348.png)
 $$
 \operatorname{MSE}_{T}(\theta)=\operatorname{Var}_{\theta}(T)+\left[B_{T}(\theta)\right]^{2}
 $$
@@ -68,7 +83,7 @@ E(X \varepsilon) &=E[X E(\varepsilon | X)] \\
 $$
 事实上 ，$E[\varepsilon h(X)]=0$ (对于任一的可测函数$h(·)$)与$E(\varepsilon |X)=0$等价。这说明即使用非线性的模型，也无法改进预测效果。
 
-### 附录
+#### 附录
 
 **引理：重复期望法则**(Law of Iterated Expectations, LIE)，对给定可测函数$G(X,Y)$，假设期望$E[G(X,Y)]$存在，则
 
@@ -86,11 +101,6 @@ If $J$ contains more information than $I$, similarly, we have
 $$
 E(Y|I) = E[E(Y|J)|I]
 $$
-
-
-
-
-
 
 **定理**：条件均值$E(Y|X)$是下列问题的最优解
 $$
@@ -215,11 +225,7 @@ $$
 $$
 定理：如果模型正确设定$\beta^ * \overset{模型正确设定}{=} \beta ^o$ 
 
-
-
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223634.png)
-
-
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223643.png)
 
@@ -629,8 +635,6 @@ $R^2$在时序数据中往往较高（滞后项对当前项解释力较强），
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611224305.png)
 
-
-
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611224317.png) 
 
 幂等矩阵的特征值只能是1或者0
@@ -756,7 +760,6 @@ Chow Test
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611225036.png)
 
 ## 2.9 广义最小二乘估计GLS
-
 
 
 
