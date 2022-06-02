@@ -47,11 +47,13 @@ xxxxxx
 Hi Professor xxx :
 
 Thank you for reading!
+
 I am a third-year  undergraduate  at xxx University, China.
+
 My research is focused on xxx. I have recently read your paper: " xxxxx". The  work was so interesting and it was attractive to me.
 I am wondering if you could kindly send me the source program, dataset and the necessary information about it. I promise they will be used only for research purposed.
 
- Thank you very much for your kind consideration and I am looking forward to your early reply.
+Thank you very much for your kind consideration and I am looking forward to your early reply.
 
 All the best,
 
@@ -63,22 +65,29 @@ xxx
 
 Dear Prof. (Dr.) XXX (作者名），
 
- I am XXXX, a graduate (doctoral) student in XXXX University in China. My major is XXX (你的专业）.
- I am very interested in your recently publication: XXXXX (文章名), published in xXXXX （杂志名）， XXX年。But I have no access to this paper, so would you please mail me a PDF file of this paper?
- My e-mail address is :XX@XXXXXX.
- if you have no PDF file of this paper, would you please mail me a copy via air mail.
- Sincerely yours,
+I am XXXX, a graduate (doctoral) student in XXXX University in China. My major is XXX (你的专业）.
 
- XXXXXXX
+I am very interested in your recently publication: XXXXX (文章名), published in xXXXX （杂志名）， XXX年。But I have no access to this paper, so would you please mail me a PDF file of this paper?
+
+My e-mail address is :XX@XXXXXX.
+
+if you have no PDF file of this paper, would you please mail me a copy via air mail.
+
+Sincerely yours,
+
+XXXXXXX
 
 ---
 
 模板4
 
- Dear Dr. （注：国外作者无论其是教授还是其他什么职务，如果有博士学位，他更愿意别人称他为博士），
- I am interested in your paper entiltled "------" (Journal name, Vol, Page ). I would be very grateful if you could send me a copy in PDF or word document on my e-mail box. Thank you!
- Regards,
- Name,
+Dear Dr. （注：国外作者无论其是教授还是其他什么职务，如果有博士学位，他更愿意别人称他为博士），
+
+I am interested in your paper entiltled "------" (Journal name, Vol, Page ). I would be very grateful if you could send me a copy in PDF or word document on my e-mail box. Thank you!
+
+Regards,
+
+Name,
 
 ---
 
@@ -98,30 +107,43 @@ I would like to be able to read the full text of this article,but I have no acce
 
 模板1
 
- Dear______,
+Dear______,
 
- Thank you very much for your help. I have received the requested article. Your kind help is very much appreciated. Thank you again for your consideration. Yours sincerely  XXX
+Thank you very much for your help. I have received the requested article. Your kind help is very much appreciated. Thank you again for your consideration. 
+
+Yours sincerely 
+
+XXX
 
 ---
 
 模板2 
 
 Dear Prof. XXX:
- I am XXX, a graduate student in Graduate University of Chinese Academy of Sciences in China. My major is Meteorology.
- I am very interested in your recently publication Tropical cyclones and permanent El Nio in the early Pliocene epoch published in Nature on Feb 25th  2010. I find it may help me achieve my goals in this research field. But I have no access to the full text of  this article, so would you please mail me a PDF file of this paper by e-mail?       My e-mail address is （自己邮箱）
 
- Thank you for your kind consideration of this request.
- Yours sincerely
- XXX
- Apr 24th,2010
+I am XXX, a graduate student in Graduate University of Chinese Academy of Sciences in China. My major is Meteorology.
+
+I am very interested in your recently publication Tropical cyclones and permanent El Nio in the early Pliocene epoch published in Nature on Feb 25th  2010. I find it may help me achieve my goals in this research field. But I have no access to the full text of  this article, so would you please mail me a PDF file of this paper by e-mail?       My e-mail address is （自己邮箱）
+
+Thank you for your kind consideration of this request.
+
+Yours sincerely
+
+XXX
+
+Apr 24th,2010
 
 ---
 
 模板4
 
- Dear Prof.XXX:
- Thank you very much for your help. I have received the requested article: Tropical cyclones and permanent El Ni?o in the early Pliocene epoch.Your kind help is very much appreciated. Thank you again for your consideration.
- Yours sincerely
- XXX（自己名字）
- Apr 29th,2010
+Dear Prof.XXX:
+
+Thank you very much for your help. I have received the requested article: Tropical cyclones and permanent El Ni?o in the early Pliocene epoch.Your kind help is very much appreciated. Thank you again for your consideration.
+
+Yours sincerely
+
+XXX（自己名字）
+
+Apr 29th,2010
 
