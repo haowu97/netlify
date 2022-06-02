@@ -32,7 +32,7 @@ $$
 \operatorname{MSE}_{T}(\theta)=\operatorname{Var}_{\theta}(T)+\left[B_{T}(\theta)\right]^{2}
 $$
 
-<img src="https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223530.png" alt="image-20200218113301756" style="zoom:67%;" />
+![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200611223530.png)
 
 ### 1.1 回归本质在估计$E(Y|X) $
 
