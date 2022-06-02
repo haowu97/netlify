@@ -1,12 +1,23 @@
-### Outline
+---
+title: "Chapter1-3 Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
+date: 2020-04-01T14:14:45+08:00
+draft: false
 
-Game theory (MWG Chapter 7,8,9)： Game theory basic concepts, Nash equilibrium, strategic-form game, extensive-form game, Bayesian game. 
+description: "Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
+upd: "Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
 
-Information economics (MWG Chapter 13, 14) Incomplete information game, adverse selection, moral hazard. 
+tags: ["Notes"]
+categories: ["Advanced Microeconomics"]
+---
 
-Mechanism design (MWG Chapter 23) Mechanism design theory, auction and revenue maximizing mechanism. (the most challenging part!) 
+<!--more-->
 
-Social choice (MWG Chapter 21) Social choice theory, collective decision and welfare.
+Outline:
+
+- Game theory (MWG Chapter 7,8,9)： Game theory basic concepts, Nash equilibrium, strategic-form game, extensive-form game, Bayesian game. 
+- Information economics (MWG Chapter 13, 14) Incomplete information game, adverse selection, moral hazard. 
+- Mechanism design (MWG Chapter 23) Mechanism design theory, auction and revenue maximizing mechanism. (the most challenging part!) 
+- Social choice (MWG Chapter 21) Social choice theory, collective decision and welfare.
 
 # 1. Basic Element
 
@@ -158,7 +169,7 @@ where $S = S_1 \times\dots\times S_I$
 
 # 2. Simultaneous Move Games
 
-## 2.1 严格占优策略
+## 2.1 Strictly Dominant Strategy
 
 A strategy $s_{i} \in S_{i}$ is a **strictly dominant strategy** for player $i$ in game $\Gamma_{N}=\left[l,\left\{S_{i}\right\},\left\{u_{i}(\cdot)\right\}\right]$ if **for all** $s_{i}^{\prime} \neq s_{i},$ we have $u_{i}\left(s_{i}, s_{-i}\right)>u_{i}\left(s_{i}^{\prime}, s_{-i}\right)$ for all $s_{-i} \in S_{-i}$
 
