@@ -10,6 +10,8 @@ tags: ['笔记']
 categories: ['概率论与数理统计']
 ---
 
+<!--more-->
+
 # PDF版
 
 [标准正态分布表](https://www.wuhao.ink/DistributionTable/StandardNormal.pdf)

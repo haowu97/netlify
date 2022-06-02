@@ -3,8 +3,8 @@ title: "Common Probability Distributions and Sample Distributions"
 date: 2021-05-25T17:38:51+08:00
 draft: false
 
-description: "Common Probability Distribution and Sample Distribution"
-upd: "Common Probability Distribution and Sample Distribution"
+description: "Common Probability Distribution and Sample Distribution."
+upd: "Common Probability Distribution and Sample Distribution."
 
 tags: ['Notes']
 categories: ['Probability and Statistic']
