@@ -49,6 +49,6 @@ categories: []
 
 [Research / Project Posts | Human Resources Office (polyu.edu.hk)](https://www.polyu.edu.hk/hro/careers/external_adv/research/?keyword=finance)
 
-[research assistant, Education : General / Others Jobs, Research Jobs - May 2022 | 56 jobs matched | CTgoodjobs](https://www.ctgoodjobs.hk/ctjob/listing/joblist.asp?keywordForQuickSearch=research assistant&fulltext=JC&job_area=464,170&page=1)
+[research assistant, Education : General / Others Jobs, Research Jobs - May 2022 | 56 jobs matched | CTgoodjobs](https://www.ctgoodjobs.hk/ctjob/listing/joblist.asp?keywordForQuickSearch=research%20assistant&fulltext=JC&job_area=464,170&page=1)
 
-[Education jobs in Hong Kong - May 2022 | JobsDB](https://hk.jobsdb.com/hk/jobs/education/1?Key=research assistant)
+[Education jobs in Hong Kong - May 2022 | JobsDB](https://hk.jobsdb.com/hk/jobs/education/1?Key=research%20assistant)

@@ -251,10 +251,6 @@ https://samf.ku.dk/phd-skolen/
 
 2020.1.1截止
 
-
-
-
-
 ## PHD
 
 6.1截止，申请材料很简单：[PhD candidate: Applied Microeconomics — AcademicTransfer](https://www.academictransfer.com/en/312045/phd-candidate-applied-microeconomics/apply/#apply)
