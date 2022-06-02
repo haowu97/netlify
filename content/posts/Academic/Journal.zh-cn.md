@@ -41,7 +41,7 @@ Finance Top4
 3. Journal of Financial and Quantitative Analysis
 4. Review of Financial Studies: https://academic.oup.com/rfs/issue/33/11
 
-国内 经济与管理 top： https://navi.cnki.net/KNavi/Journal.html#
+国内经济与管理 top： https://navi.cnki.net/KNavi/Journal.html#
 
 - 经济研究
 - 中国社会科学
@@ -55,7 +55,7 @@ Finance Top4
 - 数量与技术经济
 - 金融研究: https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=JRYJ
 
-**英文较好期刊**
+英文较好期刊
 
 Financial Management
 
@@ -77,7 +77,7 @@ Journal of Empirical Finance
 
 Review of Finance
 
-
+## 英文期刊分级
 
 顶尖期刊（5）A+
 
