@@ -1,4 +1,16 @@
-# A1 Optimization
+---
+title: "Appendix Optimization"
+date: 2020-04-01T14:14:45+08:00
+draft: false
+
+description: "Advanced Microeconomics: Optimization"
+upd: "Advanced Microeconomics: Optimization"
+
+tags: ["Notes"]
+categories: ["Advanced Microeconomics"]
+---
+
+<!--more-->
 
 ## 1.1 Unconstrained Optimization 
 
