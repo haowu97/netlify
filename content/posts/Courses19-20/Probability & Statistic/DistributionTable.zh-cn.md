@@ -1,18 +1,16 @@
 ---
-title: "分布表"
+title: "主要分布表：标准正态分布，Student T分布，F分布等"
 date: 2021-05-25T17:38:51+08:00
-lastmod: 2021-05-26T17:38:51+08:00
-
 draft: false
 
-description: ""
-upd: "正态分布"
+description: "标准正态分布表，Student T分布表，F分布表，卡方分布表，Durbin-Watson统计量。"
+upd: "标准正态分布表，Student T分布表，F分布表，卡方分布表，Durbin-Watson统计量。"
 
 tags: ['笔记']
 categories: ['概率论与数理统计']
 ---
 
-## PDF版
+# PDF版
 
 [标准正态分布表](https://www.wuhao.ink/DistributionTable/StandardNormal.pdf)
 
@@ -31,7 +29,7 @@ categories: ['概率论与数理统计']
 1. [附 录 (ustc.edu.cn)](http://staff.ustc.edu.cn/~jbs/applex3.pdf)
 2. [Stata: 快速呈现常用分布临界值表 - 简书 (jianshu.com)](https://www.jianshu.com/p/e3cfc559eaa2)
 
-## 图片版
+# 图片版
 
 图片版不完整，详细请参考PDF版。
 
