@@ -1,5 +1,5 @@
 ---
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113237.png)![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113034.png)title: "Chapter1-3 Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
+title: "Chapter1-3 Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
 date: 2020-04-01T14:14:45+08:00
 draft: false
 
