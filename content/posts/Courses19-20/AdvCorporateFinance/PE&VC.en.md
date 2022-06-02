@@ -3,8 +3,8 @@ title: "Private Equity & Venture Capital"
 date: 2021-03-17T21:17:53+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Private equity is illiquid, ownership is concentrated, valuation is difficult, intermediaries tend to be small, finance is accompanied by control and mentoring."
+upd: "Private equity is illiquid, ownership is concentrated, valuation is difficult, intermediaries tend to be small, finance is accompanied by control and mentoring."
 
 tags: ['Notes']
 categories: ['Corporate Finance']
