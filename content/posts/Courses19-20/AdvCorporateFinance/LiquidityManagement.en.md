@@ -1,17 +1,16 @@
 ---
 title: "Liquidity Management"
 date: 2021-03-17T21:17:53+08:00
-lastmod: 2021-03-18T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Many CFOs consider decisions about corporate liquidity to be among the most important decisions they make; to a large extent, they view their job as being able to find a way to fund investments proposed by the CEO"
+description: "Many CFOs consider decisions about corporate liquidity to be among the most important decisions they make; to a large extent, they view their job as being able to find a way to fund investments proposed by the CEO."
+upd: "Many CFOs consider decisions about corporate liquidity to be among the most important decisions they make; to a large extent, they view their job as being able to find a way to fund investments proposed by the CEO."
 
 tags: ['Notes']
 categories: ['Corporate Finance']
-
-math: true
 ---
+
+<!--more-->
 
 Keynes(1936)General Theory
 
