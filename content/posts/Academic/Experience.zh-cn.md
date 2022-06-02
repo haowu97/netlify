@@ -1,3 +1,17 @@
+---
+title: "Experience"
+date: 2022-06-02T09:54:05+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: []
+categories: []
+---
+
+<!--more-->
+
 [谷歌学术高级搜索技巧大放送 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/345830168)
 
 [经济研究经验、资料Public Goods (christinecai.github.io)](https://christinecai.github.io/items/PublicGoods.html)
@@ -29,11 +43,3 @@
 - 股价波动率；
 - 债券收益率；
 - CDS spread(只在美国有)
-
-
-
-论文翻译工具：
-
-DeepL
-
-图书馆官网

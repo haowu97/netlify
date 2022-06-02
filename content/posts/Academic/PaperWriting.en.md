@@ -1,21 +1,18 @@
 ---
-title: "Paper Structure"
+title: "Corporate Finance Paper Structure"
 date: 2021-04-01T14:14:45+08:00
-lastmod: 2021-04-02T14:14:45+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Some issues about corporate finance paper writing."
+upd: "Some issues about corporate finance paper writing."
 
 tags: ["Academic"]
 categories: []
 ---
 
-Title
+<!--more-->
 
-Abstract
-
-Keywords
+Title, Abstract, Keywords
 
 ### Introduction
 

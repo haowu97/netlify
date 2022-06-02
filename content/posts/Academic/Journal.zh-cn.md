@@ -1,7 +1,6 @@
 ---
-title: "经济学期刊"
+title: "经济学期刊合集"
 date: 2021-03-15T09:33:39+08:00
-lastmod: 2021-03-16T09:33:39+08:00
 draft: false
 
 description: ""
@@ -10,6 +9,8 @@ upd: ""
 tags: ['学术', '期刊']
 categories: []
 ---
+
+<!--more-->
 
 很棒的期刊查询网站[iJournal](https://ijournal.topeditsci.com/home)。
 
