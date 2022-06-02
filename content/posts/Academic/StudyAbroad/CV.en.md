@@ -3,8 +3,8 @@ title: "How to Write a Curriculum Vitae (CV)"
 date: 2022-05-04T21:17:53+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Some guides about Curriculum Vitae (CV)."
+upd: "Some guides about Curriculum Vitae (CV)."
 
 tags: ["Application"]
 categories: []
