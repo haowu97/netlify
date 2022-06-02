@@ -1,15 +1,16 @@
 ---
 title: "CSC公派指南"
 date: 2021-05-07T14:14:45+08:00
-lastmod: 2021-05-08T14:14:45+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "关于公派留学的一些信息。"
+upd: "关于公派留学的一些信息。"
 
 tags: ['出国', '读博']
 categories: []
 ---
+
+<!--more-->
 
 CSC是出国读博的主流，相当于给国外导师免费提供劳动力，因此受到国外导师的欢迎。
 
