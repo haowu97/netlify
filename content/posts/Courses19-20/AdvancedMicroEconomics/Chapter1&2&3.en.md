@@ -1,5 +1,5 @@
 ---
-title: "Chapter1-3 Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113237.png)![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113034.png)title: "Chapter1-3 Game theory: Basic Element, Simultaneous Move Games, Dynamic Games"
 date: 2020-04-01T14:14:45+08:00
 draft: false
 
@@ -194,7 +194,7 @@ $$\begin{aligned}
 
 Iterated Deletion of Strictly Dominated Strategies
 
-![](https://upload-images.jianshu.io/upload_images/20447423-58f0b16fe45115eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602112811.png)
 
 **A reasoning process**, the logic of which depends on each player being rational, knowing his/her opponent being rational, knowing that his/her opponent knows that oneself being rational, ..., and so on.
 
@@ -210,7 +210,7 @@ if players believe that any strategies of their rivals will be played with some 
 
  **Order** does not matter in iterated deletion of strictly dominated strategies, but it does matter for iterated deletion of weakly dominated strategies. An example.(因此并不建议采用)
 
-![](https://upload-images.jianshu.io/upload_images/20447423-ea9e94f077e98ad6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602112838.png)
 
 ## 2.4 纳什均衡
 
@@ -258,9 +258,9 @@ Let $S_{i}^{+} \subset S_{i}$ denote the set of pure strategies that player i pl
 
 A strictly dominated pure strategy is not used with positive probability in any mixed strategy Nash equilibrium.（对劣策略不成立）
 
-![](https://upload-images.jianshu.io/upload_images/20447423-01d3f71726731af9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602112901.png)
 
-![](https://upload-images.jianshu.io/upload_images/20447423-a6679c890b2f0e61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602112919.png)
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed/Figs/20200513095506.png)
 
@@ -418,7 +418,7 @@ Discontinuous functions with a “jump” of value may not have a maximum
 
 Best-Response Correspondences and Equilibrium
 
-![](https://upload-images.jianshu.io/upload_images/20447423-e81484df11ab0521.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113034.png)
 
 ### 2.5.3 Hotelling’s Model
 
@@ -444,7 +444,7 @@ B_{1}\left(x_{2}\right)=\left\{\begin{array}{ll}
 \left(1-x_{2}, x_{2}\right), & \text { if } x_{2}>\frac{1}{2}
 \end{array}\right.
 $$
-![](https://upload-images.jianshu.io/upload_images/20447423-2c541b04ea8b065f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113059.png)
 
 ## 2.6 Incomplete Information and Bayesian Nash Equilibrium
 
@@ -551,7 +551,7 @@ Subgame perfection and backward induction: for **finite games of perfect informa
 
 Furthermore, if no player has the same payoffs at any two terminal nodes, then there is a **unique subgame perfect Nash equilibrium**.
 
-![](https://upload-images.jianshu.io/upload_images/20447423-22736387d6e91b5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113129.png)
 
 ## 3.3 Application
 
@@ -634,9 +634,9 @@ Anticipating this, Player 1 must offer Player 2 an amount $12-x \geq 4$ in perio
 
 let’s suppose the Prisoner’s dilemma will be played twice
 
-![](https://upload-images.jianshu.io/upload_images/20447423-c6859aa44b65ae64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113145.png)
 
-![](https://upload-images.jianshu.io/upload_images/20447423-b81ac02ace8134a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113157.png)
 
 In sum, **the only SPNE** of this two-period repeated PD game is for both players to choose D in the first-period and choose D in the second period no matter which first-period outcome they observe.
 
@@ -648,7 +648,7 @@ In sum, **the only SPNE** of this two-period repeated PD game is for both player
 
 eg: **credible future punishments**
 
-![](https://upload-images.jianshu.io/upload_images/20447423-7173658fa2916900.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113209.png)
 
 Intuition: since the stage-game has two Nash equilibria, one can use the worse one as punishment.it is indeed a SPNE
 
@@ -688,7 +688,7 @@ One way to maintain cooperation is to use **Trigger strategies**: A player using
 
 A **Grim-trigger strategy** prescribes the following choices at each possible history: play C in the first period. In later periods, keep playing C if the previous outcome is (C,C); otherwise, switch to playing D forever.
 
-![](https://upload-images.jianshu.io/upload_images/20447423-c6859aa44b65ae64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113222.png)
 
 If both players use the grim-trigger strategy, it's easy to check that both will cooperate forever as long as the discount factor $\delta$ is sufficiently large.
 
@@ -736,4 +736,4 @@ As long as $\delta \in(1 / 4,1)$ - player 1 is sufficiently patient - she will h
 
 **Any outcome** that on average yields the mutual defection payoff or better for both players can be sustained as a subgame perfect Nash equilibrium of the infinitely repeated Prisoner’s Dilemma game.
 
-![](https://upload-images.jianshu.io/upload_images/20447423-735f91c78208be57.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220602113237.png)
