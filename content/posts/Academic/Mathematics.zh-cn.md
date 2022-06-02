@@ -1,8 +1,7 @@
 ---
 title: "经济数学"
 date: 2021-03-24T16:55:26+08:00
-lastmod: 2021-03-24T16:55:26+08:00
-draft: false
+draft: true
 
 description: ""
 upd: "今天有认真学习吗？"
@@ -10,8 +9,6 @@ upd: "今天有认真学习吗？"
 tags: ['学术', '学习', '数学']
 categories: []
 ---
-
-
 
 贝尔曼方程(Bellman Equation)
 

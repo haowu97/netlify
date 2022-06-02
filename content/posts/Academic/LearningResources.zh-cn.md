@@ -1,7 +1,7 @@
 ---
 title: "学习资源推荐"
 date: 2021-02-26T19:42:07+08:00
-draft: false
+draft: true
 
 description: ""
 upd: "今天有认真学习吗？"
