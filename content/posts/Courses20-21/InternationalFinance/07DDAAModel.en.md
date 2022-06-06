@@ -1,17 +1,16 @@
 ---
-title: "National income, exchange rate, earnings growth and stock markets"
+title: "Chapter7 National income, exchange rate, earnings growth and stock markets"
 date: 2021-08-03T21:17:53+08:00
-lastmod: 2021-08-04T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "DD-AA model, the J-curve"
+description: "DD-AA model, the J-curve."
+upd: "DD-AA model, the J-curve."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 Preview
 
@@ -85,7 +84,7 @@ where aggregate demand is a function of the real exchange rate, disposable incom
 
 In the short run, output settles ate Y1 (point 1), where aggregate demand, D1, equals aggregate output Y1. 
 
-![image-20211125230113447](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/ADEquilibruim.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/ADEquilibruim.png)
 
 ## 2. Short-run equilibrium analysis (open economy)
 
@@ -142,7 +141,7 @@ When income and production increase,
 
 The inverse relationship between output and exchange rates needed to keep the foreign exchange markets and the money market in equilibrium is summarized as the AA curve.
 
-![image-20211125232451273](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/AAcurve.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/AAcurve.png)
 
 Shifting the AA curve
 
@@ -167,7 +166,7 @@ A short-run equilibrium occurs at the intersection of the DD and AA curves:
 
 The short-run equilibrium of the economy occurs at point 1, where the output market (whose equilibrium points are summarized by the DD curve) and the asset market (whose equilibrium points are summarized by the AA curve) simultaneously clear.
 
-![image-20211125232842563](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/DDAAmodel.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/DDAAmodel.png)
 
 Imagine the economy is instead at point 2, where both the output and asset markets are out of equilibrium. 
 
@@ -199,7 +198,7 @@ An increase in government purchases or a decrease in taxes increases aggregate d
 
 By shifting DD1 to the right, *a temporary fiscal expansion causes a currency appreciation and a rise in output*.
 
-![image-20211125233450966](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FiscalPolicyDDAA.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FiscalPolicyDDAA.png)
 
 ### 3.3 Policies to maintain full employment
 
@@ -224,7 +223,7 @@ After a temporary money demand increase (shown by the shift from AA1 to AA2), ei
 
 The two policies have different exchange rate effects: The monetary policy restores the exchange rate back to E1, whereas the fiscal policy leads to greater appreciation (E3).
 
-![image-20211125234019905](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20211125234022.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20211125234022.png)
 
 Policies to maintain full employment may seem easy in theory, but are hard in practice.
 

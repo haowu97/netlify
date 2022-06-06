@@ -1,17 +1,16 @@
 ---
-title: "Price Levels and the Exchange Rate in the Long Run"
+title: "Chapter6 Price Levels and the Exchange Rate in the Long Run"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Law of One Price, Purchasing power parity, Monetary Approach to Exchange Rates"
+description: "Law of One Price, Purchasing power parity, Monetary Approach to Exchange Rates."
+upd: "Law of One Price, Purchasing power parity, Monetary Approach to Exchange Rates."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 In the long run models, because prices are allowed to change, they will influence interest rates and exchange rates.
 

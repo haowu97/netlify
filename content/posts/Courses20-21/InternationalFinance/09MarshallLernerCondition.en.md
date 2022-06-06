@@ -1,17 +1,16 @@
 ---
-title: "The Foreign Exchange Market and Trade Elasticities"
+title: "Chapter9 The Foreign Exchange Market and Trade Elasticities"
 date: 2021-08-06T21:17:53+08:00
-lastmod: 2021-08-07T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Marshall-Lerner-Condition, J-curve"
+description: "Marshall-Lerner-Condition, J-curve."
+upd: "Marshall-Lerner-Condition, J-curve."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 ## Marshall-Lerner Condition
 
@@ -167,9 +166,3 @@ In the *short run the Marshal Learner condition is not fullfilled* because:
 1. In the 1930s exchange rates were highly volatile
 2. Volumes of imports and exports are fixed by long term contracts
 3. Price elasticity of supply and demand usually rises over time
-
-
-
-
-
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210804050129115.png)

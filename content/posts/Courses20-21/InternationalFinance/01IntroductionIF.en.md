@@ -1,17 +1,16 @@
 ---
 title: "Introduction"
 date: 2021-04-28T21:17:53+08:00
-lastmod: 2021-04-29T21:17:53+08:00
 draft: false
 
-description: ""
+description: "international finance v.s. international trade"
 upd: "international finance v.s. international trade"
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 International economy can be divided into two broad subfields:
 

@@ -1,17 +1,16 @@
 ---
-title: "National Income and the Trade Balance: the Keynesian Model"
+title: "Chapter8 National Income and the Trade Balance: the Keynesian Model"
 date: 2021-08-05T21:17:53+08:00
-lastmod: 2021-08-06T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Open Country Keynesian Model, IS-LM curve, Crowding-out effect"
+description: "Open Country Keynesian Model, IS-LM curve, Crowding-out effect."
+upd: "Open Country Keynesian Model, IS-LM curve, Crowding-out effect."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 ## The Small Open Country Keynesian Model (“SMOC”)
 

@@ -1,17 +1,16 @@
 ---
-title: "National Income Accounting and the Balance of Payments"
+title: "Chapter2 National Income Accounting and the Balance of Payments"
 date: 2021-07-27T21:17:53+08:00
-lastmod: 2021-07-28T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "GDP, GNP, BoP, Capital outflow, saving"
+description: "GDP, GNP, BoP, Capital outflow, saving."
+upd: "GDP, GNP, BoP, Capital outflow, saving."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 The two concepts in international macroeconomics are particularly important: 
 
@@ -68,7 +67,7 @@ When *production (Y) < domestic expenditure (C+I+G)*, EX < IM: CA < 0 and trade 
 - **net foreign wealth is decreasing**
 - then country has **current account deficit**
 
-$CA$​​ can also be expressed as $NX$​​(Net export).
+$CA$  can also be expressed as $NX$ (Net export).
 
 ### Saving and the Current Account
 
@@ -128,7 +127,7 @@ $$
 S^{p}=I+C A-S^{g}=I+C A+G-T
 $$
 
-The above equation can be interpreted as follows: P*rivate savings increases when government runs a budget deficit* ($\mathrm{G}-\mathrm{T}>0$​​ implies a government budget deficit).
+The above equation can be interpreted as follows: P*rivate savings increases when government runs a budget deficit* ($\mathrm{G}-\mathrm{T}>0$ implies a government budget deficit).
 
 ## Balance of Payments Accounts
 

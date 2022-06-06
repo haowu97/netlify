@@ -1,17 +1,16 @@
 ---
-title: "Money, Interest Rates, and Exchange Rates"
+title: "Chapter5 Money, Interest Rates, and Exchange Rates"
 date: 2021-08-01T21:17:53+08:00
-lastmod: 2021-08-02T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Interest rate parity, Exchange Rate Overshooting"
+description: "Interest rate parity, Exchange Rate Overshooting."
+upd: "Interest rate parity, Exchange Rate Overshooting."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 ## Money Defined: A Brief Review
 

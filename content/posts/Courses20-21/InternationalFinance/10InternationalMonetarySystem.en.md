@@ -1,17 +1,16 @@
 ---
-title: "International Monetary System"
+title: "Chapter10 International Monetary System"
 date: 2021-08-03T21:17:53+08:00
-lastmod: 2021-08-04T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Trilemma, Exchange Rate Systems, A Brief History of the International Monetary System"
+description: "Trilemma, Exchange Rate Systems, A Brief History of the International Monetary System."
+upd: "Trilemma, Exchange Rate Systems, A Brief History of the International Monetary System."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 ## The Trilemma or the “Impossible Trinity”
 

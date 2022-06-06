@@ -1,17 +1,16 @@
 ---
-title: "Exchange Rate"
+title: "Chapter3 Exchange Rate"
 date: 2021-07-28T21:17:53+08:00
-lastmod: 2021-07-29T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Nominal exchange rate, Real exchange rate, Foreign Exchange Markets"
+description: "Nominal exchange rate, Real exchange rate, Foreign Exchange Markets."
+upd: "Nominal exchange rate, Real exchange rate, Foreign Exchange Markets."
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 Exchange rates play a central role in international finance.
 

@@ -1,17 +1,16 @@
 ---
-title: "Explaining Exchange Rates: An Asset Approach"
+title: "Chapter4 Explaining Exchange Rates: An Asset Approach"
 date: 2021-07-31T21:17:53+08:00
-lastmod: 2021-08-01T21:17:53+08:00
 draft: false
 
-description: ""
+description: "Interest rate parity"
 upd: "Interest rate parity"
 
 tags: ['Notes']
 categories: ['International Finance']
-
-math: true
 ---
+
+<!--more-->
 
 ## The Demand for Foreign Currency Assets
 
