@@ -1,7 +1,6 @@
 ---
 title: "Advanced Derivatives Analysis"
 date: 2021-03-04T10:30:57+08:00
-lastmod: 2021-03-05T10:30:57+08:00
 draft: true
 
 description: ""
@@ -10,6 +9,8 @@ upd: ""
 tags: []
 categories: []
 ---
+
+<!--more-->
 
 现在已有80多个品种的期货合约
 

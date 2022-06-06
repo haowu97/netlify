@@ -1,15 +1,16 @@
 ---
 title: "期权交易策略"
 date: 2021-04-01T11:07:06+08:00
-lastmod: 2021-04-12T16:07:06+08:00
 draft: false
 
-description: ""
-upd: "Delta中性，备兑交易，垂直价差，水平价差，(宽)跨式套利"
+description: "Delta中性，备兑交易，垂直价差，水平价差，(宽)跨式套利。"
+upd: "Delta中性，备兑交易，垂直价差，水平价差，(宽)跨式套利。"
 
 tags: ['笔记']
 categories: ['金融工程']
 ---
+
+<!--more-->
 
 ## 单独持有期权
 
@@ -310,11 +311,11 @@ Put-Call parity
 
 买高(strike)卖低(strike)
 
-![image-20210405161826842](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210405161828.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210405161828.png)
 
 【练习】问题：这两种策略各自最大的利润为多少？最大的亏损呢？损益平衡点？
 
-![image-20210405161701387](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210405161707.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210405161707.png)
 
 以上两种策略均属于熊市价差策略。
 
@@ -425,7 +426,7 @@ Break-even指损益平衡点，每个组合有两个损益平衡点
 
 【练习】当期权临近到期时，通常该合约对应的隐含波动率也会下降。下表中的三个空白处应该填入什么数字？
 
-![image-20210409111542747](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210409111548.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210409111548.png)
 
 *隐含波动率微笑曲线*是隐含波动率关于行权价的变化。
 
@@ -861,24 +862,11 @@ Leeson赌错了方向后出现了资金的亏损，他没有及时止损，反�
 
 而当put-call parity成立，转换套利策略的盈利刚好等于看涨与看跌期权的时间价值差(红圈内的数值)，也即无风险利率收益(考虑到资金成本，因此等价于没有收益)；当且仅当put-call parity不成立，转换/反转换套利才能获得正收益。
 
+### 领口型对冲
 
+买入标的资产+买入看跌期权+卖出看涨期权；
 
+将风险和收益控制在一定的区间内；
 
-
-
-领口型对冲
-
-买入标的资产+买入看跌期权+卖出看涨期权
-
-将风险和收益控制在一定的区间内
-
-整体组合的Delta比较稳定，适合市场行情较广
-
-
-
-
-
-对冲组合策略
-
-A股市场特点：牛熊切换快，暴涨暴跌
+整体组合的Delta比较稳定，适合市场行情较广。
 

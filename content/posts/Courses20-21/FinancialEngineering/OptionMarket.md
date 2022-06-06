@@ -1,5 +1,19 @@
-Call-put parity
+---
+title: "期权市场"
+date: 2021-03-26T11:07:06+08:00
+draft: true
 
+description: ""
+upd: ""
+
+tags: ['笔记']
+categories: ['金融工程']
+
+---
+
+<!--more-->
+
+Call-put parity
 $$
 c-p = S_0-Ke^{-rt}
 $$

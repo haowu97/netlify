@@ -1,3 +1,17 @@
+---
+title: "Hedging"
+date: 2021-03-09T16:07:06+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: ['Notes']
+categories: ['Financial Engineering']
+---
+
+<!--more-->
+
 $$
 \mathrm{h}=\sigma_{\Delta \mathrm{S} \Delta \mathrm{f}} / \sigma_{\Delta \mathrm{f}}^{2}=\operatorname{cov}(\Delta \mathrm{S}, \Delta \mathrm{f}) / \operatorname{var}(\Delta \mathrm{f})
 $$
@@ -31,4 +45,4 @@ Therefore the hedge ratio for bond is
 $$
 N_{f}^{\star}=-\left(\frac{D_{B}}{D_{f}}\right)\left(\frac{B}{f}\right)
 $$
-![image-20211027232355879](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20211027232355879.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606210413.png)
