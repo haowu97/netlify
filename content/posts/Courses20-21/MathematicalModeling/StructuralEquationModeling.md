@@ -1,20 +1,16 @@
 ---
-title: "结构方程模型"
+title: ""
+date: 2021-08-06T21:17:53+08:00
 draft: true
-output:
-  word_document:
-    toc: yes
-    toc_depth: '2'
-    keep_md: true
-  md_document:
-    toc: yes
-    toc_depth: '2'
-  html_document:
-    toc: yes
-    toc_depth: '2'
+
+description: ""
+upd: ""
+
+tags: []
+categories: []
 ---
 
-
+<!--more-->
 
 [利用R语言做结构方程模型分析](https://zhuanlan.zhihu.com/p/22811566)
 

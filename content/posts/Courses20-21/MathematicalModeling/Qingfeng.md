@@ -1,7 +1,6 @@
 ---
 title: "清风数学建模课程"
 date: 2021-03-24T16:55:26+08:00
-lastmod: 2021-03-24T16:55:26+08:00
 draft: true
 
 description: ""
@@ -10,6 +9,8 @@ upd: ""
 tags: []
 categories: []
 ---
+
+<!--more-->
 
 用户名：A119046 密码：682205 
 
