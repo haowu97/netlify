@@ -10,6 +10,8 @@ tags: ['Notes']
 categories: ['Financial Engineering']
 ---
 
+<!--more-->
+
 ## Introduction
 
 ### Option
