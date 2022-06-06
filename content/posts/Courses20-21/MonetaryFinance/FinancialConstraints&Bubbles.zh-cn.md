@@ -93,9 +93,9 @@ $$
 
 金融约束政策对泡沫的直接影响途径可以用归纳如下图，后面讲注意具体分析：
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210615234315.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607001939.png)
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210615234312.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002004.png)
 
 其它诸如上市公司通过选择上市时机，在企业高成长的阶段包装上市，借以通过高估上市后三年业绩来高溢价发行，也是中国股市泡沫原因，但不属于金融约束政策。
 

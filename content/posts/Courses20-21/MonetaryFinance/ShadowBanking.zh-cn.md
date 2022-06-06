@@ -17,7 +17,7 @@ categories: ['货币金融学']
 
 据估计，由各种衍生产品创造的流动性约占全球广义流动性的78%，为世界GDP的9.64倍；而广义货币M2仅占全球广义流动性的10%，为全球GDP 的1.22倍（图1）。从货币政策角度看，这种广义流动性不是央行所能直接控制的，这给货币政策带来巨大挑战。 
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616093416.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002901.png)
 
 中国的影子银行业务包括信托，理财，资管，资金池业务等。
 
@@ -119,7 +119,7 @@ G20 成立的金融稳定理事会（Financial Stability Board，FSB）认为，
 
 传统商业银行的表内融资模式如下图所示：
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616095720.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002926.png)
 
 影子银行的表外融资模式
 
@@ -135,7 +135,7 @@ Gorton and Metrick(2010)认为，*影子银行体系的三项核心制度*是货
 
 在美国，由于存款保险有10万美元的上限， 诸如养老基金、共同基金、州立或市立等现金富余的非金融公司没有容易进入的安全、收益性的短期投资渠道。解决这一问题的方法就是通过影子银行的表外借贷方式，见图3。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616095827.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002945.png)
 
 图3中的步骤2类似于图2的步骤A，但有一个重要区别。在图2传统的银行体系中，存款由政府承担保险。图3中步骤2为了实现类似的保护，机构投资者从银行获得抵押品。在实际操作中，这种存款一一抵押交易采取回购协议的形式：比如，存款者存了X并以抵押品的形式获得市价为X的资产；银行同意一段时间后以Y回购该资产。（Y - X)/X的比率称为“回购率”，类似于银行存款的利率。通常情况下，存款的价值小于抵押品的价值，两者之差称为“折扣( haircut)”。例如，如果某资产的市场价格为100,银行以80卖掉并承诺以88的价格回购，那么回购利率为10%(=88-80/80),折扣为20%(100-80/100)。如果银行到期违约不执行回购，那么投资者将保留抵押资产。真正将融资移至银行表外的是步骤4，<u>贷款被聚集起来并被证券化</u>。证券化的产品或是被机构投资者直接购买，或是被用于步骤2的抵押品。实际上，证券化的债券通常是为大额度的存款者提供保险的主要抵押品来源。本文认为，证券化的债券已作为一种货币形式来使用。
 
@@ -145,19 +145,19 @@ Gorton and Metrick(2010)认为，*影子银行体系的三项核心制度*是货
 
 甲行通过发行<u>以次贷为基础的CDO(担保债权凭证)及其他衍生品从市场募集资金10000元</u>，其中2000元自己持有，形成权益级的CDO资金(假设各行留存的权益资金比例都是20%) ，所募集的资金则用于购买次贷10000元。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616102150.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003005.png)
 
 然后，乙行以所购入的8000元CDO及其它衍生品Ⅰ为基础，发行CDO及其它衍生品Ⅱ募集资金8000元，其中1600元为保留的权益级CDO。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616102152.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003031.png)
 
 类似地，丙行以上述乙行CDO及其衍生品Ⅱ为基础，发行发行CDO及其它衍生品Ⅲ募集资金6400元，其中1280元为保留的权益级CDO。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616102155.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003050.png)
 
 丙行CDO及其它衍生品Ⅲ5120元将被丁影子银行作为基础进一步通过发行CDO及其它衍生品从市场募集资金……这个过程可以无限继续下去，在这个过程中，每一家影子银行都在创造信用。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210616103103.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003107.png)
 
 由表 4 可知，**若最初的次级贷款池增加** $ \Delta B $，经过影子银行系统的 $ \mathrm{n} $ 次扩张后，其资产总额增加到: $\Delta A=\Delta B \sum_{n=1}^{\infty}\left(1-r_{d}\right)^{n-1}$。
 

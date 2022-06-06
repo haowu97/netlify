@@ -32,7 +32,7 @@ categories: ['货币金融学']
 
 表1  美国货币总量的计量指标（米什金）
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210611215809.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003555.png)
 
 ### 货币乘数
 
@@ -90,19 +90,19 @@ $$
 
 1990-2017年我国M2与GDP增长对比图
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210612082009.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003613.png)
 
 1990-2017年我国M2/GDP走势图
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210612082033.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003628.png)
 
 1985-2020年我国M2/GDP走势图
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210612082141.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003654.png)
 
 2012-2017年我国货币供应量增速走势图
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210612082210.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003713.png)
 
 ### 关于M2/GDP的学界讨论
 
@@ -118,7 +118,7 @@ $$
 
 *M2/GDP*是衡量发展中国家**金融深化程度和金融改革成果**的最重要指标，一些成功的新兴工业化国家在由发展中国家向发达国家转化的过程中一直保持较高的货币增长，通货膨胀率一直保持在可以接受的水平上。因此, 我们很难仅仅根据目前中国M2/GDP 已经达到很高水平, 并且还再继续增长的事实, 得出中国通货膨胀压力和未来金融稳定的确定结论。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210612101729.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003732.png)
 
 #### 张杰（2006）中国的高货币化之谜，《经济研究》2006年06期
 
@@ -134,13 +134,13 @@ $$
 
 根据Goldsmith(1969)提供的证据,1963年前后,大多数西方国家的货币化比率在0.85上。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613111108.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003749.png)
 
 西方国家的货币化比率在1946年出现“折点”，“折点”处的货币化比率为0.9。尽管此后一些国家(如意大利1969 - 1979年和日本1972以后)的货币化比率有过接近甚至超越0.9或者1的记录，西方主要国家的货币化比率自20世纪50年代后期开始也经历了一个缓慢上升的过程，但平均来看，都未曾超过1946年的“折点”值。
 
 正如Goldsmith所料，大部分发展中国家的货币化比率处于较低水平。平均来看，这些国家在1950年的货币化指数要高于中国同期的水平，不过，随后的货币化路径却表现得相当平缓。直到1980年仍未越过0.3的关口，1999年达到历史最高值0.5。即便按照Goldsmith的“货币化路径”假说，这些发展中国家的货币化指数也将经历“倒U”过程,但从已有的货币化轨迹不难推测，其货币化的“折点”值可能要比中国的低出许多。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613115028.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003807.png)
 
 1952年以后的50余年间，中国的货币化指数呈显著上升趋势。1952年的货币化指数只有0.149，低于美国1871年0.216的水平。
 
@@ -182,7 +182,7 @@ M2/GDP 比率指标而言, 前者是存量指标, 后者是流量指标, 该比�
 
 我国货币需求存在显著的非对称性*卡甘效应*，当通货膨胀较低时，通货膨胀对货币需求没有影响，甚至有显著的正影响(稳健性经验结果表明，在低通胀期，存在明显的用货币替代商品行为) ; 而当处于高通胀 状态时，则有明显的卡甘效应(即用商品替代货币) ，**通货膨胀每上升1个单 位，导致货币需求量减少约30% - 48%** 。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210615094337.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003830.png)
 
 #### 张文，《经济货币化进程与内生性货币供给——关于中国高M2/GDP比率的货币分析》,《金融研究》2008.02
 
@@ -246,7 +246,7 @@ M2/GDP 比率指标而言, 前者是存量指标, 后者是流量指标, 该比�
 - **货币供应量从存款性金融机构负债方统计**，包括M0、M1和M2，反映的是金融体系向社会提供的流动性，体现了全社会的购买力水平。
 - 而**社会融资规模则从金融机构资产方和金融市场发行方统计**，从全社会资金供给的角度反映金融体系对实体经济的支持。因此，社会融资规模和货币供应量是相互补充、相互印证的关系，二者从不同角度为金融宏观调控提供信息支持。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613155027.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003847.png)
 
 ### 引入原因
 
@@ -284,7 +284,7 @@ M2/GDP 比率指标而言, 前者是存量指标, 后者是流量指标, 该比�
 
 众多实证表明*货币渠道与信贷渠道*在中国货币政策中都起传导作用，M2及信贷规模同为中国货币政策的*中介目标*。根据“货币政策目标是保持货币币值的稳定，并以此促进经济增长”的规定，*最终目标*确定为经济增长与物价稳定。货币政策传导过程如下：
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613160838.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003902.png)
 
 考察社会融资规模，我们通过考察它与货币政策最终目标的关系来选择合适的中介目标。根据《中华人民共和国中国人民银行法》， 我国货币政策的最终目标为“保持货币币值稳定， 并以此促进经济增长”。币值稳定对内意味着物价稳定，故<u>选取反映物价稳定的居民消费价格指数CPI，以及体现经济增长水平的国内生产总值GDP为最终目标变量</u>。
 
@@ -292,15 +292,15 @@ M2/GDP 比率指标而言, 前者是存量指标, 后者是流量指标, 该比�
 
 社会融资规模与GDP增长率：社融规模是GDP的领先指标
 
-![image-20210613161630515](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613161653.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003923.png)
 
-![image-20210613161648183](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613161701.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003938.png)
 
 社会融资规模与CPI：社融规模是CPI的领先指标
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613161833.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003954.png)
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613161942.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004023.png)
 
 数据来自国家统计局网站
 
@@ -310,9 +310,9 @@ M2/GDP 比率指标而言, 前者是存量指标, 后者是流量指标, 该比�
 
 随着我国金融市场的多元化发展，信贷规模指标已无法准确、全面地反映金融体系对实体经济的资金支持，而社会融资规模(增量与存量)是能够综合反映全社会融资总量和结构的指标。采用2002—2014年月度金融经济数据，在理论分析的基础上运用SVAR模型，对社会融资规模增量与新增人民币贷款指标在货币政策传导机制中作用的比较分析发现，<u>社会融资规模增量与货币政策最终目标的相关性和可控性优于新增人民币贷款</u>(尤其在2009年之后)。<u>社会融资规模存量与M2不仅在绝对数值和增速上相当接近，且二者与货币政策最终目标和操作目标的关系高度一致</u>。社会融资规模(增量与存量)统计的完善,有利于促进我国金融宏观调控、经济结构调整和供给侧结构性改革。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613162535.png) 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004038.png)
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613162608.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004055.png)
 
 #### 何平,刘泽豪,方志玮，《影子银行、流动性与社会融资规模》， 经济学(季刊),2018,17(01)
 
@@ -320,15 +320,15 @@ M2/GDP 比率指标而言, 前者是存量指标, 后者是流量指标, 该比�
 
 真实利率较低促使金融市场出现“脱媒”
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613162859.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004110.png)
 
 影子银行总规模、社会融资规模存量和M2供应量
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613163044.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004128.png)
 
 货币乘数与单位社会融资流动性走势
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613163212.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004152.png)
 
 有关社会融资规模的近期研究
 

@@ -29,7 +29,7 @@ The intellectual basis of the Renaissance was its version of **humanism**, deriv
 
 | Oil painting                                                 | Sculpture                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210815152838.png) | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210818185649.png) |
+| ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002833.png) | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210818185649.png) |
 | Metal movable type                                           |                                                              |
 | ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210818185630.jpg) |                                                              |
 

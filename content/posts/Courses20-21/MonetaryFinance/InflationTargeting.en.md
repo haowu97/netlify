@@ -59,9 +59,9 @@ No period of macroeconomic stability like this before
 - Before 1982 in recession 35 percent of the time
 - Since 1982 in recession less than 4 percent of the time 
 
-![image-20210618141838119](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210618141855.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607005037.png)
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210618141904.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607005055.png)
 
 Why the Increased Stability?
 
@@ -87,7 +87,7 @@ U.S. monetary policy has changed
 - This more prompt, more reactive policy, has kept inflation from rising, thereby preventing recessions.
 - For example, compare the funds rate changes in the late 1980s and the late 1960s
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210618142303.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607005118.png)
 
 ### Many other Experiences
 
@@ -199,7 +199,7 @@ Check for robustness using other models
 
 Important Threshold Result: Slope Should be Greater 1
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210618143900.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607005135.png)
 
 ### Robustness of Simple Rules
 
@@ -304,7 +304,7 @@ Modify simple rule:
 
 - Interest rate stays near zero after the expected crises (Reifschneider and Williams (1999)) 
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210618145654.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607005155.png)
 
 ### Asset price bubbles
 

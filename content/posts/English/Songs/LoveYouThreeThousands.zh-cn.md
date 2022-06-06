@@ -25,27 +25,27 @@ categories: []
 
 Intro
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614220849.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002445.png)
 
 Verse 1
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614221439.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002536.png)
 
 Pre-chorus 1
 
-![image-20210614221221153](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614221435.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002601.png)
 
 Verse 2
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614231927.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002634.png)
 
 Pre-chorus 2
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614222628.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002711.png)
 
 Bridge
 
-![image-20210614222624393](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210614222625.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002731.png)
 
 ### 视频教学
 

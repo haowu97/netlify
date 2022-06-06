@@ -57,7 +57,7 @@ categories: []
 
 ![](https://c-img.18183.com/images/2020/07/10/7ed25e3d95340ff2be3b4070f41b7e3c.jpg@!18183)
 
-![img](https://c-img.18183.com/images/2020/07/10/45461b922e690bfd5cf15fb70089c4fb.jpg@!18183)
+![](https://c-img.18183.com/images/2020/07/10/45461b922e690bfd5cf15fb70089c4fb.jpg@!18183)
 
 ### 先祖兑换图
 
@@ -80,7 +80,6 @@ categories: []
 ![](https://wx1.sinaimg.cn/mw690/0087NTXCgy1godk9o8m3zj31ps1acb29.jpg)
 
 
-
 ## 季节攻略
 
 ### 飞行季
@@ -93,11 +92,11 @@ categories: []
 
 #### 先祖兑换图
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210720143717.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003240.png)
 
 #### 星漠俯视图
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210720143825.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003323.png)
 
 #### 总攻略
 
@@ -113,7 +112,7 @@ categories: []
 
 #### 全季消费
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210720143858.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607003422.png)
 
 ### 集会季
 
@@ -123,7 +122,7 @@ categories: []
 
 #### 光翼
 
-![WeChat Image_20210503182303](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210503182409.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210503182409.jpg)
 
 
 
@@ -163,7 +162,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 #### 先祖兑换图
 
-![image-20210210111357079](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210111359.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210210111359.png)
 
 ### 圣岛季
 
@@ -204,7 +203,7 @@ sky光遇梦想季攻略: https://www.bilibili.com/video/av800560668/
 
 相比于某宝买心，官方的蜡烛太贵了！
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210619171843.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607004938.png)
 
 ### 图像模式
 

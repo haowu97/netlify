@@ -62,7 +62,7 @@ $$
 
 $L_{3}=\partial L / \partial r >0$表示货币成为投资的先决条件或渠道。如果货币的实际收益率($d-p^{*}$)提高，则实际现金积累增长，企业内源融资的资本形成机会也会扩大，这种良性循环，麦金农称之为“渠道效应”。见下图：
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613172827.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002219.png)
 
 从A到B，曲线上升，代表渠道效应占优势的范围，即实际利率、货币需求和投资率同时增加的情况。点B右边的曲线，逐渐下降，代表竞争效应或替代效应占优势。
 
@@ -78,7 +78,7 @@ $$
 
 在图10-2中，$\Delta Y/Y = s/v$。当金融深化的程度有限时($\rho = \rho$)，可由线AB（即$s(\Delta Y/Y, \rho)/v$）为表示，AB与45°线相交点所决定的均衡经济增长率不过为Oe而已。如金融深化取得显著成效，$\rho = \rho^*$，储蓄倾向大大提高，AB代表的直线提升为CD，均衡经济增长率为Of，高于Oe。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210613173530.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002244.png)
 
 图10-2 金融深化的经济效应
 
