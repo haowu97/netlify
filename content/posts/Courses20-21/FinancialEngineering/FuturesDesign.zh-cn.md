@@ -129,6 +129,8 @@ categories: ['金融工程']
 
 ![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608122533.png)
 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231033.png)
+
 国际主要期货品种合约交易单位
 
 ![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608151336.png)
