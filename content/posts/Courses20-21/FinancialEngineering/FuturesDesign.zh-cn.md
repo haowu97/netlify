@@ -127,13 +127,11 @@ categories: ['金融工程']
 
 国内主要期货品种合约交易单位
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608122533.png)
-
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231033.png)
 
 国际主要期货品种合约交易单位
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608151336.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231546.png)
 
 #### 交易单位的设计案例
 
@@ -158,11 +156,11 @@ categories: ['金融工程']
 
 大商所客户权益分布
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608151346.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231615.png)
 
 大商所客户委托量分布
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608151351.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231646.png)
 
 #### 交易单位的修改
 
@@ -221,11 +219,11 @@ categories: ['金融工程']
 
 国内主要期货品种最小报价单位
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608175757.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231800.png)
 
 国际主要期货品种合约
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608232441.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231831.png)
 
 一般最小报价单位与合语报价大小相匹配，合约报价越大，最小报价单位也越大。
 
@@ -241,7 +239,7 @@ $$
 
 对于较活跃的品种，一般该指标（双向）在100-150次左右比较合理，同时也要考虑同产业链大小相近。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210608234408.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231854.png)
 
 【案例】动力煤(0.2元吨)按照上市前现货价格550元以及同类品种的历史数据，如果以2%振幅估测，80%左右的交易时间日内震荡的绝对值在11元以内，意味着单边波动次数在22次以内(0.5元/吨)或55次以内(0.2元/吨)。
 
@@ -281,9 +279,9 @@ $$
 
 出现成交量/ 委托量持续下降的现象，交易效率低下，原因在于基点价值与最小变动价位占比都较大。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210609192013.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606231959.png)
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210609193000.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232025.png)
 
 ##### 基点价值→短线盈利率和短线亏损率
 
@@ -294,11 +292,11 @@ $$
 
 例如，合约交易单位为每手10吨，投资者成交价格为5000元/吨，交易单位为10吨，最小变动价格为0.5元/吨，则基点价值为0.5x10=5元。每手保金1500，开平手续费率万分之0.4，则开平仓手续费为5000x10x0.004%=2元，短线赢利率为(5-2)/1500=0.2%，短线亏损率为(5+2)/1500=0.47%。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210609195241.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232115.png)
 
 铁矿石，焦煤，焦炭的短线盈利率达较高，因此投机性比较强，吸引了很多投资者。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210609193823.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232142.png)
 
 ##### 每日波动次数
 
@@ -308,13 +306,13 @@ $$
 
 商品期货大部分在30-50的区间。
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210609201430.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232208.png)
 
 沪深300股指期货，涨跌幅较大，最小变价单位比较小，因此波动次数较大。
 
 现货价格查询平台：
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210609203007.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232233.png)
 
 ### 涨跌停板和最低交易保证金
 
@@ -378,7 +376,7 @@ $$
 
 - 农产品：季节性生产，并结合国际通行的离散设计，因此农产品一般在单数月(偶数月包含2月春节，因此排除在外)有交割：
 
-![image-20210615152611192](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210615152616.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232300.png)
 
 【案例】鸡蛋排除7、8月是因为天气过热，鸡蛋不易储存，后由于冷冻技术的改进，因此合约交割月将7、8月也包含进来。
 
@@ -553,9 +551,9 @@ $$
 
 整顿后的品种占比变化
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210619220047.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232357.png)
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210619220208.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232422.png)
 
 #### 第三阶段：2004-至今
 
@@ -584,7 +582,7 @@ $$
 
 ### 交割方式
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210620152729.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232509.png)
 
 交割方式的演变
 
@@ -610,7 +608,7 @@ $$
 
 *全仓库交割*：仅采用仓库交割，不采用其他交割方式的品种
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210620155437.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232535.png)
 
 其他：
 
@@ -706,7 +704,7 @@ $$
 - 是一种有价证券，可转让和流通
 - 分类：仓库仓单、厂库仓单
 
-![](https://gitee.com/henrywu97/figbed/raw/master/Figs/20210620150804.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606232609.png)
 
 标准仓单的流通与转让
 
