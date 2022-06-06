@@ -1,11 +1,10 @@
 ---
 title: "Binomial Trees and Option Pricing"
 date: 2021-03-08T16:07:06+08:00
-lastmod: 2021-03-09T16:07:06+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "One-period binomial tree, Multi-period Binomial tree and American options pricing."
+upd: "One-period binomial tree, Multi-period Binomial tree and American options pricing."
 
 tags: ['Notes']
 categories: ['Financial Engineering']
@@ -146,6 +145,7 @@ Approach: No-arbitrage Principle
 Consider European call option $ \left(r=0.01, K=21, e^{r} \approx 1.01\right) $
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210310103218.png)
+
 $$
 \left\{\begin{array}{rlr}p & =\frac{e^{t t} \Delta-d}{u-d} \approx 0.55 & (\mathrm{RN}) \\ V_{1}(H) & =e^{-r}\left[p V_{2}(H H)+(1-p) V_{2}(H T)\right]=1.748232 & (\mathrm{H}) \\ V_{1}(T) & =e^{-r}\left[p V_{2}(T H)+(1-p) V_{2}(T T)\right]=0 & (\mathrm{~T}) \\ V_{0} & =e^{-r}\left[p V_{1}(H)+(1-p) V_{1}(T)\right] \\ & =e^{-2 r}\left[p^{2} V_{2}(H H)+2 p(1-p) V_{2}(H T)+(1-p)^{2} V_{2}(T T)\right] & \\ & =0.94 & (\text { price }) \end{array}\right.
 $$
@@ -158,7 +158,7 @@ Continuous counterpart
 $$
 V_{0}=e^{-r n t_{\Delta}}\left[\sum_{j=0}^{n}\left(\begin{array}{c}n \\ j\end{array}\right) p^{j}(1-p)^{n-j} V_{n}\left(H^{j} T^{n-j}\right)\right]
 $$
-![image-20210308222340510](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210308222340510.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220606131226.png)
 
 Asset price: binomial tree to Geometric Brownian motion!
 
@@ -204,6 +204,7 @@ $$
 &\Delta_{n}(s)=\frac{V_{n+1}(s H)-V_{n+1}(s T)}{S_{n+1}(s H)-S_{n+1}(s T)} 
 \end{aligned}
 $$
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210310113711.png)
 
 ## Matching volatility with u, d

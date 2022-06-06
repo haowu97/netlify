@@ -1,3 +1,17 @@
+---
+title: "BS"
+date: 2021-03-09T16:07:06+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: ['Notes']
+categories: ['Financial Engineering']
+---
+
+
+
 Prices:
 $$
 \begin{array}{l}
