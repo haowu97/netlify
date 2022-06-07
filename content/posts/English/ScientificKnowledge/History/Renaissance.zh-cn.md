@@ -1,11 +1,10 @@
 ---
 title: "历史类 | Renaissance: 文艺复兴"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Humanism, Michelangelo, Dante"
+description: "Humanism, Michelangelo, Dante."
+upd: "Humanism, Michelangelo, Dante."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']

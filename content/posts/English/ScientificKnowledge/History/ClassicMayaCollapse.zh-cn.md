@@ -3,12 +3,14 @@ title: "历史类 | Classic Maya Collapse: 玛雅文明衰败"
 date: 2021-08-02T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Classic Maya Collapse, Monuments, Drought theory"
+description: "Classic Maya Collapse, Monuments, Drought theory."
+upd: "Classic Maya Collapse, Monuments, Drought theory".
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 In archaeology, the **classic Maya collapse** is the *decline of the Classic Maya civilization* and the *abandonment of Maya cities* in the southern Maya lowlands of Mesoamerica between the *8th and 9th centuries*, at the end of the *Classic Maya Period*. The Preclassic Maya experienced a similar collapse in the 2nd century.
 

@@ -1,11 +1,10 @@
 ---
 title: "历史类 | Writing Material: 书写材料"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Cuneiform, Hieroglyphic, Parchment, Printing"
+description: "Cuneiform, Hieroglyphic, Parchment, Printing."
+upd: "Cuneiform, Hieroglyphic, Parchment, Printing."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']

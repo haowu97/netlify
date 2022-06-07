@@ -1,11 +1,10 @@
 ---
-title: "Mythology"
+title: "附录：神话人物关系图谱"
 date: 2021-08-09T14:14:45+08:00
-lastmod: 2021-08-10T14:14:45+08:00
 draft: false
 
-description: ""
-upd: "Greek Mythology, Japanese Mythology, Norse Mythology"
+description: "Greek Mythology, Japanese Mythology, Norse Mythology."
+upd: "Greek Mythology, Japanese Mythology, Norse Mythology."
 
 tags: []
 categories: []
