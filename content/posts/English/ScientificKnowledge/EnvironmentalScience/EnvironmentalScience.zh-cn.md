@@ -1,15 +1,16 @@
 ---
 title: "环境类 | Environmental Science: 环境科学"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Global Environmental Change, Natural Resources, Waste Disposal/Management"
+description: "Global Environmental Change, Natural Resources, Waste Disposal/Management."
+upd: "Global Environmental Change, Natural Resources, Waste Disposal/Management."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 **环境科学**是一门研究人类社会发展活动与环境演化规律之间相互作用关系，寻求人类社会与环境协同演化、持续发展途径与方法的科学。大多数环境问题涉及人类活动。
 

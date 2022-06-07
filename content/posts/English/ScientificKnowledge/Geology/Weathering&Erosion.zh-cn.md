@@ -1,15 +1,16 @@
 ---
 title: "地质类 | Weathering and Erosion: 风化和腐蚀"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Ice/Frost Wedging, Roots of plants, Acidification, Oxidation, Splash Erosion, Mass movement"
+description: "Ice/Frost Wedging, Roots of plants, Acidification, Oxidation, Splash Erosion, Mass movement."
+upd: "Ice/Frost Wedging, Roots of plants, Acidification, Oxidation, Splash Erosion, Mass movement."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210819224222.jpg)
 

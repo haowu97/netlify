@@ -11,6 +11,8 @@ tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
 
+<!--more-->
+
 ## Overview: Renaissance
 
 **文艺复兴（Renaissance）**是指发生在14世纪到16世纪的一场反映新兴资产阶级要求的欧洲思想文化运动。

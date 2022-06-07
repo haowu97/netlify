@@ -1,15 +1,16 @@
 ---
 title: "生物类 | Animal Behavior: 动物行为"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Ethology, foraging behavior, habitat selection. reproductive behavior, evolution"
+description: "Ethology, foraging behavior, habitat selection. reproductive behavior, evolution."
+upd: "Ethology, foraging behavior, habitat selection. reproductive behavior, evolution."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 动物行为复杂多样，各种行为都是动物对复杂环境的*适应（adaption）*表现，帮助动物更好的生存繁衍。托福中涉及到的动物行为主要可以分为：
 

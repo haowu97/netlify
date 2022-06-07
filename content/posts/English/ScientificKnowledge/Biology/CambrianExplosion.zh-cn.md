@@ -1,15 +1,16 @@
 ---
 title: "生物类 | Cambrian Explosion: 寒武纪物种大爆发"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Cambrian Explosion, phylum, oxygen, calcium"
+description: "Cambrian Explosion, phylum, oxygen, calcium."
+upd: "Cambrian Explosion, phylum, oxygen, calcium."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 Cambrian Explosion（寒武纪物种大爆发）是进化过程中的关键事件，标志着生命由简单到复杂。最常考的是原因，这些原因基本上都是诱导进化的因素。
 

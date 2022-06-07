@@ -1,15 +1,16 @@
 ---
 title: "天文类 | Solar Wind: 太阳风"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Solar wind, Fast and slow solar wind, Aurora, Geomagnetic stroms, Comets"
+description: "Solar wind, Fast and slow solar wind, Aurora, Geomagnetic stroms, Comets."
+upd: "Solar wind, Fast and slow solar wind, Aurora, Geomagnetic stroms, Comets."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TheSun.png)
 

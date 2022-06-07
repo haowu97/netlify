@@ -11,6 +11,8 @@ tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
 
+<!--more-->
+
 ## Realism
 
 **现实主义（Realism）**：对自然或当代生活做*准确（accurate）*、详尽和不加修饰的描述，摒弃理想化的想像，而主张细密观察事物的外表。

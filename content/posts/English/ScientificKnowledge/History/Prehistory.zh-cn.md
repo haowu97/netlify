@@ -11,6 +11,8 @@ tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
 
+<!--more-->
+
 The Stone Age 石器时代
 
 1. Paleolithic Period 旧石器时代

@@ -1,15 +1,16 @@
 ---
 title: "地质类 | The Structure of Earth: 地球结构"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Earth, Crust, Mantle, Core"
+description: "Earth, Crust, Mantle, Core."
+upd: "Earth, Crust, Mantle, Core."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 **地球的结构（Earth's Core)**，主要要搞懂地球的内部大致结构有几个，都有什么特征，组成成分是什么，固态还是液态，起了一些什么作用，对于我们会有什么影响。
 

@@ -1,15 +1,16 @@
 ---
 title: "地质类 | Continental Drift: 大陆漂移学说"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Continental drift, lithosphere, asthenosphere, ancient fossils, grooves and rock deposits, coal"
+description: "Continental drift, lithosphere, asthenosphere, ancient fossils, grooves and rock deposits, coal."
+upd: "Continental drift, lithosphere, asthenosphere, ancient fossils, grooves and rock deposits, coal."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 **Continental Drift 大陆漂移学说**也是地质类常出现的话题，**需要搞懂一些证据（evidence）**。
 

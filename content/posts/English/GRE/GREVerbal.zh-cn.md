@@ -1,3 +1,17 @@
+---
+title: "GRE"
+date: 2021-08-20T21:17:53+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: []
+categories: []
+---
+
+<!--more-->
+
 GRE填空考察的能力：
 
 1. 单词

@@ -1,15 +1,16 @@
 ---
 title: "天文类 | Astronomical Object: 天体"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Terrestrial planets, Asteroid belt, Comet, Meteorite"
+description: "Terrestrial planets, Asteroid belt, Comet, Meteorite."
+upd: "Terrestrial planets, Asteroid belt, Comet, Meteorite."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 天文学的内容可以考的很多，每颗星球都有独特的特征，宇宙奥秘无穷；
 

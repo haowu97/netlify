@@ -1,15 +1,16 @@
 ---
 title: "生物类 | Mass Extinction: 大灭绝"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Mass extinction, Cretaceous–Paleogene extinction, Flood basalt events"
+description: "Mass extinction, Cretaceous–Paleogene extinction, Flood basalt events."
+upd: "Mass extinction, Cretaceous–Paleogene extinction, Flood basalt events."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 ## Overview: mass extinction
 

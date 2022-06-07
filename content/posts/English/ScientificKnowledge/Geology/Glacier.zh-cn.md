@@ -1,15 +1,16 @@
 ---
 title: "地质类 | Glacier: 冰川"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Glacier, Formation, Motion, Research"
+description: "Glacier, Formation, Motion, Research."
+upd: "Glacier, Formation, Motion, Research."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 **冰川**是极地或高山地区地表上多年存在并具有沿地面运动状态的天然冰体。是多年积雪，经过*压实（compaction）、重新结晶（recrystalization）、再冻结（refreeze）*等成冰作用而形成的。它具有一定的形态和*层次（layer）*，并有可塑性，在*重力（ gravity）和压力（pressure）*下，产生*塑性流动（plastic flow）*和块状滑动，是地表重要的淡水资源。主要分布在*地球的两极和中、低纬度的高山区*，全球冰川面积1600多万平方公里，约占地球陆地总面积的11%。两极地区冰川几乎覆盖整个极地，称为*大陆冰川（continental glacier）*；中、低纬度高山区冰川称为*高山冰川（alpine glacier）*。
 

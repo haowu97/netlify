@@ -11,6 +11,8 @@ tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
 
+<!--more-->
+
 ## Ancient Greek Philosophy
 
 **古希腊哲学**, *公元前6-公元5世纪*出现在*希腊本土以及地中海（Mediterranean Sea）*沿岸，特别是小亚细亚西部、意大利南部的哲学学说。是*西方哲学（Western Philosophy）*最初发生和发展的阶段, 集中在*辩论与质询*上。在很多方面，它同时为现代科学与现代哲学铺设了道路。早期希腊哲学家对后世产生的影响从未间断，从早期哲学到*文艺复兴（Renaissance）*，再到*启蒙运动（Enlightenment）*和现代的普通科学。对许多宗教，包括*基督教（Christian）*，也有着深远的影响。

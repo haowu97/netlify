@@ -1,15 +1,16 @@
 ---
 title: "天文类 | The Application of Astronomy: 天文应用"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Calendar, Navigation, Tide"
+description: "Calendar, Navigation, Tide."
+upd: "Calendar, Navigation, Tide."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 **天文学（Astronomy）**是研究宇宙空间天体、宇宙的结构和发展的学科。天文学的研究对于人类的日常生活有很大的实际意义，对于人类的自然观有很大的影响。古代的天文学家通过观测太阳、月球和其他一些天体及天象，确定了*时间、方向和历法*。这也是天体测量学的开端。
 

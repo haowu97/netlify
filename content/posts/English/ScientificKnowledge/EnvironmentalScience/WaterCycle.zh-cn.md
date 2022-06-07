@@ -1,15 +1,16 @@
 ---
 title: "环境类 | Water Cycle: 水循环"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "不会作为主要考点，但是会在农业等领域顺带考到"
+description: "不会作为主要考点，但是会在农业等领域顺带考到。"
+upd: "不会作为主要考点，但是会在农业等领域顺带考到。"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 ## Overview
 

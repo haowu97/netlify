@@ -1,15 +1,16 @@
 ---
 title: "生物类 | Navigation Methods: 导航方法"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Navigation, Landmarks, Polarised light, Magnetoreception,Olfaction"
+description: "Navigation, Landmarks, Polarised light, Magnetoreception, Olfaction."
+upd: "Navigation, Landmarks, Polarised light, Magnetoreception, Olfaction."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 生物学中Navigation Methods，是**托福阅读和听力生物类**常考的话题背景，**主要需要搞懂几种常见的导航方式**。
 

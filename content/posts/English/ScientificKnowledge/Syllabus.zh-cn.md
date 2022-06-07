@@ -1,15 +1,16 @@
 ---
 title: "TOEFL学科背景知识序言"
 date: 2021-08-02T21:17:53+08:00
-lastmod: 2021-08-03T21:17:53+08:00
-draft: true
+draft: false
 
-description: ""
-upd: ""
+description: "TOEFL与GRE材料所涉及的学科统计。"
+upd: "TOEFL与GRE材料所涉及的学科统计。"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
 ---
+
+<!--more-->
 
 参考：[Oliverrrr - 知乎 (zhihu.com)](https://www.zhihu.com/people/wang-xu-xu-xu-xu-xu/posts)
 
