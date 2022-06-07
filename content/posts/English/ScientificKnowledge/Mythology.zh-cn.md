@@ -6,8 +6,8 @@ draft: false
 description: "Greek Mythology, Japanese Mythology, Norse Mythology."
 upd: "Greek Mythology, Japanese Mythology, Norse Mythology."
 
-tags: []
-categories: []
+tags: ['笔记', 'TOEFL']
+categories: ['TOEFL科学常识']
 ---
 
 <!--more-->

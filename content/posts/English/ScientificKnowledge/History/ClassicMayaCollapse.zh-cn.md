@@ -4,7 +4,7 @@ date: 2021-08-02T21:17:53+08:00
 draft: false
 
 description: "Classic Maya Collapse, Monuments, Drought theory."
-upd: "Classic Maya Collapse, Monuments, Drought theory".
+upd: "Classic Maya Collapse, Monuments, Drought theory."
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL科学常识']
