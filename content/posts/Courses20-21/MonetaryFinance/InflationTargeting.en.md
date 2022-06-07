@@ -1,15 +1,16 @@
 ---
 title: "Inflation Targeting and Monetary Policy Rules: Experience and Research"
 date: 2021-06-16T21:17:53+08:00
-lastmod: 2021-06-17T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "John B. Taylor. Stanford University. Presented at the 12th Meeting of the Latin American Network of Central Banks and Finance Ministries. Inter-American Development Bank. May12, 2000"
+description: "John B. Taylor, Stanford University. Presented at the 12th Meeting of the Latin American Network of Central Banks and Finance Ministries. Inter-American Development Bank. May12, 2000."
+upd: "John B. Taylor, Stanford University. Presented at the 12th Meeting of the Latin American Network of Central Banks and Finance Ministries. Inter-American Development Bank. May12, 2000."
 
 tags: ['Notes']
 categories: ['Monetary Finance']
 ---
+
+<!--more-->
 
 ## Inflation targeting
 
