@@ -1,15 +1,16 @@
 ---
 title: "TOEFL独立写作"
 date: 2021-08-31T21:17:53+08:00
-lastmod: 2021-09-01T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "黎老师托福写作笔记"
+description: "黎老师托福写作笔记。"
+upd: "黎老师托福写作笔记。"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL笔记']
 ---
+
+<!--more-->
 
 英语写作核心要素
 
@@ -1509,16 +1510,6 @@ element /ingredient/factor/component
 especially/ particularly / in particular
 
 in most cases/on most occasions/ under most circumstances/ on a regular basis/ frequently/ generally
-
-
-
-
-
-
-
-
-
-
 
 
 
