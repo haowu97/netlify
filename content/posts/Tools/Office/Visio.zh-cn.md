@@ -1,15 +1,16 @@
 ---
-title: "Visio指南"
+title: "Visio安装指南"
 date: 2021-04-16T00:07:05+08:00
-lastmod: 2021-04-17T00:07:05+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Visio安装方法。"
+upd: "Visio安装方法。"
 
-tags: ['办公软件','Office']
+tags: ['Office']
 categories: ['Office办公指南']
 ---
+
+<!--more-->
 
 [Visio2019中文版软件和安装教程](https://mp.weixin.qq.com/s/R-5ZL6Ap5Hcmmc8Zfxoc0A)
 

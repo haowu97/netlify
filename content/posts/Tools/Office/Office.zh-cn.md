@@ -1,17 +1,16 @@
 ---
 title: "Office踩坑指南"
 date: 2021-05-08T00:07:05+08:00
-lastmod: 2021-05-09T00:07:05+08:00
 draft: false
 
-description: ""
-upd: "还有比Office更坑的软件嘛"
+description: "还有比Office更坑的软件嘛！"
+upd: "还有比Office更坑的软件嘛！"
 
-tags: ['办公软件','Office']
+tags: ['Office']
 categories: ['Office办公指南']
 ---
 
-
+<!--more-->
 
 超级好用的Office套件管理工具(卸载/安装)：[Office Tool Plus 官网(下载)](https://otp.landian.vip/zh-cn/)
 

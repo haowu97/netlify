@@ -1,15 +1,16 @@
 ---
 title: "Excel使用技巧"
 date: 2021-06-03T00:07:05+08:00
-lastmod: 2021-06-04T00:07:05+08:00
 draft: false
 
-description: ""
-upd: "Excel使用经验汇总"
+description: "Excel使用经验汇总。"
+upd: "Excel使用经验汇总。"
 
-tags: ['办公软件','Office']
+tags: ['Office']
 categories: ['Office办公指南']
 ---
+
+<!--more-->
 
 [如何使用EXCEL创建日历(baidu.com)](https://jingyan.baidu.com/article/76a7e4090cdb6cfc3b6e15f7.html)
 
@@ -23,9 +24,7 @@ categories: ['Office办公指南']
 
 F4固定数据点
 
- 
-
-Ctrl + ~1st显示公式  
+ Ctrl + ~1st显示公式  
 
 ## 常用技巧
 
@@ -54,12 +53,6 @@ Excel文件恢复： https://jingyan.baidu.com/article/9989c746effd11f648ecfe2b.
 [Excel数据分析加载项](https://zhinan.sogou.com/guide/d316513603490.htm?ch=zn.xqy.related.pc)
 
 线性规划求解器加载项：https://jingyan.baidu.com/article/f3ad7d0f4497b209c2345b5f.html
-
-
-
-
-
-
 
 ### 回归
 
