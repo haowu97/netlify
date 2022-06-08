@@ -3,12 +3,14 @@ title: "厦门 | 园林植物园"
 date: 2021-02-19T14:23:00+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "厦门 | 园林植物园"
+upd: "厦门 | 园林植物园"
 
-tags: [“旅游攻略”, "厦门"]
+tags: [“旅游攻略”]
 categories: []
 ---
+
+<!--more-->
 
 [厦门园林植物园](http://www.mafengwo.cn/poi/14944.html)(2~5小时)
 

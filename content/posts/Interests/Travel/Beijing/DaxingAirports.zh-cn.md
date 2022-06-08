@@ -6,8 +6,10 @@ draft: true
 description: ""
 upd: ""
 
-tags: ["旅游攻略", "北京"]
+tags: ["旅游攻略"]
 categories: []
 ---
+
+<!--more-->
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220607002148.png)

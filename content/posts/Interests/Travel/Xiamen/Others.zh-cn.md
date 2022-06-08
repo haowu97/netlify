@@ -1,12 +1,12 @@
 ---
 title: "厦门 | 杂记"
 date: 2021-02-19T14:29:46+08:00
-draft: false
+draft: true
 
 description: ""
 upd: ""
 
-tags: ["厦门"]
+tags: ["旅游攻略"]
 categories: []
 ---
 
