@@ -1,12 +1,12 @@
 ---
 title: "Ublogger主题踩坑指南"
 date: 2021-05-04T17:38:51+08:00
-draft: false
+draft: true
 
 description: ""
 upd: ""
 
-tags: ['Hugo']
+tags: [“Blog”, “Hugo”, "Ublogger"]
 categories: []
 ---
 
