@@ -9,7 +9,7 @@ math:
   enable: true
 ---
 
-> I use my Blog for recording.
+> I use my Blog for the record.
 >
 > Hope it helps you.
 
