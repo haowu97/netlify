@@ -1,15 +1,16 @@
 ---
 title: "英语写作表达/短语积累"
 date: 2021-06-05T14:14:45+08:00
-lastmod: 2021-06-06T14:14:45+08:00
 draft: false
 
-description: ""
-upd: "今天学习英语了吗"
+description: "今天学习英语了吗?"
+upd: "今天学习英语了吗?"
 
-tags: ['英语','TOEFL']
+tags: ['笔记', '英语']
 categories: []
 ---
+
+<!--more-->
 
 add spice to sth
 

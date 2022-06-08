@@ -1,15 +1,16 @@
 ---
 title: "英语学习方法论"
 date: 2021-06-26T14:14:45+08:00
-lastmod: 2021-06-27T14:14:45+08:00
 draft: false
 
-description: ""
-upd: "英语学习方法论介绍，主要来自B站Up主昂克英文君"
+description: "英语学习方法论介绍，主要来自B站Up主昂克英文君。"
+upd: "英语学习方法论介绍，主要来自B站Up主昂克英文君。"
 
-tags: []
+tags: ['笔记', '英语']
 categories: ['English基础']
 ---
+
+<!--more-->
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210601101327.png)
 
