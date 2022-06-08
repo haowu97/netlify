@@ -354,9 +354,9 @@ ignoreErrors = ["error-remote-getjson"]
           paginate = 6
       # Social config in home page
       [languages.zh-cn.params.social]
-        GitHub = "henrywu97"
+        GitHub = "https://github.com/henrywu97"
         Linkedin = ""
-        Twitter = "HenryWu1997"
+        Twitter = "https://twitter.com/HenryWu1997"
         Instagram = ""
         Facebook = ""
         Telegram = ""
