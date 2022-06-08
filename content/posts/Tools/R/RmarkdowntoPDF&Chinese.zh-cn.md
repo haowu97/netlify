@@ -1,6 +1,6 @@
 ---
 title: "Rmarkdown导出PDF以及中文解决方案"
-date: 2021-07-051T11:07:06+08:00
+date: 2021-07-05T11:07:06+08:00
 draft: false
 
 description: "R语言的编辑神器。"

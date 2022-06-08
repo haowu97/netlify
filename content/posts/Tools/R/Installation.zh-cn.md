@@ -1,6 +1,6 @@
 ---
 title: "R、Rsudio以及相关包的安装"
-date: 2021-05-231T11:07:06+08:00
+date: 2021-05-23T11:07:06+08:00
 draft: false
 
 description: "工欲善其事，必先利其器。"
