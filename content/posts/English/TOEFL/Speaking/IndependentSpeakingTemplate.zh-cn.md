@@ -1,15 +1,16 @@
 ---
 title: "TOEFL独立口语万能段子及其活用"
 date: 2021-08-31T21:17:53+08:00
-lastmod: 2021-09-01T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "15个有助于破题的好段子，建议背诵"
+description: "15个有助于破题的好段子，建议背诵。"
+upd: "15个有助于破题的好段子，建议背诵。"
 
 tags: ['笔记', 'TOEFL']
 categories: ['TOEFL笔记']
 ---
+
+<!--more-->
 
 ## 图书馆学习安静好
 
