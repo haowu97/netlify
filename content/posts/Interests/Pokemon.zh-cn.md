@@ -1,3 +1,17 @@
+---
+title: "口袋妖怪攻略合集"
+date: 2021-02-03T20:56:47+08:00
+draft: false
+
+description: "就决定是你啦！"
+upd: "就决定是你啦！"
+
+tags: ['兴趣']
+categories: []
+---
+
+<!--more-->
+
 [属性相克表](https://wiki.52poke.com/wiki/属性相克表)
 
 [《精灵宝可梦》的各个属性有没有推荐的强力宝可梦，除了传说的宝可梦？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/263981638)
