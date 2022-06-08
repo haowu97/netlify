@@ -9,9 +9,9 @@ math:
   enable: true
 ---
 
-> Hello! I use Blog to record what I learn, think and think about. 
+> Hello! I use my Blog for recording.
 >
-> If you accidentally come to my Blog, I hope it is useful to you.
+> Hope it helps you.
 
 ### My Favorite English Song：
 
