@@ -7,7 +7,7 @@ description: "R语言的编辑神器。"
 upd: "R语言的编辑神器。"
 
 tags: ['笔记', 'R']
-categories: []
+categories: ['R语言使用经验']
 ---
 
 > Rmarkdown非常适合R语言使用者导出格式漂亮的文档，但是输出中文PDF的过程中会遇到各种麻烦的问题，本文整理了我解决该问题的经验供大家参考。

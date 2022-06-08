@@ -7,7 +7,7 @@ description: "R语言的编辑神器。"
 upd: "R语言的编辑神器。"
 
 tags: ['笔记', 'R']
-categories: []
+categories: ['R语言使用经验']
 ---
 
 <!--more-->
@@ -48,7 +48,7 @@ knitr::opts_chunk$set()
 
 显而易见，该命令就是设置代码块选项的。在括号中填写需要更改的参数即可，语法与在每个代码块中设置属性时相同。到此为止，你已经可以顺利地在文档中插入可运行的代码，并且设置每个代码块的属性了。
 
-### Initial
+## Initial
 
 [Rmarkdown输出中文pdf解决方案](https://www.bioinfo-scrounger.com/archives/619/)
 

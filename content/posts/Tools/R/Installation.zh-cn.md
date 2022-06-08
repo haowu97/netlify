@@ -7,7 +7,7 @@ description: "工欲善其事，必先利其器。"
 upd: "工欲善其事，必先利其器。"
 
 tags: ['笔记', 'R']
-categories: []
+categories: ['R语言使用经验']
 ---
 
 <!--more-->

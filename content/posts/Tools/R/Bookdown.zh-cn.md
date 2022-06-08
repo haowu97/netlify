@@ -7,7 +7,7 @@ description: "R语言的写书神器。"
 upd: "R语言的写书神器。"
 
 tags: ['笔记', 'R']
-categories: []
+categories: ['R语言使用经验']
 ---
 
 <!--more-->
