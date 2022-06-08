@@ -163,7 +163,7 @@ ignoreErrors = ["error-remote-getjson"]
       [languages.en.params.social]
         GitHub = "https://github.com/henrywu97"
         Linkedin = ""
-        Twitter = "https://twitter.com/HenryWu1997"
+        Twitter = ""
         Instagram = ""
         Facebook = ""
         Telegram = ""
@@ -223,7 +223,7 @@ ignoreErrors = ["error-remote-getjson"]
         Matrix = ""
         Bilibili = ""
         Email = "xxxx@xxxx.com"
-        RSS = false
+        RSS = true
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
           prefix = "https://mastodon.technology/"
@@ -354,15 +354,15 @@ ignoreErrors = ["error-remote-getjson"]
           paginate = 6
       # Social config in home page
       [languages.zh-cn.params.social]
-        GitHub = "https://github.com/henrywu97"
+        GitHub = "xxxx"
         Linkedin = ""
-        Twitter = "https://twitter.com/HenryWu1997"
-        Instagram = ""
-        Facebook = ""
-        Telegram = ""
+        Twitter = "xxxx"
+        Instagram = "xxxx"
+        Facebook = "xxxx"
+        Telegram = "xxxx"
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = ""
+        Youtubelegacy = "xxxx"
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -415,8 +415,8 @@ ignoreErrors = ["error-remote-getjson"]
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "wuhao97@stu.xmu.edu.cn"
-        RSS = false
+        Email = "xxxx@xxxx.com"
+        RSS = true
         [languages.zh-cn.params.social.Mastodon]
           id = "@xxxx"
           prefix = "https://mastodon.technology/"
