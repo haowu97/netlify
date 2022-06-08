@@ -1,17 +1,16 @@
 ---
 title: "Bookdown配置与使用指南"
 date: 2021-07-051T11:07:06+08:00
-lastmod: 2021-07-06T16:07:06+08:00
 draft: false
 
-description: ""
-upd: "R语言的写书神器"
+description: "R语言的写书神器。"
+upd: "R语言的写书神器。"
 
-tags: ['R']
+tags: ['笔记', 'R']
 categories: []
 ---
 
-
+<!--more-->
 
 Bookdown可以将一系列的`.Rmd` 文档连在一起然后输出一个分章节的完整文件，或者输出一个长文档(支持输出PDF、Gitbook、EPUB、Word 文档等格式)，与此同时还带来了诸如交叉引用等更多的功能。
 
@@ -37,7 +36,7 @@ Bookdown可以将一系列的`.Rmd` 文档连在一起然后输出一个分章�
 注：可以在文章前面统一添加代码块设置，阻止报错等无关信息的显示；其中`collapse = TRUE`表示，将代码运行结果与源代码合并到单个代码块中输出，这样可以使内容更加紧凑，生成的图片‘到处跑’的情况更少发生；设置默认图片大小为页面宽度的80%，并且居中显示；`fig.show = "hold"`表示保留所有绘图，并将其输出到代码块的末尾；`fig.showtext=TRUE`使表格中的中文文字问题能够正常显示。更多代码块选项参考https://yihui.org/knitr/options/。
 
 ```markdown
-​```{r setup, include=FALSE}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(
 	echo = TRUE,
 	message = FALSE,
@@ -176,7 +175,7 @@ nocite: |
 引用采用以下语法：
 
 ```R
-​```{r figureLable, echo=FALSE, out.width = "80%", fig.align='center' ,fig.cap='R 控制台'}
+```{r figureLable, echo=FALSE, out.width = "80%", fig.align='center' ,fig.cap='R 控制台'}
 knitr::include_graphics("Figs/fig2.1.png")
 ​```
 
@@ -192,7 +191,7 @@ knitr::include_graphics("Figs/fig2.1.png")
 语法与本地图片引用类似：
 
 ```R
-​```{r fig2, out.width = "80%", fig.align='center' ,fig.cap='散点图'}
+```{r fig2, out.width = "80%", fig.align='center' ,fig.cap='散点图'}
 x <- c(1,2,3.2,4,3,2.1,9,19)
 plot(x) # 散点图
 ​```
@@ -212,7 +211,7 @@ R语言绘制的图表输出PDF，可能存在中文文字不显示的问题，�
 有时R多图必须在同一个代码块中绘制，则可以使用以下方法(目前该方法还不支持在正文中引用)：
 
 ```R
-​```{r fig13, fig.show = 'asis', out.width = "80%", fig.align='center' ,fig.cap='带指标的股票价格图',fig.cap = '重新绘制的带指标的股票价格图'}
+```{r fig13, fig.show = 'asis', out.width = "80%", fig.align='center' ,fig.cap='带指标的股票价格图',fig.cap = '重新绘制的带指标的股票价格图'}
 library(TTR)
 library(quantmod)
 AAPL <- getSymbols("AAPL", auto.assign=FALSE)
@@ -252,7 +251,7 @@ Table: (\#tab:simple-table) A simple table in Markdown.
 语法如下：
 
 ```R
-​```{r label}
+```{r label}
 knitr::kable(iris[1:5, ], caption = 'A caption')
 ​```
 

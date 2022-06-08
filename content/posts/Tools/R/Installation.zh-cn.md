@@ -1,23 +1,22 @@
 ---
 title: "R、Rsudio以及相关包的安装"
 date: 2021-05-231T11:07:06+08:00
-lastmod: 2021-06-01T16:07:06+08:00
 draft: false
 
-description: ""
-upd: "工欲善其事，必先利其器"
+description: "工欲善其事，必先利其器。"
+upd: "工欲善其事，必先利其器。"
 
-tags: ['R']
+tags: ['笔记', 'R']
 categories: []
 ---
+
+<!--more-->
 
 [安装R与Rstudio](https://zhuanlan.zhihu.com/p/109468400)；[安装R语言（Rstudio、R、RTools）](https://zhuanlan.zhihu.com/p/146289185)
 
 [R语言版本和Rstudio的更新](https://www.jianshu.com/p/5989f295b9e9)；[R | 如何更新R版本及Rstudio r更新](https://blog.csdn.net/weixin_41859179/article/details/97570369)
 
  
-
-
 
 The downloaded source packages are in
 

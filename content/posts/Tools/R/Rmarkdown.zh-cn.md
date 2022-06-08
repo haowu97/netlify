@@ -1,20 +1,21 @@
 ---
 title: "Rmarkdown配置与使用指南"
 date: 2021-07-051T11:07:06+08:00
-lastmod: 2021-07-06T16:07:06+08:00
 draft: false
 
-description: ""
-upd: "R语言的编辑神器"
+description: "R语言的编辑神器。"
+upd: "R语言的编辑神器。"
 
-tags: ['R']
+tags: ['笔记', 'R']
 categories: []
 ---
+
+<!--more-->
 
 如果需要插入一段 r 代码，可用如下形式：
 
 ```
-​```{r}
+```{r}
 1 + 1
 ​```
 ```
@@ -30,7 +31,7 @@ categories: []
 比较常用参数的包括 `echo` 设置是否在文档中包含代码块，`eval` 设置代码是否运行，`results` 设置运行结果的输出形式，`message` 和 `warning` 设置是否打印 message 和 warning 信息等等。你会看到每个代码块的右上角有一个用来设置常用属性的图形按钮，你也可以在这里设置属性。以下面的代码为例：
 
 ```
-​```{r example label, echo = FALSE, warning = FALSE}
+```{r example label, echo = FALSE, warning = FALSE}
 # coding
 ​```
 ```
@@ -40,7 +41,7 @@ categories: []
 此之外，还有针对图片输出格式等等的更多细节属性设置，详细的参数可以参见[帮助文档](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)。如果你想设置全局的代码块属性，可以在文档开头加入如下代码：
 
 ```
-​```{r setup}
+```{r setup}
 knitr::opts_chunk$set()
 ​```
 ```

@@ -3,12 +3,14 @@ title: "Pandas Notes"
 date: 2021-02-28T13:00:27+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Pandas Notes."
+upd: "Pandas Notes."
 
-tags: ['Python', 'Coding']
+tags: ['Python', 'Notes']
 categories: []
 ---
+
+<!--more-->
 
 Data Indexing / selection
 
@@ -48,8 +50,6 @@ Duplicated value
 Missing data
 
 - [pandas.DataFrame.dropna](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html?highlight=dropna#pandas.DataFrame.dropna)
-
-
 
 Reshape:
 

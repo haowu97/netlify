@@ -1,16 +1,13 @@
 ---
 title: "Stata笔记"
 date: 2021-06-09T21:17:53+08:00
-lastmod: 2021-06-10T21:17:53+08:00
 draft: false
 
-description: ""
-upd: "Stata奇技淫巧"
+description: "Stata奇技淫巧。"
+upd: "Stata奇技淫巧。"
 
-tags: ['笔记', 'Stata']
+tags: ['笔记', 'Stata', 'Coding']
 categories: []
-
-math: true
 ---
 
 ## 学习资源
