@@ -1,17 +1,16 @@
 ---
-title: ""
+title: "TOEFL Listening"
 date: 2022-04-13T21:17:53+08:00
-lastmod: 2021-04-14T21:17:53+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Approaching Listening Passages, Gist-content and Gist-purpose questions, Detail Questions..."
+upd: "Approaching Listening Passages, Gist-content and Gist-purpose questions, Detail Questions..."
 
-tags: []
-categories: []
-
-math: true
+tags: ["Notes", "TOEFL"]
+categories: ["TOEFL"]
 ---
+
+<!--more-->
 
 ## Overview
 

@@ -1,17 +1,16 @@
 ---
 title: "托福必备逻辑连接词"
 date: 2022-03-31T21:17:53+08:00
-lastmod: 2021-04-01T21:17:53+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "顺逻辑v.s.逆逻辑"
+upd: "顺逻辑v.s.逆逻辑"
 
-tags: []
-categories: []
-
-math: true
+tags: ['笔记', 'TOEFL']
+categories: ['TOEFL笔记']
 ---
+
+<!--more-->
 
 ## 顺逻辑
 

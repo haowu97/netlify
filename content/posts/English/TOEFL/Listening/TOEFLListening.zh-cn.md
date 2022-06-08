@@ -1,17 +1,16 @@
 ---
-title: "Listening"
+title: "TOEF听力技巧"
 date: 2022-04-13T21:17:53+08:00
-lastmod: 2021-04-14T21:17:53+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "分层笔记法，讲座与对话，常考逻辑与信号词。"
+upd: "分层笔记法，讲座与对话，常考逻辑与信号词。"
 
-tags: []
-categories: []
-
-math: true
+tags: ['笔记', 'TOEFL']
+categories: ['TOEFL笔记']
 ---
+
+<!--more-->
 
 分层笔记法
 

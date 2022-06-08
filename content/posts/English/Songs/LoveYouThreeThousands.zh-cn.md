@@ -1,15 +1,16 @@
 ---
 title: "I Love You 3000英文教学"
 date: 2021-06-12T14:14:45+08:00
-lastmod: 2021-06-13T14:14:45+08:00
 draft: false
 
-description: ""
-upd: "适合在婚礼播放的歌！"
+description: "这是一首适合在婚礼播放的歌！"
+upd: "这是一首适合在婚礼播放的歌！"
 
 tags: [‘英语’, '歌曲']
 categories: []
 ---
+
+<!--more-->
 
 {{< music "https://music.163.com/#/song?id=1396162013" >}}
 
