@@ -13,6 +13,8 @@ math:
 
 <!--more-->
 
+{{< music "https://music.163.com/#/song?id=1396162013" >}}
+
 如果因为某种原因你点开了我的Blog，希望他对你有用。
 
 
