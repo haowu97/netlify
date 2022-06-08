@@ -1,8 +1,7 @@
 ---
 title: "Vuepress"
 date: 2021-04-01T11:07:06+08:00
-lastmod: 2021-04-12T16:07:06+08:00
-draft: false
+draft: true
 
 description: ""
 upd: ""
@@ -10,6 +9,8 @@ upd: ""
 tags: ['软件']
 categories: []
 ---
+
+<!--more-->
 
 [yarn的安装和使用](https://blog.csdn.net/yw00yw/article/details/81354533)
 

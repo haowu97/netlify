@@ -1,15 +1,16 @@
 ---
 title: "Pandoc使用指南"
 date: 2021-06-25T16:55:26+08:00
-lastmod: 2021-06-26T16:55:26+08:00
 draft: false
 
-description: ""
+description: "文本文件格式转换神器！"
 upd: "文本文件格式转换神器！"
 
-tags: ['笔记']
+tags: ['软件']
 categories: ['实用软件']
 ---
+
+<!--more-->
 
 ## 简介
 

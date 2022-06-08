@@ -1,15 +1,16 @@
 ---
-title: "Kindle"
+title: "Kindle使用经验"
 date: 2021-05-29T11:07:06+08:00
-lastmod: 2021-05-30T16:07:06+08:00
 draft: false
 
-description: ""
+description: "今天读书了嘛？"
 upd: "今天读书了嘛？"
 
-tags: ['Kindle']
+tags: []
 categories: []
 ---
+
+<!--more-->
 
 azw3、mobi可以打开，epub打不开。
 

@@ -1,16 +1,16 @@
 ---
 title: "Latex使用笔记"
 date: 2021-05-21T17:38:51+08:00
-lastmod: 2021-05-22T17:38:51+08:00
-
 draft: false
 
 description: ""
 upd: "Latex速查，Beamer教程"
 
-tags: ['笔记', 'Latex']
+tags: ['笔记', '软件']
 categories: ['实用软件']
 ---
+
+<!--more-->
 
 [Muboard - Mathematics Chalkboard With LaTeX and Markdown Support](https://muboard.net/)
 

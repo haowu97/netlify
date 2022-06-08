@@ -1,15 +1,16 @@
 ---
 title: "you-get：一行代码下载Bi站视频源文件"
 date: 2021-08-28T12:11:59+08:00
-lastmod: 2021-08-30T12:11:59+08:00
 draft: false
 
-description: ""
-upd: "iMovie视频保存与分享"
+description: "you-get：一行代码下载Bi站视频源文件。"
+upd: "you-get：一行代码下载Bi站视频源文件。"
 
 tags: ["软件", "视频"]
 categories: []
 ---
+
+<!--more-->
 
 >`you-get`是开源的Python第三方库，通过它我们仅用一行代码就可以下载Bi站等视频网站的视频源文件，是获取素材的非常方便的途径。
 
@@ -17,7 +18,7 @@ categories: []
 
 首先介绍一种比较简单的下载Bi站源文件的方式：在视频链接中的`bilibili`后添加`jj`。例如将`https://www.bilibili.com/video/av87176938`，改为`https://www.bilibilijj.com/video/av87176938`即可进入视频下载界面，点击右侧`MP4`即可下载。
 
-![](https://upload-images.jianshu.io/upload_images/20447423-1bcbe6d20bca6f0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220608172744.png)
 
 然而，可以看到该视频没有达到缓存要求，点击后显示“目前缓存最低要求为视频发布7天内播放量超过1万”，并且该方法也无法下载番剧，适用范围比较窄。
 
@@ -43,7 +44,7 @@ categories: []
 you-get https://www.bilibili.com/bangumi/play/ep267851
 ```
 
-![](https://upload-images.jianshu.io/upload_images/20447423-e8d491537bf67224.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220608172852.png)
 
 ### 选择下载版本
 
@@ -53,7 +54,7 @@ you-get https://www.bilibili.com/bangumi/play/ep267851
 you-get -i https://www.bilibili.com/bangumi/play/ep267851
 ```
 
-![](https://upload-images.jianshu.io/upload_images/20447423-d905f06b87edf154.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220608172839.png)
 
 可以看到有上面4种不同清晰度的文件可供下载，**默认下载第一个版本(一般是最清晰的版本)**，根据上面查询到的`format`信息，可以**指定下载清晰度最高的版本**：
 
@@ -80,7 +81,7 @@ you-get --playlist -o D:/Download/BiliBili https://www.bilibili.com/video/BV1GE4
 
 以上是本篇的全部内容，欢迎关注我的[知乎](https://www.zhihu.com/people/wu-hao-69-57/activities)|[简书](https://www.jianshu.com/u/eec9c995a8dc)|[CSDN](https://me.csdn.net/weixin_44533530)|[微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5NjIyMTQyMw==&scene=124#wechat_redirect)`PurePlay` , 会不定期分享研究与学习干货。
 
-![](https://upload-images.jianshu.io/upload_images/20447423-921b310f557bb7e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220608172823.png)
 
 
 

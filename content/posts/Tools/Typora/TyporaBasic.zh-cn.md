@@ -1,11 +1,10 @@
 ---
 title: "Typora基本使用方法"
 date: 2021-03-03T18:57:57+08:00
-lastmod: 2021-03-03T18:57:57+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Typora基本使用方法。"
+upd: "Typora基本使用方法。"
 
 tags: ['Typora']
 categories: []

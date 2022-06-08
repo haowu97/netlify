@@ -3,12 +3,14 @@ title: "科学上网"
 date: 2021-02-25T17:17:08+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "免费的机场不够稳健，建议找到靠谱的代理。"
+upd: "免费的机场不够稳健，建议找到靠谱的代理"
 
-tags: ['科学上网']
+tags: []
 categories: []
 ---
+
+<!--more-->
 
 以下是目前流行的科学上网软件：
 

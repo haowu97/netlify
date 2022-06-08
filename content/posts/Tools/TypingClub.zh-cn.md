@@ -1,3 +1,17 @@
+---
+title: ""
+date: 2021-05-30T18:07:38+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: ['软件']
+categories: []
+---
+
+<!--more-->
+
 [在线打字测试（dazi.kukuw.com）](https://dazi.kukuw.com/)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20210904225828.png)

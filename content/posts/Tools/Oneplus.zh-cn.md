@@ -3,12 +3,14 @@ title: "一加7Pro刷氧OS"
 date: 2021-02-25T17:17:08+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "一加7Pro刷氧OS。"
+upd: "一加7Pro刷氧OS。"
 
-tags: ['搞机']
+tags: ['电子设备']
 categories: []
 ---
+
+<!--more-->
 
 为了手机能更舒适地访问境外APP( Youtube, Tweitter等)，特此刷机，以下是不太成功地刷机步骤。
 

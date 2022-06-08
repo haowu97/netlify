@@ -1,14 +1,16 @@
 ---
-title: "Win10截屏软件"
+title: "Win10截屏软件：Snipaste"
 date: 2021-02-20T18:07:38+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Win10截屏软件：Snipaste。"
+upd: "Win10截屏软件：Snipaste。"
 
 tags: ['软件']
-categories: []
+categories: ['实用软件']
 ---
+
+<!--more-->
 
 截屏软件：Snipaste
 

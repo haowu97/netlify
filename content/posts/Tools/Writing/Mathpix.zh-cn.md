@@ -1,7 +1,6 @@
 ---
 title: "Mathpix使用笔记"
 date: 2021-04-04T16:55:26+08:00
-lastmod: 2021-04-05T16:55:26+08:00
 draft: false
 
 description: ""
@@ -10,6 +9,8 @@ upd: ""
 tags: []
 categories: ['实用软件']
 ---
+
+<!--more-->
 
 教程：
 

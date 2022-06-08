@@ -1,15 +1,16 @@
 ---
 title: "ffmpeg视频转码"
 date: 2021-04-06T12:11:59+08:00
-lastmod: 2021-04-07T12:11:59+08:00
 draft: false
 
-description: ""
-upd: "ffmpeg踩坑指南"
+description: "ffmpeg踩坑指南。"
+upd: "ffmpeg踩坑指南。"
 
 tags: ["软件", "视频"]
 categories: []
 ---
+
+<!--more-->
 
 [ffmpeg安装](https://blog.csdn.net/topia_csdn/article/details/110110774)
 
