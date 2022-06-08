@@ -8,7 +8,7 @@ resources:
   
 upd: "You can now customize the post preview design"
 
-tags: [“Blog”, “Hugo”, "Ublogger"]
+tags: ['Blog', 'Hugo', 'Ublogger']
 categories: ["Ublogger Documentation"]
 
 page:

@@ -11,7 +11,7 @@ upd: "Since the template began to support uPagge, you can not do without names. 
 page:
     theme: "wide"
 
-tags: [“Blog”, “Hugo”, "Ublogger"]
+tags: ['Blog', 'Hugo', 'Ublogger']
 categories: ["Ublogger Documentation"]
 
 lightgallery: true

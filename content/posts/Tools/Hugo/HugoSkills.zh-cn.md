@@ -6,7 +6,7 @@ draft: false
 description: "Hugo使用中的奇技淫巧，更高效地用Hugo搭建自己地BLog。"
 upd: "Hugo使用中的奇技淫巧，更高效地用Hugo搭建自己地BLog。"
 
-tags: [“Blog”, “Hugo”]
+tags: ['Blog', 'Hugo']
 categories: ["Hugo博客搭建"]
 ---
 

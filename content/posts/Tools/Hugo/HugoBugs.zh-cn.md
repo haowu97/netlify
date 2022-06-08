@@ -6,7 +6,7 @@ draft: false
 description: "Hugo部署中遇到的Bug汇总。"
 upd: "Hugo部署中遇到的Bug汇总。"
 
-tags: ["Blog", "Hugo"]
+tags: ['Blog', 'Hugo']
 categories: ["Hugo博客搭建"]
 ---
 

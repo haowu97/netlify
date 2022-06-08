@@ -6,7 +6,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: [“Blog”, “Hugo”, "Ublogger"]
+tags: ['Blog', 'Hugo', 'Ublogger']
 categories: ["Ublogger Documentation"]
 
 lightgallery: true

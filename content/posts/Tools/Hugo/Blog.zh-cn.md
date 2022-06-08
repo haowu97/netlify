@@ -6,7 +6,7 @@ draft: false
 description: "Hugo博客搭建指南：Hugo博客生成，部署到Github，托管到Netlify"
 upd: "Hugo博客搭建指南：Hugo博客生成，部署到Github，托管到Netlify"
 
-tags: [“Blog”, “Hugo”]
+tags: ['Blog', 'Hugo']
 categories: ["Hugo博客搭建"]
 ---
 

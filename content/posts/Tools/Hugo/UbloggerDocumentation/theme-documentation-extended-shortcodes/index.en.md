@@ -9,7 +9,7 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.jpg"
 
-tags: [“Blog”, “Hugo”, "Ublogger"]
+tags: ['Blog', 'Hugo', 'Ublogger']
 categories: ["Ublogger Documentation"]
 
 lightgallery: true
