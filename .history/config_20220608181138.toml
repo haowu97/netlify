@@ -224,9 +224,9 @@ ignoreErrors = ["error-remote-getjson"]
         Bilibili = ""
         Email = "wuhao97@stu.xmu.edu.cn"
         RSS = true
-        # [languages.zh-cn.params.social.Mastodon]
-        #   id = "@xxxx"
-        #   prefix = "https://mastodon.technology/"
+        [languages.en.params.social.Mastodon]
+          id = ""
+          prefix = ""
 
   [languages.zh-cn]
 	  weight = 2
@@ -417,9 +417,9 @@ ignoreErrors = ["error-remote-getjson"]
         Bilibili = ""
         Email = "wuhao97@stu.xmu.edu.cn"
         RSS = true
-        # [languages.zh-cn.params.social.Mastodon]
-        #   id = "@xxxx"
-        #   prefix = "https://mastodon.technology/"
+        [languages.zh-cn.params.social.Mastodon]
+          id = "@xxxx"
+          prefix = "https://mastodon.technology/"
 
 [params]
   # uBlogger theme version
