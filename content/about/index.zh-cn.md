@@ -1,5 +1,5 @@
 ---
-title: "关于我"
+title: "关于"
 date: 2019-08-02T11:04:49+08:00
 draft: false
 
@@ -13,9 +13,13 @@ math:
 
 <!--more-->
 
+> 你好！如果你不小心来到了我的Blog，希望它对你有用。
+
+这是我目前最喜欢听的歌：
+
 {{< music "https://music.163.com/#/song?id=1306923998" >}}
 
-如果你不小心来到了我的Blog，希望他对你有用！
+这是始终给予我勇气的一句话：
 
 ---
 
@@ -25,3 +29,6 @@ Those times when you get up early and you work hard; those times when you stay u
 
 ---
 
+联系我：
+
+- 电子邮件：wuhao97@stu.xmu.edu.cn
