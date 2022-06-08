@@ -1,3 +1,17 @@
+---
+title: "交易相关"
+date: 2022-06-02T00:04:47+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: []
+categories: []
+---
+
+<!--more-->
+
 [10部华尔街最经典电影，交易人士必看！](https://zhuanlan.zhihu.com/p/55208475)
 
 [好书：相见恨晚的金融学或经济学书籍| 连享会主页 (lianxh.cn)](https://www.lianxh.cn/news/e7e68069e610b.html)
