@@ -6,7 +6,7 @@ draft: false
 description: "关于公派留学的一些信息。"
 upd: "关于公派留学的一些信息。"
 
-tags: ['出国', '读博']
+tags: ['留学']
 categories: []
 ---
 

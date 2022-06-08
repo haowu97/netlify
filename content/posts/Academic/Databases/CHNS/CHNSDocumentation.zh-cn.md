@@ -6,7 +6,7 @@ draft: false
 description: "CHNS官方英文文档的中文机器翻译版汇总。"
 upd: "CHNS官方英文文档的中文机器翻译版汇总。"
 
-tags: ['学术', '数据库', 'CHNS']
+tags: ['学术', '数据', 'CHNS']
 categories: []
 ---
 

@@ -6,7 +6,7 @@ draft: false
 description: "出国读博选校指南，涵盖留学主要国家的相关信息。"
 upd: "出国读博选校指南，涵盖留学主要国家的相关信息。"
 
-tags: ["出国", "留学"]
+tags: ["留学"]
 categories: []
 ---
 
