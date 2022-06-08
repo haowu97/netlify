@@ -1,15 +1,16 @@
 ---
 title: "Typora配置Picgo图床"
 date: 2021-03-04T18:58:21+08:00
-lastmod: 2021-03-04T18:57:57+08:00
 draft: false
 
-description: ""
-upd: "Github、Gitee图床"
+description: "Github、Gitee图床。"
+upd: "Github、Gitee图床。"
 
-tags: ['Typora', '图床']
+tags: ['Typora']
 categories: []
 ---
+
+<!--more-->
 
 因为七牛云需要自己的域名，所以放弃使用，转而使用Github作为图床。
 

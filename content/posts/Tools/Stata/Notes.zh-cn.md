@@ -6,9 +6,11 @@ draft: false
 description: "Stata奇技淫巧。"
 upd: "Stata奇技淫巧。"
 
-tags: ['笔记', 'Stata', 'Coding']
+tags: ['笔记', 'Stata']
 categories: []
 ---
+
+<!--more-->
 
 ## 学习资源
 
