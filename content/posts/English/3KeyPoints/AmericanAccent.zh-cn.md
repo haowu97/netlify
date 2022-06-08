@@ -1,15 +1,16 @@
 ---
 title: "美语发音秘诀 | American Accent Training 学习笔记"
 date: 2021-07-21T14:14:45+08:00
-lastmod: 2021-07-22T14:14:45+08:00
 draft: false
 
-description: ""
+description: "本篇对American Accent Training的知识点进行了系统的整理。"
 upd: "本篇对American Accent Training的知识点进行了系统的整理。"
 
-tags: []
+tags: ['笔记', '英语']
 categories: ['English基础']
 ---
+
+<!--more-->
 
 口音是带有地域特色的发音，口音(Accent)包括音质、语调(intonation)、连读(liaisons)、发音/ 音标(pronunciation)。
 

@@ -254,5 +254,3 @@ Also, check out these reading survival guides from a university in Australia:
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210514164218.png)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210514164340.png)
-
-## 

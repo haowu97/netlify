@@ -1,15 +1,16 @@
 ---
 title: "系统语法精讲|句法"
 date: 2021-04-22T14:14:45+08:00
-lastmod: 2021-04-23T14:14:45+08:00
 draft: false
 
-description: ""
-upd: "语法包括句法和词法，本篇仅介绍词法"
+description: "语法包括句法和词法，本篇仅介绍词法。"
+upd: "语法包括句法和词法，本篇仅介绍词法。"
 
-tags: []
-categories: []
+tags: ['笔记', '英语']
+categories: ['English基础']
 ---
+
+<!--more-->
 
 好的语法观念，不应该有任何要背的东西。
 

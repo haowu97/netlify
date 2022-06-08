@@ -1,15 +1,16 @@
 ---
 title: "英语口语发音规则与技巧"
 date: 2021-07-23T14:14:45+08:00
-lastmod: 2021-07-24T14:14:45+08:00
 draft: false
 
-description: ""
+description: "囊括了日常口语中绝大部分的发音规则与技巧!"
 upd: "囊括了日常口语中绝大部分的发音规则与技巧!"
 
-tags: []
+tags: ['笔记', '英语']
 categories: ['English基础']
 ---
+
+<!--more-->
 
 本篇的内容几乎全部来自以下非常推荐的教程 or 教材，建议在完整掌握一套音标体系之后再学习以下内容（关于[音标学习教程](https://www.wuhao.ink/zh-cn/phonetics/)）：
 
