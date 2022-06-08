@@ -9,11 +9,11 @@ math:
   enable: true
 ---
 
-> 你好！我用Blog来记录所学、所思、所想，如果你不小心来到了我的Blog，希望它对你有用。
+> Hello! I use Blog to record what I learn, think and think about. If you accidentally come to my Blog, I hope it is useful to you.
 
 ### My Favorite English Song：
 
-{{< music "https://music.163.com/#/song?id=1306923998" >}}
+{{< music "https://music.163.com/#/song?id=5264843" >}}
 
 ### 这是始终给予我勇气的一句话:
 
