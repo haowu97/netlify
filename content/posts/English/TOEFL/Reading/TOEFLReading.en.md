@@ -1,20 +1,16 @@
 ---
 title: "TOEFL Reading"
 date: 2022-03-31T21:17:53+08:00
-lastmod: 2021-04-01T21:17:53+08:00
 draft: false
 
-description: ""
-upd: ""
+description: "Reading tips and practice questions."
+upd: "Reading tips and practice questions."
 
-tags: []
-categories: []
-
-math: true
+tags: ["Notes", "TOEFL"]
+categories: ["TOEFL"]
 ---
 
-Reading tips
-Practice questions
+<!--more-->
 
 **The first section is the Reading section.**
 

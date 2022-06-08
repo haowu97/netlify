@@ -1,17 +1,16 @@
 ---
 title: "托福阅读"
 date: 2022-03-31T21:17:53+08:00
-lastmod: 2021-04-01T21:17:53+08:00
-draft: false
+draft: true
 
 description: ""
 upd: ""
 
-tags: []
-categories: []
-
-math: true
+tags: ['笔记', 'TOEFL']
+categories: ['TOEFL笔记']
 ---
+
+<!--more-->
 
 ![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220331220545258.png)
 
