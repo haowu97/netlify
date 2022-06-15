@@ -57,3 +57,13 @@ Excel文件恢复： https://jingyan.baidu.com/article/9989c746effd11f648ecfe2b.
 ### 回归
 
 [用Excel做回归分析](https://zhuanlan.zhihu.com/p/57875710)
+
+## 财务
+
+[NPV 函数 (microsoft.com)](https://support.microsoft.com/zh-cn/office/npv-函数-8672cb67-2576-4d07-b67b-ac28acf2a568?ui=zh-cn&rs=zh-cn&ad=cn)
+
+- NPV函数第一个数为第一年的现金流，非第零期
+
+[IRR 函数 (microsoft.com)](https://support.microsoft.com/zh-cn/office/irr-函数-64925eaa-9988-495b-b290-3ad0c163c1bc?ui=zh-cn&rs=zh-cn&ad=cn)
+
+- NPV函数第一个数为第一年的现金流，非第零期

@@ -26,6 +26,8 @@ categories: []
 
 [Economics, Econometrics, Accounting and Finance Research Jobs (researchgate.net)](https://www.researchgate.net/jobs?researchAreas=Economics%2CEconometrics%2CAccounting%2CFinance&advancedSearch=true)
 
+[EJM - Econ Job Market](https://econjobmarket.org/market)
+
 ## Northern Europe
 
 [All vacancies – University of Copenhagen (ku.dk)](https://employment.ku.dk/all-vacancies/)
