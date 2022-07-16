@@ -12,28 +12,27 @@ categories: []
 
 <!--more-->
 
-## FINM1416
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614001607774.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614001757166.png)
-
-Bond Pricing
-
-![image-20220614004408349](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614004413438.png)
-
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614010020970.png)
+成都双流机场：
 
 
 
-payback period
 
-PB = Years before cost recovery + (Remaining cost to recover/Cash flow during the year)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614013638866.png)
+## 6.18
 
-![image-20220614013802865](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614013802865.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617141350144.png)
 
-![image-20220614013836964](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614013836964.png)
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617143633931.png)
 
-![image-20220614014344276](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220614014344276.png)
+Risk tolerance
+
+![image-20220617151411361](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617151411361.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617162317892.png)
+
+
+
+The representative consumer behaves like the consumers on average in that they as a single person economy reach the same outcome.
+In our economy risk neutral agents don’t care about risk and the risk averse agents don’t take any risk. The representative consumer is then risk neutral.

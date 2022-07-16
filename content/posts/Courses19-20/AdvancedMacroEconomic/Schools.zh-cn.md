@@ -18,6 +18,8 @@ categories: []
 
 [经济学理论发展历程精简版 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/59192246)
 
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/SchoolofEconomics.png)
+
 
 
 前史（古希腊——1776）

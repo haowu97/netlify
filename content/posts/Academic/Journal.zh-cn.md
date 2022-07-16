@@ -12,6 +12,13 @@ categories: []
 
 <!--more-->
 
+通过RSS获取期刊实时信息：
+
+- [Keeping track of the literature - Gene Katsevich](https://ekatsevi.github.io/literature/)
+- [我的RSS订阅搭配：RSSHub + Feedly + Reeder (sspai.com)](https://sspai.com/post/60781)
+- [期刊订阅——RSS实时了解你的方向 (zhihu.com)](https://zhuanlan.zhihu.com/p/342904532)
+- [经济学中的工作论文 | 订阅NBER (zhihu.com)](https://zhuanlan.zhihu.com/p/475017342)
+
 很棒的期刊查询网站[iJournal](https://ijournal.topeditsci.com/home)。
 
 检索平台：

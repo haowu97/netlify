@@ -92,5 +92,9 @@ categories: []
 
 ## PHD
 
-6.1截止，申请材料很简单：[PhD candidate: Applied Microeconomics — AcademicTransfer](https://www.academictransfer.com/en/312045/phd-candidate-applied-microeconomics/apply/#apply)
+柏林洪堡大学，气候经济，七月初过期，两个推荐人：[EJM - Econ Job Market](https://econjobmarket.org/positions/8420)
+
+已过期：
+
+- 6.1截止，申请材料很简单：[PhD candidate: Applied Microeconomics — AcademicTransfer](https://www.academictransfer.com/en/312045/phd-candidate-applied-microeconomics/apply/#apply)
 

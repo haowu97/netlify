@@ -10,7 +10,7 @@ tags: ["学术"]
 categories: []
 ---
 
-
+<!--more-->
 
 [混合截面数据和面板数据有什么区别？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/302837292)
 
@@ -21,6 +21,10 @@ categories: []
 [笔记 | 杂谈控制固定效应这件事，控制固定效应什么意思](https://blog.csdn.net/Claire_chen_jia/article/details/116244528)
 
 [行业固定还是公司固定效应？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/324046090)
+
+[在stata中求各行业每年的行业中位数，命令是什么呀，谢谢-经管爱问 (pinggu.org)](https://ask.pinggu.org/q-41271.html)
+
+
 
 ## 稳健标准误
 
@@ -43,3 +47,12 @@ categories: []
 
 
 
+## 交互项
+
+[When Interaction Actions? (gitee.com)](https://gitee.com/arlionn/jianshu/raw/master/PDF下载/Huang2007-interaction.pdf)
+
+[interactplot：图示交乘项-交互项-调节效应| 连享会主页 (lianxh.cn)](https://www.lianxh.cn/news/22d2b83df9cac.html)
+
+[ Stata：边际效应分析\交乘项的系数含义和图示_arlionn的博客](https://blog.csdn.net/arlionn/article/details/81075788)
+
+[Stata：交乘项该这么分析!| 连享会主页 (lianxh.cn)](https://www.lianxh.cn/news/c42dc033a0999.html)

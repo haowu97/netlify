@@ -12,6 +12,8 @@ categories: []
 
 <!--more-->
 
+[Econ RA Guide | A community guide for research assistants in economics](https://raguide.github.io/)
+
 ## Searching Strategy
 
 [Opportunities | Pathways to Research and Doctoral Careers (predoc.org)](https://predoc.org/opportunities)

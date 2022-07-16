@@ -14,6 +14,8 @@ categories: ['TOEFL笔记']
 
 ## 顺逻辑
 
+and表并列
+
 表递进moreover, in addition, what is more，furthermore, also, then, besides, in turn etc.
 
 表层次on the one hand, ... on the other hand; first, ... second, ... finally;
@@ -30,6 +32,13 @@ categories: ['TOEFL笔记']
 
 下结论in a word, in conclusion, therefore, in short, to sum up, etc.
 
+隐性因果关系词(有时以下词汇也能表示因果)：
+
+- 通过 by
+- 由于：out of... 
+- 导致：bring … to …, lead ... to ...
+- 时间：when/whenever.…
+
 表比较like, similarly, likewise, in the same way, in the same manner, equally.
 
 表**列举**for example, for instance, such as, take ...for example. Except (for), to illustrate.
@@ -40,11 +49,11 @@ categories: ['TOEFL笔记']
 
 表可能presumably, probably, perhaps.
 
-表**解释be动词**, **that is**, namely, in simpler terms.
+表**解释be动词**, **that is**, namely, in simpler terms, as
 
 表总结on the whole, in conclusion, in a word, to sum up, in brief, in summary, to conclude, to summarize, in short.
 
-, () —— : ;均表示顺逻辑
+标点符号, () —— : ;均表示顺逻辑
 
 ;作为逻辑分割点，前后并列
 
@@ -52,9 +61,9 @@ categories: ['TOEFL笔记']
 
 表**转折**however, **rather than**, instead of, but, yet, on the other hand, unfortunately, whereas, **while**, in fact
 
-表让步although, after all, in spite of..., despite, even if, even though, though, admittedly, whatever may happen.
+表**让步**although, after all, in spite of..., despite, even if, even though, though, admittedly, whatever may happen.
 
-表**对比****by contrast**, on the contrary, contradict, while, whereas, on the other hand, unlike, instead, but, conversely, different from, however, nevertheless, otherwise, whereas, unlike, yet, in contrast.
+表**对比** **by contrast**, on the contrary, contradict, while, whereas, on the other hand, unlike, instead, but, conversely, different from, however, nevertheless, otherwise, whereas, unlike, yet, in contrast.
 
 常用**否定**词
 
@@ -66,7 +75,7 @@ hardly, scarcely, barely, little, few, seldom等半否定词
 
 avoid, ban, call off, cancel, deny, deprive, exclude, escape, evade, forbid, free...from, free 
 
-from/of, fail, hate, ignore, lack, lose, miss, naught, neglect, prohibit, quit, 
+from/of, fail, hate, ignore, lack, lose, miss(miss the point), naught, neglect, prohibit, quit, 
 
 refuse, refute , rid, rule out, stop以及above, against, beneath, beyond, far from, off, out 
 
