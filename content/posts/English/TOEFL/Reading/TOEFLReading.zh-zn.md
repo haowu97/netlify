@@ -33,31 +33,31 @@ Skimming >> scanning，考试中略读为主，精读为辅。
 结构式阅读法的要点：
 
 - **首段：每句都看**
-    - 议论文：论点
-    - 说明文：专业背景
+  - 议论文：论点
+  - 说明文：专业背景
 - **其余段落首句精读，中间部分略读**（弄清句间关系即可）
 - **顺逻辑加速阅读**：当段落出现顺承(then)，并列and，举例(for example)，递进(further)，因果(because)，分类(123)，定义/解释(be)等表示顺方向含义词汇时候，说明段落后方内容与前方一致，可以加速阅读。
 - **逆逻辑慢速阅读**：当段落出现转折(but), 否定(not), 让步(though), 对比(contrast)等表示逆方向含义词汇时候说明段落后方与前方内容有出入，需要放慢速度，如果出现多个表示逆方向词汇时，需要以最后一个逆方向词汇后的含义为准；
 - 段落逻辑：
-    - 顺逻辑先验证最易验证的细节；
-    - 逆逻辑先验证最后的细节；
-    - 多个顺逆逻辑结合：先验证最后一个逆逻辑的最好验证的细节
+  - 顺逻辑先验证最易验证的细节；
+  - 逆逻辑先验证最后的细节；
+  - 多个顺逆逻辑结合：先验证最后一个逆逻辑的最好验证的细节
 
 **结构式阅读方法的伪代码**：
 
 ```
 define function 结构式阅读法(P){
-	if(P是首段){
-	read.scan(P); /*如果是首段需要精读*/
-	}
-	else{
-		read.scan(P.首句)； /*不是首段则精读首句*/
-		read.skim(P.余下句)； /*识别句间顺逆逻辑词*/
-	
-	case多顺逻辑：最短/最简单->次短/次简单->难/长；
-	case多逆逻辑：最后逆->倒数2逆->倒数3逆…；
-	case多顺逻辑+多逆逻辑：最后逆->最短/最简单->次短/次简单->难/长；
-	}
+    if(P是首段){
+    read.scan(P); /*如果是首段需要精读*/
+    }
+    else{
+        read.scan(P.首句)； /*不是首段则精读首句*/
+        read.skim(P.余下句)； /*识别句间顺逆逻辑词*/
+
+    case多顺逻辑：最短/最简单->次短/次简单->难/长；
+    case多逆逻辑：最后逆->倒数2逆->倒数3逆…；
+    case多顺逻辑+多逆逻辑：最后逆->最短/最简单->次短/次简单->难/长；
+    }
 }
 ```
 
@@ -65,13 +65,13 @@ define function 结构式阅读法(P){
 
 ```
 function 二分递归结式构阅读法(P1){
-	if（无子结构存在）{
-		invoke function结构式阅读法(P1)
-		return;
+    if（无子结构存在）{
+        invoke function结构式阅读法(P1)
+        return;
     }
     else{
-    	invoke function 二分递归结式构阅读法(P1.1);
-    	invoke function 二分递归结式构阅读法(P1.2);
+        invoke function 二分递归结式构阅读法(P1.1);
+        invoke function 二分递归结式构阅读法(P1.2);
     }
 }
 ```
@@ -147,7 +147,7 @@ Tips:
 - 先对段落进行结构式阅读
 - 阅读题干，然后带入文章，一目三行，定位词定位
 - 关键词匹配信息：逻辑+主干
-    - 注意**逻辑分割原则**：仅在当前逻辑段落进行匹配
+  - 注意**逻辑分割原则**：仅在当前逻辑段落进行匹配
 
 ![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220713213243227.png)
 
@@ -194,37 +194,37 @@ Tips:
 **八大关键词**：
 
 1. 转折
-    1. 转折：however, rather than, instead of, but, yet, on the other hand, unfortunately, whereas, while, in fact...
-    2. 让步：although, after all, in spite of..., despite, even if, even though, though, admittedly, whatever may happen…
+   1. 转折：however, rather than, instead of, but, yet, on the other hand, unfortunately, whereas, while, in fact...
+   2. 让步：although, after all, in spite of..., despite, even if, even though, though, admittedly, whatever may happen…
 2. 对比: by contrast, on the contrary, contradict, while, whereas, on the other hand, unlike, instead, but, conversely, different from, however, nevertheless, otherwise, unlike, yet, in contrast.
 3. 因果
-    1. 表原因: for this reason, due to, thanks to, because, because of, as, since, by, out of, when/whenever
-    2. 表结果: evidently, effect, as a result, thus, hence, so, so that, therefore, accordingly, consequently, as consequence
-    3. 表结尾: therefore, as a result, then, consequently, accordingly, thus, etc.
-    4. 下结论: in a word, in conclusion, therefore, in short, to sum up, etc.
+   1. 表原因: for this reason, due to, thanks to, because, because of, as, since, by, out of, when/whenever
+   2. 表结果: evidently, effect, as a result, thus, hence, so, so that, therefore, accordingly, consequently, as consequence
+   3. 表结尾: therefore, as a result, then, consequently, accordingly, thus, etc.
+   4. 下结论: in a word, in conclusion, therefore, in short, to sum up, etc.
 4. 观点态度词
-    1. 正面：emphasize, illustrate, acknowledge, explain, account for.…
-    2. 负面：question, argue against, refute, disagree.…
-    3. 中性：present/pose, introduce, indicate, suggest, conclude, reveal.…
+   1. 正面：emphasize, illustrate, acknowledge, explain, account for.…
+   2. 负面：question, argue against, refute, disagree.…
+   3. 中性：present/pose, introduce, indicate, suggest, conclude, reveal.…
 5. 顺序词汇：1,2,3..（时间紧就抓住每个列举的首句）：第一、三、三... (for one thing, put it another way, first of all) ；总结概述性词汇
 6. 判断(肯定否定/支持反对)：
-    1. 系动词：be, remain
-    2. 情态动词：can, cannot, must
-    3. 自由褒贬词：对某人态度、观点、行为褒贬的形容词, (un)convincing, untenable, useful, effective, successfully
-    4. 表示评价的实义动词：fail to, underestimate, overestimate, exaggerate, ignore, misrepresent, overlook, miss point
+   1. 系动词：be, remain
+   2. 情态动词：can, cannot, must
+   3. 自由褒贬词：对某人态度、观点、行为褒贬的形容词, (un)convincing, untenable, useful, effective, successfully
+   4. 表示评价的实义动词：fail to, underestimate, overestimate, exaggerate, ignore, misrepresent, overlook, miss point
 7. 比较选择：（注意和文中的动词替换现象）
-    1. not A(x), but rather B(v);
-    2. less A(x) than B(v);
-    3. more A(v) than B(x);
-    4. A(v) rather than B(x);
-    5. no longer/not A(x)but B(V).
-    6. not A(x), instead B(v).
+   1. not A(x), but rather B(v);
+   2. less A(x) than B(v);
+   3. more A(v) than B(x);
+   4. A(v) rather than B(x);
+   5. no longer/not A(x)but B(V).
+   6. not A(x), instead B(v).
 8. 上升下降，绝对词：
-    1. increase/decrease...
-    2. 常见绝对词
-        1. 表示频率：always never impossible must
-        2. 表示范围：all any only no/none
-        3. 表示程度：completely entirely alone
+   1. increase/decrease...
+   2. 常见绝对词
+      1. 表示频率：always never impossible must
+      2. 表示范围：all any only no/none
+      3. 表示程度：completely entirely alone
 
 **错误选项优先级原则**：这几个逻辑出现的时候大概率是错的，因此留在最后验证：绝对 < 比较 < 上升/下降 
 
@@ -330,11 +330,11 @@ ID: 文中一个长句子被阴影标识出来。
 **解题步骤**：依次对选项进行以下判断
 
 1. 首先：逻辑词判断
-    1. 否定、因果、比较、最高级/绝对化
-    2. 通过逻辑可以排除掉一些选项
+   1. 否定、因果、比较、最高级/绝对化
+   2. 通过逻辑可以排除掉一些选项
 2. 其次：内容判断
-    1. 主干内容判断
-    2. 次要内容判断
+   1. 主干内容判断
+   2. 次要内容判断
 
 **句中原则**：当句中出现多个逻辑词的时候，从最靠近句子中部位置的逻辑词入手。
 
@@ -374,7 +374,7 @@ ID: The word X in the passage refers to
 
 - **论点论据逻辑关系（85%）**：正确答案通常会包含论点，论据，以及论点论据之间的支持/反对关系；
 - **原因结果逻辑关系（15%）**：解法同细节题，不再赘述。
-    - 题干：xxx in order to explain why
+  - 题干：xxx in order to explain why
 
 **论点论据核心功能性词汇**：
 
@@ -419,15 +419,15 @@ ID: The word X in the passage refers to
 **段落逻辑分类**：
 
 - 问题解决型 (To solve this problem.../There are two answers)
-    - Suggesting an answer to a theoretical question
-    - Discussing a problem with two possible solutions
+  - Suggesting an answer to a theoretical question
+  - Discussing a problem with two possible solutions
 - 现象解释型 (There are two explanations.…)
-    - A phenomenon is described and an interpretation presented and rejected
-    - Discussing a possible explanation for ...
+  - A phenomenon is described and an interpretation presented and rejected
+  - Discussing a possible explanation for ...
 - 新老观点对比型 (Now/Today/Currently/Recently/However)
-    - Showing that a certain interpretation is better supported by the evidence
-    - Recommending a *different approach*
-    - Describe an *alternative hypothesis*
+  - Showing that a certain interpretation is better supported by the evidence
+  - Recommending a *different approach*
+  - Describe an *alternative hypothesis*
 
 ### 段-段逻辑关系
 
@@ -441,3 +441,62 @@ ID: The word X in the passage refers to
 
 **解题方法**：**着重阅读各个段落的首末句**，厘清段落间的逻辑关系。
 
+## 2.8 句子插入题
+
+题目ID：小黑方块
+
+插入文本题考查的主要是**衔接手段**（cohesion）的把握。要使一个段落内容统一和连贯，句子与句子之间必须有相应的衔接手段。这些衔接手段包括**语言线索**和**内容线索**，其中语言线索包括：
+
+- 词汇衔接手段
+
+- 逻辑衔接手段
+
+- 语法衔接手段
+
+这些衔接手段作为线索，有助于找到插入句子的最佳位置。它们或出现于原文方块前后的句子中，或者就存在于待插入的句子中。反之，如果上下句之间关系紧密，没有跳跃，就不能在它们之间插入句子。
+
+### 词汇衔接手段
+
+词汇衔接手段就是以**核心词的重复**使前后句连贯起来，其中词类可能发生变化，如原文中使用了形容词，而待插入句中有同一形容词的名词形式。或者原文中使用了形容词，而待插入句中有该形容词的副词形式。不管词类如何变化，两句话中的两个句或词组的意思是一样的，因此将前后句衔接起来。词类衔接的主要形式有：
+
+1. **重复核心词**：就是待插入的句子中与方块前的句子拥有相同的核心词，使得前后连贯。
+
+2. 使用**同义词或反义词**：就是待插入的句子中的核心词与方块前的句子中的核心词成同义词或反义词。
+
+### 逻辑衔接手段
+
+完整参考逻辑词汇表：
+
+1. 因果过渡词：because, therefore, thus, consequently, so, as a result;
+
+2. 对比过渡词：however, on the contrary, nevertheless, unlike, in contrast, while, although, but
+
+3. 结构配对词：on the one hand… on the other hand, some...others
+
+4. 比较过渡词：similarly, likewise, like
+
+5. 举例过渡词：for example, for instance, including, such as
+
+6. 递进过渡词：furthermore, also, as well, too, other, in addition, moreover, besides, even, additionally
+
+7. 序列过渡词：first, second, after that, afterwards, next, then, finally
+
+### 语法衔接手段
+
+1. 指示代词：this, these, it, such, another, that, these, those
+
+2. 人称代词：he, she, one, they, his, her, one's, their
+
+3. 定冠词：the
+
+### 前技巧调用
+
+细节题/推断题：逻辑分割原则
+
+- 有时插入句就是逻辑分割点
+
+原则指代题：指代词原则
+
+修辞目的题：线性思维原则
+
+- 帮助对句子进行排序

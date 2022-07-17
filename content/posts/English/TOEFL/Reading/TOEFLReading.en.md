@@ -32,17 +32,17 @@ You will have **54 to 72 minutes** to complete the Reading section. During that 
 **Features** of Academic Reading
 
 1. Formal language
-  2. Few contractions or abbreviations
-  3. Specialized vocabulary
-  4. No idioms or slang expressions
-  5. Formal grammar
-6. Logical and obiective
-  7. Based on facts
-  8. Impersonal tone
-  9. Doesn't appeal to emotions
-10. Conceptually complex
-  11. Multidimensional ideas
-  12. Interconnected parts
+   2. Few contractions or abbreviations
+   3. Specialized vocabulary
+   4. No idioms or slang expressions
+   5. Formal grammar
+2. Logical and obiective
+   7. Based on facts
+   8. Impersonal tone
+   9. Doesn't appeal to emotions
+3. Conceptually complex
+   11. Multidimensional ideas
+   12. Interconnected parts
 
 ### Approaching Reading Passages
 
