@@ -77,8 +77,6 @@ categories: ["Hugo博客搭建"]
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210218180936.png)
 
-
-
 ## 3. 文件存储与访问
 
 Hugo中可以存放文件的文件夹有`assets`和`static`:
@@ -86,9 +84,14 @@ Hugo中可以存放文件的文件夹有`assets`和`static`:
 1. 其中`assets`中的文件需要在正文中饮用后方可生成有效链接，详细参考[官方assets说明](https://gohugo.io/hugo-pipes/introduction/#asset-directory)
 2. `static`下的文件可以直接使用链接的形式访问，例如路径为`static/Latex/Beamer/beamer_tutorial_2015.pdf`的文件，可以在`baseURL.Latex/Beamer/beamer_tutorial_2015.pdf`链接中访问到，详细参见[官方static说明](https://gohugo.io/content-management/static-files/)
 
+## 4. Google Analytics
+
+[How to add Google Analytics to your Hugo site | Charly3Pins](https://charly3pins.dev/blog/how-to-add-google-analytics-to-your-hugo-site/)
+
+[如何为网站设置UA Google Analytics（分析） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/371973749)
+
 ## 0. 其他
 
 `2021-02-18T17:57:18+08:00`中的`+8:00`表示太平洋标准时间
 
 Yaml中的weight参数可以用来设置首页的展示优先级。
-
