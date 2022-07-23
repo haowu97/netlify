@@ -18,3 +18,7 @@ categories: ['Office办公指南']
 
 1. [官方解答](https://docs.microsoft.com/en-us/office/troubleshoot/powerpoint/change-export-slide-resolution)
 2. [百度经验](https://baijiahao.baidu.com/s?id=1624177901710998490&wfr=spider&for=pc)
+
+PPT图片等比例缩放：
+
+- 按住`Shift`再缩放即可

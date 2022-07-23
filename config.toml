@@ -796,7 +796,7 @@ ignoreErrors = ["error-remote-getjson"]
     [params.analytics.google]
       # [UA-XXXXXXXX-X] google analytics code
       # [UA-XXXXXXXX-X] 谷歌分析代号
-      id = ""
+      id = "G-BMZPR35B9B"
       # whether to use gtag linked
       # 是否使用gtag链接
       gtag = false

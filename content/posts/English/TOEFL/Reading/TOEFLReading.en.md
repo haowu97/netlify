@@ -36,7 +36,7 @@ You will have **54 to 72 minutes** to complete the Reading section. During that 
    3. Specialized vocabulary
    4. No idioms or slang expressions
    5. Formal grammar
-2. Logical and obiective
+2. Logical and objective
    7. Based on facts
    8. Impersonal tone
    9. Doesn't appeal to emotions
@@ -200,8 +200,7 @@ Tips: The text needed to be inserted usually include some pronouns. Really know 
 
 #### Prose Summary & Fill in a table questions
 
-The *Prose Summary questions* are designed to show that you recognize the major ideas and relative importance of information
-in a reading passage.
+The *Prose Summary questions* are designed to show that you recognize the major ideas and relative importance of information in a reading passage.
 
 When answering Prose Summary questions, you will need to **select the three answer choices** that express the most important ideas in the passage.
 

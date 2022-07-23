@@ -50,8 +50,8 @@ There will always be **either a Gist-content question or a Gist-purpose question
 
 以下内容选项一般可以直接排除（并非绝对）：
 
-- 比较
-- 变化
+- 比较: comparison
+- 变化: evolve, changing
 - 上节课的内容
 - 细节
 - 反向
@@ -78,7 +78,53 @@ Function questions can include phrases like:
 
 推理题：
 
-重听题：
+## 3.4 重听题
+
+重点听句子的逻辑关系，不用做笔记。
+
+- 转折逻辑：正确选项为，A和B是相反的
+
+- 提问逻辑
+  
+  - e.g. why would they do that?
+  
+  - 正确答案：引出回答，e.g. to introduce an explanation. 
+
+- 解释逻辑：正确答案为，回答问题or 解释术语or解释point
+
+- 语气
+
+- 俚语 slang
+
+Tell me about it.
+
+- 表示我理解！
+
+- 表示请告诉我
+
+I hear you
+
+- 表示我理解
+
+learn sth/ it the hard way
+
+- 经过一些曲折明白了sth/ it
+
+why don't we just stick with ...
+
+- 只讨论某些东西，不讨论另一些东西
+
+A of all B do sth
+
+- 连A这样的B都去做了某一件事情，表示惊讶
+
+Well, I don't know about that
+
+- 可以表示我不同意
+
+提问 + but：表示不同意对方的意思。
+
+提问 + so：表示理解对方的意思。
 
 # 4. 听力常考逻辑词
 

@@ -12,7 +12,7 @@ categories: []
 
 <!--more-->
 
->`you-get`是开源的Python第三方库，通过它我们仅用一行代码就可以下载Bi站等视频网站的视频源文件，是获取素材的非常方便的途径。
+> `you-get`是开源的Python第三方库，通过它我们仅用一行代码就可以下载Bi站等视频网站的视频源文件，是获取素材的非常方便的途径。
 
 ## 法一
 
@@ -26,8 +26,6 @@ categories: []
 
 [vtool解析网-哔哩哔哩,B站,bilibili在线解析,小红书,抖音,快手去水印](https://vtool.pro/bilibili.html)
 
-
-
 ## you-get: 批量下载
 
 `you-get`是GitHub上Python的一个开源库，非常好上手，**下面简单介绍一下安装与使用方法**，具体可参考[GitHub地址](https://github.com/soimort/you-get)，[You-Get官网](https://you-get.org/).
@@ -35,8 +33,6 @@ categories: []
 **安装**：与其他Python第三方库相同，在`cmd`输入`pip3 install you-get`即可完成安装。
 
 **下面演示如何下载鬼灭之刃第一集MP4文件**：
-
-
 
 首先获取其网页链接`https://www.bilibili.com/bangumi/play/ep267851`，然后在`cmd`输入这行命令即可完成下载：
 
@@ -75,19 +71,8 @@ you-get -i https://www.bilibili.com/video/BV1GE411h7LB
 you-get --playlist -o D:/Download/BiliBili https://www.bilibili.com/video/BV1GE411h7LB
 ```
 
-
-
 `you-get`在官方文档中给出的适用范围包括了几国内外的几乎所有主流视频网站（YouTube、优酷、爱奇艺等），然而在我的使用过程中效果并不理想，爱奇艺视频文件无法下载，优酷视频文件下载到一半程序中止。但仍然不可否认的是，这是一个非常好用的获取视频源文件的API。
 
 以上是本篇的全部内容，欢迎关注我的[知乎](https://www.zhihu.com/people/wu-hao-69-57/activities)|[简书](https://www.jianshu.com/u/eec9c995a8dc)|[CSDN](https://me.csdn.net/weixin_44533530)|[微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5NjIyMTQyMw==&scene=124#wechat_redirect)`PurePlay` , 会不定期分享研究与学习干货。
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220608172823.png)
-
-
-
-
-
-
-
-
-

@@ -441,7 +441,7 @@ ID: The word X in the passage refers to
 
 **解题方法**：**着重阅读各个段落的首末句**，厘清段落间的逻辑关系。
 
-## 2.8 句子插入题
+## 2.8 句子插入题：Insert Text Questions
 
 题目ID：小黑方块
 
@@ -500,3 +500,80 @@ ID: The word X in the passage refers to
 修辞目的题：线性思维原则
 
 - 帮助对句子进行排序
+
+## 2.9 主旨题：Prose Summary Questions
+
+ID: 位置最后一道题，黑体字的介绍句如下
+
+Directions: An introductory sentence for a brief summary of the passage is provided below. Complete the summary by selecting the THREE answer choices that express the most important ideas in the passage. Some answer choices do not belong in the summary because they express ideas that are **not presented **in the passage or are **minor ideas** in the passage. This question is worth 2 points.
+
+PS: 选中3个得到2分，选中2个得到1分。
+
+**正确答案组成**：
+
+1. 全文主题
+2. 一个或多个段落概述
+
+注意：正确答案多为**概括性描述**，可能找不到对应的原文某句话
+
+**错误选项**分析：
+
+1. 与原文矛盾
+2. 原文未明确提及
+3. 原文正确信息但与介绍句无关的原文细节
+
+黑体字的**介绍句**(introductory sentence)分析：
+
+1. 绝大部分为文章主题
+2. 极少数是对文章的话题topic下定义
+
+**解题步骤**：
+
+- 只剩下**10秒钟**蒙的时间：选择最长的3个句子（句子太短无法进行概述）
+
+- **1min-2min**时间：**精读介绍句**，筛选关键词（筛选标准：介绍句的**主干**，**标题**，或文章中**高频**出现的表达），匹配与关键词语义相等的选项，排除与介绍句无关的选项。
+
+- 剩下**3min**或以上的时间：精读介绍句，点**review text**,.用1min左右时间，结合之前记录每段主题句（首尾句）中的要点，选择表达了文章主旨与段落概述（记录要点）一致的选项。
+
+- **具有区分度的题目，不要死磕！**
+
+**排除技巧**：
+
+1. 排除带有**解释修饰成分**的且修饰对象和修饰内容为不重要信息的选项
+
+2. 排除**主语为细节**的选项
+
+3. 排除**小举例**(只提到过一次，未展开，或连续列举的举例)，不能排除对大段举例主题的概述
+
+| 主要细节      | 次要细节          |
+| --------- | ------------- |
+| 直接支持主题    | 支持主要细节        |
+| 对理解文章必不可少 | 删除后并不影响理解文章主题 |
+
+## 2.10 配对题：Fill in a Table Questions
+
+ID: 位置最后一道题，出题形式是表格（相对少考）。
+
+Directions: Complete the table below by selecting three answer choices that are characteristics of primary groups and two answer choices that are characteristics of secondary groups. This question is worth 3 points.
+
+**Each reading passage will have one Prose summary question, or one Fill In A Table Question, but not both**.
+
+PS: 选对得3分，错一个扣一分，以此类推。
+
+**正确选项**要同时满足两个条件
+
+1. 原文明确提及正确信息
+
+2. 与引导词对应
+
+注意：正确答案可以是**段落概述**，也可以是段落中**细节的同义改写**。
+
+**错误选项**分析：矛盾/未提及/与引导词无关。
+
+**解题步骤**
+
+1. 匹配与引导词语义相等的选项，排除与引导词无关的选项
+
+2. 若引导词与选项中没有语义对应，则判断**引导词所在大区间(通常为1-3个自然段)**，然后再进行配对
+
+注意：同一个表格中不可能出现相反两个含义的选项

@@ -26,7 +26,7 @@ categories: ['English基础']
 
 20min 泛读(复习上节的知识点，以意群为主)
 
-## 简单句
+## 1. 简单句
 
 单词的词性：
 
@@ -70,6 +70,8 @@ categories: ['English基础']
 3. S-V-C: The car is beautiful.
 4. S-V-O-O: Michael gave him a book.
 5. S-V-O-C: I find the purse pretty.
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220720171605.png)
 
 ### 补语
 
@@ -120,7 +122,7 @@ categories: ['English基础']
 - His father gave him a dog. 他的爸爸给他一只狗
 - His father called him a dog. 他的爸爸骂他是狗
 
-## 名词词组与冠词
+## 2. 名词词组与冠词
 
 名词短语都是由三个部分所构成：
 
@@ -152,7 +154,7 @@ categories: ['English基础']
 - the Dead （Sea） 死海
 - the United States of America 美国
 
-## 动词时态
+## 3. 动词时态
 
 时态：
 
@@ -236,7 +238,7 @@ be+doing的解释：
 
 大量的阅读输入中巩固强化。
 
-## 动状词(Verbals)/非谓语动词
+## 4. 动状词(Verbals)/非谓语动词
 
 传统语法所称的动状词(Verbals)，包括现在分词(Ving)、过去分
 词(Ven)、动名词(Ving)与不定词(to V)等等。其中现在分词、过去分
@@ -378,7 +380,7 @@ be+doing的解释：
 
 - I have no comment to make while the case is being investigated by police.
 
-## 修饰词
+## 5. 修饰词
 
 八大词类当中，属于修饰语性质的有形容词和副词两种。这两种词类
 之间的分工，在语法书中都是说形容词用来修饰名词，而副词用来修
@@ -487,7 +489,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 副词还包括时间副词、地方副词、频率副词等类别，各类语法书中所述甚详，也十分简单，毋庸赘述。另外副词也有比较级、最高级的变化，但是原则和形容词比较级完全一样，也无需再重复。只有一点：副词的典型字尾是-ly。在判断两个音节的副词的比较级拼法时，要保留-ly 字尾不去动它， 在前面加more,most 来变化， 像more sweetly, most sweetly。除此之外，副词比较级拼法的变化也是一如形容词。
 
-## 介系词
+## 6. 介系词
 
 介词的用法，比较接近单词、 短语的问题，而不大属于语法的问题。
 
@@ -521,7 +523,7 @@ five、John's等词）与名词中间。还有一些例外：
 - 例：There’ll be a concert on Independence Day.
 - (独立纪念日那天有场音乐会。）
 
-## 语气
+## 7. 语气
 
 主要的*语气助动词*有下列这几个：
 
@@ -700,7 +702,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 但是主句设定的时间是「现在」(时间副词是now)；叙述的也是「非事实」（实际的情况是现在自己并没有孙子），要采用「过去」来表达「虚拟语气」。这时候只要用过去拼法的 might have就行了。
 
-## 复合句
+## 8. 复合句
 
 复合句包括以下两种：
 
@@ -1117,7 +1119,7 @@ Unless
 Because
 Although
 
-## 倒装句
+## 9. 倒装句
 
 *用倒装句的原因*：为了强调，也使句子结构更清楚。
 
@@ -1278,7 +1280,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 倒装：Girls like cats more than do boys,who.....
 
-## 简化从句
+## 10. 简化从句
 
 中小学传统的语法教学一般就直接讲V-ing，用to do等等用法，太注重词法！本质上无可厚非，毕竟传统家长的观念都是以分数为重。但是，我想说的是，这样做的后果就是学生产生思维定式）没有自已的思考，考雅思一团槽。国外考试最基本的能力是需要学生能读懂文章，但是中国学生基本都是一篇读下来什么都不记得，做题全靠蒙句子里面的单词都认识，连在一起就不认识了。久而久之对英语产生了厌恶，也总是学不会。另外，这种教学方式会让学生容易抬杠（讲义里不写了）。学完这三讲的简化从句后，你会知道这些V-ing，to do是怎么演变过来的。
 
