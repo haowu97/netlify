@@ -86,9 +86,29 @@ Hugo中可以存放文件的文件夹有`assets`和`static`:
 
 ## 4. Google Analytics
 
-[How to add Google Analytics to your Hugo site | Charly3Pins](https://charly3pins.dev/blog/how-to-add-google-analytics-to-your-hugo-site/)
+作用：统计站点的流量情况。
 
-[如何为网站设置UA Google Analytics（分析） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/371973749)
+参考
+
+- [谷歌流量分析工具Google Analytics使用方法指南教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/136378374)
+
+UA可以直接使用，但是 UA 在2023年将被弃用！
+
+- [Hugo中使用Google Analytics · 零壹軒·笔记 (qidong.name)](https://note.qidong.name/2017/07/05/google-analytics-in-hugo/)
+
+- [How to add Google Analytics to your Hugo site | Charly3Pins](https://charly3pins.dev/blog/how-to-add-google-analytics-to-your-hugo-site/)
+
+- [如何为网站设置UA Google Analytics（分析） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/371973749)
+
+- [为 Hugo 配置 Google Analytics | 长风 (immwind.com)](https://immwind.com/google-analytics-for-hugo/)
+
+- [Hugo设置Google Analysis_WingsZeng的博客-CSDN博客](https://blog.csdn.net/weixin_42465278/article/details/117368515)
+
+GA4 添加防范参考，目前还没有成功过：
+
+- [Google Analytics | Hugo学习笔记 (skyao.io)](https://skyao.io/learning-hugo/docs/theme/docsy/googleanalytics.html)
+
+- [Add Minimal Analytics (Google Analytics v4) to Hugo - tips & tricks - HUGO (gohugo.io)](https://discourse.gohugo.io/t/add-minimal-analytics-google-analytics-v4-to-hugo/39016)
 
 ## 0. 其他
 

@@ -17,4 +17,8 @@ categories: ['实用软件']
 - https://blog.csdn.net/dxlove520520/article/details/105446303
 - https://zhuanlan.zhihu.com/p/127043982
 
-使用次数查询：https://accounts.mathpix.com
+使用次数查询: https://accounts.mathpix.com
+
+更新于2022年7月23日：
+
+- API免费使用次数为 200 次 / month
