@@ -28,7 +28,7 @@ categories: []
 
 ## 什刹海、鼓楼，南锣鼓巷片区
 
-![](http://b1-q.mafengwo.net/s9/M00/D2/C0/wKgBs1euz3CAJG8CAAYw1C_0IUw444.png?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152935.png)
 
 主要景点：景山公园， [北海](http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10796.html) 公园， [什刹海](http://www.mafengwo.cn/poi/3472.html) ，后海，恭王府，梅兰芳故居，郭沫若故居，银锭桥，烟袋斜街，钟楼，鼓楼， [南锣鼓巷](http://www.mafengwo.cn/poi/3511.html)（通常来说，必去恭王府， [北海](http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10796.html) ， [什刹海](http://www.mafengwo.cn/poi/3472.html) ， [南锣鼓巷](http://www.mafengwo.cn/poi/3511.html) ，银锭桥，烟袋斜街，选去钟楼，鼓楼，梅兰芳故居，郭沫若故居）
 
@@ -95,7 +95,6 @@ categories: []
 开放时间：9: 00-16: 30(无休息日)
 门票：成人10元、学生5元，老年人持老年证半价优惠。
 
-
 鼓楼大街这有很多美食， 比如 ：混沌侯、姚记炒肝、南锣肥猫等等，南锣逛累了，可以先找个地吃吃饭，歇歇脚。
 
 从南锣鼓巷由南向北走的，走到胡同尽头，就到了鼓楼东大街，顺着鼓楼东大街一路由东向西前行，就见到了北京著名的钟鼓楼，然后左转顺着地安门外大街前行大概100米就到了烟袋斜街的入口。
@@ -103,4 +102,3 @@ categories: []
 ## 烟袋斜街
 
 烟袋斜街东起地安门外大街，为 东北 西南走向，全长232米。据说，当时居住在北城的旗人，大都嗜好抽旱烟或水烟，烟叶装在烟袋中。由于烟袋的需求与日俱增，所以斜街上一户一户开起了烟袋铺。除此之外，烟袋斜街本身就宛如一只烟袋。细长的街道好似烟袋杆儿，东头入口像烟袋嘴儿，西头入口折向南边，通往银锭桥，看上去活象烟袋锅儿。正是基于这两方面的原因，以“烟袋”命名斜街，真可谓名副其实。
-
