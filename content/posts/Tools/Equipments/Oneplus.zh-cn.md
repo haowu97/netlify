@@ -19,7 +19,7 @@ categories: []
 刷机前记得备份好手机应用及联系人、相册等，推荐的备份软件
 
 - **一加搬家**（可备份联系人、相册、视频音乐等）
--  **钛备份** （可完全备份软件所有数据，需要root权限）
+- **钛备份** （可完全备份软件所有数据，需要root权限）
 
 推荐以上两款备份工具，一款负责系统的备份，一款负责软件的备份，刷机后恢复一下就和原来系统上的设置没什么区别。
 
@@ -37,7 +37,7 @@ categories: []
 
 备份拷贝到电脑以后不要再删除了，更新备份时候再删除老的，早晚能用上的。
 
-![](http://image.coolapk.com/feed/2020/0510/20/2969246_6a58a7d7_4432_596@1440x3120.jpeg.m.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152145.png)
 
 #### 恢复数据：
 
@@ -47,7 +47,7 @@ categories: []
 
 拷贝完成以后，打开【一加搬家】---备份与恢复---恢复备份---选择备份---选择要恢复的内容---开始恢复
 
-![](http://image.coolapk.com/feed/2020/0510/20/2969246_f5a0399d_4432_5961@1440x3120.jpeg.m.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723151853.png)
 
 注意：原生未解锁的，想要备份只能使用【一加搬家】而且一定要备份，解锁会清除所有数据。
 
@@ -66,27 +66,27 @@ categories: []
 
 到[一加中国官网](https://www.oneplus.com/cn)，将网页滑动到最底部，点击这里
 
-![img](https://pic3.zhimg.com/80/v2-3ff52cab266e038dcc4b43bb2c4864fa_720w.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152357.png)
 
 然后选择你想要的选择的国家和地区，可以选择United States(美版可能出现无法安装的情形，此时可以选择欧版，例如德国)。
 
-![img](https://pic3.zhimg.com/80/v2-1ca7923a9171c0249ae429d7bfeee04e_720w.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152437.png)
 
 然后点击Support(支持)，进入支持页面。
 
-![img](https://pic1.zhimg.com/80/v2-a371936daca50469aa8c8282367bad0c_720w.png)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152524.png)
 
 滑动找到Software Upgrade，进入手机型号的选择。
 
-![img](https://pic4.zhimg.com/80/v2-63129382a9308b131cb683e6b37d7647_720w.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152604.png)
 
 我的是7Pro，我就选择了我的型号。
 
-![img](https://pic4.zhimg.com/80/v2-ce1c4d29a4ff41e38a1ae1103d68fb93_720w.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152635.png)
 
 进入系统下载页面，直接点击下载。
 
-![img](https://pic4.zhimg.com/80/v2-05353f546461ef558de35c7d8caf8cd3_720w.jpg)
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220723152703.png)
 
 下载完之后，需要放在内部存储得根目录下。
 
