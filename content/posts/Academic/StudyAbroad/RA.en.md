@@ -50,7 +50,7 @@ categories: []
 
 [Job Opportunities - HKBU](https://www.hkbu.edu.hk/en/quick-links/job.html)
 
-[Research / Project Posts | Human Resources Office (polyu.edu.hk)](https://www.polyu.edu.hk/hro/careers/external_adv/research/?keyword=finance)
+[Job Application - Research / Project Posts (polyu.edu.hk)](https://jobs.polyu.edu.hk/research.php)
 
 [research assistant, Education : General / Others Jobs, Research Jobs - May 2022 | 56 jobs matched | CTgoodjobs](https://www.ctgoodjobs.hk/ctjob/listing/joblist.asp?keywordForQuickSearch=research%20assistant&fulltext=JC&job_area=464,170&page=1)
 

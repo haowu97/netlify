@@ -12,21 +12,23 @@ categories: ['TOEFL笔记']
 
 <!--more-->
 
-## 图书馆学习安静好
+# 1.  图书馆学习安静好
 
 Where do you like to study?
 
 **Well**, I prefer to study at the library because it enables me to study more efficiently/ could help improve my study efficiency. **I mean** it is very quiet in the library and so I could **focus on** the things that I'm **dealing with like reading books, writing papers, preparing for exams and stuff like that**. And I am able to finish them all very quickly. But if I study in my dorm, it will be very noisy because some of my roommates might be talking on the phone loudly and some of them might be playing guitar or something. And so I will **get distracted easily** and I will not be able to **concentrate** (108words).
 
-### 活用
+## 活用
 
-A/D: With the development of technology, like electronic books, libraries will be replaced.(重复2017.09.16-task2)
+**A/D**: With the development of technology, like electronic books, libraries will be replaced.(重复2017.09.16-task2)
 
-M: **Well**,(**Personally**), I don't **think/  agree with the statement**  that with the development of technology like electronic books, libraries will be replaced.
+M: **Well**,(**Personally**), I don't **think/ agree with the statement**  that with the development of technology like electronic books, libraries will be replaced.
 
 T: **That's because** I think libraries are actually good places for students to study.
 
 E: **I mean/ you know**  it's very quiet there, so students could **focus on** the things that they are **dealing with** like **reading books, writing papers or preparing for exams** and **stuff like that**. So they **could finish the assignments** quickly.
+
+C和A二选一：
 
 C: But other places are not so **ideal for** study. **Take dorms for instance**. It will be noisy there since some people might play the guitar or some of them might talk loudly on the phone. Therefore students who want to study there might **get distracted** easily.
 
@@ -36,19 +38,19 @@ A: For instance, I prepared for my finals at the library last semester and there
 
 1. 2018.8.25-2 Some people think that libraries should be quiet because of study while others think that people could do some social activities and interactions there. Which do you think is better?
 2. 2018.9.0-2 Some people prefer to decorate their bedrooms or study rooms with a lot of decorations like pictures and stuff while others like to keep their surroundings simple and free of decorations. Which do you prefer and why?(重复2017.826AM-2)
-3. 2019.2,23NA2 (重复201809161) You have just received a message that your professor has canceled the class on this evening. Your classmate asks you to go for a movie at an unexpected time tonight, but you need to take an exam in two days. What are you going to do on this evening and why?
+3. 2019.2,23NA2 (重复2018.09.16-1) You have just received a message that your professor has canceled the class on this evening. Your classmate asks you to go for a movie at an unexpected time tonight, but you need to take an exam in two days. What are you going to do on this evening and why?
 4. 2019.1.13-2 Some secondary-schools require that every students schedule includes *study hall*, which is a free, class period during the school day in which students can do class assignments or rest. Do you think this is a good idea? Why or why not? Use details and examples in your response.
-5. 2019.8.24PM(重复201819task2) A/D: Employees shouldn't *send personal texts or emails during workhours*.
+5. 2019.8.24PM(重复2018.11.10-task2) A/D: Employees shouldn't *send personal texts or emails during workhours*.
 6. 2019.3.6-2A/D: the best way for parents to teach children good behavior is to praise their good behavior than to criticize their bad behavior.(图书馆大声喧哗作为bad behavior)
 7. 2019.9.7下午场 Some parents believe that they should prevent their children from making mistakes to protect them; while other parents believe that they should allow their children to make mistakes. Which opinion do you support and why?
 
-## 题目问啥我爱啥
+# 2. 题目问啥我爱啥
 
 If you have the chance to go to the outer space, will you go or not?
 
 Well, if I **have the chance to** go to the outer space, I will definitely go because I love astronomy and I actually want to be an astronomer in the future. **So if I could do this**, I am able to **experience a lot of exciting things** like a world without gravity, and I am able to see some beautiful nebulae, **especially** the Crab nebula **which is my favorite**. And also, I think if I am lucky enough, I will be able to meet some aliens and stuff which will be fantastic.(92words)
 
-## 参加比赛得奖棒
+# 3. 参加比赛得奖棒
 
 Talk about a positive event and the result.
 
@@ -68,7 +70,7 @@ Well, when I was a freshman, I joined a music club on campus because I love sing
 
 - 回忆杀：老照片回忆比赛经历
 
-## 要死了要死了要死了
+# 4. 要死了要死了要死了
 
 A/D: Students should take a year off before entering college。
 
@@ -135,7 +137,7 @@ Well I think it's a good idea for students to take a year off before entering co
 
 2019.9.22（重复2017.12.17-2/2018.9.8-2/2018.12.16-2）When traveling outside, do you like to share your information and location with your family members and friends or not？
 
-## 老师上课有意思
+# 5. 老师上课有意思
 
 Talk about most your favorite teacher。
 
@@ -160,7 +162,7 @@ Well, my favorite teacher is my TOEFL speaking teacher Fiona. I like her because
 
 2019.9.1（重复2017.4.1/2019.8.1）Some students prefer to attend a very expensive academic program in a well-known university; while other students prefer to attend a cheaper academic program(provides scholarship) in a less wellknown university. Which way do you prefer and why? Use speciLic reasons and examples to explain your choice.
 
-## 捐款传播正能量
+# 6. 捐款传播正能量
 
 A/D: Celebrities such as athletes and singers are good examples for young people.
 
@@ -172,7 +174,7 @@ Well I agree with the statement that celebrities are good examples for young peo
 
 2019.7.28-2 A/D: celebrities should use their fame and money to help others.
 
-## 家有贱狗没人看
+# 7. 家有贱狗没人看
 
 A/D: people can get happiness from helping others.
 
@@ -182,7 +184,7 @@ Well I agree with the statement that people can get happiness from helping other
 
 2019.9.21下午场（重复17.3.25-2）Some people prefer to call others when dealing with problems while others like to send messages. Which do you prefer and why?
 
-## 种树汽车爱环保
+# 8. 种树汽车爱环保
 
 How to reduce air pollution?
 
@@ -227,7 +229,7 @@ Learn from ancestors:
 - advantages: 环保
 - disadvantages: unconvenient
 
-## 勤工俭学事业线
+# 9. 勤工俭学事业线
 
 A/D: students should take a year off to work before entering college.
 
@@ -245,7 +247,7 @@ Take me for example, before entered university, I worked as a part-time teaching
 
 2019.3.3-2 (重复2018.7.1-2) A/D: People should be completely honest and open with their close friends.
 
-## 上网购物方便多
+# 10. 上网购物方便多
 
 Where do you like to go shopping?
 
@@ -266,7 +268,7 @@ the phone or come over to the office to do it?
 
 2019.8.25 When shopping for daily necessities, some people prefer to go to a large supermarket or a grocery store to buy all the things at once. Other people prefer to go to several small specialty stores to buy all the things. For example, they will go to a food store to buy food materials. Which shopping way would you prefer? And why? Give specific reasons and examples in your answer.
 
-## 推荐饺子意义大
+# 11. 推荐饺子意义大
 
 If a foreigner comes to your country, what kind of food will you recommend?
 
@@ -284,7 +286,7 @@ Well, if a foreigner comes to China, I would recommend Chinese dumplings to him 
 
 2019.4.14-2 Some people prefer to make a detailed plan ahead of their traveling to an unfamiliar place, while others prefer to make decisions after arriving at an unfamiliar place or just walk around. Which way do you prefer and why? Use specific reasons and examples to support your response.
 
-## 学习艺术有意思
+# 12. 学习艺术有意思
 
 Talk about your favorite subject at school.
 
@@ -312,14 +314,13 @@ Well, I really like art history because I think this course is very interesting.
 
 2019.7.6+7.7-2 Some students believe that students should choose what courses to study, while other students think that students’ professors should make the decision for students. Which opinion do you support and why?
 
-## 论文布置立马写
+# 13. 论文布置立马写
 
 Start writing papers right away or wait until deadline.
 
 Well, I prefer to start writing all my papers right away because this is good for me. I mean in this way, I could have more time to prepare like **going to the library to read some books or getting online to collect some data** or when I have some problems, I could **ask the professors for help**. So I am able to fnish them on time. But if I wait until the deadline, I might not be able to submit them ontime because of limited time, which will hurt my grades.(93words)
 
 ### 活用
-
 
 Assignment related
 
@@ -348,7 +349,7 @@ Life
 
 2019.7.13-2 Some people prefer to finish easy work first while others like to do hard work first. Which one would you prefer to do?
 
-## 打工赚钱买买买
+# 14. 打工赚钱买买买
 
 Share a house with other people or rent a house alone.
 
@@ -367,7 +368,7 @@ Well I prefer to share a house with other people becauseit could help me save so
 
 2019.8.3 To promote academic success, your university is considering a new policy that would limit the number of hours per week that students can spend working at university jobs. Do you think this is a good idea? Explain why or why not, using specific examples and details in your response.
 
-## 合作社交踢足球
+# 15. 合作社交踢足球
 
 Kids who take part in team sports have better social abilities.
 

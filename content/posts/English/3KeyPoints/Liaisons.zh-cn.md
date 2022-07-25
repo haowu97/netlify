@@ -28,9 +28,9 @@ categories: ['English基础']
 例：
 
 1. Take it all，连读要点：
-    1. 辅元连读
-    2. k不送气（仅美式英语有），注意不送气和浊化有区别
-    3. 闪音flap t（仅美式英语有）：一般是元音 + t + 元音时，t 不送气；但有时辅音+ t + 元音时，也不送气，例如started。
+   1. 辅元连读
+   2. k不送气（仅美式英语有），注意不送气和浊化有区别
+   3. 闪音flap t（仅美式英语有）：一般是元音 + t + 元音时，t 不送气；但有时辅音+ t + 元音时，也不送气，例如started。
 2. Not at all.
 3. Take it easy.
 4. With a friend of mine.
@@ -184,13 +184,13 @@ inpatient ---> impatient
 在美式英语中，还有以下变音现象：
 
 1. [s] + [j] ---> [ʃ]: 
-    1. this year 今年 [ðɪsˈjɪr] ---> [ðɪˈʃɪr]
-    2. God bless you.
+   1. this year 今年 [ðɪsˈjɪr] ---> [ðɪˈʃɪr]
+   2. God bless you.
 2. [t] + [j] ---> [tʃ]
-    1. last year 去年 [læstˈjɪr] ---> [læsˈtʃɪr] 
-    2. Nice to meet you
+   1. last year 去年 [læstˈjɪr] ---> [læsˈtʃɪr] 
+   2. Nice to meet you
 3. [z] + [j] ---> [ʒ]
-    1. as you wish
+   1. as you wish
 
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=8)中也有详细讲解：
 
@@ -231,13 +231,13 @@ inpatient ---> impatient
 *不送气 or 浊化*：[s]出现在单音节或重音节的字中，之后有[p]、[k]、[t]等爆破清辅音时，[p]、[k]、[t]要分别念成[b]、[g]、[d]。例如：
 
 1. 单音节：
-    1. speak
-    2. skirt
-    3. steak
+   1. speak
+   2. skirt
+   3. steak
 2. 重音节：
-    1. spacious
-    2. skillful
-    3. standard
+   1. spacious
+   2. skillful
+   3. standard
 
 [s]出现在非重音节的字中，之后有[p]、[k]、[t]等辅音时，仍维持原来念法。美国人即使在非重音节中也将[p]、[k]、[t]念成[b]、[g]、[d]。例如：
 
@@ -338,17 +338,17 @@ inpatient ---> impatient
 
 1. let her/ him go
 2. Did **he** have lunch?
-    1. /dɪd i/
-    2. /dɪ* hɪ/
+   1. /dɪd i/
+   2. /dɪ* hɪ/
 3. Give **him** 5 bucks.
-    1. /gɪv ɪm/
-    2. 可以弱读成/gɪv əm/
+   1. /gɪv ɪm/
+   2. 可以弱读成/gɪv əm/
 4. tell **him**.
-    1. /tɛl ɪm/
-    2. 可以弱读成/tɛl əm/
+   1. /tɛl ɪm/
+   2. 可以弱读成/tɛl əm/
 5. take **his** letter.
 6. I wanna make **her** breakfast.
-    1. /mek er/
+   1. /mek er/
 7. love her
 
 具体讲解见以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=6)：
@@ -381,7 +381,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1iV411z7Nj p=38 >}}
 
-## Weak Forms: 弱读 
+## Weak Forms: 弱读
 
 英语中所谓的”*弱读*"并不是指音量要弱，而是指一些词在词组语句中发生元音的音变，具体体现在让"饱满"的元音发音变成一个"弱一点"的音，而这个弱一点的音，一般是*中央元音/ə/*。一般常用的，少音节的虚词，如介词、连词、代词等，会弱读，常常将其中给的元音弱读成弱央元音——Schwa /ə/。例如：
 
@@ -390,7 +390,7 @@ inpatient ---> impatient
 1. am
 2. are
 3. have: /hæv/ ---> /həv/ ---> /əv/
-    1. How long have you been ...?
+   1. How long have you been ...?
 4. has
 5. do: /du/ ---> /də/
 6. does: /dʌz/ ---> /dəs/
@@ -453,9 +453,9 @@ inpatient ---> impatient
 在日常生活口语中，英语母语人士往往会简化很多常用的单词和词组，比如以下例子都是在口语中非常常见的例子，所以需要熟悉掌握
 
 1. want to ---> /wɑnt tu/ ---> /wɑn tu/ ---> /wɑn u/ ---> /wʌnə/ = *wanna*
-    1. 其中，/n/后面的/t/与/d/可以省略
+   1. 其中，/n/后面的/t/与/d/可以省略
 2. going to ---> *gonna*
-    1. I'm going to ---> I'm gonna ---> /ʌmənə/
+   1. I'm going to ---> I'm gonna ---> /ʌmənə/
 3. have got to ---> *gotta*
 4. out of ---> outta
 5. a lot of ---> a lotta

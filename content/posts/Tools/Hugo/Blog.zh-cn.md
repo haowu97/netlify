@@ -344,4 +344,3 @@ Hugo中绑定域名后，同时需要改变网站根目录中`config`文件的�
 2. Github Pages访问太慢？通过Netlify免费加速: https://www.cnblogs.com/37Y37/p/12551839.html
 3. 域名绑定参考: https://hero.github.io/categories/Hexo/netlify/
 4. 同时部署 Hugo 静态博客到 Netlify 和 Github Pages: https://www.nashome.cn/posts/hugo-netlify/
-

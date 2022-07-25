@@ -18,6 +18,7 @@ categories: []
 - [我的RSS订阅搭配：RSSHub + Feedly + Reeder (sspai.com)](https://sspai.com/post/60781)
 - [期刊订阅——RSS实时了解你的方向 (zhihu.com)](https://zhuanlan.zhihu.com/p/342904532)
 - [经济学中的工作论文 | 订阅NBER (zhihu.com)](https://zhuanlan.zhihu.com/p/475017342)
+- [不那么完美的 RSS 订阅方案 — feedly + RSSHub Radar - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/113572573)
 
 很棒的期刊查询网站[iJournal](https://ijournal.topeditsci.com/home)。
 

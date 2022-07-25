@@ -12,7 +12,7 @@ categories: []
 
 <!--more-->
 
-## CV (curriculum vitae) 
+## CV (curriculum vitae)
 
 Most graduate students’ CVs are **two to five pages** in length.
 
@@ -41,13 +41,9 @@ Latex Template:
 - [LaTeX Templates - CVs and Resumes](http://www.latextemplates.com/cat/curricula-vitae)
 - [Using the LaTeX Resume Templates (rpi.edu)](https://www.rpi.edu/dept/arc/training/latex/resumes/)
 
-
-
 ## Some Expression
 
 I am confident that my clinical research experience, my in-depth educational background, and interests make me an ideal match for this position.
-
-
 
 ## Does Your Cover Letter Need a Written Signature?
 

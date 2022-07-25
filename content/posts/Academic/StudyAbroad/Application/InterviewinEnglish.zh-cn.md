@@ -12,8 +12,6 @@ categories: []
 
 <!--more-->
 
-
-
 ## 开场
 
 Morning!/ Good afternoon!
@@ -21,8 +19,6 @@ Morning!/ Good afternoon!
 How are you?
 
 [英文面試開場白，你一定要會的三件事，一開口就好印象【職場英文/商用英文】 - YouTube](https://www.youtube.com/watch?v=n46OoHcrrHU)
-
-
 
 ## 自我介绍
 
@@ -40,15 +36,7 @@ Finally, If I have the chance, I will prove myself to be a valuable asset to you
 
 Thank you for your time.
 
-
-
 讲得流畅，自信很重要！
-
-
-
-
-
-
 
 ## 你还有什么问题？
 
@@ -59,4 +47,3 @@ As I can see on the post specification, ...
 How will the project carry on?
 
 Ok, I got your point. Thank you for your time.
-

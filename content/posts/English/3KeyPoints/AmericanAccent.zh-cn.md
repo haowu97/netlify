@@ -70,12 +70,12 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 - 新信息：It sounds like **rain**.
 - 观点：
-    - It sounds like **rain**. (It’s rain.)
-    - It **sounds** like rain, (but it’s not).
+  - It sounds like **rain**. (It’s rain.)
+  - It **sounds** like rain, (but it’s not).
 - 对比：He **likes** rain, but he **hates** snow.
 - can't: 
-    - It **can’t** rain when there’re no **clouds**.
-    - 其他缩略词或否定词一般不重读，如shouldn't. wouldn't. no, not, never
+  - It **can’t** rain when there’re no **clouds**.
+  - 其他缩略词或否定词一般不重读，如shouldn't. wouldn't. no, not, never
 
 **强调不同的信息会影响句子的意思**，例如，What would you like?
 
@@ -124,13 +124,13 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 例：含国藉短语的重音
 
 - an **American** guy
-    - 去掉guy并不影响
+  - 去掉guy并不影响
 - an American **restaurant**
 - **American** food
-    - 固定短语：重音在前
+  - 固定短语：重音在前
 - an American teacher
-    - 美国的老师：重音在teacher
-    - 教美语的老师：重音在American
+  - 美国的老师：重音在teacher
+  - 教美语的老师：重音在American
 
 #### 2.2.1 描述性短语
 
@@ -176,22 +176,22 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 - 便于换气和理解
 - 避免歧义
-    - Those who speak English / naturally passed the exam. 那些说英语的人/理所当然地通过了考试。
-    - Those who speak English naturally / passed the exam. 那些英语说得自然的人/通过了考试。
+  - Those who speak English / naturally passed the exam. 那些说英语的人/理所当然地通过了考试。
+  - Those who speak English naturally / passed the exam. 那些英语说得自然的人/通过了考试。
 
 **断句的原则**：
 
 - 因人而异，可根据个人习惯调整
-    - Bob and Peter / often meet in the park.
-    - Bob and Peter often meet / in the park.
-    - Bob and Peter often meet in the **/** park. 这是不合适的，in the park是一个意群。
+  - Bob and Peter / often meet in the park.
+  - Bob and Peter often meet / in the park.
+  - Bob and Peter often meet in the **/** park. 这是不合适的，in the park是一个意群。
 - 常见的联系紧密词：不能断句
 
-| 1.冠词+名词： the man      | 5.助动词+动词： have finished        |
-| -------------------------- | ------------------------------------ |
-| 2.数词+名词： two men      | 6.代词主语+动词：I like              |
-| 3.介词+名词： on the table | 7.联系紧密的副词+形容词； quite well |
-| 4.系动词+表语： get tired  | 8.其他联系的词群： someone like you  |
+| 1.冠词+名词： the man      | 5.助动词+动词： have finished     |
+| --------------------- | --------------------------- |
+| 2.数词+名词： two men      | 6.代词主语+动词：I like            |
+| 3.介词+名词： on the table | 7.联系紧密的副词+形容词； quite well   |
+| 4.系动词+表语： get tired   | 8.其他联系的词群： someone like you |
 
 ## 4. 节奏
 
@@ -207,11 +207,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 *美语中起语法功能的词一般没有重音，冠词和动词时态变化通常也不强调*。
 
-
-
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/DogsllveEatentheBones.jpg)
-
-
 
 更多练习：
 
@@ -238,4 +234,3 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 ## Reference
 
 {{< bilibili id=BV1tV411W7Nj >}}
-

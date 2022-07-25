@@ -60,4 +60,3 @@ ignoreErrors = ["error-remote-getjson"]
 即在 `config.toml` 文件中添加 `ignoreErrors = ["error-remote-getjson"]`(不需要缩进)。
 
 参考[BUG: Failed to get JSON resource - API.instagram Bad request · Issue #205 · pacollins/hugo-future-imperfect-slim (github.com)](https://github.com/pacollins/hugo-future-imperfect-slim/issues/205)
-
