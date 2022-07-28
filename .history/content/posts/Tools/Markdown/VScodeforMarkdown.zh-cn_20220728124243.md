@@ -1,6 +1,6 @@
 ---
 title: "用 VSCode 写 Markdown"
-date: 2022-07-27T10:54:24+08:00
+date: 2022-07-28T10:54:24+08:00
 draft: false
 
 description: "当 Windows 端 Typora 开始收费，VSCode 成为了我的最佳 Markdown 编辑器。"

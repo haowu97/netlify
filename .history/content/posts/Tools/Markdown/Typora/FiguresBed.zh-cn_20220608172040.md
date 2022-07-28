@@ -6,7 +6,7 @@ draft: false
 description: "Github、Gitee图床。"
 upd: "Github、Gitee图床。"
 
-tags: ['Typora', 'Markdown']
+tags: ['Typora']
 categories: []
 ---
 
