@@ -18,8 +18,6 @@ Example 1:
 
 >Thanks so much for inviting me to interview for the research associate position. I will be available on the coming Monday at 9:30am (HK Time). It will be a pleasure to meet Prof. Wu at the zoom meeting. Please let me know if there is anything you need me to bring for the meeting.
 
-Example 2:
-
 >Thanks so much for inviting me to interview for the research assistant position.
 >I'm sorry I couldn't make it to the interview this afternoon. But I'll be available early next week. 
 >It will be a pleasure to meet you at the zoom interview.

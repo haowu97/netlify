@@ -18,9 +18,6 @@ categories: []
 
 有人说用这个测一下网速看能不能过（下载速度15兆上传速度1兆）https://speedofme/如果能过好像就不用但我建议为了稳定起见还是挂上吧
 
-真题：
-- https://www.hugejiaoyu.com/
-
 网课：
 
 1. [TOEFL-win/TOEFL: 托福王炸福利包，托福雅思gre，gmat资料，百度网盘，威学，张巍gre，新东方，fiona，黎老师写作，考满分，微臣onepass，张艳听力，孟一博，吴克亮，杨帅，黄翰生，顾加北，杜仕明，何琼，王陆，周璐 (github.com)](https://github.com/TOEFL-win/TOEFL)

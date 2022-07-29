@@ -61,8 +61,6 @@ categories: ['TOEFL笔记']
 - 错题：总结错误的原因
 - 定期复习：文章，生词
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FineListening.png)
-
 # 1. 讲座：Lecture
 
 讲座**主要听逻辑**，**分层笔记**法
