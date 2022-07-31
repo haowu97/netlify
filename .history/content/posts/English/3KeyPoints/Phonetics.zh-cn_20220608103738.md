@@ -23,15 +23,15 @@ categories: ['English基础']
 
 在学习上述材料之前，我们需要对国际上主流的音标体系做一定的了解：
 
-# 1. 音标体系
+## 音标体系
 
-## 1.1 IPA国际音标
+### IPA国际音标
 
 国际音标（广义），又称国际语音字母(英文International Phonetic Alphabet,简称IPA)，以拉丁字母为基础的一套用来标音的系统，是用于为全世界所有语言注音的符号系统。其最早源于1888年，由国际语音协会（International Phonetic Association)设计的。
 
 国际音标遵循“一音一符”的严格标准，最初用于为西方语言、非洲语言等的标音。经过多年发展，在中国语言学者赵元任等人的努力下，国际音标逐渐完善，已可为汉语等东方语言注音。
 
-## 1.2 KK音标
+### KK音标
 
 KK音标也是国际音标的一种，是《美式英语发音辞典》(APronouncing Dictionary of American English)所使用的音标，由美国两位语言学家JohnS.Kenyou和ThomasA.Knott共同研究出来。由于两位作者的姓皆以K开头，所以一般称为KK音标。
 
@@ -41,7 +41,7 @@ KK音标也是国际音标的一种，是《美式英语发音辞典》(APronoun
 
 发音速查表：[KK音标简介和示范 | 英语兔 (yingyutu.com)](https://www.yingyutu.com/kk)
 
-## 1.3 DJ音标
+### DJ音标
 
 DJ音标跟英国语音学家DanielJones有关(名字首字母D和」)。他根据IPA编了一本英国英语的发音辞典English Pronouncing Dictionary(第1版至第12版，最后一版的出版时间为1963，后来这个音标被称为IPA63)。他所编的英语发音字典代表了被称为Received Pronunciation读音(简称RP，标准发音的意思)，这在受过教育的英国人尤其是南部英格兰人中通用。
 
@@ -55,15 +55,15 @@ DJ音标跟英国语音学家DanielJones有关(名字首字母D和」)。他根�
 
 发音速查表：[DJ音标简介和示范 | 英语兔 (yingyutu.com)](https://www.yingyutu.com/dj)
 
-# 2. 音标对照
+## 音标对照
 
-## 2.1 DJ、KK音标元音对照
+### DJ、KK音标元音对照
 
 DJ音标旧版(IPA63), DJ音标新版(IPA88), **和KK音标的区别主要体现在元音上**.
 
 KK音标里没有长音符号，元音时长往往视具体所在单词情况而定。
 
-注意DJ音标新版本(IPA88)中的/e/和KK音标中的/e/不是一回事. DJ音标中的/e/对应KK音标中的/ɛ/(DJ音标旧版本(IPA63)曾在/ɛə/中使用过这个符号, 但之后停用); KK音标中的/e/对应DJ音标中的/eɪ/. 这可能是两种音标最容易混淆的地方.
+注意DJ音标新版本(IPA88)中的/e/和KK音标中的/e/不是一回事. DJ音标中的/e/对应KK音标中中的/ɛ/(DJ音标旧版本(IPA63)曾在/ɛə/中使用过这个符号, 但之后停用); KK音标中的/e/对应DJ音标中的/eɪ/. 这可能是两种音标最容易混淆的地方.
 
 **辅音符号三者完全一样**, 唯一区别在于KK音标(以及原本Daniel Jones的注音系统)里没有/ts/, /dz/, /tr/, /dr/. (国外一般认为这几个音算作辅音连缀.)
 
@@ -92,7 +92,7 @@ KK音标里没有长音符号，元音时长往往视具体所在单词情况而
 
 参考：[DJ音标和KK音标对照分析 | 英语兔 (yingyutu.com)](https://www.yingyutu.com/dj-kk)
 
-## 2.2 韦氏、IPA、DJ、KK对照表
+### 韦氏、IPA、DJ、KK对照表
 
 | MW       | IPA              | DJ新,旧       | KK       | 单词           |
 | :------- | :--------------- | :------------ | :------- | :------------- |
@@ -155,13 +155,13 @@ KK音标里没有长音符号，元音时长往往视具体所在单词情况而
 2. [48个英语音标表（IPA,DJ音标,KK音标对照表）-英语音标网 (tingclass.net)](http://yinbiao.tingclass.net/show-16-9-1.html)
 3. [学习音标，这一篇就够了 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/170059800)
 
-# 3. 其他
+## 其他
 
 [英语音标输入](http://www.fmddlmyy.cn/yinbiao/)
 
 [英语发音器官图](https://en-yinbiao.xiao84.com/2015/26018.html)
 
-## 3.1 严式音标 vs 宽式音标
+### 严式音标 vs 宽式音标
 
 *严式音标*(narrow transcription，标示音素用)，以方括号("["和"]")标示，严格记录语音的原貌，一般在国际音标中使用。
 

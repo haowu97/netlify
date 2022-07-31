@@ -18,9 +18,9 @@ categories: ['English基础']
 2. [【合集完结】【最全英语连读规则】英语听力口语发音提高秘诀 昂克英文君](https://www.bilibili.com/video/BV1WW41147bm)
 3. 赖世雄[《美语音标》](https://www.wuhao.ink/English/IntroductoryPhonetics.pdf)中的部分介绍
 
-# 1. Linking: 辅元连读
+## Linking: 辅元连读
 
-**字尾辅音+字首元音**：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
+字尾辅音+字首元音：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
 
 1. **以辅音结尾的单词的结尾辅音一定要发到位，而且不要加上不存在的元音**，这样在正常语速中”自然而然”就会和下一个如果以元音开头的词连上，根本就不需要死记硬背任何连读规则。
 2. **英文字与字之间时没有界限的**，因此连读并不是锦上添花，而是就该这么读，如果不连读，就是发音没有到位的表现。
@@ -45,7 +45,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1SZ4y1K7Lr p=2 >}}
 
-# 2. Insertion: 元元加音
+## Insertion: 元元加音
 
 在英文中，当元音和元音碰到一起时，因为单词内、单词之间发音实际上没有界限，和容易”糊”到一起，所以比较难发音。很多时候就需要”人工干预"。
 
@@ -76,15 +76,15 @@ categories: ['English基础']
 
 {{< bilibili id=BV1SZ4y1K7Lr p=3 >}}
 
-# 3. Assimilation: 同化
+## Assimilation: 同化
 
 *同化*就是当一前一后的两个音碰到一起时，互相影响，改变原来的发音，<u>发音特征变得与彼此相似或者相同</u>。它可以分为三种主要情况：
 
-## 3.1 Regressive Assimilation: 逆行同化
+### Regressive Assimilation: 逆行同化
 
 *”逆行同化" (regressive assimilation)*，前一个音受到后一个音影响，前一个音改变，而后一个音保持不变。
 
-### 3.1.1 Germination: 辅辅吞音
+#### Germination: 辅辅吞音
 
 "*塞音*”或者说*爆破音*，塞音是气流先阻塞，再释放而发出的音。所以发/P,b,t,d,k,g/这些音时，其实有三个阶段
 
@@ -109,7 +109,7 @@ categories: ['English基础']
 2. not good
 3. that fly
 4. top shelf
-5. rabbit carrot
+5. rabbit carrrot
 
 /d/+/d/,/g/+/g/,等等
 
@@ -120,7 +120,7 @@ categories: ['English基础']
 
 1. not nov
 
-从英语的语音现象上来说，不完全爆破（无声除阻）属于"同化现象"，而不是"省音"现象。
+从英语的语音现象上来说，不完全爆破（无声除阻）属于"同化现象",而不是"省音"现象。
 
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=4)中也有详细讲解：
 
@@ -130,7 +130,7 @@ categories: ['English基础']
 
 {{< bilibili id=BV1aA411s7n6 >}}
 
-### 3.1.2 Devoicing: 浊音变清音
+#### Devoicing: 浊音变清音
 
 *浊辅音+清辅音*：某字字尾是浊辅音，之后另有一字首是清辅音时有时，将前一个浊辅音读作对应的清辅音：
 
@@ -142,7 +142,7 @@ categories: ['English基础']
 1. have fun: /hafʌn/
 2. was stuck
 
-### 3.1.3 Bilabialization：双唇化
+#### Bilabialization：双唇化
 
 in + person: /n/ + /p/ ---> /m/
 
@@ -150,7 +150,7 @@ in + person: /n/ + /p/ ---> /m/
 
 inpatient ---> impatient
 
-## 3.2 Progressive Assimilation: 顺行同化
+### Progressive Assimilation: 顺行同化
 
 *顺行同化(Progressive Assimilation)*，后一个音受到前一个音影响，前一个音不变后一个音变化。
 
@@ -166,12 +166,12 @@ inpatient ---> impatient
 
 所有格类似
 
-- Tom's dad
+- Toms dad
 - cat's fur
 
-## 3.3 前后音相互作用
+### 前后音相互作用
 
-### 3.3.1 Fusion: 变音
+#### Fusion: 变音
 
 *变音*(fusion)属于前后音相互作用的一种，前一个音受到后一个音影响，同时后一个音受到前一个音影响，也叫*融合(coalescence)*。
 
@@ -196,7 +196,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1WW41147bm p=8 >}}
 
-### 3.3.2 Germination：辅音延长
+#### Germination：辅音延长
 
 *相同的辅音省略*：某字字尾是辅音，之后另有一字，而其字首亦有相同的辅音时，通常前者的辅音可省略，只念后者的辅音。这种情形常发生在[p]、[t]、[k]、[d]、[g]等辅音出现的时候。例：
 
@@ -213,7 +213,7 @@ inpatient ---> impatient
 2. red table
 3. good time
 
-注意[dʒ]与[tʃ]成对出现（或单独连续出现两次）时，无论顺序，都不能省略。例：
+注意*[dʒ]与[tʃ]*成对出现（或单独连续出现两次）时，无论顺序，都不能省略。例：
 
 1. orange juice
 2. teach children
@@ -222,11 +222,11 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1WW41147bm p=3 >}}
 
-# 4. Dissimilation: 异化
+## Dissimilation: 异化
 
 *同化*就是当一前一后的两个音碰到一起时，互相影响，改变原来的发音，<u>发音特征差异更大，和其他音区分开来</u>。
 
-## 4.1 Unaspirated 爆破清辅音
+### Unaspirated 爆破清辅音
 
 *不送气 or 浊化*：[s]出现在单音节或重音节的字中，之后有[p]、[k]、[t]等爆破清辅音时，[p]、[k]、[t]要分别念成[b]、[g]、[d]。例如：
 
@@ -257,7 +257,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1Rz4y1U7eF >}}
 
-## 4.2 /r/的异化
+### /r/的异化
 
 */ər/ → /ə/*：一些词中，由于<u>有两个/r/音相继出现</u>，第一个/r/可能因为异化而被略掉。比如，
 
@@ -275,7 +275,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1SZ4y1K7Lr p=4 >}}
 
-# 5. Elision: 省音/ 吞音
+## Elision: 省音/ 吞音
 
 常见的发音现象：
 
@@ -315,7 +315,7 @@ inpatient ---> impatient
 
 以下的一些发音规则也属于省音：
 
-## 5.1 Glottal stop: 喉塞音
+### Glottal stop: 喉塞音
 
 *声门闭塞音*，也叫*喉塞音*，指的是塞音（也即爆破音）发音时，只阻塞气流，不发出声音。具体到英语中，/t/ 和 /d/ 后面接 /n/ 或 /ən/ 时，/t/ 和 /d/要发喉塞音。例：
 
@@ -332,7 +332,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1YV411t7da >}}
 
-## 5.2 H-dropping: 略读
+### H-dropping: 略读
 
 *H-dropping*常见于如he、him、his、her的代词中，可以直接省略/h/不发音，一般指代对象在前文出现过时使用；对于含/h/的名词，前文出现过多次时也可以使用。例
 
@@ -355,7 +355,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1WW41147bm p=6 >}}
 
-## 5.3 G-dropping: 略读
+### G-dropping: 略读
 
 动词+ing中的g省略，也即/ɪŋ/ ---> /ɪn/。例
 
@@ -367,7 +367,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1WW41147bm p=7 >}}
 
-## 5.4 Yod- Dropping: 略读
+### Yod- Dropping: 略读
 
 在美式英语（美音）中，有些辅音 (如/t/,/d/,/n/)后的/j/经常被省略，这个被称作*yod-dropping*（yod就是/j/）。请比较以下单词在英音和美音中的区别：
 
@@ -381,7 +381,7 @@ inpatient ---> impatient
 
 {{< bilibili id=BV1iV411z7Nj p=38 >}}
 
-# 6. Weak Forms: 弱读
+## Weak Forms: 弱读
 
 英语中所谓的”*弱读*"并不是指音量要弱，而是指一些词在词组语句中发生元音的音变，具体体现在让"饱满"的元音发音变成一个"弱一点"的音，而这个弱一点的音，一般是*中央元音/ə/*。一般常用的，少音节的虚词，如介词、连词、代词等，会弱读，常常将其中给的元音弱读成弱央元音——Schwa /ə/。例如：
 
@@ -444,15 +444,11 @@ inpatient ---> impatient
 2. 和另一个词对比，比如: government of the people, by the people, for the people, 由人民组成的，由人民选出的，为人民服务的政府
 3. 重音表示强调：I' m not A rabbit!l' m THE rabbit.我不仅仅是"一只“兔子，我是"那只"（独一无二的）兔子 (没错，a/ei/ 和 the/ðə/是a/ei/和the/ði/的弱读)
 
-注：
-- 英语的两个冠词the和a都有强读和弱读这两种形式，称为the strong form和the weak form。the的强读形式是/ði:/，a的强读形式是/ei/；其弱读都是把元音读成/ə/。通常情况下都是弱读，所谓通常情况，就是冠词和名词之间没有停顿，不需要突出冠词。
-- 要强调the时，不管在什么地方，都读/ði/。
-
 具体讲解见以下[视频](https://www.bilibili.com/video/BV11z4y197Cr)，或对应[文章](https://www.yingyutu.com/weak)：
 
 {{< bilibili id=BV11z4y197Cr >}}
 
-# 7. Contraction: 缩写/读
+## Contraction: 缩写/读
 
 在日常生活口语中，英语母语人士往往会简化很多常用的单词和词组，比如以下例子都是在口语中非常常见的例子，所以需要熟悉掌握
 
@@ -513,7 +509,7 @@ be not/ have not ---> *ain't* （不规范，仅做了解）
 
 {{< bilibili id=BV1WW41147bm p=9 >}}
 
-# 8. Rhythm: 节奏
+## Rhythm: 节奏
 
 想说好英语，除了说对语音语调，还必须说对英语的节奏。
 
@@ -526,7 +522,7 @@ be not/ have not ---> *ain't* （不规范，仅做了解）
 
 {{< bilibili id=BV1rt4y197Dy >}}
 
-# 9. Flap t: 闪音
+## Flap t: 闪音
 
 在美式英语里，字母t出现在两个元音之间时，有的时候不发/t/的音，而是发”*闪音*”，也即**不送气**，比如
 

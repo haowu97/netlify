@@ -20,7 +20,7 @@ categories: ['English基础']
 
 # 1. Linking: 辅元连读
 
-**字尾辅音+字首元音**：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
+字尾辅音+字首元音：一般而言，在句子或短语之中的某一字字尾若是辅音，接下来的字字首是元音时，在正常速度的念法中，是要连在一起念的。
 
 1. **以辅音结尾的单词的结尾辅音一定要发到位，而且不要加上不存在的元音**，这样在正常语速中”自然而然”就会和下一个如果以元音开头的词连上，根本就不需要死记硬背任何连读规则。
 2. **英文字与字之间时没有界限的**，因此连读并不是锦上添花，而是就该这么读，如果不连读，就是发音没有到位的表现。
@@ -109,7 +109,7 @@ categories: ['English基础']
 2. not good
 3. that fly
 4. top shelf
-5. rabbit carrot
+5. rabbit carrrot
 
 /d/+/d/,/g/+/g/,等等
 
@@ -120,7 +120,7 @@ categories: ['English基础']
 
 1. not nov
 
-从英语的语音现象上来说，不完全爆破（无声除阻）属于"同化现象"，而不是"省音"现象。
+从英语的语音现象上来说，不完全爆破（无声除阻）属于"同化现象",而不是"省音"现象。
 
 赖世雄老师的《美语音标》连音部分有对应的讲解，以下[视频](https://www.bilibili.com/video/BV1WW41147bm?p=4)中也有详细讲解：
 
@@ -166,7 +166,7 @@ inpatient ---> impatient
 
 所有格类似
 
-- Tom's dad
+- Toms dad
 - cat's fur
 
 ## 3.3 前后音相互作用
@@ -213,7 +213,7 @@ inpatient ---> impatient
 2. red table
 3. good time
 
-注意[dʒ]与[tʃ]成对出现（或单独连续出现两次）时，无论顺序，都不能省略。例：
+注意*[dʒ]与[tʃ]*成对出现（或单独连续出现两次）时，无论顺序，都不能省略。例：
 
 1. orange juice
 2. teach children
@@ -443,10 +443,6 @@ inpatient ---> impatient
 1. 在句字末尾，比如： May I do it for you?我可以帮你做这事儿吗？
 2. 和另一个词对比，比如: government of the people, by the people, for the people, 由人民组成的，由人民选出的，为人民服务的政府
 3. 重音表示强调：I' m not A rabbit!l' m THE rabbit.我不仅仅是"一只“兔子，我是"那只"（独一无二的）兔子 (没错，a/ei/ 和 the/ðə/是a/ei/和the/ði/的弱读)
-
-注：
-- 英语的两个冠词the和a都有强读和弱读这两种形式，称为the strong form和the weak form。the的强读形式是/ði:/，a的强读形式是/ei/；其弱读都是把元音读成/ə/。通常情况下都是弱读，所谓通常情况，就是冠词和名词之间没有停顿，不需要突出冠词。
-- 要强调the时，不管在什么地方，都读/ði/。
 
 具体讲解见以下[视频](https://www.bilibili.com/video/BV11z4y197Cr)，或对应[文章](https://www.yingyutu.com/weak)：
 

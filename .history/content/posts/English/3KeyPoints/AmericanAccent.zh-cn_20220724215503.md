@@ -18,9 +18,9 @@ categories: ['English基础']
 
 在美国的不同地方，音标、音质可能不同，但是*语调和连读都是相似的*。
 
-# 1. 美语语调
+## 1. 美语语调
 
-## 1.1 美语语调的三个准则
+### 1.1 美语语调的三个准则
 
 1. 不要逐字发音
 2. 连接单词，形成**音群**
@@ -30,7 +30,7 @@ categories: ['English基础']
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/BobisonthePhone.jpg)
 
-## 1.2 阶梯状语调的应用
+### 1.2 阶梯状语调的应用
 
 **延长本该是单音的发音**
 
@@ -62,7 +62,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/WhereisMyCar!.jpg)
 
-## 1.3 强调
+### 1.3 强调
 
 **强调的三种方式**：音长，音量，音高
 
@@ -88,11 +88,11 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 - For example, if you say, Hel**lo**, this intonation would indicate doubt. You say, Hel**lo**? when answering the telephone because you don’t know who is on the other end, or when you go into a house and you don’t know who’s there because you don’t see anyone. But if you’re giving a speech or making a presentation and you stand up in front of a crowd and say, Hel**lo**, the people would probably laugh because it sounds so uncertain. This is  where you’d confidently want to say **He**llo, **my** name is **So**-and-so.
 - A second example is, **my** name is—as opposed to my **name** is. If you stress name, it sounds as if you are going to continue with more personal information: My **name** is So-and-so, my **address** is such-and-such, my **blood** type is O. Since it may not be your intention to give all that information, stay with the standard—**He**llo, **my** name is **So**-and-so.
-- If you stress **I** every time, it will seem that you have a very high opinion of yourself. Try it: **I’m** taking American Accent Training.  **I’ve** been paying attention to pitch, too. **I** think I’m quite wonderful. An earnest, hard-working person might emphasize.
+- If you stress **I** every time, it will seem that you have a very high opinion of yourself. Try it: **I’m** taking American Accent Training.  **I’ve** been paying attention to pitch, too. **I** think I’m quite wonderful. An earnest, hard-working person might emphasize
 
-# 2. 美语重音
+## 2. 美语重音
 
-## 2.1 单词重音
+### 2.1 单词重音
 
 单音节词重读该音节
 
@@ -113,7 +113,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 - present
 - record
 
-## 2.2 短语重音
+### 2.2 短语重音
 
 大原则：*强调逻辑上应该强调的部分*（本课重点讲二词短语）
 
@@ -132,7 +132,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
   - 美国的老师：重音在teacher
   - 教美语的老师：重音在American
 
-### 2.2.1 描述性短语
+#### 2.2.1 描述性短语
 
 指形容词和名词组成的短语，*重读被描述的词*：
 
@@ -143,7 +143,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 - a **beautiful** girl：特别漂亮的女孩
 
-### 2.2.2 固定短语
+#### 2.2.2 固定短语
 
 **固定短语**指由描述性短语演变来的，已经产主固定新意思的短语，*重读第一个单词*。例 
 
@@ -152,14 +152,14 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 - **pan**cake = pan + cake
 - **hot**dog = hot + dog
 
-### 2.2.3短语动词
+#### 2.2.3短语动词
 
 **短语动词**指动词加上介词组成的短语，通常*重读第二个单词*。例
 
 - come **back** v.回来 v.s. **come**back n.东山再起
 - back **up** v.回到原点 v.s. **back**up n.备用品
 
-# 3. 意群和断句
+## 3. 意群和断句
 
 将意思或语法功能紧密联系的词放在一个单位内，称为**意群**（或词群）
 
@@ -193,7 +193,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 | 3.介词+名词： on the table | 7.联系紧密的副词+形容词； quite well   |
 | 4.系动词+表语： get tired   | 8.其他联系的词群： someone like you |
 
-# 4. 节奏
+## 4. 节奏
 
 汉语和美语的节奏对比
 
@@ -213,7 +213,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/ConsistentNounStressinChangingVerbTenses.jpg)
 
-# 5. 弱读
+## 5. 弱读
 
 **弱读音**：指缺乏，舌部，颌部，喉运动所产主的附加音。
 
@@ -231,6 +231,6 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 - 进一步去掉元音: to /tu/→/tə/→/t/
 - 音长缩短声音变小: he, she, we
 
-# Reference
+## Reference
 
 {{< bilibili id=BV1tV411W7Nj >}}

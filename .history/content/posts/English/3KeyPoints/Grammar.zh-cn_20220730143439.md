@@ -28,7 +28,7 @@ categories: ['English基础']
 3. 形容词adj.
 4. 副词adv.
 
-**动词的分类**
+*动词的分类*
 
 - 是否及物
   - 及物动词(transitive verb)，后面要跟名词
@@ -37,12 +37,12 @@ categories: ['English基础']
   - 不完全词(incomplete verb)，后面需要跟补语
   - 完全动词(complete verb)，不需要补语
 
-**限定动词**，随人称、时态的不同产生变化，
+限定动词，随人称、时态的不同产生变化，
 
 - 限定动词只能有一个
 - 出现多个动词，可以将其中一个变为非限定动词
 
-句子的**成分**，区别于词性
+句子的*成分*，区别于词性
 
 1. 主(subjective)
 2. 谓(verb)
@@ -66,7 +66,7 @@ categories: ['English基础']
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220720171605.png)
 
-## 补语
+### 补语
 
 补语：补足语，对主语或者宾语进行修饰。E.g., 
 
@@ -93,9 +93,9 @@ categories: ['English基础']
 - The story proved false.
 - He became a teacher.
 
-可以发现，以上**谓语动词全部可以用be动词来替换**。
+可以发现，以上**谓语动词全部可以用be动词来替换**
 
-### 主语补语和宾语补语
+#### 主语补语和宾语补语
 
 主语补语句型（主语+动词+补语）
 
@@ -115,7 +115,7 @@ categories: ['English基础']
 - His father gave him a dog. 他的爸爸给他一只狗
 - His father called him a dog. 他的爸爸骂他是狗
 
-# 2. 名词词组与冠词
+## 2. 名词词组与冠词
 
 名词短语都是由三个部分所构成：
 
@@ -130,7 +130,7 @@ categories: ['English基础']
     - Sam was president of the high school.
     - Sam is a member of the Council of the city.
     - Sam，Head of the football team，at that time，wore a mustache.
-    - Clinton made Gorle campaign partner of the Presidential election.
+    - Clinton made Gorle campaign partner of the Presidential election.*
 
 加the不加the
 
@@ -147,19 +147,19 @@ categories: ['English基础']
 - the Dead （Sea） 死海
 - the United States of America 美国
 
-# 3. 动词时态
+## 3. 动词时态
 
 时态：
 
 - 时间：过去、现在、将来
 - 状态：一般时、进行时、完成时、完成进行时
 
-| 状态(列)/时间(行) | 过去 | 现在 | 将来 |
-| ----------------- | ---- | ---- | ---- |
-| 一般时            | 1    | 3    | 5    |
-| 进行时            | 2    | 4    | 6    |
-| 完成时            | 7    | 9    | 11   |
-| 完成进行时        | 8    | 10   | 12   |
+| 状态(列)/时间(行) | 过去  | 现在  | 将来  |
+| ----------- | --- | --- | --- |
+| 一般时         | 1   | 3   | 5   |
+| 进行时         | 2   | 4   | 6   |
+| 完成时         | 7   | 9   | 11  |
+| 完成进行时       | 8   | 10  | 12  |
 
 **确定时态的三个维度**
 
@@ -198,25 +198,25 @@ be+doing的解释：
 
 （一般时）Yesterday he said he would wash the car, but he didn't.
 
-## 完成时 v.s. 完成进行时
+### 完成时 v.s. 完成进行时
 
 *完成时*：重在事情已经完成的一种感觉
 
 *完成进行时*：重在这个事情还会继续下去的感觉
 
-### 过去
+#### 过去
 
 - （完成时）7、 He had washed his car before I got to his house.
 - （完成进行时）8、 He had been washing his car for 3 hours before I got to his house.
 
-### 现在
+#### 现在
 
 **如果上下文都没有交代或暗示截止时间为何、只说「已经完成」,那么通常都要采用现在完成式来表示**。例如你告诉朋友说「那部电影我已经看过了」,话中虽然没有说明「在什么时候之前」已看过，但是言下之意自然是「现在以前」，所以该采用用完成式，如： I have seen that movie.
 
 - （完成时）9、 He has (already) washed his car.
 - （完成进行时）10、 He has been washing his car for three hours
 
-### 将来
+#### 将来
 
 - （完成时）11、 He will have washed his car by next week
 - （完成进行时）12、 He will have been washing his car for 5 days by next week
@@ -231,14 +231,14 @@ be+doing的解释：
 
 大量的阅读输入中巩固强化。
 
-# 4. 动状词(Verbals)/非谓语动词
+## 4. 动状词(Verbals)/非谓语动词
 
 传统语法所称的动状词(Verbals)，包括现在分词(Ving)、过去分
 词(Ven)、动名词(Ving)与不定词(to V)等等。其中现在分词、过去分
 词是形容词类，不定词则是“不一定什么词类”：它可以当名词、形
 容词、副词使用。
 
-## 4.1 不定式短语
+### 不定式短语
 
 **不定式与助动词之间关系密切**
 
@@ -252,7 +252,7 @@ be+doing的解释：
   - I will go./I want to go.
 - 都有不确定的语气
   - He may be right./He seems to be right.
-- 都要用完成式来表达相对过去的时间（助动词缺乏表达过去时间的能力）
+- 都要用完成式来表达相对过去的时间（助动词缺乏表达过去时间的能力的）
   - It may rain any minute.
   - It might even snow.
   - It must have rained last night.
@@ -273,7 +273,6 @@ be+doing的解释：
   - I avoid making the same mistake twice.
   - I avoid I will make the same mistake twice. 
     - 你见过这样的句子吗？？其实是因为**有未来式含义的和具有否定意义的动词天然不搭**
-    - 英语语法中只有avoid sth和avoid doing sth这两种用法，avoid to do sth是不存在的。
 - hate
   - I *hate to* say this，but I think you’re mistaken.
   - 为什么hate是否定这里又可以用to do了呢？？因为是I hate but I have to say 而不是will say
@@ -313,7 +312,7 @@ be+doing的解释：
 
 在今后的英语学习中，一定还会遇到很多这样的短语，当你背的时候，你可以想一想这章的内容。不仅会背的更快，而且还不容易忘，就算忘了，也有很大的概率可以推出来。
 
-## 4.2 动名词
+### 动名词
 
 动名词的特性
 
@@ -329,9 +328,9 @@ be+doing的解释：
 
 - 复合字
   - Strawberry-picking is a strenuous job.采草莓是很费力的工作。
-- 动作主体不同时
+- 动作主体不同时 *
   - I don't like that John calls my girlfriend day after day.
-  - I don't like John's calling my girlfriend day after day.(所有格）
+  - • I don't like John's calling my girlfriend day after day.(所有格）
 - 动名词的被动式
   - That I was invited here is a great honor.
   - Being invited here is a great honor.
@@ -346,7 +345,7 @@ be+doing的解释：
 1. 不定词是助动词的变化，带有不确定语气。
 2. 动名词的结构接近普通名词，可是往往带有「*动作、持续*」的意味。
 
-## 4.3 分词
+### 分词
 
 请把分词当做形容词
 
@@ -374,7 +373,7 @@ be+doing的解释：
 
 - I have no comment to make while the case is being investigated by police.
 
-# 5. 修饰词
+## 5. 修饰词
 
 八大词类当中，属于修饰语性质的有形容词和副词两种。这两种词类
 之间的分工，在语法书中都是说形容词用来修饰名词，而副词用来修
@@ -385,7 +384,7 @@ be+doing的解释：
 - Vegetables, especially spinach, are good for you.
 - (蔬菜，尤其是菠菜，有益健康。）
 
-## 5.1 形容词
+### 形容词
 
 名词短语中的形容词一般是出现在限定词（像a、the、this、some、
 five、John's等词）与名词中间。还有一些例外：
@@ -421,7 +420,7 @@ five、John's等词）与名词中间。还有一些例外：
 - They found the professor alone.
 - Coffee keeps him awake.
 
-### 形容词的比较级
+#### 形容词的比较级
 
 比较级的拼法
 
@@ -452,7 +451,7 @@ five、John's等词）与名词中间。还有一些例外：
 - A chimp has as much I.Q. as a child of five or six does.
 - A chimp has as much I.Q. as does a child of five or six.
 
-## 5.2 副词
+### 副词
 
 方法、状态副词（专修饰动词的 -ly）
 
@@ -483,17 +482,17 @@ five、John's等词）与名词中间。还有一些例外：
 
 副词还包括时间副词、地方副词、频率副词等类别，各类语法书中所述甚详，也十分简单，毋庸赘述。另外副词也有比较级、最高级的变化，但是原则和形容词比较级完全一样，也无需再重复。只有一点：副词的典型字尾是-ly。在判断两个音节的副词的比较级拼法时，要保留-ly 字尾不去动它， 在前面加more,most 来变化， 像more sweetly, most sweetly。除此之外，副词比较级拼法的变化也是一如形容词。
 
-# 6. 介系词
+## 6. 介系词
 
 介词的用法，比较接近单词、 短语的问题，而不大属于语法的问题。
 
-## 介系词短语
+### 介系词短语
 
 所谓“介系词短语”，就是由介词加上一个名词短语所构成的意义单元，在句中常被当做修饰语(形容词短语或副词短语)，用来修饰名词、动词、形容词与副词等各种词类。它的位置通常是在所修饰的对象后面。例如：
 
 - Cherries are in season now. ( 现在正是樱桃生产的季节。)
 
-## 空间的介词
+### 空间的介词
 
 语言学家R.C.Close在A Reference Grammar—书中，将表示空间的介词做出一套可资参考的整理。他把这种介词分为点、线、面、体四类来探讨：
 
@@ -506,7 +505,7 @@ five、John's等词）与名词中间。还有一些例外：
 4. 体：in
    1. It's cool in the railway station because they have air- conditioning there.
 
-## 时间的介词
+### 时间的介词
 
 以**at表示“点”，以on标示出特定日期，以in表示“长时间”**：
 
@@ -517,7 +516,7 @@ five、John's等词）与名词中间。还有一些例外：
 - 例：There’ll be a concert on Independence Day.
 - (独立纪念日那天有场音乐会。）
 
-# 7. 语气
+## 7. 语气
 
 主要的*语气助动词*有下列这几个：
 
@@ -550,7 +549,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 其中陈述语气的Be going to比条件语气will更加确定。
 
-## 陈述语气
+### 陈述语气
 
 如何表达未来式
 
@@ -560,7 +559,7 @@ five、John's等词）与名词中间。还有一些例外：
   - I'll be ready when he comes.
   - If you are late again，you will be fired.
 
-## 条件语气
+### 条件语气
 
 需要语气助动词的帮忙（must、should、will/would、can/could、may/might）
 
@@ -578,14 +577,14 @@ five、John's等词）与名词中间。还有一些例外：
 
 **will/would、can/could、may/might**这三对，虽然拼法有变化，可是并不表示时间，而是语气的变化：每一对的后者比前者更不确定。
 
-## 祈使语气
+### 祈使语气
 
 命令怎么转述：命令中保持动词原形
 
 - Leave the courtroom！
 - The court demands that the witness leave the courtroom.
 
-## 虛拟语气
+### 虛拟语气
 
 虚拟语气表达的是「非事实」的情况，也就是「说假的、讲反话」,采用「过去」为表达方式。亦即：
 
@@ -594,15 +593,15 @@ five、John's等词）与名词中间。还有一些例外：
 
 以下分成现在、过去、将来三种时间分别说明。首先贴一张总结表(后面将详细说明)：
 
-|            | (if)从句           | 主句           |
-| ---------- | ------------------ | -------------- |
+|       | (if)从句             | 主句            |
+| ----- | ------------------ | ------------- |
 | 与现在相反 | did/ were          | 4种+do         |
 | 与过去相反 | had done           | 4种+ have done |
 | 与将来相反 | were to do/ should | 4种+do         |
 
 (注：4种语气助动词为 would should could might)
 
-### 对现在的虚拟
+#### 对现在的虚拟
 
 > If I were you, I would accept the offer.
 > 
@@ -649,7 +648,7 @@ five、John's等词）与名词中间。还有一些例外：
 > 
 > 要是我有那笔钱该有多好！
 
-### 对过去的虚拟
+#### 对过去的虚拟
 
 > The accident <u>could have been</u> prevented if the driver <u>had been</u> more careful.
 > 
@@ -661,7 +660,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 > <u>Had the driver been</u> more careful, the accident could have been prevented.
 
-### 对将来的虚拟
+#### 对将来的虚拟
 
 > If I <u>were to tell</u> the truth to my boyfriend, he would kill me!
 > 
@@ -682,7 +681,7 @@ five、John's等词）与名词中间。还有一些例外：
 3. 在主句中，仍然是四种「过去」拼法的语气助动词( would, should, could, might)配合原形动词，用来表达「非事实」。
 4. 从句可以用should来表示可能性极小的状况，绝无可能的状况用were to来表示
 
-### 混杂时间或语气
+#### 混杂时间或语气
 
 **条件从句与主要从句，这两个从句的时间可能不一样、语气也可能不一样，必须依情况判断**，不可死记公式。例如
 
@@ -696,7 +695,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 但是主句设定的时间是「现在」(时间副词是now)；叙述的也是「非事实」（实际的情况是现在自己并没有孙子），要采用「过去」来表达「虚拟语气」。这时候只要用过去拼法的 might have就行了。
 
-# 8. 复合句
+## 8. 复合句
 
 复合句包括以下两种：
 
@@ -706,20 +705,20 @@ five、John's等词）与名词中间。还有一些例外：
    2. 形容词从句
    3. 副词从句
 
-| 从词性分   | 从句法功能分 |
-| ---------- | ------------ |
-| 名词从句   | 主语从句     |
-|            | 宾语从句     |
-|            | 表语从句     |
-|            | 同位语从句   |
-| 形容词从句 | 定语从句     |
-| 副词从句   | 状语从句     |
+| 从词性分  | 从句法功能分 |
+| ----- | ------ |
+| 名词从句  | 主语从句   |
+|       | 宾语从句   |
+|       | 表语从句   |
+|       | 同位语从句  |
+| 形容词从句 | 定语从句   |
+| 副词从句  | 状语从句   |
 
 读懂长难句的关键：找主干(主谓)
 
-## 8.1 名词从句
+### 名词从句
 
-### 来自陈述句
+#### 来自陈述句
 
 在最前面加一个无意义的从属连接词that:
 
@@ -729,7 +728,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 > I believe (that) he washes his car every day.
 
-### 来自特殊疑问句
+#### 来自特殊疑问句
 
 来自特殊疑问句Information Question(who, which, what, when, why, how, where等引导的问句)这里面的**疑问词可以充当现成的从属连接词**：
 
@@ -744,7 +743,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 因为what有双重身份，你可以把what理解为(the thing that)，此时若what不是主语只有改顺序才能使句子通顺。
 
-### 来自一般疑问句
+#### 来自一般疑问句
 
 来自一般疑问句Yes/No Question，它要改成名词从句的话必须加上从属连接词 whether 或 if，最好就用 **whether**。
 
@@ -771,7 +770,7 @@ five、John's等词）与名词中间。还有一些例外：
 > 
 > 介系词 名词从句
 
-### 名词从句放在主句中的位置
+#### 名词从句放在主句中的位置
 
 我们知道，名词从句是作为名词性质使用的。在主句中一般以下5种位置会出现名词，那对应的，名词从句也可以使用在这5种位置中：
 
@@ -834,7 +833,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 > My response depends on <u>what he really meant by that</u>.
 
-### 其他
+#### 其他
 
 形式主语
 
@@ -872,7 +871,7 @@ I think to do exericse necessary
 - Humorous friends can communicate with people about how they reduce pressure
 - Humorous friends can communicate with people about how to reduce pressure
 
-## 8.2 定语从句
+### 定语从句
 
 回顾名词从句
 
@@ -890,7 +889,7 @@ I think to do exericse necessary
 > 
 > 主句： The car is awesome
 
-### 定语/关系从句的构造
+#### 定语/关系从句的构造
 
 主句和从句中必须要有一个**相同的元素**，例如上面的(the car)，这个相同的元素称为“*先行词*”(不用记，理解就行)，然后改写成对应的关系代词（同样也是连接词）。
 
@@ -913,23 +912,23 @@ I think to do exericse necessary
 
 关系从句中与主要从句的交叉点，可能是代名词，也可能是副词。
 
-| 代词                   | 关系代词       |
-| ---------------------- | -------------- |
-| he（she、they）        | who/that       |
-| it（they）             | which/that     |
-| his（her、their、its） | whose          |
-| him（her、them）       | whom（常省略） |
+| 代词                 | 关系代词       |
+| ------------------ | ---------- |
+| he（she、they）       | who/that   |
+| it（they）           | which/that |
+| his（her、their、its） | whose      |
+| him（her、them）      | whom（常省略）  |
 
-| 副词           | 关系副词 |
-| -------------- | -------- |
-| then           | when     |
-| there          | where    |
-| so             | how      |
-| for  a  reason | why      |
+| 副词             | 关系副词  |
+| -------------- | ----- |
+| then           | when  |
+| there          | where |
+| so             | how   |
+| for  a  reason | why   |
 
-### 先行词在从句中的成分
+#### 先行词在从句中的成分
 
-#### 先行词在从句做主语
+##### 先行词在从句做主语
 
 下面例句中的that均不能省略：
 
@@ -949,13 +948,13 @@ I think to do exericse necessary
 > 
 > →I like movies that make me think.(that不能省)
 
-#### 先行词在从句中做宾语
+##### 先行词在从句中做宾语
 
 > Jack is a man (whom/who/that) I trust completely. (I trust the man completely.)
 > 
 > The movie (which/that) I saw last night was excellent. (I saw the movie last night.)
 
-#### 先行词在从句中做介词后的宾语
+##### 先行词在从句中做介词后的宾语
 
 > Jack is a man (whom/who/that) you should talk to. (You should talk to him.
 > 
@@ -964,13 +963,13 @@ I think to do exericse necessary
 > The chair (which/that) you are sitting on is an antique. (You are sitting on that chair.
 > The chair <u>on which</u> you are sitting is an antique.(on提前后，必须用 which,不能省)
 
-#### 先行词在从句中做补语
+##### 先行词在从句中做补语
 
 > After the stroke, John is not the man (who/that) he used to be. (He used to be the man)
 > 
 > The name (which/that) Kevin calls his dog is a really odd one. (Kevin calls his dog the name.)
 
-#### 先行词在从句中做所有格
+##### 先行词在从句中做所有格
 
 > Jack is a man whose judgement I trust. (I trust his judgment.)
 > 
@@ -984,7 +983,7 @@ I think to do exericse necessary
 > 
 > The top of the mountain was completely covered in snow
 
-### 省略问题
+#### 省略问题
 
 省略关系代名词
 
@@ -1022,7 +1021,7 @@ I think to do exericse necessary
   - I have forgotten the reason （why）I called.
   - I have forgotten why I called.
 
-### 非限定从句
+#### 非限定从句
 
 限定从句，有指示功能。例如，这里有2个 friend，2个人。
 
@@ -1048,7 +1047,7 @@ I think to do exericse necessary
 > 
 > This is my mom, who loves me very much.
 
-### 何时应该用that
+#### 何时应该用that
 
 关系代词who和which，如果引导的定语从句缺乏指示功能（放在括号式的逗点中当补充说明使用），就不能改写为具有指示性的that。反之，如果定语从句具有强烈的*指示功能*，那么采用具有指示作用的that会比采用who或 which来得更好。
 
@@ -1071,7 +1070,7 @@ I think to do exericse necessary
 - For boyfriend，I am considering your brother，who is tall.
 - I like books，whatever the subject，that have illustrations.（此处仍然是限定性定语从句，仍要用that）
 
-### wh-ever的两种用法
+#### wh-ever的两种用法
 
 no matter wh-（副词从句）
 
@@ -1081,7 +1080,7 @@ any- that（省略先行词的关系从句）
 
 - I will fire whoever stole the money.
 
-## 8.3 副词从句
+### 副词从句
 
 名词从句：(作为名词性质，少了句子就不完整)
 
@@ -1113,7 +1112,7 @@ Unless
 Because
 Although
 
-# 9. 倒装句
+## 9. 倒装句
 
 *用倒装句的原因*：为了强调，也使句子结构更清楚。
 
@@ -1140,11 +1139,11 @@ Although
 > 
 > 倒装句的特色在于主语和动词的顺序颠倒。下面分成四种情况来探讨倒装句。
 
-## 直接移动动词
+### 直接移动动词
 
-### 引用句
+#### 引用句
 
-#### 直接引用
+##### 直接引用
 
 直接引语
 
@@ -1159,7 +1158,7 @@ Although
 
 > The typhoon is expected to swerve north for Japan, says the weatherman
 
-#### 间接引用
+##### 间接引用
 
 间接引语
 
@@ -1174,7 +1173,7 @@ Although
 
 > The typhoon is expected to swerve north for Japan, says the weatherman.
 
-### 类似there is/are的构造
+#### 类似there is/are的构造
 
 There is/are这种最基本的句型，其实就是一种倒装句：类似there is/are 的倒装（地方副词挪到句首）
 
@@ -1195,7 +1194,7 @@ There is/are这种最基本的句型，其实就是一种倒装句：类似there
 > 
 > 鸟飞走了。
 
-### 关系从句倒装
+#### 关系从句倒装
 
 直接移动动词，如果有助动词则和动词一起提前：
 
@@ -1207,7 +1206,7 @@ A heavy responsibility，whether he likes or not，falls on him.
 
 倒装：The President is a man on whom falls a heavy responsibility whether he likes or not.
 
-## 虚拟语气句倒装
+### 虚拟语气句倒装
 
 动词的第二种倒装方式是把*助动词或be*移到主语前面，如果缺乏助动词或be就无法倒装。这种倒装方式只适用于一种情况：**假设法语气的副词从句**，可以选择把助动词或be倒装到主语前面、取代连接if。这种倒装方式取得的修辞效果是简洁：可以省略掉连接词if
 
@@ -1223,7 +1222,7 @@ A heavy responsibility，whether he likes or not，falls on him.
 
 > [If I knew how], I would gladly do it.
 
-## 否定句倒装
+### 否定句倒装
 
 否定副词开头的倒装（not/never/hardly）
 
@@ -1253,7 +1252,7 @@ A heavy responsibility，whether he likes or not，falls on him.
 > 
 > [Not until he was sure everything was all right] did the doctor leave the patient.
 
-## So do I 类倒装
+### So do I 类倒装
 
 > He likes basketball.
 > 
@@ -1268,13 +1267,13 @@ A heavy responsibility，whether he likes or not，falls on him.
 > He won't give up.
 > Neither will I.
 
-## 比较级倒装
+### 比较级倒装
 
 Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 倒装：Girls like cats more than do boys,who.....
 
-# 10. 简化从句
+## 10. 简化从句
 
 中小学传统的语法教学一般就直接讲V-ing，用to do等等用法，太注重词法！本质上无可厚非，毕竟传统家长的观念都是以分数为重。但是，我想说的是，这样做的后果就是学生产生思维定式）没有自已的思考，考雅思一团槽。国外考试最基本的能力是需要学生能读懂文章，但是中国学生基本都是一篇读下来什么都不记得，做题全靠蒙句子里面的单词都认识，连在一起就不认识了。久而久之对英语产生了厌恶，也总是学不会。另外，这种教学方式会让学生容易抬杠（讲义里不写了）。学完这三讲的简化从句后，你会知道这些V-ing，to do是怎么演变过来的。
 
@@ -1298,11 +1297,11 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 (这个规则暂时有印象即可，不要死记硬背，看完后面的例子就知道什么意思了，平时学习的时候一定要结合具体的例子去记忆。如果光看例句，你可能会觉得很简单，但是这个简化的思维过程你可以学习一下)
 
-## 名词从句简化
+### 名词从句简化
 
 由于名词从句在句中作为名词性质使用，因此简化后也必须维持名词的性质。
 
-### 简化V-ing
+#### 简化V-ing
 
 **主语不能省略时**
 
@@ -1326,7 +1325,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 - That he was busy is no excuse for the negligence.
 - →Being busy is ...............
 
-#### 主语
+##### 主语
 
 > [That ~~you~~ don't have a cell-phone] can save <u>you</u> a great deal of trouble.
 > 
@@ -1334,19 +1333,19 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > 
 > →[Not having a cell-phone] can save you a great deal of trouble.
 
-#### 宾语
+##### 宾语
 
 > I dislike [that ~~I~~ am kept waiting].
 > 
 > I dislike [being kept waiting].
 
-#### 补语
+##### 补语
 
 > The actor's greatest achievement is that he has been nominated twice for the Oscar.
 > 
 > The actors greatest achievement is having been nominated twice for the Oscar.
 
-### 简化为 to V
+#### 简化为 to V
 
 主语不能省略时
 
@@ -1366,7 +1365,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
   - I can't decide whether I should vote for Mary.
   - →I can't decide whether to vote for Mary.
 
-#### 主语
+##### 主语
 
 > It is important [that one should be honest].
 > 
@@ -1374,7 +1373,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > 
 > It is important [to be honest].
 
-#### 宾语
+##### 宾语
 
 > I hope [that I can get a raise].
 > 
@@ -1388,7 +1387,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > 
 > I consider it my duty [to support my daughter through college)
 
-#### 补语
+##### 补语
 
 > The best plan is [that we should wait].
 > 
@@ -1412,7 +1411,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > 
 > what you can do the job with
 
-## 定语从句简化
+### 定语从句简化
 
 关系词作关系从句宾语，可以省略
 
@@ -1421,9 +1420,9 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 如果关系词是关系从句的主语，那么简化起来，省略主语就势必也要省略be动词，这就是典型的形容词从句简化。
 
-### 简化为分词
+#### 简化为分词
 
-#### 现在分词V-ing
+##### 现在分词V-ing
 
 > The man (who wants to see you) is waiting outside.
 > 
@@ -1432,13 +1431,13 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > Do you know the girl [who is sitting next to John]?
 > Do you know the girl [sitting next to John]?
 
-#### 过去分词V-en
+##### 过去分词V-en
 
 > Grapes [that are grown in the Champagne area] make the best wines.
 > 
 > Grapes [grown in the Champagne area] make the best wines.
 
-### 简化为形容词
+#### 简化为形容词
 
 如果定语从句是S+V+C的句型，主语补语是形容词，那么简化过程中省略掉主语和be动词之后，剩下的就是单纯的形容词补语。例如：
 
@@ -1450,7 +1449,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > 
 > The boy, [usually tall and heavy for his age], wants to be a basketball player.
 
-### 简化为名词
+#### 简化为名词
 
 如果定语从句是S+V+C的句型，而主语补语是个名词词组，那么在简化过程中省略掉主语与be动词之后，剩下的部分就是那个名词词组。这个名词词组是原来的主语补语，也就是传统语法所谓的*同位语*。例如：
 
@@ -1458,7 +1457,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > 
 > The Great Wall of China, [the largest man-made structure on earth], is awesome.
 
-### 简化为不定式to do
+#### 简化为不定式to do
 
 > If you want a loan, our manager is the person [whom/who you should see].
 > 
@@ -1477,7 +1476,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 - I have a job （that） your brother can do.
 - →I have a job for your brother to do.
 
-#### 动词不定式的语态（辩析）
+##### 动词不定式的语态（辩析）
 
 > There is still one more person <u>to notify</u>.
 > 
@@ -1499,7 +1498,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 这样可以使句子交得更加简洁精炼。所以我们首先得知道，知道后再去大量阅读训练，最后灵活运用。
 
-## 副词从句简化
+### 副词从句简化
 
 我们在学三大从句的时候讲过，只有副词从句的连接词有实际的意义。因此在简化副词从句时，是否要保留连接词，需要根据意思去体会。**只有省略掉连接词之后句意仍然清楚的，才可以省略连接词**。(名词从句、定语从句简化的时候是直接省掉).。
 
@@ -1507,7 +1506,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 **副词从句的主语必须和主句的主语相同才可以省略**，否则就是错误。
 
-### 补语为Ving
+#### 补语为Ving
 
 连接词是否需要保留（省略后是否意思清楚+介系词）
 
@@ -1546,7 +1545,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
   - The child already sleeping ...，her mother came to .....
   - *注意事项：1.连接词要省略；2.后面必须配合分词补语
 
-### 补语为Ven（被动）
+#### 补语为Ven（被动）
 
 连接词问题
 
@@ -1583,9 +1582,9 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 - **although→despite/in spite of**
 - **if→in case of**
 
-### 简化为分词
+#### 简化为分词
 
-#### 现在分词V-ing
+##### 现在分词V-ing
 
 > When John stepped out of his office, a car hit him.
 > 
@@ -1599,7 +1598,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 把after省掉的话意思也算接近，能接受。如果想讲的更清楚一点的话，就留下after.
 
-#### 过去分词V-en
+##### 过去分词V-en
 
 如果副词从句里面的动词是be动词、后面用过去分词当补语（也就是传统语法所谓的被动态）
 
@@ -1609,17 +1608,17 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 因为过去分词本身除了被动语之外，还可以表示完成状恋，所以 redecorated一个字就可以代表「已经被装修过之后」。連接词after不留，大家还是看得出来是「之后」，所以不需要保留它。
 
-#### 前后主语不同
+##### 前后主语不同
 
 > [When the job was concluded], the secretary went home.
 > 
 > [The job concluded], the secretary went home.
 
-### 简化为To V
+#### 简化为To V
 
 副词从句的动词词组中如果包括语气助动词在内，简化的结果就会变成动词不定式。以下整理出一些常用的词组分别说明
 
-#### In order to
+##### In order to
 
 > The student studied hard [in order to get scholarship].
 
@@ -1629,7 +1628,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 中括号内的部分是副词从句、由从属连接词in order that连接，修饰主句动词study的目的。副词从句的主语he省略掉的话意思仍然清楚。再把助动词could简化为表示不定式的to。最后把无意义的连接词that省掉，结果就是 in order to get a scholarship这个简化从句。
 
-#### So as to
+##### So as to
 
 > The boy left home early [so as to be in time tor the concert].
 
@@ -1641,7 +1640,7 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 其他类似的还有only to, too ... to。
 
-### 简化为其他
+#### 简化为其他
 
 1、介词词组
 

@@ -31,17 +31,15 @@ VScode 写 Markdown的**插件推荐**：
 
 ## VSCode快捷键
 
-![](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)
+[Visual Studio 中的键盘快捷方式](https://docs.microsoft.com/zh-cn/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022)
 
-官方教程：
-- [Visual Studio 中的键盘快捷方式](https://docs.microsoft.com/zh-cn/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022)
-- [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 
 | 功能            | 快捷键       |
 | --------------- | ------------ |
 | 切换文档        | `Ctrl + Tab` |
 | 显示/隐藏侧边栏 | `Ctrl + B`   |
+
 
 
 

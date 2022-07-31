@@ -88,7 +88,7 @@ Even in complex sentences, **stress the noun** (unless there is contrast).
 
 - For example, if you say, Hel**lo**, this intonation would indicate doubt. You say, Hel**lo**? when answering the telephone because you don’t know who is on the other end, or when you go into a house and you don’t know who’s there because you don’t see anyone. But if you’re giving a speech or making a presentation and you stand up in front of a crowd and say, Hel**lo**, the people would probably laugh because it sounds so uncertain. This is  where you’d confidently want to say **He**llo, **my** name is **So**-and-so.
 - A second example is, **my** name is—as opposed to my **name** is. If you stress name, it sounds as if you are going to continue with more personal information: My **name** is So-and-so, my **address** is such-and-such, my **blood** type is O. Since it may not be your intention to give all that information, stay with the standard—**He**llo, **my** name is **So**-and-so.
-- If you stress **I** every time, it will seem that you have a very high opinion of yourself. Try it: **I’m** taking American Accent Training.  **I’ve** been paying attention to pitch, too. **I** think I’m quite wonderful. An earnest, hard-working person might emphasize.
+- If you stress **I** every time, it will seem that you have a very high opinion of yourself. Try it: **I’m** taking American Accent Training.  **I’ve** been paying attention to pitch, too. **I** think I’m quite wonderful. An earnest, hard-working person might emphasize
 
 # 2. 美语重音
 

@@ -93,7 +93,7 @@ categories: ['English基础']
 - The story proved false.
 - He became a teacher.
 
-可以发现，以上**谓语动词全部可以用be动词来替换**。
+可以发现，以上**谓语动词全部可以用be动词来替换**
 
 ### 主语补语和宾语补语
 
@@ -130,7 +130,7 @@ categories: ['English基础']
     - Sam was president of the high school.
     - Sam is a member of the Council of the city.
     - Sam，Head of the football team，at that time，wore a mustache.
-    - Clinton made Gorle campaign partner of the Presidential election.
+    - Clinton made Gorle campaign partner of the Presidential election.*
 
 加the不加the
 
@@ -154,12 +154,12 @@ categories: ['English基础']
 - 时间：过去、现在、将来
 - 状态：一般时、进行时、完成时、完成进行时
 
-| 状态(列)/时间(行) | 过去 | 现在 | 将来 |
-| ----------------- | ---- | ---- | ---- |
-| 一般时            | 1    | 3    | 5    |
-| 进行时            | 2    | 4    | 6    |
-| 完成时            | 7    | 9    | 11   |
-| 完成进行时        | 8    | 10   | 12   |
+| 状态(列)/时间(行) | 过去  | 现在  | 将来  |
+| ----------- | --- | --- | --- |
+| 一般时         | 1   | 3   | 5   |
+| 进行时         | 2   | 4   | 6   |
+| 完成时         | 7   | 9   | 11  |
+| 完成进行时       | 8   | 10  | 12  |
 
 **确定时态的三个维度**
 
@@ -238,7 +238,7 @@ be+doing的解释：
 词是形容词类，不定词则是“不一定什么词类”：它可以当名词、形
 容词、副词使用。
 
-## 4.1 不定式短语
+## 不定式短语
 
 **不定式与助动词之间关系密切**
 
@@ -252,7 +252,7 @@ be+doing的解释：
   - I will go./I want to go.
 - 都有不确定的语气
   - He may be right./He seems to be right.
-- 都要用完成式来表达相对过去的时间（助动词缺乏表达过去时间的能力）
+- 都要用完成式来表达相对过去的时间（助动词缺乏表达过去时间的能力的）
   - It may rain any minute.
   - It might even snow.
   - It must have rained last night.
@@ -273,7 +273,6 @@ be+doing的解释：
   - I avoid making the same mistake twice.
   - I avoid I will make the same mistake twice. 
     - 你见过这样的句子吗？？其实是因为**有未来式含义的和具有否定意义的动词天然不搭**
-    - 英语语法中只有avoid sth和avoid doing sth这两种用法，avoid to do sth是不存在的。
 - hate
   - I *hate to* say this，but I think you’re mistaken.
   - 为什么hate是否定这里又可以用to do了呢？？因为是I hate but I have to say 而不是will say
@@ -313,7 +312,7 @@ be+doing的解释：
 
 在今后的英语学习中，一定还会遇到很多这样的短语，当你背的时候，你可以想一想这章的内容。不仅会背的更快，而且还不容易忘，就算忘了，也有很大的概率可以推出来。
 
-## 4.2 动名词
+## 动名词
 
 动名词的特性
 
@@ -329,9 +328,9 @@ be+doing的解释：
 
 - 复合字
   - Strawberry-picking is a strenuous job.采草莓是很费力的工作。
-- 动作主体不同时
+- 动作主体不同时 *
   - I don't like that John calls my girlfriend day after day.
-  - I don't like John's calling my girlfriend day after day.(所有格）
+  - • I don't like John's calling my girlfriend day after day.(所有格）
 - 动名词的被动式
   - That I was invited here is a great honor.
   - Being invited here is a great honor.
@@ -346,7 +345,7 @@ be+doing的解释：
 1. 不定词是助动词的变化，带有不确定语气。
 2. 动名词的结构接近普通名词，可是往往带有「*动作、持续*」的意味。
 
-## 4.3 分词
+## 分词
 
 请把分词当做形容词
 
@@ -385,7 +384,7 @@ be+doing的解释：
 - Vegetables, especially spinach, are good for you.
 - (蔬菜，尤其是菠菜，有益健康。）
 
-## 5.1 形容词
+## 形容词
 
 名词短语中的形容词一般是出现在限定词（像a、the、this、some、
 five、John's等词）与名词中间。还有一些例外：
@@ -452,7 +451,7 @@ five、John's等词）与名词中间。还有一些例外：
 - A chimp has as much I.Q. as a child of five or six does.
 - A chimp has as much I.Q. as does a child of five or six.
 
-## 5.2 副词
+## 副词
 
 方法、状态副词（专修饰动词的 -ly）
 
@@ -594,8 +593,8 @@ five、John's等词）与名词中间。还有一些例外：
 
 以下分成现在、过去、将来三种时间分别说明。首先贴一张总结表(后面将详细说明)：
 
-|            | (if)从句           | 主句           |
-| ---------- | ------------------ | -------------- |
+|       | (if)从句             | 主句            |
+| ----- | ------------------ | ------------- |
 | 与现在相反 | did/ were          | 4种+do         |
 | 与过去相反 | had done           | 4种+ have done |
 | 与将来相反 | were to do/ should | 4种+do         |
@@ -706,14 +705,14 @@ five、John's等词）与名词中间。还有一些例外：
    2. 形容词从句
    3. 副词从句
 
-| 从词性分   | 从句法功能分 |
-| ---------- | ------------ |
-| 名词从句   | 主语从句     |
-|            | 宾语从句     |
-|            | 表语从句     |
-|            | 同位语从句   |
-| 形容词从句 | 定语从句     |
-| 副词从句   | 状语从句     |
+| 从词性分  | 从句法功能分 |
+| ----- | ------ |
+| 名词从句  | 主语从句   |
+|       | 宾语从句   |
+|       | 表语从句   |
+|       | 同位语从句  |
+| 形容词从句 | 定语从句   |
+| 副词从句  | 状语从句   |
 
 读懂长难句的关键：找主干(主谓)
 
@@ -913,19 +912,19 @@ I think to do exericse necessary
 
 关系从句中与主要从句的交叉点，可能是代名词，也可能是副词。
 
-| 代词                   | 关系代词       |
-| ---------------------- | -------------- |
-| he（she、they）        | who/that       |
-| it（they）             | which/that     |
-| his（her、their、its） | whose          |
-| him（her、them）       | whom（常省略） |
+| 代词                 | 关系代词       |
+| ------------------ | ---------- |
+| he（she、they）       | who/that   |
+| it（they）           | which/that |
+| his（her、their、its） | whose      |
+| him（her、them）      | whom（常省略）  |
 
-| 副词           | 关系副词 |
-| -------------- | -------- |
-| then           | when     |
-| there          | where    |
-| so             | how      |
-| for  a  reason | why      |
+| 副词             | 关系副词  |
+| -------------- | ----- |
+| then           | when  |
+| there          | where |
+| so             | how   |
+| for  a  reason | why   |
 
 ### 先行词在从句中的成分
 

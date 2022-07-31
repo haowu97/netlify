@@ -24,8 +24,6 @@ categories: []
 
 数学（blibli）
 
-单词：曲根 陈琦 新东方网课 睡前
-
 作文
 
 Graduate Record Examination

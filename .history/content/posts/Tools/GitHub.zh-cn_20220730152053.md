@@ -58,8 +58,6 @@ public/
 
 [Organization权限管理](https://blog.csdn.net/Q85038427/article/details/115748308)
 
-## 关于仓库容量
+
 
 查看仓库大小，点`settings-->repositories`进入[链接](https://github.com/settings/repositories)。参考：[查看GitHub仓库大小的几种方法](https://blog.csdn.net/weixin_41287260/article/details/101224658)
-
-官方文档[GitHub仓库大小限制](https://docs.github.com/cn/repositories/working-with-files/managing-large-files/about-large-files-on-github)

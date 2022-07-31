@@ -47,9 +47,6 @@ public/
 
 [Git 修改.gitignore如何生效？](https://blog.csdn.net/weixin_41287260/article/details/89787203)
 
-
-[GitHub上如何创建文件夹](https://blog.csdn.net/y_bccl27/article/details/87980986)
-
 ## 权限管理
 
 [Github上怎么修改别人的项目并且提交给原作者！图文并茂！](https://blog.csdn.net/qq_26787115/article/details/52133008)
@@ -58,8 +55,6 @@ public/
 
 [Organization权限管理](https://blog.csdn.net/Q85038427/article/details/115748308)
 
-## 关于仓库容量
+
 
 查看仓库大小，点`settings-->repositories`进入[链接](https://github.com/settings/repositories)。参考：[查看GitHub仓库大小的几种方法](https://blog.csdn.net/weixin_41287260/article/details/101224658)
-
-官方文档[GitHub仓库大小限制](https://docs.github.com/cn/repositories/working-with-files/managing-large-files/about-large-files-on-github)

@@ -43,22 +43,23 @@ categories: []
 
 个人拥有永久翼75个。
 
-## 	常驻先祖
+## 	固定先祖
 
 ### 先祖地点图
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220731104010.jpg)
+![](https://c-img.18183.com/images/2020/07/10/90c7ad5db815640d6a852bcace8ca600.jpg@!18183)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220731104417.jpg)
+![](https://c-img.18183.com/images/2020/07/10/55c5f1ff17ec3e067afae0fe1951cdea.jpg@!18183)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220731104356.jpg)
+![](https://c-img.18183.com/images/2020/07/10/28ae426d44e8b00c812ecb2024077394.jpg@!18183)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220731104312.jpg)
+位置更新，原来跑道上(共3个)的都没有了；终点增加了两个，千鸟城增加了一个。
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220731104232.jpg)
+![img](https://c-img.18183.com/images/2020/07/10/c32e2b28e084a51983e2c5832dcd3fc5.jpg@!18183)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/VaultofKnowledge.jpg)
+![](https://c-img.18183.com/images/2020/07/10/7ed25e3d95340ff2be3b4070f41b7e3c.jpg@!18183)
 
+![](https://c-img.18183.com/images/2020/07/10/45461b922e690bfd5cf15fb70089c4fb.jpg@!18183)
 
 ### 先祖兑换图
 

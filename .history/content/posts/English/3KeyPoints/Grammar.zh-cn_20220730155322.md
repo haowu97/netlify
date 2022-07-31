@@ -252,7 +252,7 @@ be+doing的解释：
   - I will go./I want to go.
 - 都有不确定的语气
   - He may be right./He seems to be right.
-- 都要用完成式来表达相对过去的时间（助动词缺乏表达过去时间的能力）
+- 都要用完成式来表达相对过去的时间（助动词缺乏表达过去时间的能力的）
   - It may rain any minute.
   - It might even snow.
   - It must have rained last night.
@@ -273,7 +273,6 @@ be+doing的解释：
   - I avoid making the same mistake twice.
   - I avoid I will make the same mistake twice. 
     - 你见过这样的句子吗？？其实是因为**有未来式含义的和具有否定意义的动词天然不搭**
-    - 英语语法中只有avoid sth和avoid doing sth这两种用法，avoid to do sth是不存在的。
 - hate
   - I *hate to* say this，but I think you’re mistaken.
   - 为什么hate是否定这里又可以用to do了呢？？因为是I hate but I have to say 而不是will say
@@ -329,9 +328,9 @@ be+doing的解释：
 
 - 复合字
   - Strawberry-picking is a strenuous job.采草莓是很费力的工作。
-- 动作主体不同时
+- 动作主体不同时 *
   - I don't like that John calls my girlfriend day after day.
-  - I don't like John's calling my girlfriend day after day.(所有格）
+  - • I don't like John's calling my girlfriend day after day.(所有格）
 - 动名词的被动式
   - That I was invited here is a great honor.
   - Being invited here is a great honor.
@@ -385,7 +384,7 @@ be+doing的解释：
 - Vegetables, especially spinach, are good for you.
 - (蔬菜，尤其是菠菜，有益健康。）
 
-## 5.1 形容词
+## 形容词
 
 名词短语中的形容词一般是出现在限定词（像a、the、this、some、
 five、John's等词）与名词中间。还有一些例外：
@@ -452,7 +451,7 @@ five、John's等词）与名词中间。还有一些例外：
 - A chimp has as much I.Q. as a child of five or six does.
 - A chimp has as much I.Q. as does a child of five or six.
 
-## 5.2 副词
+## 副词
 
 方法、状态副词（专修饰动词的 -ly）
 
