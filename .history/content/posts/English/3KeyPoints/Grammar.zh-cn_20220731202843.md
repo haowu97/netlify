@@ -872,7 +872,7 @@ I think to do exericse necessary
 - Humorous friends can communicate with people about how they reduce pressure
 - Humorous friends can communicate with people about how to reduce pressure
 
-## 8.2 定语/关系从句
+## 8.2 定语从句
 
 回顾名词从句
 
@@ -1232,7 +1232,7 @@ A heavy responsibility，whether he likes or not，falls on him.
 *不需要倒装的情况：修饰主语时
 
 - Only I saw him yesterday.
-- not only ...but also
+- *not only ...but also
 
 动词倒装的第三种方式是：若有助动词或be动词就移到前面，若只有普通动词则在前面加语法助动词do。这种倒装方式专门用于「*否定副词前移*」的情况、以配合否定句。其修辞效果在于加强语气。例如
 
@@ -1277,9 +1277,10 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 中小学传统的语法教学一般就直接讲V-ing，用to do等等用法，太注重词法！本质上无可厚非，毕竟传统家长的观念都是以分数为重。但是，我想说的是，这样做的后果就是学生产生思维定式）没有自已的思考，考雅思一团槽。国外考试最基本的能力是需要学生能读懂文章，但是中国学生基本都是一篇读下来什么都不记得，做题全靠蒙句子里面的单词都认识，连在一起就不认识了。久而久之对英语产生了厌恶，也总是学不会。另外，这种教学方式会让学生容易抬杠（讲义里不写了）。学完这三讲的简化从句后，你会知道这些V-ing，to do是怎么演变过来的。
 
-简化从句的两大原则：
+下简化从句的两大原则：
 
-1. **对等从句**中，相对应位置（主语与主语，动词与动词等）如果重复，择一弹性省略。
+1. **对等从句**中，相对应位置（主语与主语，动词与动词等）如
+    果重复，择一弹性省略。
 2. **从属从句**（名词从句、形容词从句与副词从句）中，省略主语与be动词两部分，留下补语。不过主语若非重复或空洞的元素，就应设法保留，以免句意改变。
 
 *简化从句*的概念，其实就是一个「省略」的概念。句子从最基本的单句进入比较复杂的复合句时，前后**两个从句之间往往会有重复的元素存在**。所谓简化从句，就是把从属从句当中所有重复的、空洞的元素压缩省略掉，只剩下最精简的构造。
@@ -1428,7 +1429,6 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > The man (wanting to see you] is waiting outside
 > 
 > Do you know the girl [who is sitting next to John]?
-> 
 > Do you know the girl [sitting next to John]?
 
 #### 过去分词V-en

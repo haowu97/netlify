@@ -517,7 +517,7 @@ five、John's等词）与名词中间。还有一些例外：
 - 例：There’ll be a concert on Independence Day.
 - (独立纪念日那天有场音乐会。）
 
-# 7. 语气与语气助动词
+# 7. 语气
 
 主要的*语气助动词*有下列这几个：
 
@@ -587,7 +587,7 @@ five、John's等词）与名词中间。还有一些例外：
 
 ## 虛拟语气
 
-虚拟语气表达的是「非事实」的情况，也就是「说假的、讲反话」，采用「过去」为表达方式。亦即：
+虚拟语气表达的是「非事实」的情况，也就是「说假的、讲反话」,采用「过去」为表达方式。亦即：
 
 1. 现在时间，动词却采用「过去式」；
 2. 过去时间，动词却采用过去的过去，即「过去完成式」。
@@ -680,13 +680,13 @@ five、John's等词）与名词中间。还有一些例外：
 1. 在条件从句中的动词通常是采用 were to + V的形式来表示。这是 be going to的一种变化：依「虚拟语气」的惯例，采用「过去」作为表达「非事实」的手段，因而变成过去拼法的 were to
 2. 正式用法中，不论人称，一律拼成Were。若拼成 was to则是比较不正式、口语化的用法。
 3. 在主句中，仍然是四种「过去」拼法的语气助动词( would, should, could, might)配合原形动词，用来表达「非事实」。
-4. **从句可以用should来表示可能性极小的状况**，绝无可能的状况用were to来表示
+4. 从句可以用should来表示可能性极小的状况，绝无可能的状况用were to来表示
 
 ### 混杂时间或语气
 
 **条件从句与主要从句，这两个从句的时间可能不一样、语气也可能不一样，必须依情况判断**，不可死记公式。例如
 
-> If I <u>had married</u> much younger, I <u>might have</u> my own grandchildren now.
+> If I <u>had married</u> much younger, I <u>might have</u> my own grandchildren now
 > 
 > Had I married much younger, I might have my own grandchildren now.
 > 
@@ -756,14 +756,14 @@ five、John's等词）与名词中间。还有一些例外：
 
 在写作时最好尽量使用whether来示「是否」、避免使用if有几个原因：
 
-1. Whether解释为「是否」，if 则有「是否」和「如果」两种解释。所以，用 whether来表达通常会比用更清楚。
+1. Whether解释为「是否」，则有「是否」和「如果」两种解释。所以，用 whether来表达通常会比用更清楚。
 2. 句首位置只能用 whether、不能用if来表示「是否」。例如：
 
 > Whether we can win the big prize will be decided soon.
 > 
-> S名词从句 V C
+> S名词从句 v c
 
-这个复合句，主要从句的主语就是开头那个名词从句。因为从属连接词位于句首位置，假如用的连接词是，大家看到 If we can win the big prize获得的印象是「「如果』我们能够赢得大奖」，这样就会错意了。所以，*在句首位置要表示「是否」，只能用 whether这个连接词而不能用 if*。
+这个复合句，主要从句的主语就是开头那个名词从句。因为从属连接词位于句首位置，假如用的连接词是，大家看到 If we can win the big prize获得的印象是「「如果』我们能够赢得大奖」，这样就会错意了。所以，*在句首位置要表示「是否」，只能用 whether这个连接词而不能用if*。
 
 3. *介系词后面用 whether不能用if*。例如
 
@@ -839,7 +839,7 @@ five、John's等词）与名词中间。还有一些例外：
 形式主语
 
 - X+is+n/ad
-- It's+n/adi+X
+- It s+n/adi+X
 
 形式宾语
 
@@ -872,7 +872,7 @@ I think to do exericse necessary
 - Humorous friends can communicate with people about how they reduce pressure
 - Humorous friends can communicate with people about how to reduce pressure
 
-## 8.2 定语/关系从句
+## 8.2 定语从句
 
 回顾名词从句
 
@@ -892,7 +892,7 @@ I think to do exericse necessary
 
 ### 定语/关系从句的构造
 
-主句和从句中必须要有一个**相同的元素**，例如上面的(the car)，这个相同的元素称为“**先行词**”(不用记，理解就行)，然后改写成对应的**关系代词**（同样也是连接词）。
+主句和从句中必须要有一个**相同的元素**，例如上面的(the car)，这个相同的元素称为“*先行词*”(不用记，理解就行)，然后改写成对应的关系代词（同样也是连接词）。
 
 - 先行词是人，则关系代词为who/whom/whose/that
 - 先行词是物，则关系代词为which/whose/that.
@@ -929,7 +929,7 @@ I think to do exericse necessary
 
 ### 先行词在从句中的成分
 
-**先行词在从句做主语**
+#### 先行词在从句做主语
 
 下面例句中的that均不能省略：
 
@@ -949,13 +949,13 @@ I think to do exericse necessary
 > 
 > →I like movies that make me think.(that不能省)
 
-**先行词在从句中做宾语**
+#### 先行词在从句中做宾语
 
 > Jack is a man (whom/who/that) I trust completely. (I trust the man completely.)
 > 
 > The movie (which/that) I saw last night was excellent. (I saw the movie last night.)
 
-**先行词在从句中做介词后的宾语**
+#### 先行词在从句中做介词后的宾语
 
 > Jack is a man (whom/who/that) you should talk to. (You should talk to him.
 > 
@@ -964,13 +964,13 @@ I think to do exericse necessary
 > The chair (which/that) you are sitting on is an antique. (You are sitting on that chair.
 > The chair <u>on which</u> you are sitting is an antique.(on提前后，必须用 which,不能省)
 
-**先行词在从句中做补语**
+#### 先行词在从句中做补语
 
 > After the stroke, John is not the man (who/that) he used to be. (He used to be the man)
 > 
 > The name (which/that) Kevin calls his dog is a really odd one. (Kevin calls his dog the name.)
 
-**先行词在从句中做所有格**
+#### 先行词在从句中做所有格
 
 > Jack is a man whose judgement I trust. (I trust his judgment.)
 > 
@@ -1055,7 +1055,7 @@ I think to do exericse necessary
 下列两种情况，定语从句都具有强烈的指示功能
 
 1. 先行词是all, anything, everything之类标示出「明确范围」的字
-2. 先行词有first, next, last, only等等限定词在内、或者有最高级修语，因而产生明确的指示时。
+2. 先行词有frst, next, last, only等等限定词在内、或者有最高级修语，因而产生明确的指示时。
 
 有指示意义时要用that
 
@@ -1104,13 +1104,14 @@ any- that（省略先行词的关系从句）
 > → Because我昨天买了旺仔牛奶，我没钱了。
 
 在句子前面加各式各样的，比如 because, although, if, as, when, where等等「有意义」的连接词，用来表达各式各样的逻辑关系如「原因、让步、条件、状态、时间、地方」等等。
-- When
-- After
-- It
-- Once
-- Unless
-- Because
-- Although
+
+When
+After
+It
+Once
+Unless
+Because
+Although
 
 # 9. 倒装句
 
@@ -1156,7 +1157,7 @@ any- that（省略先行词的关系从句）
 
 倒装后：
 
-> The typhoon is expected to swerve north for Japan, says the weatherman.
+> The typhoon is expected to swerve north for Japan, says the weatherman
 
 #### 间接引用
 
@@ -1232,7 +1233,7 @@ A heavy responsibility，whether he likes or not，falls on him.
 *不需要倒装的情况：修饰主语时
 
 - Only I saw him yesterday.
-- not only ...but also
+- *not only ...but also
 
 动词倒装的第三种方式是：若有助动词或be动词就移到前面，若只有普通动词则在前面加语法助动词do。这种倒装方式专门用于「*否定副词前移*」的情况、以配合否定句。其修辞效果在于加强语气。例如
 
@@ -1277,9 +1278,10 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 
 中小学传统的语法教学一般就直接讲V-ing，用to do等等用法，太注重词法！本质上无可厚非，毕竟传统家长的观念都是以分数为重。但是，我想说的是，这样做的后果就是学生产生思维定式）没有自已的思考，考雅思一团槽。国外考试最基本的能力是需要学生能读懂文章，但是中国学生基本都是一篇读下来什么都不记得，做题全靠蒙句子里面的单词都认识，连在一起就不认识了。久而久之对英语产生了厌恶，也总是学不会。另外，这种教学方式会让学生容易抬杠（讲义里不写了）。学完这三讲的简化从句后，你会知道这些V-ing，to do是怎么演变过来的。
 
-简化从句的两大原则：
+下简化从句的两大原则：
 
-1. **对等从句**中，相对应位置（主语与主语，动词与动词等）如果重复，择一弹性省略。
+1. **对等从句**中，相对应位置（主语与主语，动词与动词等）如
+    果重复，择一弹性省略。
 2. **从属从句**（名词从句、形容词从句与副词从句）中，省略主语与be动词两部分，留下补语。不过主语若非重复或空洞的元素，就应设法保留，以免句意改变。
 
 *简化从句*的概念，其实就是一个「省略」的概念。句子从最基本的单句进入比较复杂的复合句时，前后**两个从句之间往往会有重复的元素存在**。所谓简化从句，就是把从属从句当中所有重复的、空洞的元素压缩省略掉，只剩下最精简的构造。
@@ -1428,7 +1430,6 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > The man (wanting to see you] is waiting outside
 > 
 > Do you know the girl [who is sitting next to John]?
-> 
 > Do you know the girl [sitting next to John]?
 
 #### 过去分词V-en

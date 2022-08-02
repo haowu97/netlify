@@ -12,15 +12,15 @@ categories: []
 
 <!--more-->
 
-置顶：
-- https://sspai.com/post/71647
-- https://www.zhihu.com/question/52060179
+置顶：https://sspai.com/post/71647
 
 # 开场
 
 Morning!/ Good afternoon!
 
 Hello! My name is ___.And it’s a pleasure for me to be here.
+
+
 
 
 Interviewer: how are you ?
@@ -32,21 +32,17 @@ Interviewee: I am doing great.
 
 Interviewer: Can you tell me about yourself.
 
-Interviewee: 
-
-Good morning! (First of all,) thank you for giving me this precious opportunity to have the interview. 
+Interviewee: I am XX I am XX years old, I am from XX, my hobbies are XX, I graduated at XX. I worked at XX before, my position there was XXX, I have done XXX
 
 Well. My name is Wu Hao, and I'm really happy/ glad to be here today. (自信的开始)
 
-I've  just completed my Master's degree in Finance at Xiamen University, and I plan to apply for Ph.D. programs in Finance. 
-
-I believe (that) I am competent for this [] position.
-
 // I will talk about my academic background, and my research. (自我介绍的内容)
 
-First and foremost, I am a motivated, enthusiastic, and loyal person who is interested in quantitative finance and fintech. In 2018, I signed up for the UBS Global Quantitative Competition and won the runner-up. In this competition, I built a multi-factor stock selection model with SVM machine learning algorithm. I also used to work as a research assistant in Huatai Securities, during which I built CTA strategies and performed strategy backtesting and optimization.
+I've  completed my Master's degree in Finance at Xiamen University, and I believe that I am competent for this position.
 
-In addition, I have the data analysis and programming skills you need, especially with Python and Stata. (In my major bachelor thesis, I used Stata to process large survey data and used PSM-DID method to do causality inference). In my minor bachelor thesis, I conducted textual sentiment analysis on Sina Weibo text data with Python. In my master thesis,  I also employed Python to obtain and process Chinese listed firm data, and then I performed event study and panel regression with Stata.
+First and foremost, I am a motivated, enthusiastic, and loyal person who is interested in quantitative finance and fintech. In 2018, I signed up for the UBS Global Quantitative Competition and won the runner-up. In this competition, I built a multi-factor stock selection model with the SVM machine learning algorithm. I also used to work as a research assistant in Huatai Securities, during which I built CTA strategies and performed strategy backtesting and optimization.
+
+In addition, I have the econometric and programming skills you need, especially with Python and Stata. In my major bachelor thesis, I used Stata to process large survey data and used PSM-DID method to do causality inference. In my minor bachelor thesis, I conducted textual sentiment analysis on Sina Weibo text data with Python. In my master thesis,  I also employed Python to obtain and process Chinese A-share listed company data, and then I performed event study and panel regression with Stata.
 
 Finally, If I have the chance, I will prove myself to be a valuable asset to your team.
 
@@ -102,7 +98,7 @@ Ok, I got your point. Thank you for your time.
 
 In a job interview
 Job applicant:      Thank you for taking the time to meet with me. I really enjoyed talking with you.
-Employer: It was my pleasure. Thanks for coming.
+Employer:            It was my pleasure. Thanks for coming.
 
 
 参考资料：

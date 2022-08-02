@@ -1,0 +1,45 @@
+---
+title: "Lecture 3 Exchange Rate Determination"
+date: 2022-08-02T16:34:02+08:00
+draft: false
+
+description: ""
+upd: ""
+
+tags: []
+categories: ['FINM8007']
+---
+
+Learning Objectives
+- To examine the forces of **demand and supply** in the foreign exchange market
+- To discuss a number of different **factors** which cause exchange rates to fluctuate
+- To consider the role of **exchange rate forecasting**
+
+<!--more-->
+
+
+# Factors Which Influence Exchange Rates
+
+## 1.1 Relative Inflation Rates - Purchasing Power Parity
+
+Purchasing power parity (PPP) is based on the relationship between exchange rates and relative prices.
+
+The **Law of One Price** states that the prices of traded goods and services - when expressed in a common currency - are the same in all countries. For instance,
+
+$$
+P^{\$} \times S^{￥ / \$}=P^{￥}
+$$
+
+Where the price of the product in $ A $ \$'s $ \left(P^{\$}\right) $, multiplied by the spot exchange rate (S, yen per dollar), equals the price of the product in Japanese yen $ \left(P^{￥}\right) $.
+
+PPP predicts an **inverse relationship between the domestic exchange rate and its inflation rate** relative to trading partners: the domestic currency will depreciate as domestic inflation rises relative to trading partners
+
+
+**Absolute PPP** expresses the exchange rate as the ratio of the price levels in the two countries:
+$$
+S^{￥ / \$}=\frac{P^{￥}}{P^{\$}}
+$$
+
+**Relative PPP** states that **the differential in inflation rates** between two countries will determine the change in the exchange rate over the given period
+
+

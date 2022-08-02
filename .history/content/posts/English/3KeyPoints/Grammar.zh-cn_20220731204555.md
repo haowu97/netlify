@@ -1428,7 +1428,6 @@ Girls like cats more than boys，who as a rule are a cruel lot，do.
 > The man (wanting to see you] is waiting outside
 > 
 > Do you know the girl [who is sitting next to John]?
-> 
 > Do you know the girl [sitting next to John]?
 
 #### 过去分词V-en
