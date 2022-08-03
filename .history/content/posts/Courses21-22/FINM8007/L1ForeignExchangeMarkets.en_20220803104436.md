@@ -182,4 +182,4 @@ Start with AUD 10,000. Can you identify **any positive arbitrage opportunities**
 
 Short Quiz 4
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031045628.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-23-11-24-36-image.png)

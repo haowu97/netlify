@@ -8,6 +8,7 @@ upd: "当 Windows 端 Typora 开始收费，VSCode 成为了我的最佳 Markdow
 
 tags: ['Markdown', 'VSCode']
 categories: []
+output: pdf_document
 ---
 
 <!--more-->
@@ -48,8 +49,8 @@ output: word_document
 # 导出 PDF 文档
 output: pdf_document
 ```
-参考：
-- [markdown preview enhanced文档（简体中文版）](https://www.bookstack.cn/read/mpe/zh-cn-pandoc-word.md)
+
+
 
 # 常用快捷键
 

@@ -65,7 +65,8 @@ Disadvantages of fixed exchange rate systems:
 Advantages of fixed exchange rate systems:
 
 - Fixed rates provide greater **stability for international prices**;
-- Stable exchange rates **aid growth** in international trade and investment and **lessen risks** for international business.
+- Stable exchange rates **aid growth** in international trade and investment and
+**lessen risks** for international business.
 
 
 **Practice** (PRACTICE QUESTIONS SET 1): What are the key advantages and disadvantages of the fixed exchange rate system?
@@ -101,10 +102,11 @@ $$
 
 **Solution**: Percentage change of the EUR = (0.8426/0.8730 – 1) x 100% = -3.482245132% = -3.48% (depreciation)
 
+
+
 # 3. Impact of currency depreciation
 
 Impact on imports and exports:
-
 - Export prices fall in foreign currency terms
 - Import prices rise in domestic currency terms
 - Over time lower export prices increase demand for exports and higher import prices reduce demand for imports

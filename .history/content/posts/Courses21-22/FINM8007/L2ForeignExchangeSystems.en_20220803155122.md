@@ -8,11 +8,9 @@ upd: ""
 
 tags: []
 categories: ['FINM8007']
-output: word_document
 ---
 
 Learning Objectives
-
 - To analyze and discuss the **currency regime choices** faced by countries
 - To compare **fixed and flexible** exchange rate systems
 - To examine **undervalued and overvalued** exchange rates and their consequences
@@ -29,13 +27,11 @@ Learning Objectives
 ## 1.1 Fixed exchange rate system
 
 **Currency Board**
-
 - Sets the exchange rate at a fixed rate which is then kept stable by the board using **official reserves of foreign currencies**
 - Domestic money supply must be backed 100% by foreign reserves.
 - **Examples**: Argentina 1991 – 2002: A/peso tied to the US＄ at rate of Peso1 = US＄1
 
 **Narrow band**
-
 - Currency tied to an anchor (such as the US$) with **a small margin** of variation around the parity value permitted
 - Includes ‘crawling peg’ arrangements
 - Examples: Bretton Woods System 1945-1971, Currencies tied to the US dollar or UK pound sterling.
@@ -44,12 +40,10 @@ Learning Objectives
 
 
 **Managed Float**
-
 - Monetary authorities **actively intervene** to influence the exchange rate without announcing a particular value for the currency
 - e.g. China, Indonesia, India, Thailand
 
 **Independent Floating**
-
 - The exchange rate is **determined by the market** with minimal interference by monetary authorities. Any intervention aims to prevent undue volatility.
 - e.g. Australia, New Zealand, UK, USA
 
@@ -57,15 +51,14 @@ Learning Objectives
 ## 1.3 Fixed Versus Flexible?
 
 Disadvantages of fixed exchange rate systems:
-
 - Fixed rates require large holdings of **official reserve assets**;
 - Fixed rates **limit the role of monetary policy** in achieving internal balance;
 - Fixed rates may be maintained at levels **inconsistent with economic fundamentals**.
 
 Advantages of fixed exchange rate systems:
-
 - Fixed rates provide greater **stability for international prices**;
-- Stable exchange rates **aid growth** in international trade and investment and **lessen risks** for international business.
+- Stable exchange rates **aid growth** in international trade and investment and
+**lessen risks** for international business.
 
 
 **Practice** (PRACTICE QUESTIONS SET 1): What are the key advantages and disadvantages of the fixed exchange rate system?
@@ -101,10 +94,11 @@ $$
 
 **Solution**: Percentage change of the EUR = (0.8426/0.8730 – 1) x 100% = -3.482245132% = -3.48% (depreciation)
 
+
+
 # 3. Impact of currency depreciation
 
 Impact on imports and exports:
-
 - Export prices fall in foreign currency terms
 - Import prices rise in domestic currency terms
 - Over time lower export prices increase demand for exports and higher import prices reduce demand for imports

@@ -8,6 +8,7 @@ upd: "当 Windows 端 Typora 开始收费，VSCode 成为了我的最佳 Markdow
 
 tags: ['Markdown', 'VSCode']
 categories: []
+output: pdf_document
 ---
 
 <!--more-->

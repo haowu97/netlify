@@ -20,9 +20,9 @@ categories: []
 
 # Picgo+Github图床
 
-[Picgo下载地址](https://github.com/Molunerfinn/PicGo/releases)，Windows下载exe文件，Mac OS下载dmg文件，然后按照步骤安装即可。
+[Picgo下载地址](https://github.com/Molunerfinn/PicGo/releases)，下载exe文件然后安装即可
 
-安装完成后需要进行相应地配置，配置步骤可以参考**官方文档**：[Github+Picgo图床配置方法](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github图床)
+讲解非常全面的官方文档：[Github+Picgo图床配置方法](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github图床)
 
 
 ## 补充说明
@@ -41,8 +41,6 @@ https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master
 
 ## Bug
 
-当出现报错时，可以去**设置--->日志**里面看错误相关信息，再搜索相关错误信息，更加有针对性地解决Bug。
-
 **图床指定的存储路径必须提前创建好**
 
 错误：{"success",false}：原因是文件名冲突了，如果你上传过一张image1.jpg的图片，再上传名称一样的图片就会失败；**打开picgo设置，将【时间戳重命名】打开，如果该错误仍然出现，尝试勾选【上传前重命名】**
@@ -51,9 +49,10 @@ https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master
 
 **Failed to fetch**，解决方法：打开picgo设置，点击设置Server选项，将端口改为36677端口，这是picgo推荐的默认端口号。
 
-图片不显示 Package size exceeded the configured limit of 50 MB问题解决方案：
+ 图片不显示 Package size exceeded the configured limit of 50 MB问题解决方案：
 
 https://blog.csdn.net/weixin_43571641/article/details/109817266
+
 
 图片无法访问，打开网页后提示：
 
@@ -62,33 +61,6 @@ Failed to fetch version info for xxx/xxx.
 ```
 
 解决方法：可能是因为太久没有使用GitHub，登陆并访问GitHub图床仓库后，即可解决。
-
-突然不能用，日志显示出现401错误：
-
-```c
-2022-08-03 08:40:35 [PicGo ERROR] 
-------Error Stack Begin------
-StatusCodeError: 401 - {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
-    at new StatusCodeError (D:\Software\PicGo\resources\app.asar\node_modules\request-promise-core\lib\errors.js:32:15)
-    at Request.plumbing.callback (D:\Software\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:104:33)
-    at Request.RP$callback [as _callback] (D:\Software\PicGo\resources\app.asar\node_modules\request-promise-core\lib\plumbing.js:46:31)
-    at Request.self.callback (D:\Software\PicGo\resources\app.asar\node_modules\request\request.js:185:22)
-    at Request.emit (events.js:200:13)
-    at Request.<anonymous> (D:\Software\PicGo\resources\app.asar\node_modules\request\request.js:1154:10)
-    at Request.emit (events.js:200:13)
-    at IncomingMessage.<anonymous> (D:\Software\PicGo\resources\app.asar\node_modules\request\request.js:1076:12)
-    at Object.onceWrapper (events.js:288:20)
-    at IncomingMessage.emit (events.js:205:15)
--------Error Stack End------- 
-```
-
-出现这个问题的原因可能有：
-- 获取的GitHub token时的有效期设置的过短，token过期了，可以尝试激活原有token或者生成新的token
-- GitHub图床设置有误等
-
-参考：
-- [typora+github+picgo搭建图床踩坑404+401](https://blog.csdn.net/qq_52092705/article/details/121452388)
-- [PicGo+GitHub图床配置&常见错误](http://b.aksy.space/study-notes/514.html)
 
 # Picgo+Gitee图床
 

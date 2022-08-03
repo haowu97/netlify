@@ -101,10 +101,11 @@ $$
 
 **Solution**: Percentage change of the EUR = (0.8426/0.8730 – 1) x 100% = -3.482245132% = -3.48% (depreciation)
 
+
+
 # 3. Impact of currency depreciation
 
 Impact on imports and exports:
-
 - Export prices fall in foreign currency terms
 - Import prices rise in domestic currency terms
 - Over time lower export prices increase demand for exports and higher import prices reduce demand for imports

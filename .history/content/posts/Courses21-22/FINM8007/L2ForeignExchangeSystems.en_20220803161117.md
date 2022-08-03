@@ -104,7 +104,6 @@ $$
 # 3. Impact of currency depreciation
 
 Impact on imports and exports:
-
 - Export prices fall in foreign currency terms
 - Import prices rise in domestic currency terms
 - Over time lower export prices increase demand for exports and higher import prices reduce demand for imports

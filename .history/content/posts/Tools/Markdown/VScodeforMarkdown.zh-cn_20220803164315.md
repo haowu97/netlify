@@ -48,8 +48,8 @@ output: word_document
 # 导出 PDF 文档
 output: pdf_document
 ```
-参考：
-- [markdown preview enhanced文档（简体中文版）](https://www.bookstack.cn/read/mpe/zh-cn-pandoc-word.md)
+
+
 
 # 常用快捷键
 

@@ -55,6 +55,7 @@ https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master
 
 https://blog.csdn.net/weixin_43571641/article/details/109817266
 
+
 图片无法访问，打开网页后提示：
 
 ```
@@ -62,6 +63,7 @@ Failed to fetch version info for xxx/xxx.
 ```
 
 解决方法：可能是因为太久没有使用GitHub，登陆并访问GitHub图床仓库后，即可解决。
+
 
 突然不能用，日志显示出现401错误：
 
@@ -85,10 +87,6 @@ StatusCodeError: 401 - {"message":"Bad credentials","documentation_url":"https:/
 出现这个问题的原因可能有：
 - 获取的GitHub token时的有效期设置的过短，token过期了，可以尝试激活原有token或者生成新的token
 - GitHub图床设置有误等
-
-参考：
-- [typora+github+picgo搭建图床踩坑404+401](https://blog.csdn.net/qq_52092705/article/details/121452388)
-- [PicGo+GitHub图床配置&常见错误](http://b.aksy.space/study-notes/514.html)
 
 # Picgo+Gitee图床
 

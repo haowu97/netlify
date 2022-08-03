@@ -158,11 +158,9 @@ Practice (Semester 2 -- Mid-semester, 2019)
 
 Practice (Semester 2 -- Mid, 2020)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031043971.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-21-01-13-image.png)
 
-**Solution**:
-
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031044934.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-21-02-15-image.png)
 
 Practice (Semester 1 -- Final, 2021) Consider the following bilateral spot exchange rates involving the Australian dollar (AUD), Canadian dollar (CAD), Euro (EUR), and United States dollar (USD):
 
@@ -182,4 +180,4 @@ Start with AUD 10,000. Can you identify **any positive arbitrage opportunities**
 
 Short Quiz 4
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031045628.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-23-11-24-36-image.png)

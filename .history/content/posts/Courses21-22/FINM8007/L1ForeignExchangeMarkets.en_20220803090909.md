@@ -143,26 +143,23 @@ Practice (Short Quiz1)
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208030908657.png)
 
-**Solution**:
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-22-08-55-01-image.png)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031036698.png)
-
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031038914.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-22-08-55-09-image.png)
 
 Practice (Semester 2 -- Mid-semester, 2019)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031039341.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-20-54-14-image.png)
 
-**Solution**:
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031040456.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-20-55-38-image.png)
+
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-20-56-18-image.png)
 
 Practice (Semester 2 -- Mid, 2020)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031043971.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-21-01-13-image.png)
 
-**Solution**:
-
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031044934.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-21-21-02-15-image.png)
 
 Practice (Semester 1 -- Final, 2021) Consider the following bilateral spot exchange rates involving the Australian dollar (AUD), Canadian dollar (CAD), Euro (EUR), and United States dollar (USD):
 
@@ -182,4 +179,4 @@ Start with AUD 10,000. Can you identify **any positive arbitrage opportunities**
 
 Short Quiz 4
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031045628.png)
+![](C:\Users\Wuhao\AppData\Roaming\marktext\images\2022-07-23-11-24-36-image.png)

@@ -86,10 +86,6 @@ StatusCodeError: 401 - {"message":"Bad credentials","documentation_url":"https:/
 - 获取的GitHub token时的有效期设置的过短，token过期了，可以尝试激活原有token或者生成新的token
 - GitHub图床设置有误等
 
-参考：
-- [typora+github+picgo搭建图床踩坑404+401](https://blog.csdn.net/qq_52092705/article/details/121452388)
-- [PicGo+GitHub图床配置&常见错误](http://b.aksy.space/study-notes/514.html)
-
 # Picgo+Gitee图床
 
 GitHub图床有时会上传不上去，因此采用Gitee作为替代方案，两者同时使用。相对于GitHub，Gitee的仓库有容量大小限制，但是胜在速度快。

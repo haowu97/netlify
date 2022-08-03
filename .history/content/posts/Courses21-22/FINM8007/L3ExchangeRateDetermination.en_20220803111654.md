@@ -66,9 +66,7 @@ $$
 
 **Practice** (Semester 1 -- Final, 2021) Part C
 
-Assume that you live in the United States. From 1 January 2020 to 31 December 2020, the exchange rate of the New Zealand dollar (NZD) against the United States dollar (USD) changed from NZD per USD (NZD/USD) 1.25 to NZD/USD 2.00. Over the same period, the inflation rates in the United States and New Zealand were 2% per annum (p.a.) and 10% p.a. respectively. According to the relative version of the Purchasing Power Parity, by what percentage was the USD **overvalued or undervalued** in December 2020? Explain and show your working clearly and completely. [10 marks/ 150 marks]
-
-Note: **overvalued or undervalued** versus **appreciated or depreciated**
+Assume that you live in the United States. From 1 January 2020 to 31 December 2020, the exchange rate of the New Zealand dollar (NZD) against the United States dollar (USD) changed from NZD per USD (NZD/USD) 1.25 to NZD/USD 2.00. Over the same period, the inflation rates in the United States and New Zealand were 2% per annum (p.a.) and 10% p.a. respectively. According to the relative version of the Purchasing Power Parity, by what percentage was the USD **overvalued or undervalued** in December 2020? Explain and show your working clearly and completely. [10 marks]
 
 **Practice** (PRACTICE QUESTIONS SET 2): What is the **difference** between the absolute theory of purchasing power parity and the relative version of that theory?
 

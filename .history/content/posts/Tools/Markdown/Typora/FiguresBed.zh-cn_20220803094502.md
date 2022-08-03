@@ -22,7 +22,7 @@ categories: []
 
 [Picgo下载地址](https://github.com/Molunerfinn/PicGo/releases)，Windows下载exe文件，Mac OS下载dmg文件，然后按照步骤安装即可。
 
-安装完成后需要进行相应地配置，配置步骤可以参考**官方文档**：[Github+Picgo图床配置方法](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github图床)
+讲解非常全面的官方文档：[Github+Picgo图床配置方法](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github图床)
 
 
 ## 补充说明
@@ -55,6 +55,7 @@ https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master
 
 https://blog.csdn.net/weixin_43571641/article/details/109817266
 
+
 图片无法访问，打开网页后提示：
 
 ```
@@ -62,6 +63,7 @@ Failed to fetch version info for xxx/xxx.
 ```
 
 解决方法：可能是因为太久没有使用GitHub，登陆并访问GitHub图床仓库后，即可解决。
+
 
 突然不能用，日志显示出现401错误：
 
@@ -81,14 +83,6 @@ StatusCodeError: 401 - {"message":"Bad credentials","documentation_url":"https:/
     at IncomingMessage.emit (events.js:205:15)
 -------Error Stack End------- 
 ```
-
-出现这个问题的原因可能有：
-- 获取的GitHub token时的有效期设置的过短，token过期了，可以尝试激活原有token或者生成新的token
-- GitHub图床设置有误等
-
-参考：
-- [typora+github+picgo搭建图床踩坑404+401](https://blog.csdn.net/qq_52092705/article/details/121452388)
-- [PicGo+GitHub图床配置&常见错误](http://b.aksy.space/study-notes/514.html)
 
 # Picgo+Gitee图床
 

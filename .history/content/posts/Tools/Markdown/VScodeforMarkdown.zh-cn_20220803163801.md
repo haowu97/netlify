@@ -35,21 +35,10 @@ VScode 写 Markdown的**插件推荐**：
 
 # Markdown导出
 
-在预览页面可以右键直接导出 HTML、PDF、图片等格式。
+在预览页面可以右键直接导出HTML、PDF、图片等格式。
+还可以借助Pandoc导出docx
 
-还可以借助 Pandoc 导出 docx、PDF 等格式。需要以下步骤：
 
-1. 安装 Pandoc
-2. 在 Markdown 文档的 front-matter 中声明导出文件类型，例如：
-
-```yaml
-# 导出 Word 文档
-output: word_document
-# 导出 PDF 文档
-output: pdf_document
-```
-参考：
-- [markdown preview enhanced文档（简体中文版）](https://www.bookstack.cn/read/mpe/zh-cn-pandoc-word.md)
 
 # 常用快捷键
 
