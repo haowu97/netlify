@@ -40,21 +40,21 @@ categories: ["曲根万词笔记"]
 通常弄懂前缀和词根即可明白一个单词的含义。
 
 
-**regress** [ri'gres] v.后退，退步
+regress [ri'gres] v.后退，退步
 
 <re-back -gress- 走 to go --progress 表示进步>
 
-**ingress** ['ingres] n.进入
+ingress ['ingres] n.进入
 
-**improvise** ['imprəvaiz] v.即兴创作
+improvise ['imprəvaiz] v.即兴创作
 
 <-vis 表示看 visible 可视的，例：visit -vis: see, -it: to go（边走边看）im-表示否定impossible，不用提前看的>
 
-**itinerant** [I'tInərənt] a.巡回的，游历的
+itinerant [I'tInərənt] a.巡回的，游历的
 
 <it-to go +iner-inner +ant, 在一个范围内部走来走去一巡回的>
 
-**benefactor** ['beni,fæktə] n.行善者，施主
+benefactor ['beni,fæktə] n.行善者，施主
 
 <bene-good +fact- 做to make factory +or人→做好事的人——行善者>
 
@@ -63,14 +63,14 @@ categories: ["曲根万词笔记"]
 
 如何运用：看读音，看拼写，看意思
 
-**shelter** ['ʃeltə] n./v.避难所，保护
+shelter ['ʃeltə] n./v.避难所，保护
 
 <来自shelt- shell贝壳 +er→保护>
 
-**shield** [ʃi:ld] n.盾牌，保护
+shield [ʃi:ld] n.盾牌，保护
 
 <同样来自shell e-ie发生通假变化>
 
-**fetter** ['fetə] n.束缚，脚镣
+fetter['fetə] n.束缚，脚镣
 
 <,fet-feet +ter,>
