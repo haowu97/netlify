@@ -101,14 +101,6 @@ $$
 
 **Solution**: Percentage change of the EUR = (0.8426/0.8730 – 1) x 100% = -3.482245132% = -3.48% (depreciation)
 
-**Practice** (Semester 1 -- Review Questions, 2021) Question 8 - Part C - [ii]: During 2002, the US dollar (USD) went from 135 Japanese Yen (JPY) per USD to 118 JPY per USD. By how much did the USD change against the JPY during the year? Assume that the JPY is the domestic currency.
-
-**Solution**:
-
-Percentage change in USD = (118/135 – 1) x 100 % = -17/135 = -12.59%
-
-Answer: 12.59% depreciation against the JPY.
-
 # 3. Impact of currency depreciation
 
 Impact on imports and exports:
@@ -118,16 +110,12 @@ Impact on imports and exports:
 - Over time lower export prices increase demand for exports and higher import prices reduce demand for imports
 - International competitiveness improves
 
-Therefore, currency depreciation improves the trade balance.
 
-
-**Practice** (Semester 1 -- Review Questions, 2021) Question 8 - Part C - [i]: Over the past five years, the exchange rate between the U.S. dollar (USD) and British pound (GBP) has changed from about 1.90 USD per GBP (USD/GBP) to about 1.45 USD/GBP. Would you agree that over this five-year period that British goods have become cheaper for buyers in the United States?
+**Practice** (Semester 1 -- Review Questions, 2021) Question 8 Part C: Over the past five years, the exchange rate between the U.S. dollar (USD) and British pound (GBP) has changed from about 1.90 USD per GBP (USD/GBP) to about 1.45 USD/GBP. Would you agree that over this five-year period that British goods have become cheaper for buyers in the United States?
 
 **Solution**: The value of the British pound in U.S. dollars has changed from about 1.90 to about 1.45. Therefore, the U.S. dollar has appreciated relative to the British pound, and the dollars needed by Americans to purchase British goods have decreased. Thus, the statement is correct.
 
 ---
-
-But, price changes may not be passed on fully to buyers and restrictions on free trade may apply.
 
 **Exchange rate pass-through**: The degree to which the prices of imported and exported goods change as a result of exchange rate changes is termed pass-through.
 

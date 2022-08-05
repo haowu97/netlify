@@ -70,6 +70,7 @@ output: pdf_document
 | 切换文档        | `Ctrl + Tab` |
 | 显示/隐藏侧边栏 | `Ctrl + B`   |
 
+
 # 表格编辑
 
 方法一：直接编辑表格，然后使用`Alt + Shift + F` 快捷键将表格格式化。

@@ -67,6 +67,10 @@ $$
 S_{2}^{￥ / \$}=S_{1}^{￥ / \$} \times \frac{\left(1+\pi_{\text {Jap }}\right)}{\left(1+\pi_{\text {USA }}\right)}
 $$
 
+**Practice** (Semester 1 -- Final, 2021) Part C: Assume that you live in the United States. From 1 January 2020 to 31 December 2020, the exchange rate of the New Zealand dollar (NZD) against the United States dollar (USD) changed from NZD per USD (NZD/USD) 1.25 to NZD/USD 2.00. Over the same period, the inflation rates in the United States and New Zealand were 2% per annum (p.a.) and 10% p.a. respectively. According to the relative version of the Purchasing Power Parity, by what percentage was the USD **overvalued or undervalued** in December 2020? Explain and show your working clearly and completely. [10 marks/ 150 marks]
+
+Note: **overvalued or undervalued** versus **appreciated or depreciated**.
+
 **Practice** (Semester 1 -- Review Questions, 2021): Assume that you are a Vietnamese resident. From 1 January 2008 to 31 December 2008, the exchange rate of the Vietnamese Dong (VND) per USD (VND/USD) changed from VND/USD 16,000 to VND/USD 18,000. Over the same period, the inflation rate in the United States and Vietnam were 2% per annum (p.a.) and 25% p.a. respectively. By how much did the value of the VND change over the year? What would the relative version of the Purchasing Power Parity predict the VND/USD exchange rate to be in December 2008? By what percentage was the Dong overvalued or undervalued in December 2008?
 
 **Solution**:
@@ -77,10 +81,6 @@ Applying the formula according to the relative version of the Purchasing Power P
 VND/USD 19,607.84
 
 Overvaluation of the VND = (20,000/1.02)/18,000 – 1 = 1,640/18,360 = 8.93 %
-
-**Practice** (Semester 1 -- Final, 2021) Part C: Assume that you live in the United States. From 1 January 2020 to 31 December 2020, the exchange rate of the New Zealand dollar (NZD) against the United States dollar (USD) changed from NZD per USD (NZD/USD) 1.25 to NZD/USD 2.00. Over the same period, the inflation rates in the United States and New Zealand were 2% per annum (p.a.) and 10% p.a. respectively. According to the relative version of the Purchasing Power Parity, by what percentage was the USD **overvalued or undervalued** in December 2020? Explain and show your working clearly and completely. [10 marks/ 150 marks]
-
-Note: **overvalued or undervalued** versus **appreciated or depreciated**.
 
 **Practice** (PRACTICE QUESTIONS SET 2): What is the **difference** between the absolute theory of purchasing power parity and the relative version of that theory?
 

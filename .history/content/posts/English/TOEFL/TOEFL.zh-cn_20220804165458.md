@@ -35,7 +35,7 @@ categories: []
 5. [我是一位托福老师，总结一下十多年的工作经验吧 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/363801394)
 6. [（2）托福GRE网课那些事儿 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/117399765)
 
-[ 备考托福，需要准备哪些资料？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/24124134)
+[(31 封私信 / 99+ 条消息) 备考托福，需要准备哪些资料？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/24124134)
 
 [TOEFL iBT 模拟考试（应试者用） (ets.org)](https://www.ets.org/zh/toefl/test-takers/ibt/prepare/tests)
 

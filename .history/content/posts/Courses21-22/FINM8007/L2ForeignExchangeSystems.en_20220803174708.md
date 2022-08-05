@@ -118,16 +118,12 @@ Impact on imports and exports:
 - Over time lower export prices increase demand for exports and higher import prices reduce demand for imports
 - International competitiveness improves
 
-Therefore, currency depreciation improves the trade balance.
-
 
 **Practice** (Semester 1 -- Review Questions, 2021) Question 8 - Part C - [i]: Over the past five years, the exchange rate between the U.S. dollar (USD) and British pound (GBP) has changed from about 1.90 USD per GBP (USD/GBP) to about 1.45 USD/GBP. Would you agree that over this five-year period that British goods have become cheaper for buyers in the United States?
 
 **Solution**: The value of the British pound in U.S. dollars has changed from about 1.90 to about 1.45. Therefore, the U.S. dollar has appreciated relative to the British pound, and the dollars needed by Americans to purchase British goods have decreased. Thus, the statement is correct.
 
 ---
-
-But, price changes may not be passed on fully to buyers and restrictions on free trade may apply.
 
 **Exchange rate pass-through**: The degree to which the prices of imported and exported goods change as a result of exchange rate changes is termed pass-through.
 
