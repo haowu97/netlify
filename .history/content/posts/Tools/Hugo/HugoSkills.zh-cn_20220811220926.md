@@ -88,15 +88,10 @@ Hugo中可以存放文件的文件夹有`assets`和`static`:
 
 对于本地图片插入，可以使用相对路径。有以下两种方法：
 
-方法一：
-
-- [Hugo如何在markdown里引用本地图片](https://blog.csdn.net/perfumekristy/article/details/122086009)
-
-方法二：设立 index.md 文件，方便，但是会让文件层级多一层。参考：
+设立 index.md 文件，方便，但是会让文件层级多一层。参考：
 
 - [Hugo/Doks 静态网站图片插入问题](http://i.lckiss.com/?p=7455)
 - [hugo-处理图片的方式](https://sqkikyo.com/post/hugo%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87%E7%9A%84%E6%96%B9%E5%BC%8F/)
-- [Hugo 图片插入问题](https://sur.moe/post/hugo%E5%9B%BE%E7%89%87/)
 
 ## 4. Google Analytics
 
