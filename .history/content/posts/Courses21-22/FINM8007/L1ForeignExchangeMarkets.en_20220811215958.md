@@ -132,7 +132,7 @@ Transaction 2: An Australian tourist wishes to buy HK\＄ 25k. to cover holiday 
 
 USD cost of the plastic blocks = USD 500,000/6.91 = USD 72,358.90
 
-## 4. Cross Rates & Triangular Arbitrage
+# 4. Cross Rates & Triangular Arbitrage
 
 **Cross Rates**:
 

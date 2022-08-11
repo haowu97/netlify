@@ -20,7 +20,7 @@ Learning Objectives
 
 <!--more-->
 
-## 1. Functions of the foreign exchange market
+# 1. Functions of the foreign exchange market
 
 - Transfer **purchasing power** between countries
   
@@ -39,7 +39,7 @@ Learning Objectives
 
 What are the three functions of the foreign exchange market? Explain clearly. [10 marks]
 
-## 2. Market Participants
+# 2. Market Participants
 
 The foreign exchange market consists of two tiers,
 
@@ -84,7 +84,7 @@ Four broad categories of participants
 
 What is the difference between the retail or client market and the wholesale or interbank market for foreign exchange? Who are the market participants in the foreign exchange market?
 
-## 3. Spot Quotes
+# 3. Spot Quotes
 
 ~~Transactions in the Foreign Exchange Market (FEM)~~
 
@@ -132,7 +132,7 @@ Transaction 2: An Australian tourist wishes to buy HK\＄ 25k. to cover holiday 
 
 USD cost of the plastic blocks = USD 500,000/6.91 = USD 72,358.90
 
-## 4. Cross Rates & Triangular Arbitrage
+# 4. Cross Rates & Triangular Arbitrage
 
 **Cross Rates**:
 
