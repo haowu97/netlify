@@ -238,6 +238,6 @@ Show your working clearly by using both direct and indirect quotes.
 
 **Solution**:
 
-![](img/L4InternationalParityConditions.en_2022-08-09-18-34-04.png)
+![](/img/L4InternationalParityConditions.en_2022-08-09-18-34-04.png)
 
-![](img/L4InternationalParityConditions.en_2022-08-09-18-35-08.png)
+![](/img/L4InternationalParityConditions.en_2022-08-09-18-35-08.png)

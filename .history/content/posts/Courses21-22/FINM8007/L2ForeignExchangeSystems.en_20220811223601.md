@@ -42,6 +42,7 @@ Learning Objectives
 
 ### 1.2 Flexible exchange rate system
 
+
 **Managed Float**
 
 - Monetary authorities **actively intervene** to influence the exchange rate without announcing a particular value for the currency
@@ -53,7 +54,7 @@ Learning Objectives
 - e.g. Australia, New Zealand, UK, USA
 
 
-### 1.3 Fixed Versus Flexible?
+## 1.3 Fixed Versus Flexible?
 
 Disadvantages of fixed exchange rate systems:
 
@@ -69,7 +70,7 @@ Advantages of fixed exchange rate systems:
 
 **Practice** (PRACTICE QUESTIONS SET 1): What are the key advantages and disadvantages of the fixed exchange rate system?
 
-## 2. Calculating exchange rate changes
+# 2. Calculating exchange rate changes
 
 Formulas *assume you are measuring change in the foreign currency*.
 
@@ -108,7 +109,7 @@ Percentage change in USD = (118/135 – 1) x 100 % = -17/135 = -12.59%
 
 Answer: 12.59% depreciation against the JPY.
 
-## 3. Impact of currency depreciation
+# 3. Impact of currency depreciation
 
 Impact on imports and exports:
 
@@ -118,6 +119,7 @@ Impact on imports and exports:
 - International competitiveness improves
 
 Therefore, currency depreciation improves the trade balance.
+
 
 **Practice** (Semester 1 -- Review Questions, 2021) Question 8 - Part C - [i]: Over the past five years, the exchange rate between the U.S. dollar (USD) and British pound (GBP) has changed from about 1.90 USD per GBP (USD/GBP) to about 1.45 USD/GBP. Would you agree that over this five-year period that British goods have become cheaper for buyers in the United States?
 

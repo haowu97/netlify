@@ -111,7 +111,7 @@ Hugo中可以存放文件的文件夹有`assets`和`static`:
 - [hugo-处理图片的方式](https://sqkikyo.com/post/hugo%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87%E7%9A%84%E6%96%B9%E5%BC%8F/)
 - [Hugo 图片插入问题](https://sur.moe/post/hugo%E5%9B%BE%E7%89%87/)
 
-## 6. Google Analytics
+## 4. Google Analytics
 
 作用：统计站点的流量情况。
 

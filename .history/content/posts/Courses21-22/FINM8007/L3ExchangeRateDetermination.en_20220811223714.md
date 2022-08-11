@@ -125,15 +125,20 @@ Countries which are highly dependent on commodities as either exports or imports
 
 **‘Terms of trade’** – a ratio of the prices of exports of goods and services to the prices of imports of goods and services
 
-### 1.7 Role of Government
+## 1.7 Role of Government
 
-- Through actual and expected policy changes – fiscal, monetary, labour market, environment.
-- Direct intervention in the foreign exchange market
-- Coordinated agreements between central banks
-- Foreign trade policy
-- Foreign investment policy
+Through actual and expected policy changes – fiscal, monetary, labour market, environment.
 
-## 2. Forecasting Exchange Rates
+Direct intervention in the foreign exchange market
+
+Coordinated agreements between central banks
+
+Foreign trade policy
+
+Foreign investment policy
+
+
+# 2. Forecasting Exchange Rates
 
 **Efficient Markets Approach**: 
 - Financial Markets are efficient if prices reflect all available and relevant information.

@@ -97,7 +97,7 @@ The current account balance reflects relative demand for goods and services in i
 - **Continuous current account deficits** also add to the level of foreign liabilities: **Risk averse investors may withdraw capital**.
 
 
-### 1.3 Asset Markets
+## 1.3 Asset Markets
 
 Asset market theories concentrate on capital/financial flows
 - These theories assume the exchange rate is determined by the quantities demanded and supplied of various financial instruments
@@ -106,7 +106,7 @@ Asset market theories concentrate on capital/financial flows
 
 Theory predicts a direct relationship between domestic financial returns and the exchange rate
 
-### 1.4 Relative Growth Rates
+## 1.4 Relative Growth Rates
 
 Conflicting evidence as to the role of economic growth
 - ‘Old View’ A high rate of economic growth in the domestic economy increases demand for foreign goods and leaves fewer domestic goods available for export. This **increases the supply, and reduces the demand for domestic currency** on the FEM putting **downward pressure on the exchange rate**.
@@ -115,25 +115,30 @@ Conflicting evidence as to the role of economic growth
   - Relevant for countries where financial flows dominate the FEM
 
 
-### 1.5 News and Expectations
+## 1.5 News and Expectations
 
 Market expectations and new information play a vital role in the determination of exchange rates, particularly in the **short term**.
 
-### 1.6 Commodity Prices
+## 1.6 Commodity Prices
 
 Countries which are highly dependent on commodities as either exports or imports reveal **a correlation between their terms of trade and the exchange rate**.
 
 **‘Terms of trade’** – a ratio of the prices of exports of goods and services to the prices of imports of goods and services
 
-### 1.7 Role of Government
+## 1.7 Role of Government
 
-- Through actual and expected policy changes – fiscal, monetary, labour market, environment.
-- Direct intervention in the foreign exchange market
-- Coordinated agreements between central banks
-- Foreign trade policy
-- Foreign investment policy
+Through actual and expected policy changes – fiscal, monetary, labour market, environment.
 
-## 2. Forecasting Exchange Rates
+Direct intervention in the foreign exchange market
+
+Coordinated agreements between central banks
+
+Foreign trade policy
+
+Foreign investment policy
+
+
+# 2. Forecasting Exchange Rates
 
 **Efficient Markets Approach**: 
 - Financial Markets are efficient if prices reflect all available and relevant information.

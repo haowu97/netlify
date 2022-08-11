@@ -30,11 +30,11 @@ Learning Objectives
 - Results from sales of Australian dollars and purchases of foreign currencies.
 - To pay for **imports**, **financial outflows** and **foreign assets**.
 
-## 1. Factors Which Influence Exchange Rates
+# 1. Factors Which Influence Exchange Rates
 
-### 1.1 Relative Inflation Rates - Purchasing Power Parity
+## 1.1 Relative Inflation Rates - Purchasing Power Parity
 
-#### 1.1.1 Law of One Price
+### 1.1.1 Law of One Price
 
 The **Law of One Price** states that the prices of traded goods and services - when expressed in a common currency - are the same in all countries. For instance,
 
@@ -51,7 +51,7 @@ Where the price of the product in $ A $ \$'s $ \left(P^{\$}\right) $, multiplied
 - The ‘law of one price’ states that producers’ prices for goods or services of identical quality should be the same in different markets (i.e. different countries) assuming **no restrictions on sales and allowing for transportation costs**. If a country has **higher inflation** than other countries, its **currency should devalue/depreciate** so that the real price remains the same in all countries. 
 - Application of this law results in the theory of Purchasing Power Parity (PPP). A country experiencing hyper-inflation needs substantial depreciation of its nominal exchange rate to restore PPP.
 
-#### 1.1.2 Purchasing power parity
+### 1.1.2 Purchasing power parity
 
 PPP predicts an **inverse relationship between the domestic exchange rate and its inflation rate** relative to trading partners: the domestic currency will depreciate as domestic inflation rises relative to trading partners.
 
@@ -88,7 +88,7 @@ Note: **overvalued or undervalued** versus **appreciated or depreciated**.
 - The relative version of the theory uses changes in a price index between two periods to predict changes in the exchange rate (rather than the absolute exchange rate).
 
 
-### 1.2 Current Account
+## 1.2 Current Account
 
 The current account balance reflects relative demand for goods and services in international trade
 - Countries which have large current account deficits reveal a lack of international competitiveness
@@ -97,7 +97,7 @@ The current account balance reflects relative demand for goods and services in i
 - **Continuous current account deficits** also add to the level of foreign liabilities: **Risk averse investors may withdraw capital**.
 
 
-### 1.3 Asset Markets
+## 1.3 Asset Markets
 
 Asset market theories concentrate on capital/financial flows
 - These theories assume the exchange rate is determined by the quantities demanded and supplied of various financial instruments
@@ -106,7 +106,7 @@ Asset market theories concentrate on capital/financial flows
 
 Theory predicts a direct relationship between domestic financial returns and the exchange rate
 
-### 1.4 Relative Growth Rates
+## 1.4 Relative Growth Rates
 
 Conflicting evidence as to the role of economic growth
 - ‘Old View’ A high rate of economic growth in the domestic economy increases demand for foreign goods and leaves fewer domestic goods available for export. This **increases the supply, and reduces the demand for domestic currency** on the FEM putting **downward pressure on the exchange rate**.
@@ -115,25 +115,30 @@ Conflicting evidence as to the role of economic growth
   - Relevant for countries where financial flows dominate the FEM
 
 
-### 1.5 News and Expectations
+## 1.5 News and Expectations
 
 Market expectations and new information play a vital role in the determination of exchange rates, particularly in the **short term**.
 
-### 1.6 Commodity Prices
+## 1.6 Commodity Prices
 
 Countries which are highly dependent on commodities as either exports or imports reveal **a correlation between their terms of trade and the exchange rate**.
 
 **‘Terms of trade’** – a ratio of the prices of exports of goods and services to the prices of imports of goods and services
 
-### 1.7 Role of Government
+## 1.7 Role of Government
 
-- Through actual and expected policy changes – fiscal, monetary, labour market, environment.
-- Direct intervention in the foreign exchange market
-- Coordinated agreements between central banks
-- Foreign trade policy
-- Foreign investment policy
+Through actual and expected policy changes – fiscal, monetary, labour market, environment.
 
-## 2. Forecasting Exchange Rates
+Direct intervention in the foreign exchange market
+
+Coordinated agreements between central banks
+
+Foreign trade policy
+
+Foreign investment policy
+
+
+# 2. Forecasting Exchange Rates
 
 **Efficient Markets Approach**: 
 - Financial Markets are efficient if prices reflect all available and relevant information.

@@ -40,7 +40,8 @@ Example:
 1. bank buys AUD/sells USD three months forward at USD 0.6655 per AUD1, and
 2. bank sells AUD/buys USD three months forward at USD 0.6662 per AUD1
 
-## 2. Forward Margin
+
+# 2. Forward Margin
 
 Forward margin is either a **discount or a premium** over the spot rate.
 
@@ -177,7 +178,7 @@ Let, Forward rate = F(USD/AUD), Spot rate = S(USD/AUD)
 180-day forward margin on the USD = (S/F -1) x 2 = (1/1.06 -1) x 2 = -0.12/1.06 = -11.32075472% = -11.32% (discount)
 
 
-## 3. Interest Rate Parity (IRP)
+# 3. Interest Rate Parity (IRP)
 
 The foreign exchange market is in equilibrium when deposits of all currencies offer the same rate of return, which is called **interest rate parity**.
 
@@ -207,6 +208,7 @@ i^{\$} &= i^{\text{FX}} + \text{Forward Magin}
 \end{aligned}
 $$
 
+
 Interest rate parity theory provides the linkage between foreign exchange markets and international money markets
 
 ---
@@ -221,6 +223,7 @@ Forward premium reflects lower interest rates
 - For the country with lower interest rates (USA), their currency is at a premium in the forward market
 - It is more expensive to buy the USD through a forward contract today than through a spot contract today
 - This is to counteract the advantage of borrowing the USD at low interest rates
+
 
 **Practice** (Semester 1 -- Review Question, 2021) Part D [i]: What is meant by “interest rate parity”? Explain clearly. If the spot rate for US dollars (USD) against the Australian dollar (AUD) is USD/AUD 0.95 and 30-day interest rates are 2.0 per cent per annum in the USA and 7.25 per cent per annum in Australia, what 30-day forward rate would interest rate parity dictate? Give your final answer in terms of how many US cents per AUD. Assume that Australia is the domestic country.
 
@@ -238,6 +241,6 @@ Show your working clearly by using both direct and indirect quotes.
 
 **Solution**:
 
-![](img/L4InternationalParityConditions.en_2022-08-09-18-34-04.png)
+![](/img/L4InternationalParityConditions.en_2022-08-09-18-34-04.png)
 
-![](img/L4InternationalParityConditions.en_2022-08-09-18-35-08.png)
+![](/img/L4InternationalParityConditions.en_2022-08-09-18-35-08.png)

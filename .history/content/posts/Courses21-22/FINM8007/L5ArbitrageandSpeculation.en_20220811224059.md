@@ -105,12 +105,12 @@ Assuming that you have JPY 1 million, can you make a profit (in JPY) with these 
 
 You can make a profit of JPY 8,969.39 from CIA in AUD.
 
-### 2.2 Uncovered Interest Arbitrage
+## 2.2 Uncovered Interest Arbitrage
 
-## 3. Foreign Currency Speculation
+# 3. Foreign Currency Speculation
 
-### 3.1 Speculate in the Spot Market
+## 3.1 Speculate in the Spot Market
 
-### 3.2 Speculate in the Forward Market
+## 3.2 Speculate in the Forward Market
 
-## 4. Foreign Exchange Swaps
+# 4. Foreign Exchange Swaps

@@ -15,7 +15,7 @@ categories: ['R语言使用经验']
 Bookdown可以将一系列的`.Rmd` 文档连在一起然后输出一个分章节的完整文件，或者输出一个长文档(支持输出PDF、Gitbook、EPUB、Word 文档等格式)，与此同时还带来了诸如交叉引用等更多的功能。
 
 
-## Bookdown安装与运行
+# Bookdown安装与运行
 
 - 在R控制台中运行`install.packages("bookdown")`即可完成安装。
 - 下载下方配置好的`Bookdown`模板，解压至任一文件夹，该文件将作为主要的工作环境。
@@ -65,17 +65,17 @@ bookdown::render_book('index.Rmd', 'bookdown::pdf_book')
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed@master/Figs/20200821081039.png)
 
-## Bookdownplus
+# Bookdownplus
 
 [R bookdownplus Textbook](https://bookdown.org/baydap/bookdownplus/)
 
-## 脚注与参考文献
+# 脚注与参考文献
 
 英文原文中，存在尾注与参考文献两种注释方式(分别对应文末的`Notes`与`Reference`章节)，并在正文中有对应的引用，且两种引用方式属于不同的编号体系，我们也需要分别做不同的处理：
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed@master/Figs/20200821131159.png)
 
-### 脚注
+## 脚注
 
 脚注的处理方式为
 
@@ -117,9 +117,9 @@ bookdown::render_book('index.Rmd', 'bookdown::pdf_book')
 正文
 ```
 
-### 参考文献
+## 参考文献
 
-#### 文献信息导入
+### 文献信息导入
 
 Rmarkdown 可以使用多种格式的参考文献库文件，比较常用的像`.bib` 或`.bibtex` 文件。简单地理解，这种文件就是把文献信息分解为各个诸如`title`、`author` 等字段存储起来，方便编译文档时将各个字段按所需格式组合的一种“数据库”。我们在百度学术上找到一篇文章，然后点击引用，再点击BibTex 按钮，即可下载一篇文献的.bib 信息：
 
@@ -150,7 +150,7 @@ Rmarkdown 可以使用多种格式的参考文献库文件，比较常用的像`
 
 该文章就可以供我们接下来使用。当参考文献变多时，可以继续在后面粘贴信息；当然更高效的方法是先把文献导入Endnote、Papers、Zotero 等文献管理软件，然后一次性导出包含所有文献信息的`.bib` 文件。
 
-#### 插入参考文献
+### 插入参考文献
 
 万事具备，现在可以在文章中引用参考文献了。在正文中直接插入如下格式即可：
 
@@ -169,13 +169,13 @@ nocite: |
   @item1, @item2
 ```
 
-## 交叉引用
+# 交叉引用
 
 以下方法支持图表自动编号，以及在正文中引用图表，请大家统一按照以下方式插入图表：
 
-### 图引用
+## 图引用
 
-#### 本地图片
+### 本地图片
 
 首先将本地图片保存到`Figs`文件夹中，为了方便后续管理，以`章节名-图片序号`的方式命名，如第二章第一张图片为`2-1.png`。
 
@@ -193,12 +193,12 @@ knitr::include_graphics("Figs/fig2.1.png")
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed@master/Figs/20200821130713.png)
 
-#### 网络图片
+### 网络图片
 
 参考：
 - [R bookdown 的小技巧](https://pzhao.org/zh/post/bookdown-tips/)
 
-#### R绘制的图片
+### R绘制的图片
 
 语法与本地图片引用类似：
 
@@ -236,9 +236,9 @@ reChart(subset='2009-01-01::2009-03-03')
 ​```
 ```
 
-### 表引用
+## 表引用
 
-#### 自制表格
+### 自制表格
 
 自制表格的代码使用的是`Markdown`语法：
 
@@ -258,7 +258,7 @@ Table: (\#tab:simple-table) A simple table in Markdown.
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed@master/Figs/20200821130659.png)
 
-#### R产生的数据表
+### R产生的数据表
 
 语法如下：
 
@@ -272,7 +272,7 @@ knitr::kable(iris[1:5, ], caption = 'A caption')
 
 ![](https://cdn.jsdelivr.net/gh/Henrry-Wu/FigBed@master/Figs/20200821130652.png)
 
-### 公式引用
+## 公式引用
 
 公式的引用采用Latex语法
 
@@ -285,7 +285,7 @@ knitr::kable(iris[1:5, ], caption = 'A caption')
 然后在文中使用\@ref(eq:binom) 引用即可。
 ```
 
-## 参考资料
+# 参考资料
 
 - [R语言教程 李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 - [Rmarkdown官方文档](https://bookdown.org/yihui/rmarkdown/)

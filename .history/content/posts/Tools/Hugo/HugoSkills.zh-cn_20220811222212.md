@@ -56,9 +56,9 @@ categories: ["Hugo博客搭建"]
 
 其中，引号可以省略。
 
-## 2. Ublogger目录侧边栏设置
+## Ublogger目录侧边栏设置
 
-可以在config文件中设置，展示第 2 - 4 级标题。
+展示第 2 - 4 级标题。
 
 ```Toml
   # Table Of Contents settings
@@ -68,7 +68,7 @@ categories: ["Hugo博客搭建"]
     endLevel = 4
 ```
 
-## 3. 在网页标签栏添加分类链接
+## 2. 在网页标签栏添加分类链接
 
 在`config.toml`中添加
 
@@ -89,14 +89,14 @@ categories: ["Hugo博客搭建"]
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed/Figs/20210218180936.png)
 
-## 4. 文件存储与访问
+## 3. 文件存储与访问
 
 Hugo中可以存放文件的文件夹有`assets`和`static`:
 
 1. 其中`assets`中的文件需要在正文中引用后方可生成有效链接，详细参考[官方assets说明](https://gohugo.io/hugo-pipes/introduction/#asset-directory)
 2. `static`下的文件可以直接使用链接的形式访问，例如路径为`static/Latex/Beamer/beamer_tutorial_2015.pdf`的文件，可以在`baseURL.Latex/Beamer/beamer_tutorial_2015.pdf`链接中访问到，详细参见[官方static说明](https://gohugo.io/content-management/static-files/)
 
-## 5. 本地图片插入
+## 图片插入
 
 对于本地图片插入，可以使用相对路径。有以下两种方法：
 
@@ -111,7 +111,7 @@ Hugo中可以存放文件的文件夹有`assets`和`static`:
 - [hugo-处理图片的方式](https://sqkikyo.com/post/hugo%E5%A4%84%E7%90%86%E5%9B%BE%E7%89%87%E7%9A%84%E6%96%B9%E5%BC%8F/)
 - [Hugo 图片插入问题](https://sur.moe/post/hugo%E5%9B%BE%E7%89%87/)
 
-## 6. Google Analytics
+## 4. Google Analytics
 
 作用：统计站点的流量情况。
 
