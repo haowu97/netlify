@@ -69,6 +69,8 @@ bookdown::render_book('index.Rmd', 'bookdown::pdf_book')
 
 [R bookdownplus Textbook](https://bookdown.org/baydap/bookdownplus/)
 
+[BOOKDOWNPLUS GALLERY: Themes](https://bookdownplus.netlify.app/portfolio/)
+
 ## 脚注与参考文献
 
 英文原文中，存在尾注与参考文献两种注释方式(分别对应文末的`Notes`与`Reference`章节)，并在正文中有对应的引用，且两种引用方式属于不同的编号体系，我们也需要分别做不同的处理：
@@ -195,6 +197,40 @@ knitr::include_graphics("Figs/fig2.1.png")
 
 #### 网络图片
 
+假定往文档里插入下面这张网络图片：
+
+```
+url <- 'https://bookdown.org/yihui/bookdown/images/cover.jpg'
+```
+
+一般有两种方法：
+
+```
+knitr::include_graphics(url)
+![](https://bookdown.org/yihui/bookdown/images/cover.jpg)
+```
+
+**得到的网页输出格式里没有任何问题（貌似也有问题！），但是 pdf 却不行。**
+
+这是因为，生成 pdf 的 LaTeX 不支持插入网络图片。LaTeX 界的解决办法是，先用 wget 把网络图片下载到本地，再插入到tex 文档里。那么，我在 bookdown 里也如法炮制：
+
+```
+download.file(url,'cover.jpg', mode = 'wb')
+knitr::include_graphics('cover.jpg')
+```
+
+这事儿其实已经解决了，但是不够完美。如果用 bookdown 同时输出网页格式和 pdf，那么网页格式的文档里插入的图片是本地图片；如果发布到 bookdown.org，那么插入的图片来自 bookdown.org。两者都不是该图片的原始地址。有点资源浪费。
+
+完美的解决方式来自Yihui 的回答，在 Rmd 里这么写：
+
+```
+if (!file.exists(cover_file <- 'cover.jpg'))
+  download.file(url, cover_file, mode = 'wb')
+knitr::include_graphics(if (identical(knitr:::pandoc_to(), 'html')) url else cover_file)
+```
+
+这段代码自动判断，如果输出网页文档，就插入原始图片链接，否则就下载到本地再插入。
+
 参考：
 - [R bookdown 的小技巧](https://pzhao.org/zh/post/bookdown-tips/)
 
@@ -287,7 +323,9 @@ knitr::kable(iris[1:5, ], caption = 'A caption')
 
 ## 参考资料
 
+- [用bookdown制作图书](https://zhuanlan.zhihu.com/p/394924008)
 - [R语言教程 李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
+- [23 用bookdown制作图书](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/bookdown.html)
 - [Rmarkdown官方文档](https://bookdown.org/yihui/rmarkdown/)
 - [Bookdown官方文档](https://bookdown.org/yihui/bookdown/)
 - [Rmarkdown-cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)

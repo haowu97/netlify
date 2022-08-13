@@ -185,6 +185,10 @@ $$
 1+\left(i^{\$} \times \frac{n}{360}\right) = \left[1+\left(i^{\text{FX}} \times \frac{n}{360}\right)\right] \times \frac{S^{\text{FX/\$}}}{F_{n}^{\text{FX/\$}}}
 $$
 
+**Example**:
+
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208131008087.png)
+
 To calculate the forward rate
 
 - *Banks are continually re-setting forward rates* as spot rates and interest rates change.
@@ -238,6 +242,6 @@ Show your working clearly by using both direct and indirect quotes.
 
 **Solution**:
 
-![](img/L4InternationalParityConditions.en_2022-08-09-18-34-04.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208130908603.png)
 
-![](img/L4InternationalParityConditions.en_2022-08-09-18-35-08.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208130909353.png)
