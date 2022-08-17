@@ -12,11 +12,11 @@ categories: ['TOEFL笔记']
 
 <!--more-->
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220331220545258.png)
+![](img/TOEFLReading.zh-zn_20220817124442.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220417001322470.png)
+![](img/TOEFLReading.zh-zn_20220817124505.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220714204337149.png)
+![](img/TOEFLReading.zh-zn_20220817124524.png)
 
 生命科学类占比最大，历史类其次，社会类和考古类最次
 

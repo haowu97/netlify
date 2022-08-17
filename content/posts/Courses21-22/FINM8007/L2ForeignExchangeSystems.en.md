@@ -79,7 +79,7 @@ $$
 \% \Delta=\left[ \frac{R_{2}}{R_{1}}-1 \right] \times 100
 $$
 
-Where $ R_{2}= $ end rate and $ R_{1}= $ beginning rate.
+Where $R_{2}=$ end rate and $R_{1}=$ beginning rate.
 
 Indirect Quotes:
 
@@ -89,12 +89,11 @@ $$
 
 **Practice** (Semester 2 -- Mid, 2020)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220802172732.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152223395.png)
 
 **Solution**:
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220802173142.png)
-
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152224284.png)
 
 **Practice** (Semester 1 -- Mid, 2021) Part C: Assume that you are in **Germany**. The current spot exchange rate of the Euro (EUR) against the US dollar (USD) is 0.8426 EUR per USD (EUR/USD). Suppose that the spot exchange rate is 0.8730 EUR/USD tomorrow. Has the **EUR** appreciated or depreciated against the USD? Calculate the percentage change in the EUR. Show your working clearly and completely. [10 marks]
 
@@ -186,7 +185,8 @@ So, degree of exchange rate pass-through = 90,000/128,000 = 70.3125 %
 
 ---
 
-Impact on loans and investments:
+**Impact on loans and investments**:
+
 - For borrowers:
   - Existing foreign debt is more expensive to repay for Australian borrowers
   - If raising new debt, choose currencies expected to depreciate against the A$ since overseas debt is cheaper to repay
@@ -194,5 +194,5 @@ Impact on loans and investments:
   - Existing foreign assets have gone up in value
   - If choosing new assets, select currencies expected to appreciate against the A$ since overseas assets increase in value
 
-Impact on production decisions:
+**Impact on production decisions**:
 - The Aussie dollar depreciation makes it relatively cheaper to produce in Australia and to use Australian inputs

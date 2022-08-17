@@ -8,6 +8,7 @@ upd: ""
 
 tags: []
 categories: ['FINM8007']
+output: word_document
 ---
 
 Learning Objectives
@@ -91,6 +92,7 @@ Note: **overvalued or undervalued** versus **appreciated or depreciated**.
 ### 1.2 Current Account
 
 The current account balance reflects relative demand for goods and services in international trade
+
 - Countries which have large current account deficits reveal a lack of international competitiveness
 - Demand for their traded products is less than their demand for foreign products
 - The exchange rate is required to **depreciate to reduce the deficit**
@@ -100,24 +102,29 @@ The current account balance reflects relative demand for goods and services in i
 ### 1.3 Asset Markets
 
 Asset market theories concentrate on capital/financial flows
+
 - These theories assume the exchange rate is determined by the quantities demanded and supplied of various financial instruments
 - Theories focus on interest rate differentials, relative bond yields and relative price/earnings ratios
 - Relative financial returns affect the willingness of investors to hold domestic financial instruments relative to foreign financial instruments and thus the demand for domestic currency relative to foreign currency
 
 Theory predicts a direct relationship between domestic financial returns and the exchange rate
 
+- return increase will attract invest, currency demand increase.
+
 ### 1.4 Relative Growth Rates
 
 Conflicting evidence as to the role of economic growth
+
 - ‘Old View’ A high rate of economic growth in the domestic economy increases demand for foreign goods and leaves fewer domestic goods available for export. This **increases the supply, and reduces the demand for domestic currency** on the FEM putting **downward pressure on the exchange rate**.
   - Relevant for countries where the trade balance dominates the FEM
 - ‘New View’ A high rate of growth in the domestic economy may attract foreign capital wishing to take advantage of a booming economy. This **increases demand for domestic currency** and puts **upward pressure on the exchange rate**
   - Relevant for countries where financial flows dominate the FEM
 
-
 ### 1.5 News and Expectations
 
 Market expectations and new information play a vital role in the determination of exchange rates, particularly in the **short term**.
+
+Expect one currency will appreciation, then invest in this currency, demand increase, currency appreciation (special topic 1).
 
 ### 1.6 Commodity Prices
 
@@ -135,13 +142,16 @@ Countries which are highly dependent on commodities as either exports or imports
 
 ## 2. Forecasting Exchange Rates
 
-**Efficient Markets Approach**: 
+**Efficient Markets Approach**:
+ 
 - Financial Markets are efficient if prices reflect all available and relevant information.
 - If this is so, exchange rates will only change when new information arrives
 
 **Fundamental Approach**:
+
 - Involves econometrics to develop models that use a variety
 of explanatory variables
 
 **Technical Approach**:
+
 - Technical analysis looks for patterns in the past behavior of exchange rates.

@@ -78,6 +78,8 @@ $$
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208122055130.png)
 
+**Solution**:
+
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208122058249.png)
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208122104364.png)

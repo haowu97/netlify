@@ -37,7 +37,7 @@ Learning Objectives
 
 **Practice** (Semester 2 -- Mid-semester, 2019)
 
-What are the three functions of the foreign exchange market? Explain clearly. [10 marks]
+What are the three functions of the foreign exchange market? Explain clearly. [10 marks/ 50 marks]
 
 ## 2. Market Participants
 
@@ -117,13 +117,13 @@ Quote shows the number of Hong Kong dollars the bank will buy and sell against o
 3. **Bid price**: First number = rate at which the bank buys the unit currency (A\＄) and sells the terms currency (HK\＄)
 4. **Ask price**: Second number = rate at which the bank sells the unit currency (A\＄) and buys the terms currency (HK\＄)
 
-**Rip-off rule**: customers always pay more and get less, while banks/ dealers always get more and pay less.
+**Rip-off rule**: The bank rips the customer off by expecting the customer to pay more and giving the customer less in return.
 
 Transaction 1: A student from Hong Kong wishes to sell HK\＄ 25k. to cover living expenses in Australia.
 
 Transaction 2: An Australian tourist wishes to buy HK\＄ 25k. to cover holiday expenses in Hong Kong.
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/20220802150620.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152207985.png)
 
 
 **Practice** (Semester 1 -- Review Questions, 2021) A Danish toy company has sold plastic blocks worth 500,000 Danish Krone (DKK) to a US distributor, who has to pay the toy company immediately in DKK. The US distributor, who has US dollars (USD), receives the following spot quote for DKK per USD (DKK/USD): DKK/USD 6.9100 - 6.9500. What is the USD cost of the plastic blocks to the US distributor? Show your working clearly.
@@ -142,28 +142,29 @@ USD cost of the plastic blocks = USD 500,000/6.91 = USD 72,358.90
 
 **Practice** (Short Quiz1)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208030908657.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152208982.png)
 
 **Solution**:
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031036698.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152209208.png)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031038914.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152209431.png)
 
 **Practice** (Semester 2 -- Mid-semester, 2019)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031039341.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152210187.png)
 
 **Solution**:
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031040456.png)
+
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152211568.png)
 
 **Practice** (Semester 2 -- Mid, 2020)
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031043971.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152220688.png)
 
 **Solution**:
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031044934.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152213554.png)
 
 **Practice** (Semester 1 -- Final, 2021) Consider the following bilateral spot exchange rates involving the Australian dollar (AUD), Canadian dollar (CAD), Euro (EUR), and United States dollar (USD):
 
@@ -183,4 +184,4 @@ Start with AUD 10,000. Can you identify **any positive arbitrage opportunities**
 
 Short Quiz 4
 
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2022/202208031045628.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152222304.png)

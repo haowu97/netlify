@@ -8,6 +8,7 @@ upd: ""
 
 tags: []
 categories: ['FINM8007']
+output: word_document
 ---
 
 Learning Objectives
@@ -71,8 +72,7 @@ $$
 \text{FM}= \frac{0.6695-0.6655}{0.6655} \times \frac{360}{90} \times 100\% = +2.4 \% 
 $$
 
-The positive sign indicates that the bank sells the US\$ forward at a premium of 2.4\% p.a. 
-- it takes 2.4\% more A\$’s to get a US$ at the 90-day forward rate.
+The positive sign indicates that the bank sells the US\$ forward at a premium of 2.4\% p.a. - it takes 2.4\% more A\$’s to get a US$ at the 90-day forward rate.
 
 **Practice** (Semester 1 -- Review Question, 2021) Part D [ii]: Assume that the **domestic currency is the Australian dollar (AUD)**. Explain clearly how you would compute the forward margin associated with an n-day US dollar (USD) forward contract. Assume that 0 < n ≤ 360, the spot rate is S AUD per USD (AUD/USD), the forward rate is F AUD/USD and these rates are strictly positive. Quote your forward margin in annual percentage terms.
 
@@ -189,7 +189,7 @@ $$
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208131008087.png)
 
-To calculate the forward rate
+**To calculate the forward rate**
 
 - *Banks are continually re-setting forward rates* as spot rates and interest rates change.
 - The correct forward rate for a foreign currency (FX) against the dollar for a period of $ n $ days is:
@@ -218,13 +218,10 @@ Interest rate parity theory provides the linkage between foreign exchange market
 Size of the forward margin is determined by the **interest rate differential** between the two countries.
 
 Banks set the forward margin to equalize the **covered borrowing costs** and **investment returns** across countries
+
 - If not an arbitrage opportunity exists
 
-
-Forward premium reflects lower interest rates
-- For the country with lower interest rates (USA), their currency is at a premium in the forward market
-- It is more expensive to buy the USD through a forward contract today than through a spot contract today
-- This is to counteract the advantage of borrowing the USD at low interest rates
+Forward premium reflects lower interest rates.
 
 **Practice** (Semester 1 -- Review Question, 2021) Part D [i]: What is meant by “interest rate parity”? Explain clearly. If the spot rate for US dollars (USD) against the Australian dollar (AUD) is USD/AUD 0.95 and 30-day interest rates are 2.0 per cent per annum in the USA and 7.25 per cent per annum in Australia, what 30-day forward rate would interest rate parity dictate? Give your final answer in terms of how many US cents per AUD. Assume that Australia is the domestic country.
 

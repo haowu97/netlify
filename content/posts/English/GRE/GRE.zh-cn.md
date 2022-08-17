@@ -28,29 +28,31 @@ categories: []
 
 作文
 
-Graduate Record Examination
+## 1. GRE: OverView
+
+Graduate Record Examination (美国研究生入学考试)
 
 - general test：不区分学科，一般考这个
 - subject test：针对专业学科考试，极少数大牛专业要求
 
-Educational Test service：美国教育考试中心出题
+Educational Testing service：美国教育考试服务中心出题
 
-Analytical Writing
+科目：
 
-Verbal Reasoning
+- Analytical Writing
+- Verbal Reasoning
+- Quantitative Reasoning
 
-Quantitative Reasoning
+考试顺序：
 
-有一个是加试，但无法确定是哪一个
+- Section1 写作
+- Section2 数学
+- Section3 语文
+- Section4 数学
+- Section5 语文
+- Section6 数学
 
-Section1 写作
-Section2 数学
-Section3 语文
-Section4 数学
-Section5 语文
-Section6 数学
-
-也可能先出现语文。
+注：也可能先出现语文；多出的一个是**加试**，但无法确定是哪一个。
 
 考试时间接近4小时：
 
@@ -58,9 +60,12 @@ Section6 数学
 - 语文 30分钟/section
 - 数学 35分钟/section
 
-## Analytical Writing
+## 2. Analytical Writing
 
-满分6分，均分3分左右。
+满分6分，均分3.6分，国内均分3.1分。
+
+- 没有特殊要求达到均分即可
+- 写足字数，不要求有亮点，即可拿到平均分
 
 写作在GRE中相对不重要
 
@@ -72,20 +77,24 @@ Section6 数学
 - Issue: 议论文，命题写作，命题具有学术深度/批判性，500z
 - Argument: 论证，批判某一论证观点，450z
 
-## Verbal Reasoning
+**GRE写作官方题库是公开的。**
 
-170分，平均分150分左右
+写作提纲
+
+## 3. Verbal Reasoning
+
+170分，平均分150分左右，国内均分148分。
 
 两种题型交替出现
 
-- 填空(类似完形填空的选择题)，
-- 阅读题(类似平时的阅读题)
+- 填空（类似完形填空的选择题）
+- 阅读题（类似平时的阅读题）
 
 题量很大，时间非常紧张。
 
-## Quantitative Reasoning
+## 4. Quantitative Reasoning
 
-满分170分，中国平均分164.7分，显著高于世界平均水平
+满分170分，中国平均分164.7分，显著高于世界平均水平。
 
 大部分是填空，少量选择。
 
@@ -93,6 +102,7 @@ Section6 数学
 
 对于国人很简单，难度相当于高中数学。考高分简单，但是满分并不容易：
 
+- 英文出题，因此题干理解有时会出错
 - GRE为了增加某些数学题的难度进而产生区分度，所以有一些题即使仅仅涉及到高中的数学知识，但是思维过程会比较绕，仍然会让一些同学掉入它的陷阱。
 - GRE数学存在相当比例的图表题，国人普遍对图表不敏感，这是由于我们国家的数学考试的习惯而決定的。
 - 因为我们从小到大实在太习惯在纸上做数学题了，所以GRE机考的形式可能会让很多同学不太适应这也是导致我们在数学上总有失误的原因。
@@ -108,13 +118,17 @@ Section6 数学
 考试需要携带：
 
 - ID: 国内是身份证
-- 考试确认信
+- 考试确认信（从网站下载）
+
+考完后可以选择保留或者取消成绩。
 
 Verbal与Quantitative考完点击Report可以直接出分。
 
 7-10天之后正式成绩将出来。
 
 4次免费送分机会
+
+**从2013年7月1日起，GRE®考生两场考试之间须间隔20天,即距上次考试21天就可重新参加新GRE®普通考试，并且在任意连续的12个月期间最多只能报考5场考试。**
 
 **GRE考试疫情防控温馨提示**
 
@@ -172,28 +186,28 @@ Verbal与Quantitative考完点击Report可以直接出分。
 
 考前**10**天不得转考或退考。
 
-## 分数
+## GRE分数解读
 
 GRE满分340+6.0分，最低分260+0分
 
-写作部分的分数范围0~6分(以0.5分为阶梯)
+写作部分的分数范围0~6分 (以0.5分为阶梯)
 
 - 两篇文章分数的平均值
 - 分数的主观因素比较大
 
-语文数学部分的分数范围130~170分(以1分为阶梯)
+语文数学部分的分数范围130~170分 (以1分为阶梯)
 
-- 基于Section的自适应考试：后面section的难度由第一部分的得分决定
+- 基于Section的自适应考试：后面section的难度由第一部分 (medium) 的得分决定
   - easy：Section1答对0-6题进入Easy模式，最后得分范围大概为130-151分
   - Medium：Section1答对7-12题进入Medium模式，最后得分范围大概为143-161分。
   - Hard：Section1答对13-20题进入Hard模式，最后得分范围大概为151-170分。
 
-325是一个GRE的节点分数。
+325是一个GRE的节点分数，一般325即可和GRE分手
 
 - 数学需要接近满分
 - 语文需要在155左右：在语文前两个Section错题数均少于8个即可
 
-*策略*：由于每题分数一样，**弃难题（阅读中的长文章，三空填空题），保简单中等题**
+*策略*：由于每题分数一样，**适当弃难题（阅读中的长文章，三空填空题），保简单中等题**
 
 GRE考试并不是一个选拔考试，只是一个基础水平测试。
 
@@ -203,8 +217,8 @@ GRE考试并不是一个选拔考试，只是一个基础水平测试。
 
 Verbal：
 
-- 常青藤门槛：152~155分
-- 158分或以上，可以进入Top专业
+- 常青藤门槛分数：152~155分
+- 158分或以上，可以进入Top20专业
 - **160分及以上**，任何专业都不会有障碍
 
 Quantitative
@@ -217,17 +231,19 @@ Quantitative
 - 理工科：3-3.5分
 - 文科：**4分**
 
-考试有效期为5年
+考试有效期为5年。
 
 ## 单词
 
-佛脚词汇
+词汇书推荐
 
-再要你名
+- GRE高频真词表：佛脚词汇
+- 再要你命3000
+- 核心词汇一本通
 
-核心词汇一本通
+![](img/GRE.zh-cn_20220816144815.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210626143144178.png)
+背单词策略：刷词，每个单词快速掠过（5-10s）
 
 [再要你命三千（or GRE单词），该怎么背？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/48475352)
 
@@ -239,15 +255,16 @@ Quantitative
 
 [英语词汇神书 《Word Power Made Easy》 英语说文解字 高清 原版及中英文版 附带音频 - 外语学习 - 小木虫 - 学术 科研 互动社区 (muchong.com)](http://muchong.com/html/202002/14106259.html)
 
+
+## 备考计划
+
 第一阶段：单词+理论课
 
 第二阶段：冲刺刷题1.5-2个月(每天4小时)
 
 **真题是唯一需要的备考材料**。
 
-GRE写作官方题库是公开的。
-
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20210626160627790.png)
+![](img/GRE.zh-cn_20220816145152.png)
 
 官方模考题作为补充材料
 
@@ -264,6 +281,9 @@ GRE写作官方题库是公开的。
 考试前的2-4周，模拟考8-10套题目。
 
 ## 资料
+
+官方题目如PPO, PPO Plus都比较老了，可以作为补充。
+
 
 [Magoosh GRE Blog: Study Resources](https://magoosh.com/gre/)
 

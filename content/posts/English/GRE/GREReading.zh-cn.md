@@ -6,7 +6,7 @@ draft: false
 description: "结构化阅读法，文章，段落，句子，分形，题型解析。"
 upd: "结构化阅读法，文章，段落，句子，分形，题型解析。"
 
-tags: []
+tags: ["笔记"]
 categories: ["GRE"]
 ---
 
