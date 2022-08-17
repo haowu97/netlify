@@ -1,5 +1,5 @@
 ---
-title: "GRE Quantitative数量知识点与解题方法"
+title: "GRE Quantitative 数量知识点与解题方法"
 date: 2021-08-09T14:14:45+08:00
 draft: false
 
