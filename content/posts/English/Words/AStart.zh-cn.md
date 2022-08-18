@@ -1,5 +1,5 @@
 ---
-title: "AStart"
+title: "曲根万词笔记 | 字母 a 开头的单词"
 date: 2022-08-06T17:36:41+08:00
 draft: false
 
@@ -112,7 +112,7 @@ ramp [ræmp] n.斜坡、坡
 - abominable a.令人憎恶的
 - ominous['ɔminəs] a.凶兆的，不吉祥的
 
-**abhor** [əb'hɔ:] vt,厌恶
+**abhor** [əb'hɔ:] vt.厌恶
 
 - < horrible ab-: away, a. abhorrent>
 
@@ -175,7 +175,7 @@ de- 作为前缀
 
 **acerbic** [ə'sə:bIk] a.酸的，尖刻的
 
-- < acerb = acr = ac表示酸(sour, acid),尖锐的(sharp, 扑克牌 ace) >
+- < acerb = acr = ac表示酸(sour, acid), 尖锐的(sharp, 扑克牌 ace) >
 
 **exacerbate** [ig'zæsəbeit] v,恶化，变坏
 

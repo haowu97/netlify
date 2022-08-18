@@ -892,23 +892,19 @@ F. indiscernible
 
 #### 3.3.4 regardless 难点详解
 
-  1  表示的特殊让步关系
+表示的特殊让步关系
 
-a. regardless 表示 ，会让步所有情况，翻译成“ ”。
+a. regardless 表示**完全让步**，会让步所有情况，翻译成“**无论**”。
 
 - I will go regardless of good weather or bad weather.
-也可以写成：I will go regardless of the weather.
-
+- 也可以写成：I will go regardless of the weather.
 - I will go despite the bad weather.
-b. 可以与部分让步关联词连用，起到 。
+
+b. 可以与部分让步关联词连用，仅仅起到**语气作用**。
 
 - Despite her recent accident, she carried on very well regardless.
 
-  2 练 习
-
-第一题
-
-Just because, as a photographer, Friedlander is interested in places that most people consider ugly does not mean that he is out to prove they are beautiful. Instead, his work suggests that the photographer simply cannot ignore so much of the built American landscape but is obligated to document what we pass through day in and day out, regardless of  .
+【Practice】Just because, as a photographer, Friedlander is interested in places that most people consider ugly does not mean that he is out to prove they are beautiful. Instead, his work suggests that the photographer simply cannot ignore so much of the built American landscape but is obligated to document what we pass through day in and day out, regardless of ____.
 
 A. diligence
 
@@ -920,25 +916,23 @@ D. truthfulness
 
 E. appearance
 
-第 10-6 讲：细化
-as 难点详解
+解析：beautiful 与 ugly 都是在讨论外观，选 E。
 
-  1 在倒装句中表示让步
+#### 3.3.5 as 难点详解
 
-a. 规则：在 although 或 though 引导的让步状语从句中，从句可以将强调的内容提前至句首，关联词改用 as，翻译为“虽然但是”。
+**在倒装句中表示让步**
+
+a. 规则：在 although 或 though 引导的让步状语从句中，从句可以将强调的内容提前至句首，关联词改用 as，翻译为“**虽然但是**”。
+
 - 正常语序：Although he was young, he was talented.
 - 倒装：Young as he was, he was talented.
-b. 也可以写成 as…as 的形式，但 as…as 必须出现在句首。
 
-- As young as he was, he was talented.（句首）
+b. 也可以写成 **as…as** 的形式，但 as…as 必须出现在句首。
 
-- I am as young as you are.（非句首）
+- As young as he was, he was talented.（句首，让步关系）
+- I am as young as you are.（非句首，和 .... 一样）
 
-  2 练 习
-
-第一题
-
-  as they are, earthquakes are a boon to geologists because they produce seismic waves that can be analyzed for information as to what lies in the invisible depths of Earth.
+【Practice】____ as they are, earthquakes are a **boon** to geologists because they produce seismic waves that can be analyzed for information as to what lies in the invisible depths of Earth.
 
 A) Destructive
 
@@ -952,57 +946,67 @@ E) Calamitous
 
 F) Unusual
 
-第 10-7 讲：细化
-even 难点详解
+解析：as 句首倒装取反，与 boon 反向，选 AE。
 
-  1 与 even 相关的词组及关系
+#### 3.3.6 even 难点详解
 
-a. even 单独使用既可以表示 ，又可以表示 。
+与 even 相关的词组及关系
 
-- I was calm even in the most dangerous situations.
-- Don’t treat the text as fact even truth.
-b. even if/even though/even as/even when 等词组只表示 。
+a. **even 单独使用既可以表示递进（取同），又可以表示让步（取反）**。
+
+- I was calm even in the most dangerous situations.（即使，取反）
+- Don’t treat the text as fact even truth.（甚至，取同）
+
+b. **even if/ even though/ even as/ even when 等词组只表示让步（取反）**。
 
 - He refuses to turn himself in even as his mother begs on her knees.
 
-  2 练 习
+🔺【Practice】As Donkin explains, in eighteenth-century England, writing plays (i)____  women. Even when the (ii)____ meant that playwriting did not bring personal fame, the work nevertheless enabled them to present their own views to the public and offered the possibility of acquiring capital.
 
-第一题
+| Blank (i)           | Blank (ii)                |
+| ------------------- | ------------------------- |
+| A) **empowered**    | D) use of a **pseudonym** |
+| B) **overextended** | E) lack of a producer     |
+| C) impressed        | F) poor **remuneration**  |
 
-As Ellen Donkin explains, in eighteenth-century England, writing plays (i)  women. Even when the (ii)  meant that playwriting did not bring personal fame, the work nevertheless enabled them to present their own views to the public and offered the possibility of acquiring capital.
+解析：that 修饰取同，even when 取反，Blank (ii) 选 D； 第一句与第二句取同，Blank (i) 选 A，戏剧写作使女性获得力量。
 
-第 11-1 讲：综述
-对立关系
+### 3.4 对立关系
 
-  1 对立关系与让步关系的区别
+**对立关系与让步关系的区别**
 
-a. 对立关系是相对更直接的 关系。
+a. **对立关系是相对更直接的相反关系**。
 
 - 我取得了 GRE 的高分；相反，他是低分。
-b. 让步关系连接有 的状态。
+
+b. **让步关系连接有差异的状态**。
 
 - 我虽然长的丑，但是学习好。
-
 - 我虽然长的丑，但是他更丑。
-c. 对立的关联词翻译为“相反”；让步的关联词翻译为“虽然但是”。
 
-  2 对立关系的两种形式
+c. **对立的关联词翻译为“相反”；让步的关联词翻译为“虽然但是”**。
 
-a. “有”逻辑关键词：in contrast、contrary、instead、rather 等。
+**对立关系的两种形式**
+
+a. “有”**逻辑关键词**：in contrast、contrary、instead、rather 等。
 
 - In contrast to his handsome face, I am very ugly.
-b. “无”逻辑关联词，但语义提示隐含对比关系，主要包括：
+  
+b. “无”逻辑关联词，但**语义提示隐含对比关系**，主要包括：
 
-- 今夕对比：now、past、ago、initially、finally 等。过去我很胆小，现在我勇敢了。
-- 多寡对比：most、some 等。多数人赞同他，少数人反对他。
-- 表里对比：appear、actually 等。外面是干净的，里面是脏的。
-- 矛盾与惊讶对比：paradox、surprising、astonishing 等。我惊讶的发现，外表这么粗糙的人，内心很细腻。
-- 主体对比：具体的对立关系的名词。例如：雇主与劳工等。劳工赞同改革，雇主反对改革。
-  3 练 习
+- 今夕对比：now、past、ago、initially、finally 等。
+  - 过去我很胆小，现在我勇敢了。
+- 多寡对比：most、some 等。
+  - 多数人赞同他，少数人反对他。
+- 表里对比：appear、actually 等。
+  - 外面是干净的，里面是脏的。
+- 矛盾与惊讶对比：paradox、surprising、astonishing 等。
+  - 我惊讶的发现，外表这么粗糙的人，内心很细腻。
+- 主体对比：具体的对立关系的名词。例如：雇主与劳工等。
+  - 劳工赞同改革，雇主反对改革。
 
-第一题
+🔺【Practice】Flash floods are common in desert regions and were widespread before the evolution of trees and woodland soils; in contrast, flash floods are ____ in woodlands, where floodwaters, impeded by trees, form ponds.
 
-Flash floods are common in desert regions and were widespread before the evolution of trees and woodland soils; in contrast, flash floods are   in woodlands, where floodwaters, impeded by trees, form ponds.
 A. overshadowed
 
 B. redirected
@@ -1015,13 +1019,19 @@ E. mitigated
 
 F. abated
 
-第二题
+解析：in contrast 取反，与 common 反向，选 DE。
 
-Twenty years ago, when the book was first published, most reviewers dismissed the author’s predictions as (i)  . Sometimes people recognize their errors: those same reviewers today, comparing the predictions with actual events, acknowledge how (ii)  the author was.
+【Practice】Twenty years ago, when the book was first published, most reviewers dismissed the author’s predictions as (i)____. Sometimes people recognize their errors: those same reviewers today, comparing the predictions with actual events, acknowledge how (ii)____ the author was.
 
-第三题
+| Blank (i)     | Blank (ii)     |
+| ------------- | -------------- |
+| A) insightful | D) mistaken    |
+| B) judicious  | E) prescient   |
+| C) alarmist   | F) pessimistic |
 
-Apparent flaws in the sculptor’s work have not  its respectful reception by most modern critics.
+解析：Twenty years ago today 形成对立关系，选 CE。
+
+🔺【Practice】Apparent flaws in the sculptor’s work have not ____ its respectful reception by most modern critics.
 
 A. determined
 
@@ -1035,113 +1045,111 @@ E. overshadowed
 
 F. precluded
 
-第四题
+解析：Apparent flaws 与 respectful reception 形成表里对比，选 DF。
 
-We hold our breath so naturally and casually that it may come as a surprise to learn that the full details of this ability still   scientists.
+【Practice】We hold our breath so naturally and casually that it may come as a surprise to learn that the full details of this ability still ____ scientists.
+
 A. impress
 
-B. mollify
+B. **mollify**
 
-C. elude
+C. **elude**
 
-D. placate
+D. **placate**
 
 E. divide
 
-F. puzzle
+F. **puzzle**
 
-第五题
+解析：surprise 表对立关系，与 naturally 反向，选 CF。
 
-It is a paradox of the Victorians that they were both  and, through their empire, cosmopolitan.
+【Practice】It is a paradox of the Victorians that they were both ____ and, through their empire, **cosmopolitan**.
 
-A. capricious
+A. **capricious**
 
-B. insular
+B. **insular**
 
-C. mercenary
+C. **mercenary**
 
 D. idealistic
 
-E. Intransigent
+E. **Intransigent**
 
-第 11-2 讲：细化
-contrary 难点详解
+解析：paradox 表对立关系，与 cosmopolitan 反向，选 B。
 
-  1 contrary 涉及的两种句型
+#### 3.4.1 contrary 难点详解
 
-a. ，其中 A 与 B 对立。
+contrary 涉及的两种句型
+
+a. `not A; on the contrary, B`，其中 A 与 B 对立。
 
 - I am not a girl; on the contrary, I am a boy.
-b. ，其中 A 与 B 对立。
+
+b. `contrary to A, B`，其中 A 与 B 对立。
 
 - Contrary to his handsome face, I am very ugly.
 
-  2 练 习
+【Practice】The monitoring is not ____; on the contrary, the defendant and his or her attorney are required to be given notice of the governments listening activities.
 
-第一题
+A. **obtrusive**
 
-The monitoring is not  ; on the contrary, the defendant and his or her attorney are required to be given notice of the governments listening activities.
-A. obtrusive
+B. **circumspect**
 
-B. circumspect
+C. **surreptitious**
 
-C. surreptitious
+D. **adroit**
 
-D. adroit
+E. **meticulous**
 
-E. meticulous
+解析：not ... on the contrary 取反，与 be given notice of the governments listening activities 反向，选 C。
 
-第二题
+【Practice】Contrary to its reputation for intellectual ____, the 1950s was a decade exceptionally rich in works of **trenchant** and far-reaching social criticism.
 
-Contrary to its reputation for intellectual  , the 1950s was a decade exceptionally rich in works of trenchant and far-reaching social criticism.
-A. keenness
+A. **keenness**
 
 B. inclusiveness
 
-C. complacency
+C. **complacency**
 
 D. integrity
 
 E. productivity
 
-第 11-3 讲：细化
-instead 难点详解
+解析：Contrary to 取反，与 far-reaching social criticism 反向，选 B。
 
-  1 instead 涉及的三种句型
+#### 3.4.2 instead 难点详解
 
-a. 第一种：
+**instead 涉及的三种句型**
+
+a. 第一种：`not A; instead, do B.`，A 与 B 对立。
 
 - I do not finish the job; instead, I go to play basketball.
-b. 第二种：
+
+b. 第二种：`not A, yet do B instead.`，A 与 B 对立。
 
 - I do not finish the job, yet I go to play basketball instead.（yet 是连词；instead 是副词）
-c. 第三种：
+
+c. 第三种：`A instead of B`，A 和 B 对立。
 
 - I play basketball instead of finishing the job.
 
-  2 练 习
-
-第一题
-
-A closer examination of the author’s footnotes explains the datedness of his argument: he has ignored
-most of the recent work in the field, drawing instead mainly on research that is now decidedly  .
+【Practice】A closer examination of the author’s footnotes explains the datedness of his argument: he has ignored most of the recent work in the field, drawing instead mainly on research that is now decidedly ____.
 
 A. familiar
 
-B. germane
+B. **germane**
 
-C. obsolete
+C. **obsolete**
 
 D. relevant
 
-E. discredited
+E. **discredited**
 
 F. outmoded
 
-第二题
+解析：ignored A, instead B（ignore起到否定作用），A 和 B 对立，选 FC。
 
-The laboratory maze has grown ever less  since it was first invented instead of hoping to lose a
-rodent in a labyrinth; today’s scientists design mazes to elicit a few simple, easily measured behaviors.
+🔺【Practice】The laboratory maze has grown ever less ____ since it was first invented instead of hoping to lose a rodent in a labyrinth; today’s scientists design mazes to **elicit** a few simple, easily measured behaviors.
 
 A. intricate
 
@@ -1149,53 +1157,54 @@ B. extensive
 
 C. effective
 
-D. convoluted
+D. **convoluted**
 
 E. useful
 
 F. prevalent
 
-第 11-4 讲：细化
-rather 难点详解
+解析：instead of 表对立，less 表否定，双重取反，与 lose a rodent in a labyrinth 取同，选 AD。
 
-  1 rather 涉及的五种句型
+#### 3.4.3 rather 难点详解
 
-a. rather 单独出现
+**rather 涉及的五种句型**
+
+a. **rather 单独出现**（只有一句话，前后没有其他句子），仅仅起到加强**语气作用**。
 
 - I rather like the car. 
-b. （A 和 B  ）
 
-- 
-I am a boy rather than a girl.  
-c. （A 和 B  ）
+b. `A rather than B`（A 和 B 对立）
+
+- I am a boy rather than a girl.  
+
+c. `not A; rather, B`（A 和 B 对立）
 
 - Idaho was not the arid place it is now. Rather, it was warm and damp.
-d. （A 和 B ）
+
+d. `not A but rather B`（A 和 B 对立）
 
 - The process is not a straight line but rather a spiral.
-e. （A 和 B ）
+
+e. `(not) A, or rather B`（一般有 not，但也可以没有 ，A 和 B 对立）
 
 - He explained what the Crux is; or rather, what it was.
 - He did not explain what the Crux is; or rather, what it was.
 
-  2 练 习
+🔺【Practice】So, perhaps the lesson is that rather than wanting their monarchy to emulate its modernized Scandinavian counterparts, the British public cherishes it most when it is most ____.
 
-第一题
+A. **egalitarian**
 
-So, perhaps the lesson is that rather than wanting their monarchy to emulate its modernized Scandinavian counterparts, the British public cherishes it most when it is most  .
-A. egalitarian
+B. **anachronistic**
 
-B. anachronistic
-
-C. regal
+C. **regal**
 
 D. consolidated
 
 E. base
 
-第二题
+解析：`rather than A, B` 表对立，与 modernized 反向，选 B (过时的)。
 
-The problem of how to dispose the radioactive waste is not  : rather, it is of major importance.
+【Practice】The problem of how to dispose the radioactive waste is not ____: rather, it is of major importance.
 
 A. unmanageable
 
@@ -1205,144 +1214,144 @@ C. significant
 
 D. trivial
 
-E. deceptive
+E. **deceptive**
 
-第三题
+解析：`not A; rather, B` 表对立，与 major importance 反向，选 D。
 
-The description of humans as having an internal clock is not a (i)  . Or rather, it is—you do not have a tiny watch in your cerebellum—but it also refers to (ii)  , a specialized bundle of cells that regulates cyclical processes.
+🔺【Practice】The description of humans as having an internal clock is not a (i)____. Or rather, it is—you do not have a tiny watch in your cerebellum—but it also refers to (ii)____, a specialized bundle of cells that regulates cyclical processes.
 
-  3 补充练习：分析句内/句间关系
+| Blank (i)        | Blank (ii)                                 |
+| ---------------- | ------------------------------------------ |
+| A) **euphemism** | D) an **elusive** psychological phenomenon |
+| B) **cliché**    | E) a standard literary **trope**           |
+| C) **metaphor**  | F) a real biological feature               |
 
-We got along rather well.
+解析：Blank (ii) 与 a specialized bundle of cells 取同，选 F；`(not) A, or rather B` 表对立，Blank (i) 与 Blank (ii) 取反，选 C。
 
-In the end he had to walk─or rather run─to the office.
 
-It's not a hotel, in the conventional sense, but rather a whole village turned into a hotel.
+补充练习：分析句内/句间关系
 
-第 11-5 讲：细化
-otherwise 难点详解
+- We got along rather well.
+- In the end he had to walk─or rather run─to the office.
+- It's not a hotel, in the conventional sense, but rather a whole village turned into a hotel.
 
-  1 otherwise 的两种用法
+#### 3.3.4 otherwise 难点详解
 
-a. otherwise 出现在句子中间，otherwise 翻译为 “ ”，连接 关系。
+**otherwise 的两种用法**
+
+a. otherwise 出现在**句子中间**，otherwise 翻译为 “**竟然**”，连接对立关系（不常见）。
 
 - He works hard in a company otherwise peopled with idler.
-b. otherwise 出现在句首或句尾，翻译为“ ”，前后连接 关系。
+
+b. otherwise 出现在**句首或句尾**，翻译为“**否则**”，前后连接对立关系。
 
 - Put the cap back on the bottle; otherwise the juice will spill.
-c. otherwise 出现在句尾，翻译为“ ”，前后连接 关系。
+
+c. otherwise 出现在**句尾**，翻译为“**没有**”，前后连接对立关系。
 
 - The accident happened. It would be wrong to pretend otherwise.
 
-  2 练 习
+【Practice】The evil of class and race hatred must be eliminated while it is still ____ state; otherwise, it may grow to dangerous proportions.
 
-第一题
+A. an **amorphous**
 
-The evil of class and race hatred must be eliminated while it is still   state; otherwise, it may grow to dangerous proportions.
-A. an amorphous
+B. an **overt**
 
-B. an overt
-
-C. a rudimentary
+C. a **rudimentary**
 
 D. a threatening
 
 E. an independent
 
-F. an embryonic
+F. an **embryonic**
 
-第二题
+解析：otherwise 表对立，与 grow to dangerous proportions 对立，选 CF。
 
-Research note that wolves’ otherwise strongly hierarchical society is marked by occasional displays of populist (i)  : if a pack leader proves a too-snappish tyrant, subordinate wolves will (ii)  the top cur.
+🔺【Practice】Research note that wolves’ otherwise strongly hierarchical society is marked by occasional displays of populist (i)____: if a pack leader proves a too-snappish tyrant, subordinate wolves will (ii)____ the top cur.
 
-  3 补充练习：分析句内/句间关系
+| Blank (i)        | Blank (ii)                    |
+| ---------------- | ----------------------------- |
+| A) **revolt**    | D) collectively **overthrow** |
+| B) **expiation** | E) eventually **placate**     |
+| C) **torpor**    | F) quickly **appraise**       |
 
-The decorations for the games have lent a splash of color to an otherwise drab city. wanted this to be my wedding song, but was convinced otherwise.
-第 11-6 讲：细化
-too to 难点详解
+解析：otherwise 表竟然（类似于令人惊讶的感觉），Blank (i) 与 hierarchical society 取反，选 A；Blank (ii) 与 Blank (i) 取同，选 D
 
-  1 too to 的第一种含义解读
+补充练习：分析句内/句间关系
 
-a. too A to B 表示“ ”，其中 A 和 B 是 的关系。
+- The decorations for the games have lent a splash of color to an otherwise drab city.
+- I wanted this to be my wedding song, but was convinced otherwise.
+
+#### 3.3.5 too to 难点详解
+
+too to 的两种含义解读
+
+a. **too A to B 表示“太 A 而不能 B”**，其中 A 和 B 是**取反**的关系。
 
 - too surprised to sit still
 - too obscure to discern
 
-  2 too to 的第二种含义解读
-
-a. too willing to do、too eager to do 等要翻译成“ ”。
+b. **too willing to do、too eager to do 等要翻译成“太想要做...”**，too 作为程度副词。
 
 - I am too eager to see the movie.
 
-  3 练 习
+🔺【Practice】Not only is the advent of bookless or largely bookless libraries too large and powerful a change to be forestalled, it also offers too many real advantages for it to be considered a ____.
 
-第一题
+A. **boon**
 
-Not only is the advent of bookless or largely bookless libraries too large and powerful a change to be forestalled, it also offers too many real advantages for it to be considered a  .
-A. boon
-
-B. tragedy
+B. **tragedy**
 
 C. convenience
 
-D. reproduction
+D. **reproduction**
 
 E. retreat
 
-第 12-1 讲：综述
-因果关系
+解析：too to 表对立，与 advantages 取反，选 B。
 
-  1 “因为所以”关系
+### 3.5 因果关系
 
-a. 包括：because、in that、so、consequently 等。
+a. “因为所以”关系，包括：because、**in that**（因为）、so、consequently 等。
 
 b. 注意关联词的词性及作用范围。
 
-  2 其他补充因果关系关联词
+c.**隐含因果关系**：需要注意以下词虽然不翻译成因为所以，但是也连接因果关系。
 
-a. 需要注意以下词虽然不翻译成因为所以，但是也连接因果关系。
+- thanks to：多亏了
+  - Thanks to the foreign loans, the economy was showing signs of recovery.
+- by virtue of：凭借
+  - By virtue of the foreign loans, the economy was showing signs of recovery.
+- accordingly：相应的
+  - We have a different background, a different history. Accordingly, we have the right to different futures.
+- given that：基于
+  - They failed given that they are inexperienced.
+- after all：毕竟
+  - Let’s not hasty. After all, we have a lot of time.
+- so that/so as to：太...以至于
+  - The father may be able to help with childcare so that the mother can have a break. 
+  - He got up very early so as to catch the first train.
+- in light of：鉴于
+  - We are closing our test center in light of Covid-19.
 
-- thanks to：
-Thanks to the foreign loans, the economy was showing signs of recovery.
-- by virtue of：
-By virtue of the foreign loans, the economy was showing signs of recovery.
+**简单和困难的因果关系**
 
-- accordingly：
-We have a different background, a different history. Accordingly, we have the right to different futures.
-- given that：
-They failed given that they are inexperienced.
+a. 简单的因果关系：原因与结果主体一致，一对一取同。
 
-- after all：
-Let’s not hasty. After all, we have a lot of time.
+- 因为我爱你，所以我____。
 
-- so that/so as to：
-The father may be able to help with childcare so that the mother can have a break. He got up very early so as to catch the first train.
-- in light of：
-We are closing our test center in light of Covid-19.
-
-  3 简单和困难的因果关系
-
-a. 简单的因果关系：前后主体一致。
-
-- 因为我爱你，所以我  。
-b. 中等难度因果关系：需要概括。（与冒号相似）
+b. 中等难度因果关系：原因/结果需要整体概括。（与冒号相似）
 
 - 因为照明系统是  ，所以你一进去灯就会亮。
+
 c. 困难的因果关系：前后主体不一致。
 
-- 因为摄像头拍到了你，所以你的不在场证据是  。
+- 因为摄像头拍到了你，所以你的不在场证据是____。
 
-  4 练 习
+【Practice】Physicists’ opinions diverge on whether the unexpected phenomena that can occur in systems more complex than individual particles represent new physical principles, or whether the principles involved are ____, in that they rely, albeit in an extremely complicated way, on known physical principles.
 
-第一题
+A. **extraneous**
 
-Physicists’ opinions diverge on whether the unexpected phenomena that can occur in systems more
-complex than individual particles represent new physical principles, or whether the principles involved are
-  , in that they rely, albeit in an extremely complicated way, on known physical principles.
-
-A. extraneous
-
-B. inexpressible
+B. **inexpressible**
 
 C. derivative
 
@@ -1350,194 +1359,192 @@ D. heterogeneous
 
 E. uncorrelated
 
-第二题
+解析：in that 表因为，因果取同，选 C。
 
-Investors are grateful that the attorney general has stepped in to pursue inquiries into misfeasance in the financial markets, given that the regulators officially charged with policing the industry have been   .
-A. diffident
+🔺【Practice】Investors are grateful that the **attorney** general has stepped in to pursue inquiries into **misfeasance** in the financial markets, given that the regulators officially charged with policing the industry have been ____.
 
-B. meticulous
+A. **diffident**
+
+B. **meticulous**
 
 C. straightforward
 
-D. implacable
+D. **implacable**
 
-E. tenacious
+E. **tenacious**
 
-第 12-2 讲：细化
-since/for/as 难点详解
+解析：given that 表假设、基于，因果整体取同，选 A。
 
-  1 什么时候表示因果关系？
+补充解释：
 
-a. since、for、as 连接 ，并且主从句之间有 时，通常连接因果关系。
+- attorney general 表示“检查官”，regulator 表示“管理员”，“检查官”是“管理员”的上级。
+- step in 表示插手某事；misfeasance 表示“失职”。
+- regulators 后面的 officially charged with policing the industry 是一个后置定语，合在一起表示：官方任命的管理产业政策的管理员。
+- 整句翻译：投资者特别感激检察官插手调查金融市场的失职，基于（因为）官方任命的管理产业政策的管理员一直非常____。
+
+
+#### since/for/as 难点详解
+
+**什么时候表示因果关系？**
+
+a. since、for、as **连接从句，并且主从句之间有逗号时**，通常连接因果关系。
 
 - I was late, for I stayed up last night.
 - Since/as I stayed up last night, I was late.
+
 b. 反例
 
 - This book is for you.
-
 - I have been living in New York since I was very young.
-
 - Do it as Paul tells you.
 
-  2 练 习
+【Practice】Since it was committed to the idea of science as an international, politically neutral enterprise, the Royal Society of London refused to ____ members from enemy nations during world wars of the twentieth century.
 
-第一题
-
-Since it was committed to the idea of science as an international, politically neutral enterprise, the Royal Society of London refused to  members from enemy nations during world wars of the twentieth century.
 A. betray
 
 B. expel
 
-C. endorse
+C. **endorse**
 
-D. oust
+D. **oust**
 
 E. sanction
 
-F. condemn
+F. **condemn**
 
-第 13 讲：综述
-方式关系
+解析：Since 表因果，前后取同，选 BD。
 
-  1 方式关系的常考关键词
+### 3.6 方式关系
 
-a. by 和 whereby，都表示“ ”，关联 关系。
+方式关系的常考关键词
+
+a. by 和 whereby，都表示“**凭借...方式**”，关联**取同关系**。
 
 - They won by a single goal after extra time.
+- **They have introduced a chatting system whereby all employees can get to know each other**.
 
-- They have introduced a chatting system whereby all employees can get to know each other.
-  2 练 习
+🔺【Practice】The uncanny **likeness** of unrelated butterflies can be (i)____ as an **adaptation** whereby **edible** butterflies imitate the coloration of **venomous** butterfly species that potential predators (ii)____.
 
-第一篇
+| Blank (i)           | Blank (ii)               |
+| ------------------- | ------------------------ |
+| A) denied           | D) seek to avoid         |
+| B) rationalized     | E) cannot detect         |
+| C) **misconstrued** | F) find **irresistible** |
 
-The uncanny likeness of unrelated butterflies can be (i)  as an adaptation whereby edible butterflies imitate the coloration of venomous butterfly species that potential predators (ii)  .
+解析：Blank (ii) 同 venomous，选 D；Blank (i) 选 B，通过这种适应能力，蝴蝶伪装成有毒的蝴蝶。
 
-Blank (i) Blank (ii)
-A) denied D) seek to avoid
-B) rationalized E) cannot detect
-C) misconstrued F) find irresistible
+### 3.7 递进关系
 
-第 14-1 讲：综述
-递进关系
+表示递进的常见关联词包括：**Indeed、moreover、furthermore、additionally、also** 等，翻译成“进而”。
 
-  1 表示递进的常见关联词
+**递进关系的语义特点**：**广义上的取同**
 
-a. 包括：Indeed、moreover、furthermore、additionally、also 等。
-
-  2 递进关系的语义的特点
-
-a. 程度的 ；范围的 。
+a. **程度的加深；范围的扩大**。
 
 - I love you; moreover, I love your family.
 - I love you; moreover, I respect you.
-b.
+
+b. 更详细的阐述：
 
 - He apologized to her; indeed, he wrote a little note to her.
-c.
+
+c. 主宾互换：
 
 - I love you; moreover, you love me
 
-  3 练 习
+【Practice】World demand for oil had been intensified, but it **slackened** because China’s surge in oil consumption had (i)____. Moreover, high oil price had themselves started to act as a short-term (ii)____ the global economy, thus further dampening demand.
 
-第一题
+| Blank (i)        | Blank (ii)     |
+| ---------------- | -------------- |
+| A) spread        | D) **spur** to |
+| B) **commenced** | E) drag on     |
+| C) slowed        | F) panacea for |
 
-World demand for oil had been intensified, but it slackened because China’s surge in oil consumption had (i)  . Moreover, high oil price had themselves started to act as a short-term (ii)  the global economy, thus further dampening demand.
+解析：because 表原因，Blank (i) 与 slackened 取同，选 C；Blank (ii) 与 dampening 取同，选 E。
 
-Blank (i) Blank (ii)
-A) spread D) spur to
-B) commenced E) drag on
-C) slowed F) panacea for
+#### in fact 难点详解
 
-第 14-2 讲：细化
-in fact 难点详解
+**in fact 涉及的三种句型**
 
-  1 in fact 涉及的三种句型
-
-a. in fact 单独出现在句首，连接 关系。
+a. **in fact 单独出现在句首，连接递进关系**。
 
 - He apologized to her. In fact, he wrote a little note to her.
-b. in fact 与转折词（例如 but、although、while 等）连用，连接 关系。
+
+b. **in fact 与转折词（例如 but、although、while 等）连用，连接转折关系**。
 
 - That sounds rather simple, but in fact it’s very difficult.
-- That sounds rather simple; in fact it’s very difficult.（错误）
-c. 在 A is in fact B 句型中，连接 关系。
+- That sounds rather simple; in fact it’s very difficult.（**错误**）
+
+c. **在 A is in fact B 句型中，连接对立关系**。
 
 - The boy is in fact a girl.
 
-  2 练 习
+🔺【Practice】When the United States created the **Post Office** at the founding of the republic, it limited the power within the government; in fact, it created a ____.
 
-第一题
-
-When the United States created the Post Office at the founding of the republic, it limited the power within the government; in fact, it created a   .
-A. credulity
+A. **credulity**
 
 B. monopoly
 
-C. redundancy
+C. **redundancy**
 
-D. censorship
+D. **censorship**
 
-E. consensus
+E. **consensus**
 
-第二题
+解析： in fact 表递进，选 B。
 
-Persistence may sound like the   novelty seeking, but in fact the latter can coexist with and balance that stick-to-it virtue strong-willed Victorians so promoted.
+【Practice】Persistence may sound like the ____ novelty seeking, but in fact the latter can coexist with and balance that stick-to-it virtue strong-willed Victorians so promoted.
+
 A. foundation for
 
 B. precursor to
 
 C. boon for
 
-D. antithesis to
+D. **antithesis** to
 
 E. result of
 
-  3 补充练习：分析句内/句间关系
+解析：but in fact 表转折，前后反义，选 D。
 
-We've had a pretty bad time while you were away. In fact, we very nearly split up this time.
+补充练习：分析句内/句间关系
 
-They complained that they had been trapped inside the police station, but in fact most were seen escaping over the adjacent roofs to safety in nearby buildings.
+- We've had a pretty bad time while you were away. In fact, we very nearly split up this time.
+- They complained that they had been trapped inside the police station, but in fact most were seen escaping over the adjacent roofs to safety in nearby buildings.
 
-第 15 讲：综述
-类比关系
+### 3.8 类比关系
 
-  1 类比关系常见关联词及关系
+**类比关系常见关联词及关系**
 
-a. 包括：like、likewise、similarly、the way that 等。
+a. 包括：**like、likewise、similarly、the way that** 等。
 
 - like 是介词，连接句内关系；
 - likewise、similarly 是副词，连接句间关系；
-
 - the way that 是连词，连接句内关系。
 
-  2 类比关系的难点
+**类比关系的难点**
 
-a. 类比关系可以类比名词，也可以类比动作（关系）。
+a. 类比关系可以类比名词，也可以类比动作（关系），广义上**取同**。
 
 - 类比名词：My speed is fast; likewise, his speed is fast.
-
 - 类比动词：Doctor diagnoses diseases; likewise, detective investigates crimes.
-b. 类比动作（关系）的句子主体会切换，容易误解为取反关系。
 
-- 感恩滋养善良；正如，嫉妒  邪恶。
+b. 类比动作（关系）的句子主体会切换，容易误解为取反关系，动作仍应该是相似的。
 
-  3 练 习
+- 感恩滋养善良；正如，嫉妒____邪恶。
 
-第一题
+【Practice】The concert hall’s suspended ceiling is two-inch-thick plaster that reflects low-frequency sound energy; similarly, all wall surfaces are angled and shaped to ____ sound from the stage throughout the audience area.
 
-The concert hall’s suspended ceiling is two-inch-thick plaster that reflects low-frequency sound energy; similarly, all wall surfaces are angled and shaped to    sound from the stage throughout the audience area.
-A. diffuse
+A. **diffuse**
 
 B. amplify
 
 C. spread
 
-D. dampen
+D. **dampen**
 
-E. eclipse
+E. **eclipse**
 
-F. deaden
+F. **deaden**
 
-结语
-《核心理论篇》已完成，你可以开始《进阶篇》了！
+解析：similarly 表类比，前后两句的动词取同，选 AC。
