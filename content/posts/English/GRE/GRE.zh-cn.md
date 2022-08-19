@@ -14,6 +14,10 @@ categories: []
 
 [LER0ever/GRE-CN: GRE Preparation for Chinese students. 中文主导的GRE备考资料整理。 (github.com)](https://github.com/LER0ever/GRE-CN)
 
+[40天纯自学GRE首考330+(334)经验帖](https://zhuanlan.zhihu.com/p/386356094)
+
+张巍GRE资料下载：http://www.gre-edu.com/datashare
+
 再要你命3k+短语小红书
 
 填空24套+36套

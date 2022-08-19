@@ -21,13 +21,13 @@ categories: ["GRE"]
 - 任意一个Verbal Section里面，阅读文章都有4篇，分别涉及自然科学（natural sciences）、生命科学（biological sciences）、社会科学（social sciences）、人文学科（humanities）这四大学科，每个学科门类通常各占1篇。这4篇文章合计配有8-9道阅读题。
 - 还有1-2道逻辑单题，往往涉及非学术的生活和社会话题。
 
-|          | Section（含长文） | Section（纯短文） |
-| -------- | ------------ | ------------ |
-| 长450±20字 | 1篇，4题        | 0篇，0题        |
-| 短160±20字 | 1篇，2-3题      | 1篇，3-4题      |
-| 短120±20字 | 2篇，1-2题      | 3篇，1-2题      |
-| 逻辑40-80字 | 1篇，1题        | 1-2篇，1题      |
-| 总计       | 4+1篇，10题     | 4+（2-1）篇，10题 |
+|             | Section（含长文） | Section（纯短文） |
+| ----------- | ----------------- | ----------------- |
+| 长450±20字  | 1篇，4题          | 0篇，0题          |
+| 短160±20字  | 1篇，2-3题        | 1篇，3-4题        |
+| 短120±20字  | 2篇，1-2题        | 3篇，1-2题        |
+| 逻辑40-80字 | 1篇，1题          | 1-2篇，1题        |
+| 总计        | 4+1篇，10题       | 4+（2-1）篇，10题 |
 
 GRE阅读文章都取材于学 术期刊和著作，学术英文往往讨论一些抽象的话题或与此相关的作品、研究和活动。
 
@@ -46,13 +46,13 @@ Verbal: 20 questions-30 min; 160+(170)-85%+
   - Questions: 10q - 9-10min = **50~60’’/q**
   - Passages: 850~900 words- 6-7min=**150~160 words/min**
 
-|          | Section（含长文） | Section（纯短文）   | 考试要求                               |
-| -------- | ------------ | -------------- | ---------------------------------- |
-| 长450±20字 | 1篇，4题        | 0篇，0题          | 450words/2.5-3min,  1min/question  |
-| 短160±20字 | 1篇，2-3题      | 1篇，3-4题        | 160words/1min,  1min/question      |
-| 短120±20字 | 2篇，1-2题      | 3篇，1-2题        | 120words/50seconds,  1min/question |
-| 逻辑40-80字 | 1篇，1题        | 1-2篇，1题        | 1-1.5min                           |
-| 总计       | 4+1篇，10题     | 4+（2-1）  篇，10题 | 17±1 min；正确率  7/10                 |
+|             | Section（含长文） | Section（纯短文）   | 考试要求                           |
+| ----------- | ----------------- | ------------------- | ---------------------------------- |
+| 长450±20字  | 1篇，4题          | 0篇，0题            | 450words/2.5-3min,  1min/question  |
+| 短160±20字  | 1篇，2-3题        | 1篇，3-4题          | 160words/1min,  1min/question      |
+| 短120±20字  | 2篇，1-2题        | 3篇，1-2题          | 120words/50seconds,  1min/question |
+| 逻辑40-80字 | 1篇，1题          | 1-2篇，1题          | 1-1.5min                           |
+| 总计        | 4+1篇，10题       | 4+（2-1）  篇，10题 | 17±1 min；正确率  7/10             |
 
 ### Abilities (OG)
 
@@ -85,30 +85,30 @@ Sentence
 
 Paragraphs
 
-| 总                      | 分                         |
+| 总                     | 分                        |
 | ---------------------- | ------------------------- |
-| 论点                     | 论据                        |
+| 论点                   | 论据                      |
 | main idea              | supporting ideas, support |
 | general                | specific, details         |
 | thesis                 | evidence                  |
 | claim, view, assertion | reasons, arguments        |
 | theory, explanation    | facts, observations       |
 | hypothesis, model      | data, mechanism           |
-| 1st 句                  | 2nd. 3rd. 4th 句           |
+| 1st 句                 | 2nd. 3rd. 4th 句          |
 | **kw** (key words)     | **a b c**: x y z: u v w   |
 | aw (attitude words)    | x y z                     |
 
 Passage
 
-| 总               | 分               |
+| 总              | 分              |
 | --------------- | --------------- |
-| 主题              | 论点              |
+| 主题            | 论点            |
 | Topic           | theses          |
 | general         | specific        |
 | TW(Topic Words) | kw1 kw2         |
-| [作者本人观点]        | 并列分论点           |
+| [作者本人观点]  | 并列分论点      |
 | Thesis = TS; TW | kw1 + kw2       |
-| [不同人物观点]        | 对立或替代观点         |
+| [不同人物观点]  | 对立或替代观点  |
 | TW              | kw1 vs. aw /kw2 |
 
  **minor and major points**
@@ -273,7 +273,7 @@ The author is primarily concerned with
 
 | Core                                 | Function                      |
 | ------------------------------------ | ----------------------------- |
-| different styles                     | kw2: h≠c. kw2’(段落的第二句)        |
+| different styles                     | kw2: h≠c. kw2’(段落的第二句)  |
 | (A.N. fear vs aggression)            | h1=c1, h1≠c1                  |
 | (=arousal. c: searching vs. h: wary) | h2=C2, C2.1.C2.2 ≠ h2.1. h2.2 |
 
@@ -341,9 +341,9 @@ The author is primarily concerned with
 
 解析：类似于机制解释类文章，阅读策略，**记住首尾**（该方法是一种有效确认石油资源的方法）即可，**中间非常多的动词步骤压根不需要记住**。
 
-| Core                                      | Function      |
-| ----------------------------------------- | ------------- |
-| s-method+                                 | kw / ts       |
+| Core                                      | Function        |
+| ----------------------------------------- | --------------- |
+| s-method+                                 | kw / ts         |
 | (**source**→Wave→ec→...→data→**profile**) | (a→b→c→d→e)机制 |
 
 For the following question, **consider each of the choices separately and select all that apply**.（多选题）
@@ -957,14 +957,14 @@ Since the Hawaiian Islands have never been connected to other land masses, the g
 
 **现象解释型**文章
 
-| Cues            | Function | Core        |
-| --------------- | -------- | ----------- |
-| the result of   | TW       | dispersal   |
-| dispute         | TW'(补充)  | dispute     |
-| Some biologists | kw1      | current     |
-| Yet... doubt    | aw-      | doubt       |
-| More probable   | kw2+     | bird+       |
-| ...             | (X)      | (6.ex-/in-) |
+| Cues            | Function  | Core        |
+| --------------- | --------- | ----------- |
+| the result of   | TW        | dispersal   |
+| dispute         | TW'(补充) | dispute     |
+| Some biologists | kw1       | current     |
+| Yet... doubt    | aw-       | doubt       |
+| More probable   | kw2+      | bird+       |
+| ...             | (X)       | (6.ex-/in-) |
 
 1.The author of the passage is **primarily concerned with**
 
