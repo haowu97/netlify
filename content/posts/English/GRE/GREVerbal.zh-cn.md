@@ -8,7 +8,6 @@ upd: ""
 
 tags: ["笔记"]
 categories: ["GRE"]
-output: word_document
 ---
 
 GRE填空考察的能力：
@@ -960,6 +959,13 @@ a. **even 单独使用既可以表示递进（取同），又可以表示让步�
 b. **even if/ even though/ even as/ even when 等词组只表示让步（取反）**。
 
 - He refuses to turn himself in even as his mother begs on her knees.
+
+c. **even if 中的 even 有时会和句子重复成分一起省略**。
+
+- Most, if not all, understand.
+- Even if not all understand, most understand.
+- I rarely enjoy English, if at all.
+- Even if I enjoy English at all, I rarely enjoy English.
 
 🔺【Practice】As Donkin explains, in eighteenth-century England, writing plays (i)____  women. Even when the (ii)____ meant that playwriting did not bring personal fame, the work nevertheless enabled them to present their own views to the public and offered the possibility of acquiring capital.
 

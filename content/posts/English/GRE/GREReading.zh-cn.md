@@ -12,9 +12,9 @@ categories: ["GRE"]
 
 <!--more-->
 
-## GRE阅读概述
+## 1. GRE阅读概述
 
-### 题量
+### 1.1 题量
 
 一个Verbal Section的阅读题为10道：
 
@@ -29,19 +29,19 @@ categories: ["GRE"]
 | 逻辑40-80字 | 1篇，1题          | 1-2篇，1题        |
 | 总计        | 4+1篇，10题       | 4+（2-1）篇，10题 |
 
-GRE阅读文章都取材于学 术期刊和著作，学术英文往往讨论一些抽象的话题或与此相关的作品、研究和活动。
+GRE阅读文章都取材于**学术期刊和著作**，学术英文往往讨论一些抽象的话题或与此相关的作品、研究和活动。
 
-- GRE文章与正常的学术英文也有差别。正常学术论文也许有8000 字，篇幅足够，论证充分，论据较多，有些甚至用图表和图片展示来辅助论证，一目了然。但是，这样的学术文章经测试专家压缩、改编后， 变为大约450字、160字或120字的GRE文章。这意味着，GRE文章的**信息高度浓缩**，证据省略较多，论点和观点的数目也减少了。
+- GRE文章与正常的学术英文也有差别。正常学术论文也许有 8000 字，篇幅足够，论证充分，论据较多，有些甚至用图表和图片展示来辅助论证，一目了然。但是，这样的学术文章经测试专家压缩、改编后， 变为大约450字、160字或120字的GRE文章。这意味着，GRE文章的**信息高度浓缩**，证据省略较多，论点和观点的数目也减少了。
 - **严密的逻辑推理结构**
 - 逻辑严密、结构复杂、句子繁难
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/GREPassageMaterials.jpg)
 
-### Time pressure
+### 1.2 Time pressure
 
-Verbal: 20 questions-30 min; 160+(170)-85%+
+Verbal: 20 questions - 30 min; 160+(170)-85%+
 
-- Sentence: 10 questions-11~12 min
+- Sentence: 10 questions - 11~12 min
 - Reading comprehension: 10 questions-**17~18min**
   - Questions: 10q - 9-10min = **50~60’’/q**
   - Passages: 850~900 words- 6-7min=**150~160 words/min**
@@ -54,7 +54,7 @@ Verbal: 20 questions-30 min; 160+(170)-85%+
 | 逻辑40-80字 | 1篇，1题          | 1-2篇，1题          | 1-1.5min                           |
 | 总计        | 4+1篇，10题       | 4+（2-1）  篇，10题 | 17±1 min；正确率  7/10             |
 
-### Abilities (OG)
+### 1.3 Abilities (OG)
 
 1. understanding the meaning of individual **words**
 2. understanding the meaning of individual **sentences**
@@ -118,7 +118,7 @@ Passage
 
 结论句 conclusion sentence
 
-- 末句cs = kw / ts
+- 末句 cs = kw / ts
 - paragraph: [kw. a. b. c.] cs.
 - passage: [TW.kw1. kw2.] CS
 - cues for cs: 
@@ -137,7 +137,7 @@ identifying strengths and weaknesses 态度aw+,aw-
 
 developing and considering alternative
 
-### 逻辑单题的推理
+### 1.4 逻辑单题的推理
 
 - analyzing a text and reaching conclusions about it
 - drawing conclusions from the information provided
@@ -147,7 +147,7 @@ developing and considering alternative
 - identifying the author's assumptions
   - necessary condition: [a]→b→ c
 
-### Skill
+### 1.5 Skill
 
 "All the questions can be answered on the basis of the information provided in the passage, and you are not expected to rely on any outside knowledge.”——OG
 
@@ -161,9 +161,9 @@ developing and considering alternative
 
 只要将结构分析训练好、题型分类熟悉好，速度和正确率就会逐渐上去。
 
-## 结构化阅读法
+## 2. 结构化阅读法
 
-### 原理
+### 2.1 原理
 
 区别于平时的自然阅读法，从学术类文章固定的结构逻辑出发
 
@@ -173,12 +173,11 @@ developing and considering alternative
 
 论文是*主题-节-部分-段落-句子*的四层总分结构或层级系统。
 
-一个事物，可以多层分解，每层的分解方式相似，每层的规律也都
-相似，这就类似于分形几何学讲的**分形结构（fractals）**。
+一个事物，可以多层分解，每层的分解方式相似，每层的规律也都相似，这就类似于分形几何学讲的**分形结构（fractals）**。
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/GREPAper.jpg)
 
-### 文章层次结构分析
+### 2.2 文章层次结构分析
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/GREPassageStructure.jpg)
 
@@ -189,7 +188,7 @@ developing and considering alternative
 - 对于短文章：考试的重点是**句子之间的逻辑关系、论据对论点的支持或反对的关系**。
 - 在读长文章时，重点不在段落中间的证据，而是在**首末句、转折句和过渡句**。**中间证据皆可略读或快速处理，不求甚解，待做题时**，看到题干内容后，通过各段首句的结构信息定位相应段落及中间句子，找到定位句后再考虑答案。
 
-#### 现象解释/ 问题解决型
+#### 2.2.1 现象解释/ 问题解决型
 
 【Eample】Since the Hawaiian Islands have never been connected to other land masses, the great variety of plants in Hawaii must be a result of the long-distance dispersal of seeds.
 
@@ -203,7 +202,7 @@ B discussing different theories about the transport of plant seeds to Hawaii
 
 解析：**主题题**，选B
 
-#### 新老观点型
+#### 2.2.2 新老观点型
 
 新老观点型文章中，**反驳意见和新观点就是主题（TS=AW-+KWn）**。
 
@@ -219,9 +218,9 @@ The author of the passage is primarily concerned with discussing
 
 (E) a specific morphological attribute that permits one species of wind-pollinated plant to capture pollen
 
-解析：**新老观点文章中转折句才是文章的主题**，选D。
+解析：**新老观点文章中转折句才是文章的主题**，选 D。
 
-#### 论点说明型
+#### 2.2.3 论点说明型
 
 【Eample】The **evolution of intelligence** among early large mammals of the grasslands **was due** in great measure **to** the **interaction** between two ecologically synchronized groups of these animals, the hunting carnivores and the herbivores that they hunted.
 
@@ -241,7 +240,7 @@ The author is primarily concerned with
 
 解析：**论点说明型文章的主题句定位到第一段首句**即可，选B。
 
-### 段落层次结构分析
+### 2.3 段落层次结构分析
 
 段落是论点与论据的组合，对于所有论点及其论据的内容，**抓住论点都是最重要的，其后的论据通常都可略读**。在略读时，可以尝试**找出中间证据与首句论点的对应词汇**。
 
@@ -256,14 +255,14 @@ The author is primarily concerned with
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/GREParagraphStructure.jpg)
 
-#### 并列
+#### 2.3.1 并列
 
 **并列记位置**：通常，GRE一个论点的并列内容不会超过2-3句，这时可适当把握并列内容，在证据中找并列词，是为“并列找并列 ”。但少数时候，并列内容可能多达4个，这时记住位置，比记住内容重要，是为“**位置 > 内容**”。
 
-- 举例：，for example, for instance, in the case of, say, illustrated by
+- 举例：for example, for instance, in the case of, say, illustrated by
 - 分类
 
-#### 对比
+#### 2.3.2 对比
 
 文科讲比对，是最常见的结构。比较的对象通常在两句的主语，而比较的内容则通常在两句的宾语，有时也在谓语。
 
@@ -277,7 +276,7 @@ The author is primarily concerned with
 | (A.N. fear vs aggression)            | h1=c1, h1≠c1                  |
 | (=arousal. c: searching vs. h: wary) | h2=C2, C2.1.C2.2 ≠ h2.1. h2.2 |
 
-#### 因果 / 相关 / 机制
+#### 2.3.3 因果 / 相关 / 机制
 
 **理科讲因果，数量因果必考**
 
@@ -388,9 +387,9 @@ C properties of rocks through which the wave train has traveled
 
 解析：结构/ 各句之间关系题，C
 
-#### 让步转折
+#### 2.3.4 让步转折
 
-作为一种辅助论证方法：让步常常与原来的论点相反，之后常常转折回原来的观点，佐证原观点的正确性。
+作为一种辅助论证方法：让步常常与原来的论点相反，之后转折回原来的观点，佐证原观点的正确性。
 
 **让步找相反，转折找相同**。
 
@@ -402,9 +401,9 @@ C properties of rocks through which the wave train has traveled
 
 Correctly note与fail to see相反，这里相当于发生了让步；but发生转折。
 
-### 句子层次结构分析
+### 2.4 句子层次结构分析
 
-#### 长句处理处理原则
+#### 2.4.1 长句处理处理原则
 
 **主干>修饰**：
 
@@ -440,13 +439,13 @@ Correctly note与fail to see相反，这里相当于发生了让步；but发生�
 
 解析：对比找直接找两个对比句的宾语，并列结构可以略读。
 
-#### 常考句子：中间证据
+#### 2.4.2 常考句子：中间证据
 
 出现以下结构时，中间句也很可能会作为考题的考点：
 
 - 句⼦蕴含对比 → 提炼一对反义词
   
-  - 比较与对比like, similar; unlike, rather than, more than, different fromcontrast, whereas
+  - 比较与对比like, similar; unlike, rather than, more than, different from contrast, whereas
   - 数字比较(most)、时间比较(first)
   - 让步转折
     - although, though, while; despite, in spite of+NP[主句转折]
@@ -463,7 +462,7 @@ Correctly note与fail to see相反，这里相当于发生了让步；but发生�
 
 ### 总结：阅读提炼的重点
 
-**文章**：结构性句子：首末句；however yet but转折句；态度句（2-3题/10题）
+**文章**：结构性句子；首末句；however yet but转折句；态度句（2-3题/10题）
 
 **段落**：对比找反义；因果找双方，机制找末句；并列找并列（2-3题/10题）
 
@@ -482,7 +481,7 @@ GRE阅读的速度是150-160words/min；做题的时间平均为1minute=1'，
 - 有的题目相对容易，可30seconds=30''完成，
 - 有的题目，比如无法定位某个句子的信息题，则可能花上1.5minutes=1.5'
 
-这是考试的速度要求，达到这个要求，就可以在**17分钟（17'）左右完成所有文章的阅读和做题**。为了取得理想的分数，**正确率达到7/10=70%**是相对合适的。
+这是考试的速度要求，达到这个要求，就可以在**17分钟（17'）左右完成所有文章的阅读和做题**。为了取得理想的分数，**正确率**达到7/10=70%是相对合适的。
 
 1'做题的时间分配基本如下：
 

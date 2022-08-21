@@ -183,7 +183,7 @@ de- 作为前缀
 
 **acrid** ['ækrid] a,尖刻的，辛辣的
 
-- < ac就是酸 >
+- < ac 就是酸 >
 
 **acrimonious** [ækri'məuniəs] a.尖酸刻薄的 n.acrimony 尖刻
 
@@ -239,10 +239,306 @@ requite [ri'kwait] v.报答
 - unrequited love 暗恋
 
 
+## acrobat n.杂技演员
 
+**acrobat** ['ækrəbæt] n.杂技演员
 
+- < **acro - high**, bat - 走，打 (beat) , 在高空走>
 
+**acrobatics** [,ækrə'bætIks] n.杂技
 
+**acrophobia** [,ækrə'fəubiə] n.恐高症
+
+- < -phobia 表示恐惧症(来自fear) >
+
+**hydrophobia** [,haIdrə'fəubiə] n.狂犬病
+
+- < 恐水症 >
+
+**aerobatics** [,eərə'bætIks] n.特技飞行
+
+- < aero - 表示air，在空气中飞行 >
+
+**aerobics** [eə'rəubIks] n.有氧运动
+
+- < aero - 表示air，bi - 表示生物>
+
+**abate** [ə'beit] v.缓解，减轻，减少
+
+- < a-表示否定，bat还可以表示击打(to beat)-不再击打 >
+
+**rebate** ['ribeit] n.退还款
+
+- < re-back 打回你的卡里 >
+
+**baton** ['bætɔn] n.①警棍 ②指挥棒
+
+- < -on（名词后缀）作为后缀表示小，如electron电子,photon光子，“打人的小东西” → 警棍 >
+
+**battalion** [bə'tæliən] n.军营，军队
+
+- < battle + lion >
+
+## addle v.①使困惑 ②腐坏
+
+**addle** ['ædl] v.①使困惑 ②腐坏
+
+- < 不断 add 所以困惑了，双写加 le 表示动作的反复（sparkle） >
+- addle one's brain
+
+**baffle** ['bæfəl] v.迷惑
+
+- < babble (baby) 乱语，儿语；很让人baffle >
+
+**muddle** v.困惑
+
+- < mud - mad 疯狂 >
+
+**bewilder** [bi'wildə] v.令人困惑，使惊慌失措
+
+- < be起到加强语气的作用 (before)，-er 表示动作反复，wild 狂野的 >
+
+**Confound** v.使困惑
+
+- < 同confuse >
+
+## adept a.熟练的
+
+**adept** [ə'dept] a.熟练的
+
+- < -ept: expert 专家很熟练，ad 表示加强 >
+
+**adapt** [ə'dæpt] v.适应
+
+- < apt 来自 appropriate 合适的 >
+
+**adopt** [ə'dɑpt] v.收养, 采纳
+
+- < 来自option >:
+- adopted son养子，adoptive mother养母
+
+**inept** [ɪnˈɛpt] a.无能的
+
+- ineptitude n. 无能
+
+**inapt** [in'æpt] a.不合适的
+
+**deft** [deft] a,灵巧的，熟练的
+
+- < 形近词 left 左手熟练的，左手很灵巧的，daft a.愚蠢的 >
+
+**adroit** [ə'drɔɪt] a,熟练的，灵巧的（口齿）
+
+- < a-表示加强，drive:表示驱动，“使动起来" >
+
+## adjacent a.邻近的，毗邻的，接近的
+
+**adjacent** [ə'dʒesnt] a.邻近的，毗邻的，接近的
+
+- < 同：adjoin; ad-表示加强，jac = ject = throw 扔(reject, project), ent 表示形容词后缀 >
+- be ~ to
+
+**subjacent** [sʌb'dʒesnt] a.底层的，底下的
+
+- < 往下扔 >
+
+**ejaculate** [ɪ'dʒækjulet] v.尖叫
+
+- < 向外扔，声音扔出来 >
+
+**abject** ['æbdʒɛkt] a.悲惨的，可怜的
+
+- < ab-away被扔到一边 >
+
+**deject** [dɪˈdʒɛkt] v.心境低落
+
+- < de = down 心情跌落下去 >
+- dejected = depressed
+
+**conjecture** [kən'dʒɛktʃɚ] v,猜测
+
+- < 大家一起扔思想 = 猜测 >
+
+表示"临近"：
+
+**adjoin** [ə'dʒɔɪn] vt.临近，毗邻
+
+- < 来自join有连接(connect)的意思 >
+
+**abut** [ə'bʌt] vi.临近，毗邻 on
+
+- < 和about同 >
+
+## adjourn vi.延期休会；vt.中止，推迟
+
+**adjourn** [ə'dʒɝn] vi.延期休会; vt.中止，推迟
+
+- < -ad 表示加强，journ 表示 day “加强几天” - 推迟 >
+
+**sojourn** ['sʌdʒɝn] v,暂住
+
+- < 有了住的地方所以 so 可以去旅行 journey >
+
+**diurnal** [daɪ'ɝnl]a.白天的
+
+- < di-来自day >
+
+**nocturnal** [nɑk'tɝnl] a.夜晚的
+
+- < noct- 来自 night >
+- nocturnal activities
+
+## adulterate v.掺杂
+
+**adulterate** [ə'dʌltəret] v.掺杂 反 purify 提纯
+
+- adulterate sth with sth
+- adulterated wine 假酒
+
+adult 成人三部曲
+
+**adultery** [ə'dʌltəri] n.通奸
+
+- < 男男女女掺杂在一起 >
+
+**adulate**[ˈædʒəˌlet] v,奉承，谄媚
+
+## affluence n.富裕，富足
+
+**affluence** [æfluəns] n.富裕，富足(rich)
+
+- < flu - flow 流 fluid >
+
+**effluvia** [ɪ'flʊvjə] n.（工厂排出的）垃圾，废物，废料
+
+- < e- = ex- + flu 流出，排出 = 垃圾 >
+
+**effluvial** [i'flu:viəl] a.恶臭的
+
+**flux** [flʌks] n.时代变迁
+
+- < 时间的流逝 flu >
+
+**influx** ['ɪnflʌks] n.涌入
+
+**superfluous** [sʊ'pɝflʊəs] a.过量的，过剩的
+
+- < super-:①超级 ②on ③more than 过多，流得过多>
+
+**fluctuate** ['flʌktʃʊ'et] v.波动，浮动 go up and down
+
+- < fluc - 由波浪的形状联想 >
+
+**flush** [flʌʃ] v.脸红，冲水
+
+- **blush** [blʌʃ] v.脸红
+
+## affront n.公开侮辱，轻蔑；vt.冒犯
+
+**affront** [ə'frʌnt] n.公开侮辱，轻蔑：vt,冒犯
+
+- < front表示正面 → forehead, “在你面前说你不好" >
+
+**confront**[kən'frʌnt] v.冲突；面对
+
+- < 共同面对面 > 
+- be confronted with = be faced with
+
+**confrontation** [ˌkɑnfrənfrʌn'teʃən] n.冲突
+
+**effrontery** [ɪˈfrʌntəri] n.厚颜无耻 = shamelessness
+
+- < 把脸放在露面，喜欢抛头露脸，shameless, ex-ef 相同 >
+
+**frontier** [frʌn'tɪr] n.前线，国家边界
+
+表示侮辱，诽谤：
+
+**revile**[rɪ'vaɪl] v.辱骂，诽谤侮辱
+
+- < re再一次 → 加强 + vile a.恶毒的 → evil = 恶言对待>
+
+**vilify**['vɪlɪfaɪ] v.诽谤
+
+- < vile a.恶毒的，-y动词后缀 >
+
+**abuse** [ə'bjus] v.漫骂，滥用，虐待
+
+- abusive words 谩骂的言论
+
+**peruse** [pə'ruz] v.仔细读，精读
+
+- < per-through + use = 一直用一本书 - 精读 peruse a book>
+
+**disabuse**[ˌdɪsə'bjuz] v.①纠正，改正 ②消除错误观念
+
+- < 不滥用 >
+
+## agrarian adj,有关土地的，耕地的
+
+**agrarian** [ə'ɡrɛrɪən] adj.有关土地的，耕地的
+
+- < agri-field, 和土地有关 agriculture n.农业 >
+
+**agronomy** [ə'grɑnəmi] n.农学
+
+- < -nomy 学科后缀 astronomy >
+
+## alcove n.凹室，壁橱，神龛
+
+**alcove** ['ælkov] n.凹室，壁橱，神龛
+
+- < coye - cave, al - 加强 >
+
+cave:
+
+**cavity** ['kævəti] n.小洞：腔
+
+**cavern** ['kævɚn] n.大洞穴，大山洞
+
+**excavate** ['ɛkskə'vet] v ,挖掘，出土
+
+- < ex-向外，从cave里面弄出来 >
+
+**concave** [kɑn'kev] a.凹陷的
+
+**convex** ['kɑnvɛks] a.凸起的
+
+## allay vt.减轻，减少
+
+**allay** [ə'le] vt.减轻，减少
+
+- < 同：alleviate（加强）>
+- < a-加强，levi①上升lif,如elevator②**表示轻light**,eg:allay your fear/ anxiety >
+
+**levity** ['lɛvəti]] n.轻浮，草率【反】gravity 稳重
+
+**levy** ['lɛvi] v,征收（税等）
+
+- <升起税-征税> levy tax on
+
+**rescind** [rɪ'sɪnd] v.废除，取消
+
+- < scind-联想 scissors 剪掉，剪断，加强剪断 → 废除 >
+
+**waylay** [we'le] v.潜伏，伏击
+
+- < 躺在路边埋伏 >
+
+**slay** [sle] v.杀死
+
+- < sl和slip有关，被杀死以后滑到的动作，或用谐音“死嘞" > 同源：slaughter (笑死了)
+- slew slain
+
+**flay** [fle] v.去皮，剥皮，严厉批评
+
+- flay a dog,flay the animal
+
+**underlay** ['ʌndɚle] v.垫起，铺在底下
+
+**belay** ['bile] v.拴住
+
+- < be-加强 > tie 同 belay
 
 
 
@@ -255,6 +551,9 @@ lesson [ˈlesən] n课
 vocation  [vəuˈkeiʃən] n 职业
 
 vacation [vəˈkeiʃən, veiˈkeiʃ(ə)n] n 假期
+
+
+
 
 
 

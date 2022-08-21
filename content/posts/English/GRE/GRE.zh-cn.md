@@ -20,16 +20,6 @@ categories: []
 
 再要你命3k+短语小红书
 
-填空24套+36套
-
-杨鹏 长难句（微臣长难句）
-
-结构化阅读 复习+练习
-
-数学（blibli）
-
-单词：曲根 陈琦 新东方网课 睡前
-
 作文
 
 ## 1. GRE: OverView
@@ -208,7 +198,13 @@ GRE满分340+6.0分，最低分260+0分
   - Medium：Section1答对7-12题进入Medium模式，最后得分范围大概为143-161分。
   - Hard：Section1答对13-20题进入Hard模式，最后得分范围大概为151-170分。
 
-325是一个GRE的节点分数，一般325即可和GRE分手
+两个 Section 均做对 60%，最后得分在 155 左右；
+两个 Section 均做对 70%，最后得分在 160 以上；
+
+- 填空 10 对 8
+- 阅读 10 对 6
+
+325是一个GRE的节点分数，一般325即可和GRE分手，但 2022 年后最好在 330 分以上：
 
 - 数学需要接近满分
 - 语文需要在155左右：在语文前两个Section错题数均少于8个即可
@@ -290,8 +286,6 @@ Quantitative
 
 官方题目如PPO, PPO Plus都比较老了，可以作为补充。
 
-
-[Magoosh GRE Blog: Study Resources](https://magoosh.com/gre/)
 
 [Zhouzhiling/GRE: GRE备考资料分享 (github.com)](https://github.com/Zhouzhiling/GRE)
 
