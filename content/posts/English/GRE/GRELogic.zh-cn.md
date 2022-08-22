@@ -10,8 +10,6 @@ tags: ["笔记"]
 categories: ["GRE"]
 ---
 
-<!--more-->
-
 ## 1. 论证(Argument)
 
 **Argument**: a set of propositions(命题) in which one of the propositions is supported by the others.
@@ -26,6 +24,8 @@ categories: ["GRE"]
 - 万蜀黍很努力，所以他**一定会**成功。(argument)
 - 万蜀黍很不健康，因为他吃得特别多。(explanation)
 - 万蜀黍**肯定**不健康，你看他吃得那么多。(argument)
+
+<!--more-->
 
 ### 1.2 论证的分类
 
