@@ -3,8 +3,8 @@ title: "解密 GRE 逻辑题"
 date: 2022-08-21T15:48:42+08:00
 draft: false
 
-description: ""
-upd: "来自炜神《解密GRE系列课程-逻辑题》的 Bilibili 课程，炜神 YYDS！"
+description: "系统性剖析 GRE 逻辑题相关的所有知识点 + 11 类逻辑题型的解题方法，来自炜神《解密GRE系列课程-逻辑题》的 Bilibili 课程，炜神 YYDS！"
+upd: "系统性剖析 GRE 逻辑题相关的所有知识点 + 11 类逻辑题型的解题方法，来自炜神《解密GRE系列课程-逻辑题》的 Bilibili 课程，炜神 YYDS！"
 
 tags: ["笔记"]
 categories: ["GRE"]
@@ -32,7 +32,6 @@ categories: ["GRE"]
 A. **演绎推理 (Deductive Arguments)**: an argument in which the arguer intends to give **complete** support to the conclusion (assuming the truthfulness of premises).
 
 B. **归纳推理 (Inductive Arguments)**: an argument in which the arguer intends to give **strong** support to the conclusion(assuming the truthfulness of premises)
-
 
 演绎推理范例：
 
@@ -238,9 +237,9 @@ E.If the dating on the manuscript accurately reflects when and where the piece w
 
 ### 2.3 题型3: Most Strongly Supported
 
-The information given, if accurate, most strongly supports which of the following hypotheses?
+题干：The information given, if accurate, most strongly supports which of the following hypotheses?
 
-Which of the following conclusions is best supported by the information?
+题干：Which of the following conclusions is best supported by the information?
 
 Most Strongly Supported题的做题建议：
 
@@ -261,7 +260,6 @@ D. Within the habitat of E.penduliflora, natural fires are significantly more fr
 
 E. Unless E.penduliflora seeds that have germinated can survive in the shade, automobile exhaust threatens the long-term survival of the plant in areas with heavy automobile traffic.
 
-
 文章信息：germinate 需要 二氧化氮；grow 需要光。
 
 解析：选项 AB 信息不足，无法判断；选项，thrive 还需要光；选 E，**unless = if not**。
@@ -281,3 +279,270 @@ D. The number of musicians who are tall and have long arms is insufficient to me
 E. Reducing the size of a musical instrument almost invariably reduces the visual appeal of the instrument.
 
 解析：选 B；选项 C，重要性的比较是不成立的。
+
+### 2.4 题型4: Paradox
+
+题干：Which of the following, if true, would help resolve the apparent paradox presented above?
+
+题干：Which of the following, if true, best reconciles the apparent discrepancy presented in the passage?
+
+例：
+
+万炜比上次考LSAT前更努力学习了，但是他的LSAT成绩却比之前更差了。
+
+Which one of the following, if true, most helps to resolve the apparent paradox in the situation described above?
+
+(A)题目难度比之前降低了。（反）
+
+(B)除了努力之外，考试时的心态也对考试成绩有很大影响。（没说清楚，万炜可能心态变好，没得选的情况下可以选这个）
+
+(C)万炜他们班都很努力，但是都考得很差。（重复怪事）
+
+(D)180分的题他之前能拿160分，但现在只能答40分。（没有解释）
+
+(E)万炜班里的其他学生比他更努力。（无关对比！）
+
+(F)过分努力导致万炜神经衰弱，考试时无法集中注意力。
+
+(G)LSAT成绩对于成功申请法学博士有着重要的作用。（完全无关）
+
+解析：选 F。
+
+Paradox 题的做题建议：
+
+1. *文章通常暗含反常的两件事，某原因 A 发生的情况下，本该产生结果 B 的反面，结果却出现了 B*，正确选项一定可以导致 B 的发生，所以读题是一定要**判断出来哪件事情才是要解释的**；
+2. **看清楚怪事所包含的对比点**，错误选项经常会引入无关对比点；
+3. 只有对比才可以解释对比，**只有变化才可以解释变化**；
+4. 正确选项会解释文中的怪事，**解释就是导致**，不是证明，不是体现，不是说明，更不是简单的方向一致。
+
+评价：
+
+- 简单，但是其他复杂逻辑题的基础
+- 练习解题速度，**提前预判答案**
+
+【practice】Despite a dramatic increase in the number of people riding bicycles for recreation in Parkville, a recent report by the Parkville Department of Transportation shows that the number of accidents involving bicycles has decreased for the third consecutive year.
+
+Which of the following, if true during the last three years, best reconciles the apparent discrepancy in the facts?
+
+A. The Parkville Department of Recreation confiscated abandoned bicycles and sold them at auction to any interested Parkville residents.
+
+B. Increased automobile and bus traffic in Parkville had been the leading cause of the most recent increase in automobile accidents.
+
+C. Because of the local increase in the number of people bicycling for recreation, many out-of-town bicyclists ride in the Parkville area.
+
+D. The Parkville Police Department enforced traffic rules for bicycle riders much more vigorously and began requiring recreational riders to pass a bicycle safety course.
+
+E. The Parkville Department of Transportation canceled a program that required all bicycles to be inspected and registered each year
+
+解析：
+
+- 骑车的人多了，但是事故少了（要解释为什么事故少）
+- 答案预期：造成事故减少（不违背骑车人多的前提）
+- 选 D
+
+🔺【practice】Frog eggs quickly die if permitted to dry out. Yet frogs of some species increase their chances for reproductive success by depositing their eggs, not in large, relatively permanent ponds,but in small puddles that may evaporate before the eggs have hatched.
+
+Which of the following, if true, most helps to resolve the apparent discrepancy?
+
+A. Some types of frog give birth to live young.
+
+B. If the water in a puddle where frog eggs have been deposited evaporates before the eggs have hatched, the entire clutch of eggs perishes.
+
+C. Unlike ponds, small puddles cannot support the forms of aquatic life that typically **feed on** frog eggs.
+
+D. The tadpoles that hatch from frog eggs develop into air breathing frogs more quickly in hot, wet tropical climates than elsewhere.
+
+E. The eggs of most nontropical frog species are fertilized in the water.
+
+解析：
+
+- 干旱对青蛙卵的生存不利；但是在水容易蒸发的 puddles，里卵的存活率竟然还提高了。（要解释的怪事）
+- 答案预期：给一个好的原因可以造成青蛙把卵产到容易蒸发的 puddles，里真的会存活率更高。
+- 选 C，puddles 里缺少天敌。
+
+### 2.5 题型5: Weaken
+
+题干：Which of the following, if true, most seriously weakens the argument?
+
+题干：Which of the following, if true, casts most doubt on the conclusion?
+
+题干：Which of the following, if true, could best be used to counter the conclusion?
+
+Weaken 题的做题建议：
+
+1. 一般为**归纳推理**，必须区分论证类型！
+2. 不同的论证类型，对答案方向将有完全不同的预判。
+
+**解释型论证的削弱策略**：
+
+1. **列举它因**（给出其它解释）
+2. **无因有果**：没这个原因，该结果一样可以发生
+3. （极小概率）直接攻击结论，仅在没有前两种选项存在时才要考虑
+
+例：万蜀黍考试进步了，说明他努力了。（解释型论证）
+
+- 削弱1：万蜀黍作弊了（列举它因）
+- 削弱2：万蜀黍没努力的时候也有考试进步过（无因有果）
+
+**非解释型论证的削弱策略**(预测型，类比型)：**直接破坏结论成立的可能性**。
+
+例：万蜀黍最近很努力，相信他的成绩下次一定会提高。
+
+- 削弱：过分努力让他精神衰弱，考试状态变得很差。
+
+🔺【practice】There are many structural and thematic similarities between Piers Plowman by Langland (1330-1400) and House of Fame by Chaucer(1342-1400), two Middle English poems relating dream visions. Some critics have argued that because a number of the shared elements are uncommon in Middle English poetry, and because Langland's poem probably predates Chaucer's by a few years, Chaucer was most likely influenced by Piers Plowman when writing House of Fame.
+
+Which of the following, if true, most seriously weakens the critics'argument?
+
+A. Piers Plowman is one of Langland's major works, whereas House of Fame is a minor work of Chaucer's.
+
+B. House of Fame survives in only three manuscript copies, substantially fewer than the number of manuscript copies that exist of Piers Plowman.
+
+C. Because Piers Plowman became a well-known work in its day, it is likely that the similarities between it and House of Fame were detected by many of the people who read House of Fame soon after Chaucer wrote it.
+
+D. Many of the themes and structures of Piers Plowman are also found in Latin, Italian, French works with which Chaucer could well have been familiar.
+
+E. There is no evidence that Chaucer and Langland ever met or that they corresponded with each other about literary topics.
+
+解析：
+
+- 前提：两者有很多相似。
+- 结论：后者学了前者。
+- 论证类型：解释型论证(“学”导致“相似”)
+- 🔺选项 E 看似能够直接能削弱结论，其实并没有。
+- 列举他因：选 D。
+
+【practice】The Rivera Art Museum recently began charging admission. The resulting decline in visitors has been far larger than at other local museums, which have also begun charging admission. The magnitude of the decline **might** be due to the Rivera's location near government offices. Because an admission charge is most discouraging to those who plan a short visit, it is likely that government workers who formerly made brief visits during lunch time and after work now do not.
+
+Which of the following, if true, most seriously undermine the proposed explanation?
+
+A. The fee for admission to the Rivera is no larger than that charged by other museums.
+
+B. The Rivera does not keep track of how long individual visitors stay in the museum.
+
+C. The decline in visitors to the Rivera has been no greater on workdays than it has been on nonworking days.
+
+D. The museum with the smallest decline in visitors is the most popular with visitors from other countries.
+
+E. In the period between the announcement that there would be an admissions charge and its' actual introduction, there was an increase in visitors at the Rivera.
+
+解析：解释型论证，🔺周末的时候**无因有果**，选 C。
+
+【practice】In commercial fishing, people compete for their catches with whatever other creatures naturally prey on the fish sought for human consumption. From a purely commercial point of view, therefore, it **would** make sense to kill off those other predator species in order to increase yields of the commercially desirable prey species.
+
+Which of the following, if true about aquatic species, most seriously weakens the argument above?
+
+A. There are many pairs of predator and prey species in which their species that is of commercial importance is the predator species.
+
+B. There are species that are under little or no predatory pressure except that they are hunted by people.
+
+C. Commercial fishing, unless carefully managed, can deplete certain species enough to threaten the associated predator species with extinction.
+
+D. In comparison with the predator species associated with a given prey species, the prey species is generally the more numerous, but the ranges occupied by the two species usually coincide.
+
+E. The presence of nonhuman predators tends to improve the survival chances prey species by selectively removing weak or sick individuals or reproductive age.
+
+解析：预测型论证，答案预测：即使杀了 predator，也不会增加 prey的数量；选 E。
+
+### 2.6 题型6: Necessary Assumption
+
+**Necessary Assumption = 必要条件**：
+
+- 题干：Which of the following is an assumption on which the argument relies?
+- 题干：Which of the following is an assumption made in the argument?
+- 题干：The argument assumes which of the following?
+
+Necessary Assumption 题的做题建议：
+
+1. Necessary Assumption 永远等于 **Weaken 的对立面**（没了就挂了）！所以简而言之——**取非削弱**；
+2. 严格禁止直接看哪个选项对结论有利，因为对结论有利不等于论证所必须依赖的条件
+
+🔺【practice】In 1995 earthquake along the Knowler fault caused some steel-framed buildings to collapse in Knowler, a city situated immediately over the fault. Existing steel-framed buildings meeting 1994 government minimum earthquake-safety standards for new construction, however, suffered negligible damage. Since seismologists predict that any earthquake affecting Knowler in the near future will be no stronger than the 1995, more stringent earthquake-safety standards for the construction of steel-framed buildings in Knowler are unnecessary.
+
+Which of the following is an assumption on which the argument depends? 
+
+A. Most steel-framed buildings that did not meet the 1994 government standards did collapse.
+
+B. A city situated immediately over a fault typically suffers extensive damage in earthquakes along the fault.
+
+C. There are government earthquake-safety standards for new construction of structures other than steel-framed buildings.
+
+D. The steel-framed buildings that were not seriously damaged by the earthquake did not significantly exceed 1994 government minimum standards for earthquake safety.
+
+E. More earthquakes are anticipated along the Knowler fault.
+
+解析：预测型论证。
+
+- 削弱题答案：如果不提高标准，未来的地震会让建筑受到损害。
+- 把选项取非，判断是否能削弱
+- 选 D
+
+🔺【practice】The Thorvald epic was transmitted orally until the early 1300s, when it was written down. Three manuscripts of the epic survive from the 1300s. The latest of these manuscripts, made in the mid-1300s, has an episode that is not in the second manuscript, but that occurs in the earliest of the three manuscripts in virtually the same words. Therefore, the third manuscript was **probably** copied from the first or from a now lost copy of the first.
+
+Which of the following is an assumption on which the argument relies?
+
+A. Whoever produced the second manuscript did not deliberately omit the missing episode.
+
+B. The earliest of the surviving manuscripts was not the first manuscript ever made of Thorvald.
+
+C. The texts of the first and third surviving manuscripts do not derive from the text of a manuscript, now lost, that predates them both.
+
+D. The first manuscript was copied at most once before the third manuscript was made.
+
+E. The episode that is missing from the second manuscript was not invented by whoever produced the first manuscript.
+
+解析：
+
+- 前提：3rd = 1st
+- 结论：3rd一定是抄了1st
+- 解释型论证，选 C。
+
+## 2.7 题型7: Sufficient Assumption
+
+题干：The conclusion is properly drawn if which of the following is assumed?
+
+题干：Which of the following, if true, would enable the conclusion of the argument to be properly drawn?
+
+题干：Which of the following,if justifiably assumed,allows the conclusion to be properly drawn?
+
+| Sufficient assumption | Necessary Assumption |
+| --------------------- | -------------------- |
+| 充分条件              | 必要条件             |
+| 有了就行              | 没了不行             |
+
+Sufficient Assumption 题的做题建议：
+
+1. 考的是**演绎推理**，所以要**追求绝对严谨的论证**：
+2. 正确选项和文章前提加在一起，能绝对保证结论的成立
+3. 一定要留意和 Necessary Assumption 题的题干区别以及做法区别
+
+| Must Be True | Sufficient Assumption |
+| ------------ | --------------------- |
+| 推结论       | 找条件                |
+
+【practice】X-ray examination of a recently discovered painting-judged by some authorities to be a self-portrait by Vincent van Gogh-revealed an underimage of a woman's face.Either van Gogh or another painter covered the first painting with the portrait now seen on the surface of the canvas.Because the face of the woman in the underimage also appears on canvases van Gogh is known to have painted,the surface painting must be an authentic self-portrait by van Gogh.
+
+The conclusion is properly drawn if which of the following is assumed?
+
+A. If a canvas already bears a painted image produced by an artist,a second artist who uses thecanvas to produce a new painting tends to be influenced by the style of the first artist.
+
+B. Many painted canvases that can be reliably attributed to van Gogh contain underimages ofsubjects that appear on at least one other canvas that van Gogh is known to have painted.
+
+C.Any painted canvas incorrectly attributed to van Gogh would not contain an underimage ofa subject that appears in authentic paintings by that artist.
+
+D.A painted canvas cannot be reliably attributed to an artist unless the authenticity of anyunderimage that painting might contain can be reliably attributed to the artist.
+
+E.A painted canvas cannot be reliably attributed to a particular artist unless a reliable x-rayexamination of the painting is performed.
+
+【practice】When on an airplane,Consuelo never enjoys movies that have been widely recommendedbecause the poor quality of the picture spoils her enjoyment.Since in no circumstances doesshe ever enjoy movies that have been widely derided,it follows that she never enjoys movieson airplanes.
+Which of the following,if true,would enable the conclusion of the argument to be properlydrawn?
+
+A.The only place where Consuelo enjoys widely recommended movies is a movie theater.
+
+B.Widely recommended movies are never shown on airplane.
+
+C.If a movie shown on an airplane is not widely derided,then it is invariable widelyrecommended.
+
+D.If the picture quality of the movies shown on airplanes was better,Consuelo would enjoythe widely recommended movies.
+
+E.Some movies are neither widely recommended nor widely derided.
