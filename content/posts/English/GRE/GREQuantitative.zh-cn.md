@@ -6,7 +6,7 @@ draft: false
 description: "基本数论，代数计算，初等几何，文字应用题以及比较大小题型。"
 upd: "基本数论，代数计算，初等几何，文字应用题以及比较大小题型。"
 
-tags: ["笔记"]
+tags: ["笔记", "GRE"]
 categories: ["GRE"]
 ---
 

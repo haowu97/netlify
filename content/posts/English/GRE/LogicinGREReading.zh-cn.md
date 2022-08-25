@@ -6,7 +6,7 @@ draft: false
 description: ""
 upd: "来自同名书籍《解密 GRE 阅读逻辑线》的笔记，感叹炜神逻辑的强大！"
 
-tags: ["笔记"]
+tags: ["笔记", "GRE"]
 categories: ["GRE"]
 ---
 
@@ -43,7 +43,7 @@ GRE 是逻辑考试， 而不是语义考试， 所有问题的设计都是依�
 
 **常见的引用观点动词**：Believe, state, assert, claim, contend, hold, maintain, argue, conclude, speculate, posit, allege, purport, theorize, hypothesize....
 
-**常见的事实动词/ 作者视角**：Discover, know, recognize, realize, notice, note, find, establish, reveal, show, demonstrate....
+**常见的事实动词/ 作者视角**：Discover, know, recognize, realize, notice, note, find, establish, reveal, **show**, demonstrate....
 
 作者认可的事实：
 

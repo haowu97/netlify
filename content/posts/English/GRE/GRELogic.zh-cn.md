@@ -3,10 +3,10 @@ title: "解密 GRE 逻辑题"
 date: 2022-08-21T15:48:42+08:00
 draft: false
 
-description: "系统性剖析 GRE 逻辑题相关的所有知识点 + 11 类逻辑题型的解题方法，来自炜神《解密GRE系列课程-逻辑题》的 Bilibili 课程，炜神 YYDS！"
-upd: "系统性剖析 GRE 逻辑题相关的所有知识点 + 11 类逻辑题型的解题方法，来自炜神《解密GRE系列课程-逻辑题》的 Bilibili 课程，炜神 YYDS！"
+description: "系统性剖析 GRE 逻辑题相关的所有知识点 + 11 类逻辑题型的解题方法，来自炜神的 Bilibili 课程《解密GRE系列课程-逻辑题》，炜神 YYDS！"
+upd: "系统性剖析 GRE 逻辑题相关的所有知识点 + 11 类逻辑题型的解题方法，来自炜神的 Bilibili 课程《解密GRE系列课程-逻辑题》，炜神 YYDS！"
 
-tags: ["笔记"]
+tags: ["笔记", "GRE"]
 categories: ["GRE"]
 ---
 
@@ -152,7 +152,7 @@ Equivalence rule(可以单项推理)
 
 In the argument given, the two portions in boldface play which of the following roles?
 
-考察句子的功能：观点、
+考察句子的功能：视角与逻辑。
 
 例：有人说，嫁人就要嫁万蜀黍，因为他**又高，又富**，虽然可能不算很帅。但其实，**这个建议实在是太离谱了**。多方证据显示，万蜀黍其实是个大渣男，嫁给他只会被他辜负。
 
@@ -497,7 +497,7 @@ E. The episode that is missing from the second manuscript was not invented by wh
 - 结论：3rd一定是抄了1st
 - 解释型论证，选 C。
 
-## 2.7 题型7: Sufficient Assumption
+### 2.7 题型7: Sufficient Assumption
 
 题干：The conclusion is properly drawn if which of the following is assumed?
 
@@ -520,29 +520,249 @@ Sufficient Assumption 题的做题建议：
 | ------------ | --------------------- |
 | 推结论       | 找条件                |
 
-【practice】X-ray examination of a recently discovered painting-judged by some authorities to be a self-portrait by Vincent van Gogh-revealed an underimage of a woman's face.Either van Gogh or another painter covered the first painting with the portrait now seen on the surface of the canvas.Because the face of the woman in the underimage also appears on canvases van Gogh is known to have painted,the surface painting must be an authentic self-portrait by van Gogh.
+🔺【practice】X-ray examination of a recently discovered painting-judged by some authorities to be a self-portrait by Vincent van Gogh-revealed an underimage of a woman's face.Either van Gogh or another painter covered the first painting with the portrait now seen on the surface of the canvas.Because the face of the woman in the underimage also appears on canvases van Gogh is known to have painted,the surface painting must be an authentic self-portrait by van Gogh.
 
-The conclusion is properly drawn if which of the following is assumed?
+The conclusion is **properly drawn if which of the following is assumed**?
 
-A. If a canvas already bears a painted image produced by an artist,a second artist who uses thecanvas to produce a new painting tends to be influenced by the style of the first artist.
+A. If a canvas already bears a painted image produced by an artist,a second artist who uses the canvas to produce a new painting tends to be influenced by the style of the first artist.
 
-B. Many painted canvases that can be reliably attributed to van Gogh contain underimages ofsubjects that appear on at least one other canvas that van Gogh is known to have painted.
+B. Many painted canvases that can be reliably attributed to van Gogh contain underimages of subjects that appear on at least one other canvas that van Gogh is known to have painted.
 
 C.Any painted canvas incorrectly attributed to van Gogh would not contain an underimage ofa subject that appears in authentic paintings by that artist.
 
-D.A painted canvas cannot be reliably attributed to an artist unless the authenticity of anyunderimage that painting might contain can be reliably attributed to the artist.
+D.A painted canvas cannot be reliably attributed to an artist unless the authenticity of any underimage that painting might contain can be reliably attributed to the artist.
 
-E.A painted canvas cannot be reliably attributed to a particular artist unless a reliable x-rayexamination of the painting is performed.
+E.A painted canvas cannot be reliably attributed to a particular artist unless a reliable x-ray examination of the painting is performed.
 
-【practice】When on an airplane,Consuelo never enjoys movies that have been widely recommendedbecause the poor quality of the picture spoils her enjoyment.Since in no circumstances doesshe ever enjoy movies that have been widely derided,it follows that she never enjoys movieson airplanes.
-Which of the following,if true,would enable the conclusion of the argument to be properlydrawn?
+解析：符号化，
+
+- 核心前提的符号化：下√
+- 核心结论的符号化：上√
+- 能使得论证成立的额外条件：下√→上√ 或 上x→下x（逆否命题）
+- 容易误导人的选项：上√→下√ 或 下x→上x
+
+选项 B 中看到 many 可以直接排除，不符合充分条件的绝对性；即使将 many 改为 all，则逻辑为上√→下√，也不能选。选项 C，相当于上x→下x，正确。选项 D，相当于下x→上x，错误
+
+
+🔺【practice】When on an airplane,Consuelo never enjoys movies that have been widely recommended because the poor quality of the picture spoils her enjoyment. Since in no circumstances does she ever enjoy movies that have been widely **derided**, it follows that she never enjoys movies on airplanes.
+
+Which of the following, if true, would enable the conclusion of the argument to be properly drawn?
 
 A.The only place where Consuelo enjoys widely recommended movies is a movie theater.
 
 B.Widely recommended movies are never shown on airplane.
 
-C.If a movie shown on an airplane is not widely derided,then it is invariable widelyrecommended.
+C.If a movie shown on an airplane is not widely derided,then it is invariable widely recommended.
 
-D.If the picture quality of the movies shown on airplanes was better,Consuelo would enjoythe widely recommended movies.
+D.If the picture quality of the movies shown on airplanes was better,Consuelo would enjoy the widely recommended movies.
 
 E.Some movies are neither widely recommended nor widely derided.
+
+解析：
+
+- 核心前提：她在飞机上不看被赞的；且她任何时候都不看被骂的
+- 结论：她在飞机上任何电影都不看
+- 核心前提符号化：A → ~R,~D
+- 结论符号化：A → ~M
+- 需要补充的前提：A → [ (~R & ~D) → ~M]
+- 因此选 C，飞机上的电影只有两种，要么被赞，要么被骂。
+
+### 2.8 题型8: Strengthen
+
+题干：Which of the following, if true, **most strengthens** the argument?
+
+题干：Which of the following, if true, provides the **most support** for the argument?
+
+Strengthen 题的做题建议：
+
+1. 归纳推理，这种题型的答案灵活度较高，有以下两种可能的答案：
+   1. 明显直接帮助到结论
+   2. 排除削弱结论的可能性(类似 Necessary Assumption 题的做法)
+2. 做法：**双管齐下看选项**
+   1. 一方面正着看选项是否有助于文章结论的成立
+   2. 同时也要留意选项是否排除了一种削弱的可能性（选项的对立面是否能对文章进行削弱）
+3. 注意事项：加强 ≠ 证明；削弱 ≠ 证伪
+
+🔺【practice】The ship Mary Rose, first launched in 1511, underwent extensive repairs in 1528 and 1536 and sank in 1543. Researchers raised the ship in 1982 and analyzed the wreck's preserved timbers; some timbers came from trees felled after 1511, so they must have been added during repair. There were some beams, however, that came from trees felled before 1511. It is likely, therefore, that these beams were part of the original ship.
+
+Which of the following, if true, most strengthens the argument?
+
+A.The repair caused the Mary Rose to be significantly more difficult to handle and ultimately may have led to the ship's sinking.
+
+B.The beams were fastened with wooden nails that came from trees felled after 1511.
+
+C.The beams came from a part of the ship that quite commonly needs to be repaired every few years.
+
+D.One structurally important timber came from a tree felled after 1528.
+
+E.Shipbuilders of the 1500s preferred to work with recently felled wood that was still green with sap
+
+解析：
+
+- 前提：船有一些残存的木板是来自1511以前的树
+- 结论：这些木板一定本来就在1511年原始的船上
+- 论证类型：解释型论证
+- 选 E。
+
+🔺【practice】The opening melody of Ludini's trumpet concerto is virtually identical to the opening melody of Bortelli's fifteenth violin concerto.The concertos were composed within a decade of each other, but in what order is not known. Ludini did, however, frequently adopt themes from other composers. Moreover, the melody at issue, while natural to play on a violin, is only awkwardly managed on a trumpet. Thus it is likely that Ludini's concerto was composed after
+Bortelli's.
+
+Which of the following, if true, most strengthens the argument
+
+A.Even trumpet themes that are almost certainly Ludini's own are somewhat awkward to play.
+
+B.Ludini's trumpet concerto was transcribed for flute by a pupil of Bortelli's.
+
+C.The melody at issue occurs only in the Ludini and Bortelli concertos.
+
+D.Ludini is known to have composed a number of duets for violin and trumpet.
+
+E.In general, melodies natural for the trumpet are awkward to play on the violin.
+
+解析：
+
+- 前提：L=B
+- 结论：L很可能是学了B
+- 论证类型：解释型论证
+- 选 C，取非则削弱了别的可能性（抄的第三方）。
+
+### 2.9 题型9: Evaluation
+
+题干：Which of the following would it be most useful to know in evaluating the reasoning of the argument?
+
+Evaluation题的做题建议：
+
+1. 涉及的是“归纳推理”，是 Weaken 题和 Strengthen 题的结合，但是比 Weaken 和 Strengthen 都要简单，因为不需要判断正负方向。
+2. 选项都是问句，随便尝试问句的答案，只要能对原文论证起到削弱或加强，则这个选项就留可以起到评价论证的作用
+
+【practice】Organ transplants that provoke a negative reaction from the immune system within six months of being transplanted are less likely to succeed over the long term than are organ trans plants that do not provoke an early negative reaction. A new drug that suppresses immune responses makes it possible to decrease the proportion of transplant recipients who experience early negative reactions. Therefore,the introduction of this drug should increase the overall long-term success rate of transplanted organs.
+
+Which of the following would it be most useful to know in evaluating the argument?
+
+A.Whether some types of organ transplants are more likely than others to provoke an early negative reaction
+
+B.Whether use of the new drug to suppress immune responses can damage transplanted organs
+
+C.Whether the number of people having organ transplants each year is expected to rise after the introduction of the new drug
+
+D.What proportion of organ-transplant recipients experience neither an early negative reaction nor a long-term negative reaction
+
+E.What proportion of organ transplants that do not provoke early negative reactions are successful over the long term
+
+解析：**预测型论证**，
+
+- 前提：
+  - 引发了排异的移植成功率 < 没引发排异的移植成功率
+  - 新药→减少排异
+- 结论：引入新药会提高长期移植的成功率。
+- 选项 A 为无关对比；选 B。
+
+### 2.10 题型10: Logical Completion
+
+题干：Which of the following most logically completes the passage?
+
+Logical Completion 题的做题建议：
+
+1. 光看题干本身是判断不了本质题型的。
+2. 重点看文章空格前的逻辑信号，用以确定我们需要填的内容对全文所起的逻辑作用。具体如下：
+
+情况1：万蜀黍很努力，而努力的人都爱吃西瓜，所以____。
+
+- 这相当于要填入一个结论，
+- 做法参考 Must Be True 题和 Most Strongly Supported 题，这两种题型分别在演绎推理和归纳推理当中要推出结论
+
+情况2：万蜀黍很努力。而因为努力的人都爱吃西瓜，____。
+
+- 这其实和情况1本质是一样的。
+
+情况3：万蜀黍很努力，但他却总是考不好，这是因为____。
+
+- 这是一件怪事，属于 Paradox 题
+
+情况4：万蜀黍很努力，所以他一定会成功的。这是因为____。
+
+- 本质：填入一个选项，有利于推理成立。
+- 那么这就是Strengthen题（之所以不说是Necessary Assumption 题或 Sufficient Assumption 题是因为 Strengthen 题的选项最灵活，可能包含其它两种题型的选项范围）
+
+情况5：万蜀黍很努力，但是这并不意味他会成功。这是因为____。
+
+- 填入某个选项，可以让某个推理（可能有人会认为他会成功）无效，那么这就相当于一个Weaken 题。
+
+【practice】A study of cardiovascular health involving a large randomly selected group of adults found that members of the group who reported having taken aspirin regularly for the past five to ten years were significantly less likely to have developed heart disease than were members of the group who reported they had not taken aspirin regularly. Although suggestive, these results should not be interpreted as proof that taking aspirin regularly significantly reduces the likelihood of developing heart disease since ____.
+
+Which of the following most logically completes the argument?
+
+A.among those who did not take aspirin regularly,those who have healthful habits were less likely to have developed heart disease than were those who had unhealthful habits
+
+B.among those who took aspirin regularly,those who followed healthful diets were less likely to have developed heart disease than were those whose diets were unhealthful
+
+C.the study made no distinction between those who had taken aspirin regularly for only five years and those who had taken aspirin regularly for far longer periods
+
+D.those who took aspirin regularly were more likely than those who did not to have followed a healthy diet during the previous ten years
+
+E.those who had not taken aspirin regularly were more likely than those who had taken it regularly to have experienced difficulties with their circulatory systems during the preceding five years
+
+解析：本质是削弱题
+
+- 前提：吃aspirin的比不吃的得心血管病少
+- 结论：吃aspirin可以防心血管病
+- 论证类型：解释型论证
+- 选项 AB 没有对对比点进行说明，选项 C 对比点错误；选项 D 提出他因，正确；选项 E 只是把原文的解释说得更深或者更浅。
+
+【practice】The economy of Colonia has been in recession for the past eight years.Most companies that have not been forced into bankruptcy have survived thanks to the high efficiency of the employees they retained, which helped the companies control costs. In recent months, however, the Colonian economy has begun to recover, and companies are beginning to expand their workforces. Colonia, therefore, will soon experience a drop in average worker efficiency, since ____.
+
+Which of the following, if true, most logically complete the argument?
+
+A.people who have been employed throughout the recession will,no doubt,continue to be employed
+
+B.Colonia is expected to begin importing more goods from other countries
+
+C.most companies will find that few of the workers available for hiring are as efficient as those they retained during the recession
+
+D.during the recession,workers did not receive any raise in their pay
+
+E.many companies that were forced into bankruptcy in the past eight years had a fair number of efficient workers
+
+解析：
+
+- 论证类型：预测型论证
+- Strengthen题
+- 选 C。
+
+### 2.11 题型11: Flaw
+
+题干：The argument is open to criticism on the grounds that it
+
+题干：The argument is most vulnerable to which of the following criticisms?
+
+题干：Which of the following, if true, points to an error of reasoning in the argument?
+
+Flaw题的做题建议：
+
+l. 这种题型本质上就是Weaken题
+1. 只不过它的选项比Weaken题说得抽象，所以须要对抽象逻辑语言有准确的语义把握
+
+举例：万蜀黍这次成绩进步了，说明他肯定比以前努力了。
+
+- 如果是Weaken题，正确选项可能是“万蜀黍这次作弊了”
+- 如果是Flaw题，正确选项会说得更抽象，比如“这个论证没能排除其它解释”
+
+🔺【practice】The damage that trucks do to highways **escalates** dramatically with the **weight borne per axle**. New regulations increase the maximum permitted vehicle weight; these regulations will therefore allow onto the highway trucks capable of doing even more damage than those currently permitted.
+
+The argument is open to criticism on the grounds that it
+
+A.Fails to establish that the level of damage done by trucks is a serious problem
+
+B.Omits evidence about one of the two relevant factors
+
+C.Ignores the possibility that careful driving can lessen damage to highways
+
+D.Presumes that trucks are the only vehicles capable of causing substantial damage to highways
+
+E.Presumes that something is bound to happen just because it is allowed to happen
+
+解析：
+
+- 预测型论证
+- 答案预期：虽然卡车更重了，但是轴数也更多了
+- AC 选项无关；B 选项正确；

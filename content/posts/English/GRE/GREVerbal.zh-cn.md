@@ -6,7 +6,7 @@ draft: false
 description: ""
 upd: ""
 
-tags: ["笔记"]
+tags: ["笔记", "GRE"]
 categories: ["GRE"]
 ---
 
@@ -787,7 +787,7 @@ The book is too long, but, nonetheless, informative and entertaining.
 
 #### 3.3.2 yet 难点详解
 
-**SVO, yet SVO.**: yet 引导从句，表示“**然而**”，连接让步关系。
+**SVO, (and) yet SVO.**: yet 引导从句，表示“**然而**”，连接让步关系。
 
 - I am ugly, yet I am smart.
 

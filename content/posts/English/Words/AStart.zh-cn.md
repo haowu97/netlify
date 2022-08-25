@@ -513,7 +513,7 @@ cave:
 
 **levity** ['lɛvəti]] n.轻浮，草率【反】gravity 稳重
 
-**levy** ['lɛvi] v,征收（税等）
+**levy** ['lɛvi] v.征收（税等）
 
 - <升起税-征税> levy tax on
 

@@ -149,9 +149,9 @@ Tips:
 - 关键词匹配信息：逻辑+主干
   - 注意**逻辑分割原则**：仅在当前逻辑段落进行匹配
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220713213243227.png)
+![](img/TOEFLReading.zh-zn_20220824145041.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220713204503445.png)
+![](img/TOEFLReading.zh-zn_20220824145025.png)
 
 ### 定位词（3+1+1原则）
 
@@ -171,7 +171,7 @@ Tips:
 3. 特殊形容词、动词
 4. 最后选择：切记不只使用和文章标题/段落主旨相关的词汇！段首句、段第二句的定位词，能不用尽量不用，实在不行最后再用（需要其他佐证）。
 
-从选项入手**（1原则）**：完成定位后，可以利用选项的虚假逻辑帮助排除选项。
+**从选项入手（1原则）**：完成定位后，可以利用选项的虚假逻辑帮助排除选项。
 
 - 虚假绝对逻辑
 
@@ -358,7 +358,7 @@ ID: The word X in the passage refers to
 2. 考察段落和句子（段落从属句）之间的逻辑关联
 3. 考察段落和段落之间的逻辑关联
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220715114229665.png)
+![](img/TOEFLReading.zh-zn_20220824145340.png)
 
 ### 句-句逻辑关系
 
