@@ -12,10 +12,10 @@ categories: ["GRE"]
 
 ### GRE 分析性写作概述
 
-GRE分析性写作（Analytical Writing）是 GRE General Test 的一部分，它包含两个任务：
+GRE分析性写作（**Analytical Writing**）是 GRE General Test 的一部分，它包含两个任务：
 
-- 是非分析（Analyze an Issue）：在 Issue 部分，考生将会看到一个话题，并被要求对这个话题表达自己的看法，完成一篇议论文，对自己的观点进行论证。
-- 论证分析（Analyze an Argument）：在 Argument 部分，考生将会阅读一篇短文，并对短文的论证过程进行评价。
+- 是非分析（**Analyze an Issue**）：在 Issue 部分，考生将会看到一个话题，并被要求对这个话题表达自己的看法，完成一篇议论文，对自己的观点进行论证。
+- 论证分析（**Analyze an Argument**）：在 Argument 部分，考生将会阅读一篇短文，并对短文的论证过程进行评价。
 
 Analytic Writing 部分的分数区间为 0 ～6 分，以 0.5 分为计分单位，最后得分为两个任务得分的均值。在实际考试当中，考生有30分钟的时间完成Issue部分，30分钟的时间完成Argument部分。
 
