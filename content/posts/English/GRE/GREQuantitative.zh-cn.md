@@ -50,6 +50,7 @@ GRE数学注意事项(考试中不要再浪费时间去阅读)
 ## 2. 基本数论
 
 本节课教学大纲：
+
 • 奇偶数
 • 因数与质因数
 • 最大公约数与最小公倍数
@@ -60,9 +61,7 @@ GRE数学注意事项(考试中不要再浪费时间去阅读)
 ### 2.1 奇偶数（Odd and Even Numbers）
 
 - 奇数 + 奇数 = 偶数；奇数 × 奇数 = 奇数
-
 - 偶数 + 偶数 = 偶数；奇数 × 偶数 = 偶数
-
 - 奇数 + 偶数 = 奇数；偶数 × 偶数 = 偶数
 
 【Example】If $ x $ is an even integer and $ y $ is an odd integer, which of the following CANNOT be true?
@@ -111,12 +110,10 @@ GRE数学注意事项(考试中不要再浪费时间去阅读)
 判断是否包含某个因数：
 
 - **2，5看最后一位是否能被整除即可**
-
 - **4看最后两位是否能被整除两位即可**
-
 - **8看最后三位是否能被整除两位即可**
-
 - 3看所有位数数字之后能否被3整除
+- 9看所有位数数字之后能否被9整除
 
 【Example】The sum of the prime numbers that are greater than 60 and less than 70 is
 (A) 67
@@ -128,10 +125,9 @@ GRE数学注意事项(考试中不要再浪费时间去阅读)
 解析：
 
 - 先排除偶数，再排除65，63和69，剩下61，67
-
 - 结合选项，必有67，因此只要判断61即可
-
 - **试因数的时候从质数开始尝试即可**
+- 选 B
 
 【Example】If $ x $ is the product of the positive integers from 1 to 8 , inclusive, and if $ i, k, m $, and $ p $ are positive integers such that $ x=2^{i} 3^{k} 5^{m} 7^{p} $, then $ i+k+m+p= $
 (A) 4
@@ -278,7 +274,7 @@ If $ \triangle $ represents a single digit in the integer above, which of the fo
 
 - 令x = 0.535353...，则100x - x = 53，因此x = 53/99
 
-- 可以用来求解所谓无限循环小数()的分数形式
+- 可以用来求解所谓无限循环小数的分数形式
 
 术语：
 
@@ -327,7 +323,7 @@ If $ \triangle $ represents a single digit in the integer above, which of the fo
 (D) $ 2.50 $
 (E) $ 3.43 $
 
-解析：fraction（分数），这一题直接用计算器算即可。
+解析：fraction（分数），这一题直接用计算器算即可，选 D。
 【Example】If $ 10^{50}-74 $ is written as an integer in **base decimal notation**, what is the sum of the digits in that integer?
 
 (A)424
@@ -386,11 +382,11 @@ If $ \triangle $ represents a single digit in the integer above, which of the fo
 
 ## 3. 代数计算
 
-本节课教学⼤大纲：
+本节课教学大纲：
 
 • 指数运算 
 
-• 解⽅方程 
+• 解方程 
 
 • 不等式 
 
@@ -554,9 +550,9 @@ $$
 (C) $ R_{2}<R_{1}<R_{3} $
 (D) $ R_{2}<R_{3}<R_{1} $
 (E) $ R_{3}<R_{1}<R_{2} $
-解析：分别取n = 2, 3，得到两个关系式即可得到三者的大小关系，选D。
+解析：分别取n = 1, 2，得到两个关系式即可得到三者的大小关系，选D。
 
-【Example】In a certain sequence, the first term is 1 , and each successive term is 1 more than the reciprocal of the term that immediately precedes it. What is the fifth term of the sequence?
+【Example】In a certain sequence, the first term is 1 , and each successive term is 1 more than the **reciprocal** of the term that immediately precedes it. What is the fifth term of the sequence?
 
 (A) $ \frac{3}{5} $
 (B) $ \frac{5}{8} $
@@ -582,7 +578,7 @@ $$
 
 三角形的某些性质：
 
-- 三角形内角和为 $ 180^{\circ} $(n-2个360度)
+- 三角形内角和为 $ 180^{\circ} $(n-2个180度)
 - 三角形两边之和大于第三边, 两边之差小于第三边.
 - 三角形中, 较大角的对边也较大.
 - 勾股定理：$(\text { 直角边 } \mathrm{a})^{2}+(\text { 直角边 } \mathrm{b})^{2}=(\text { 斜边 } \mathrm{c})^{2} $
@@ -595,8 +591,10 @@ $$
 
 - 7，24，25
 
-三角形： 面积 =底 × 高 / 2
+三角形： 面积 = 底 × 高 / 2
+
 矩形 (Rectangles) ： 面积(area) = 长 × 宽；周长(perimeter) = 2 × (长 + 宽)
+
 正方形 (Squares) ： 面积 = 边长^2；周长 = 4 × 边长
 
 术语：
@@ -759,7 +757,7 @@ $$
 
 - 象限(quadrant)
 
-【Example】In the rectangular coordinate system above, the line $ y=x $ is perpendicular bisector of segment $ A B $ (not shown), and the $ x $-axis is the perpendicular bisector of segment $ B C $ (not shown). If the coordinates of point $ A $ are $ (2,3) $, what are the coordinates of point $ C $ ?
+【Example】In the rectangular coordinate system above, the line $ y=x $ is perpendicular **bisector** of segment $ A B $ (not shown), and the $ x $-axis is the perpendicular bisector of segment $ B C $ (not shown). If the coordinates of point $ A $ are $ (2,3) $, what are the coordinates of point $ C $ ?
 (A) $ (-3,-2) $
 (B) $ (-3,2) $
 (C) $ (2,-3) $
@@ -929,12 +927,12 @@ $$
 (D) $ 1 / 8 $
 (E) $ 1 / 32 $
 
-解析：选C。
+解析：选E。
 
 ### 5.5 描述统计学
 
 - 算术平均数 (Average or Arithmetic Mean): 所有数据之和除以数据个数.
-- 中数 (Median)：将所有数据从小到大排列, 取中间的数或中间两个数的算术平均 数.
+- 中数 (Median)：将所有数据从小到大排列, 取中间的数或中间两个数的算术平均数.
 - 众数 (Mode)：一组数据中出现频率最高的数. 一组数据中可能有不止一个众数.
 - 极差 (**Range**)：一组数据中最大数与最小数之差.
 
@@ -949,15 +947,17 @@ $$
 
 注意the number 3 occurs most often in the list比3是众数（可能不唯一）更加严格。
 
+四分位数：
+
 - 四分位数 (Quartile): 将所有数据从小到大排列, 排名 $ 25 \%, 50 \%, 75 \% $的数（不严谨）
 
-- 四分位距 (Interquartile Range): 第三四分位数与第一四分位数之差.
+- 四分位距 (**Interquartile Range**): 第三四分位数与第一四分位数之差.
 
 【练习】Find the three quartiles and interquartile range of the following numbers.
 (1) $ 11,13,15,17,19,21,23,25 $.
 (2) $ 11,13,15,17,19,21,23,25,27 . $
 
-解析：先找中位数，再找中位数的中位数即四分位数（这一步把中位数排除）。
+解析：**先找中位数，再找中位数的中位数即四分位数**（这一步把中位数排除）。
 
 (1) 中位数是18，第一四分位数是14，第二四分位数是22，四分位距为8
 
@@ -971,7 +971,6 @@ $$
 (A) $ \sqrt{a^{2}}, \sqrt{b^{2}}, \sqrt{c^{2}}, \sqrt{d^{2}} $
 (B) $ a^{2}, b^{2}, c^{2}, d^{2} $
 (C) $ 2 a, 2 b, 2 c, 2 d $
-
 (D)a+2, b+2, c+2, d+2
 (E)a+2, b-2, c+2, d-2
 
@@ -1029,13 +1028,15 @@ The number of minutes in 24 hours；The number of seconds in 24 minutes
 Twice as much as 4; 2 subtracted from 10
 
 解析：都等于8
+
 The value of the units digit in 7^52 ；The value of the units digit in 6^52
 
-解析：7>2
+解析：1 < 6
+
 P is a positive integer.
 The remainder when 3p + 5 is divided by 3；The remainder when 7p + 8 is divided by 7
 
-解析：remainder表示余数，2>1
+解析：**remainder表示余数**，2>1
 
 The median of 10, 15, x and y is 18.5, and x < y.
 x; 22
@@ -1046,15 +1047,18 @@ The number of integers between 15 and 51 that are square of integers；
 The number of integers between 6 and 126 that are cube of integers
 
 解析：16，25，36，49共四个；8，27，64，125，共四个；相等。
+
 1<n<5, n is an integer
 The sum of the first n odd integers that are greater than zero；n^2 −1
 
 解析：分类讨论，n = 2时，1+3>3；n = 3时，1+3+5>8；n = 4时，1+3+5+7>15，因此左大右小。
 
 总结：前n个正奇数的和一定等于n的平方。
+
 The number of ¼-inch lengths in a 4-inch length; 1
 
 解析：16>1
+
 Two successive discounts of 20 percent and 40 percent are equivalent to a single discount of x percent.
 x; 52
 

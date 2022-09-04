@@ -30,10 +30,9 @@ categories: []
 
 1. [TOEFL-win/TOEFL: 托福王炸福利包，托福雅思gre，gmat资料，百度网盘，威学，张巍gre，新东方，fiona，黎老师写作，考满分，微臣onepass，张艳听力，孟一博，吴克亮，杨帅，黄翰生，顾加北，杜仕明，何琼，王陆，周璐 (github.com)](https://github.com/TOEFL-win/TOEFL)
 2. [Jackwire/Jackwire.github.io: 托福雅思GRE和GMAT资料，申请文书集合。存在百度网盘里](https://github.com/Jackwire/Jackwire.github.io)
-3. [GRE备考薅羊毛攻略](https://github.com/Jackwire/Jackwire.github.io/blob/master/files/sugestions/gre.md)
-4. [托福提分攻略全揭秘&新政首考体验&机构选择](https://github.com/Jackwire/Jackwire.github.io/blob/master/files/sugestions/toefl1.md)
-5. [我是一位托福老师，总结一下十多年的工作经验吧 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/363801394)
-6. [（2）托福GRE网课那些事儿 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/117399765)
+3. [托福提分攻略全揭秘&新政首考体验&机构选择](https://github.com/Jackwire/Jackwire.github.io/blob/master/files/sugestions/toefl1.md)
+4. [我是一位托福老师，总结一下十多年的工作经验吧 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/363801394)
+5. [（2）托福GRE网课那些事儿 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/117399765)
 
 [ 备考托福，需要准备哪些资料？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/24124134)
 

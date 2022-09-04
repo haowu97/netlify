@@ -12,9 +12,19 @@ categories: []
 
 <!--more-->
 
+[GRE备考薅羊毛攻略](https://github.com/Jackwire/Jackwire.github.io/blob/master/files/sugestions/gre.md)
+
 [LER0ever/GRE-CN: GRE Preparation for Chinese students. 中文主导的GRE备考资料整理。 (github.com)](https://github.com/LER0ever/GRE-CN)
 
 [40天纯自学GRE首考330+(334)经验帖](https://zhuanlan.zhihu.com/p/386356094)
+
+[GRE-All-In-One](https://github.com/RuiWang6188/GRE-All-In-One)
+
+
+GRE救命800词
+
+- 链接：https://pan.baidu.com/s/1UKYic6GeH4mIzWUhq0azkw 
+- 提取码：lcqs
 
 张巍GRE资料下载：http://www.gre-edu.com/datashare
 

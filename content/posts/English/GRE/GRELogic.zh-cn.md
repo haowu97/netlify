@@ -10,6 +10,8 @@ tags: ["笔记", "GRE"]
 categories: ["GRE"]
 ---
 
+在新 GRE 考试的每一个语文 section 中，都存在一篇阅读文章，文章词数很少，200 词以内，只出一道题，位置通常在第 16 或第 17 题，被称为**逻辑单题**。
+
 ## 1. 论证(Argument)
 
 **Argument**: a set of propositions(命题) in which one of the propositions is supported by the others.
@@ -114,7 +116,7 @@ A. **解释型论证**：己知一个事件的发生，目标是探索其发生�
 - 万蜀黍最近吃得比以前多了，然后他果然变胖了。说明一定是吃多让他变胖的。
 - 万蜀黍最近比以前吃得多了许多，所以一定是吃多让他变得那么胖的。
 
-B. **预测型论证**：已知一个事件的发生，推测它将产生的结果（因 推 果）
+B. **预测/ 结果型论证**：已知一个事件的发生，推测它将产生的结果（因 推 果）
 
 例：万蜀黍最近吃得比以前多了许多，所以他之后一定会变胖的。
 
@@ -206,7 +208,9 @@ E.The first provides evidence against a position;the second is that position.
 
 解析：事实永远不可能被质疑，选项 A 错误；选 C。
 
-### 2.2 题型2: Must Be True
+### 2.2 推理题: Inference
+
+#### 2.2.1 题型2: Must Be True
 
 题干：If the statements in the passage are true, then which of the following must on the basis of them be true?
 
@@ -235,7 +239,7 @@ E.If the dating on the manuscript accurately reflects when and where the piece w
 
 解析：选 A。
 
-### 2.3 题型3: Most Strongly Supported
+#### 2.2.2 题型3: Most Strongly Supported
 
 题干：The information given, if accurate, most strongly supports which of the following hypotheses?
 
@@ -280,7 +284,7 @@ E. Reducing the size of a musical instrument almost invariably reduces the visua
 
 解析：选 B；选项 C，重要性的比较是不成立的。
 
-### 2.4 题型4: Paradox
+### 2.3 题型4: Paradox
 
 题干：Which of the following, if true, would help resolve the apparent paradox presented above?
 
@@ -360,7 +364,7 @@ E. The eggs of most nontropical frog species are fertilized in the water.
 - 答案预期：给一个好的原因可以造成青蛙把卵产到容易蒸发的 puddles，里真的会存活率更高。
 - 选 C，puddles 里缺少天敌。
 
-### 2.5 题型5: Weaken
+### 2.4 题型5: Weaken
 
 题干：Which of the following, if true, most seriously weakens the argument?
 
@@ -384,7 +388,11 @@ Weaken 题的做题建议：
 - 削弱1：万蜀黍作弊了（列举它因）
 - 削弱2：万蜀黍没努力的时候也有考试进步过（无因有果）
 
-**非解释型论证的削弱策略**(预测型，类比型)：**直接破坏结论成立的可能性**。
+**类比型论证削弱策略**：
+
+- **找不同**：寻找某种可能性破坏类比对象之间的相似性， 使得类比失败。
+
+**非解释型论证的削弱策略**：**直接破坏结论成立的可能性**。
 
 例：万蜀黍最近很努力，相信他的成绩下次一定会提高。
 
@@ -444,7 +452,9 @@ E. The presence of nonhuman predators tends to improve the survival chances prey
 
 解析：预测型论证，答案预测：即使杀了 predator，也不会增加 prey的数量；选 E。
 
-### 2.6 题型6: Necessary Assumption
+### 2.5 假设题: Assumption
+
+#### 2.5.1 题型6: Necessary Assumption
 
 **Necessary Assumption = 必要条件**：
 
@@ -497,7 +507,7 @@ E. The episode that is missing from the second manuscript was not invented by wh
 - 结论：3rd一定是抄了1st
 - 解释型论证，选 C。
 
-### 2.7 题型7: Sufficient Assumption
+#### 2.5.2 题型7: Sufficient Assumption
 
 题干：The conclusion is properly drawn if which of the following is assumed?
 
@@ -739,8 +749,8 @@ E.many companies that were forced into bankruptcy in the past eight years had a 
 
 Flaw题的做题建议：
 
-l. 这种题型本质上就是Weaken题
-1. 只不过它的选项比Weaken题说得抽象，所以须要对抽象逻辑语言有准确的语义把握
+1. 这种题型本质上就是Weaken题
+2. 只不过它的选项比Weaken题说得抽象，所以须要对抽象逻辑语言有准确的语义把握
 
 举例：万蜀黍这次成绩进步了，说明他肯定比以前努力了。
 

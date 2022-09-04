@@ -110,6 +110,8 @@ yet尽管（句间）
 
 *题目形式*：单空题（五选一）、单空题（六选二，同义词）、双空题、三空题
 
+一般情况下，**每回 Verbal 固定先考单格题、双格题、三格题（按顺序）共6题，比例分配的话，不一定，有的是2-3-1，有的是2-2-2，然后考5或6题的阅读，然后是句子等价4题，最后再完成剩下的4或5题阅读**。
+
 *解题宗旨*：
 
 1. 不能：看语法、看搭配。所有选项的语法都是正确的。
@@ -675,6 +677,11 @@ c. **介词**：despite…、in spite of…、**for all**…等。
 - Despite my ugliness, I am smart.
 
 - For all his wealth, I do not like him.
+
+其他：notwithstanding 放在从句句尾表示尽管
+
+- 例句：Some minor **misgivings** about the book **notwithstanding**, the editor`s claim that the work will be recognized as "the authoritative history of sports for this era" is thoroughly **credible**.
+- 翻译：尽管对这本书有一些小疑虑，但编辑声称这本书将被公认为“这个时代体育史的权威”，这种言论是完全可信的。
 
 表示“**诚然**”的让步关系
 
@@ -1321,6 +1328,9 @@ a. “因为所以”关系，包括：because、**in that**（因为）、so、
 
 b. 注意关联词的词性及作用范围。
 
+- **副词**：therefore, thereby, hence, thus, consequently, accordingly
+- **连词**：so, since, because
+
 c.**隐含因果关系**：需要注意以下词虽然不翻译成因为所以，但是也连接因果关系。
 
 - thanks to：多亏了
@@ -1457,6 +1467,11 @@ b. 更详细的阐述：
 c. 主宾互换：
 
 - I love you; moreover, you love me
+
+其他：not ... even 否定递进，词汇程度减弱
+
+- Consolidating memory is not instantaneous or even inevitable.
+- 巩固记忆并非即刻的甚至都不是必然的
 
 【Practice】World demand for oil had been intensified, but it **slackened** because China’s surge in oil consumption had (i)____. Moreover, high oil price had themselves started to act as a short-term (ii)____ the global economy, thus further dampening demand.
 
