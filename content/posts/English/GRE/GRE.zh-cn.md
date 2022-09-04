@@ -98,6 +98,100 @@ Educational Testing service：美国教育考试服务中心出题
 
 推荐《解密GRE阅读逻辑线》介绍了怎么用一种通法来解决GRE文章，而非就题论题的马后炮式分析。此外，“GRE从小白到大神”课程则针对各种题型阐述了详细的解题技巧。
 
+GRE填空考察的能力：
+
+1. 单词
+2. 逻辑
+   1. 句内关系
+   2. 句间关系but yet however nonetheless
+
+GRE考试是在封闭体系中进行的，所有题目都是在逻辑上进行最直接的重复对应，不涉及题目体系之外任何需要背景知识的信息。
+
+解题步骤：
+
+1. 找方程等号：逻辑关系（取同取反）
+2. 找强词：即有明显反义的词
+
+### 特殊题型：逆向思维
+
+- 正确答案在题中无法找到对应(没有对应强词)
+
+- 错误选项和题干信息（句间、句内关系）明显矛盾，排出后剩下的就是正确选项
+
+Despite a tendency to be overtly __, the poetry of the Middle Ages often sparks the imagination and provides lively entertainment, as well as pious sentiments.
+A. diverting（娱乐的）
+B. emotional
+C. didactic（说教的）√
+D. romantic
+E. whimsical（善变的）
+
+思路：句内矛盾排除ab
+
+Unlike most other serious journals, which drain money from their owners, the Review has long been（1）. But the formula is not without its imperfections, which have grown more pronounced in recent vears. The publication has alwavs been erudite and (ii) but not alwavs lively and readable. (iii), accompanied by a certain aversion to risk
+taking, has pervaded（充满） its pages for a long time.
+A. lucrative(有利益的) √ D. authoritative√  G. An originality（创意）
+B. realistic  E animated  H. An impulsiveness（冲动）
+C. unesteemed（不受尊重的）  F. trendy  L. A staleness（陈腐）√
+
+思路：句间矛盾排除ef
+
+### 特殊题型：联动思维
+
+没有强词，但至少有两个空格，找一对同义词或反义词。
+
+35-14. The biographer's intense emotional involvement with his subject did not ____
+objectivity, since the passionate engagement fostered deep knowledge that was ultimately necessary for truly __  judgment
+A. preclude ... disinterested
+B. encourage ... fair
+C impede ... partisan
+D. advance ... pragmatic(切合实际的)
+E admit ... reasonable
+
+思路：先排除无关的de，然后根据联动关系判断选a
+
+35-21. The research committee urged the archaeologist to --- her claim that the tomb she has discovered was that of Alexander the Great, since her initial report has been based only on ---.
+A. disseminate ... supposition
+B. withdraw ... evidence
+C. undercut ... caprice
+D. document ... conjecture
+E. downplay … facts
+
+思路：选d，document证实、记录
+
+The editor did not wish to print an article based on mere ---; she therefore ordered the reporter to find convincing ---.
+A. conjecture D. guesswork
+B. amicability E. proof
+C. substantiation F interpretation
+
+思路：a+e
+
+The research found that in assessing others, many people hold an unconscious view that competence and warmth are (i): when they perceive a person to be highly capable, they infer that he or she must have a tendency to be (Ⅱ)
+A. equally important D ambitious
+B mutually reinforcing E. unfeeling
+C. inversely related F disingenuous
+
+思路：第二空必须和warmth相同或者相反，因此选e，对应第一空必须选c。
+
+The historians narrative of the dynasty's decline is (i)，because though there is nothing (ii) the account large parts of it rely on (iii).
+A. diffuse D. psychologically penetrating in G. plagiarism
+B.reasonable E inherently implausible about H. conjecture
+C questionable F fully documented in I. pretense
+
+思路：二三取同选eh，整体再与第一空取同，选c
+
+I've long anticipated this retrospective of the artist's work, hoping that it would make (i) judgments about him possible, but greater familiarity with his paintings highlights their inherent (ii) and actually makes ones assessment (iii).
+A modish D gloom G. similarly equivocal
+B settled E. ambiguity H. less sanguine
+C. detached（客观的） F delicacy I more cynical
+
+思路：二三空同向，且于一空反向，beg
+
+### 短语的用法
+
+for all 尽管（句内）
+
+yet尽管（句间）
+
 ## 4. Quantitative Reasoning
 
 满分170分，中国平均分164.7分，显著高于世界平均水平。
