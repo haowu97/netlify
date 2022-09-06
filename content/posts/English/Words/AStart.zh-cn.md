@@ -283,7 +283,7 @@ requite [ri'kwait] v.报答
 
 **addle** ['ædl] v.①使困惑 ②腐坏
 
-- < 不断 add 所以困惑了，双写加 le 表示动作的反复（sparkle） >
+- < 不断 add 所以困惑了，双写加 **le 表示动作的反复**（sparkle） >
 - addle one's brain
 
 **baffle** ['bæfəl] v.迷惑
@@ -327,7 +327,7 @@ requite [ri'kwait] v.报答
 
 - < 形近词 left 左手熟练的，左手很灵巧的，daft a.愚蠢的 >
 
-**adroit** [ə'drɔɪt] a,熟练的，灵巧的（口齿）
+**adroit** [ə'drɔɪt] a.熟练的，灵巧的（口齿）
 
 - < a-表示加强，drive:表示驱动，“使动起来" >
 
@@ -509,7 +509,7 @@ cave:
 **allay** [ə'le] vt.减轻，减少
 
 - < 同：alleviate（加强）>
-- < a-加强，levi①上升lif,如elevator②**表示轻light**,eg:allay your fear/ anxiety >
+- < a- 加强，levi①上升lif,如elevator②**表示轻light**,eg:allay your fear/ anxiety >
 
 **levity** ['lɛvəti]] n.轻浮，草率【反】gravity 稳重
 
@@ -525,14 +525,14 @@ cave:
 
 - < 躺在路边埋伏 >
 
-**slay** [sle] v.杀死
+**slay** [sle] v.杀死 = kill
 
-- < sl和slip有关，被杀死以后滑到的动作，或用谐音“死嘞" > 同源：slaughter (笑死了)
+- < sl和slip有关，被杀死以后滑到的动作，或用谐音“死嘞" > 同源：slaughter v. 屠宰(笑死了)
 - slew slain
 
-**flay** [fle] v.去皮，剥皮，严厉批评
+**flay** [fle] v.去皮，剥皮；严厉批评
 
-- flay a dog,flay the animal
+- flay a dog, flay the animal
 
 **underlay** ['ʌndɚle] v.垫起，铺在底下
 
@@ -540,6 +540,174 @@ cave:
 
 - < be-加强 > tie 同 belay
 
+## aloof a.避开的，冷淡的，孤零的
+
+**aloof** [ə'lu:f] a.避开的，冷淡的，孤零的
+
+- < a + leave 远离，冷淡 >
+- a + v/n. = a./ad. 如alive, aloud
+
+**frigid** [fridʒid] a.冷漠的;冷的;冷淡的;性冷淡的，freeze冷冻
+
+- < fridge 冰箱>lt's~today.
+
+**offish** 冷漠的，冷淡的
+
+- < off 远离，ish 具有 ... 特点 >
+
+**apathy** ['æpəθi] n.无情，冷漠
+
+- < pass/path - feeling >
+
+**sympathy** ['simpəθi] n.同情
+
+**empathy** ['empəθi] n.情感，同情=sympathy
+
+- < em,en表加强+ >
+
+### a + v/n. = a./ad.
+
+**afoot** [ə'fut] a.①.徒步的②.在进行中的
+
+**aground** [ə'graund] a.搁浅的
+
+- The ship went~
+
+**alight** [ə'lait] a.燃烧的
+
+**aghast** [ə'ga:st] a.可怕的
+
+- < ghost 鬼 >
+
+**afresh** [ə'freʃ] ad.重新，又一次
+
+**akin** [ə'kin] ad.同族的，同源的
+
+- < kin 亲戚(和kin一起记) relatives >
+
+## altruism n.利他主义
+
+**altruism** ['æltruizəm] n.利他主义
+
+- < alter - 表示 other, 联想：all+true+ism >
+
+**altruist** ['æltruist] n.利他主义者
+
+**altercate** v.口角，争吵
+
+**alternate** v.交替
+
+**alternative** [ɔl'tɝnətɪv] n. 两者择一, 供替代的选择
+
+**egoism** ['i:gauIzəm] n.利已主义
+
+- < ego - 自己 egocentric a.以自我为中心的 >
+
+## amalgam n.混合物，汞合金
+
+**amalgam** [ə'mælɡəm] n.混合物，汞合金
+
+- < 联想：两个AM合并成一个LG公司 >
+- = combination
+- an amalgam of freedom and democrary
+
+**amalgamate** [ə'mælɡəmet] v.混合，合并
+
+- 反义词：separate / sunder
+
+**Coalesce** v.合并
+
+- < co - 共同，一起，al-all, esce-逐渐“逐渐所有都到一起" >
+
+**mingle** ['mɪŋɡəl] v.交织，混合
+
+- < le表示动作的反复 ming = mix >
+
+## ambush v.潜伏/n.伏兵
+
+**ambush** ['æmbʊʃ] v.潜伏/n.伏兵
+
+- < am- = im- 藏在(bush)灌木丛里面 >
+
+**gush** [ɡʌʃ] v.液体的涌出
+
+- < gu 拼音"鼓出" > gusher 喷油井
+
+**lush** [lʌʃ] a.繁茂的，茂盛的
+
+- < lux 力士，奢华 luxury 奢华的> = thriving
+
+**plush** [plʌʃ] a.豪华的
+
+- < 同源lux >
+- < 拼音p想成漂l联想亮的 >
+
+**hush** [hʌʃ] v./n.安静，小声
+
+- hush-hush 偷偷摸摸，鬼鬼崇崇
+- < hu - 呼吸，安静 >
+
+Summary:“鼓出就是涌出，呼吸就是安静，漂亮才能豪华，力士繁茂树木”
+
+
+## amorous a.多情的，恋爱的
+
+**amorous** ['æmərəs] a.多情的，恋爱的
+
+- < **am - amour = love** >
+
+**amiable** ['emɪəbl] a.友好的，亲切和蔼
+
+- < 能让人爱，也能爱别人的 > = kind
+
+**amicable** ['æmɪkəbl] a.亲切的，友好的
+
+**amity** ['æməti] n.和睦，友好，友爱
+
+**enmity** ['ɛnmɪti] n.敌意
+
+- = hostility < 联想 enemy >
+
+**enamor** [ɪn'æmɚ] v.迷恋，着迷
+
+- < en - to + amor = 加强爱 = 迷恋 >
+- be enamored of 迷恋，特别喜爱 = be crazy about/ be mad on / be keen on
+
+**pamper** ['pæmpɚ] v.溺爱 (spoil)
+
+- < Pampers 帮宝适；单音节 p 与手掌 palm 有关，捧在手里去爱 >
+
+## amphibian a.两栖的
+
+**amphibian** [æm'fɪbɪən] a,两栖的
+
+- < bio = 生命，**ambi = amphi: ①around 周围，环绕 ambition; ②both 二** >
+
+**amphitheater** [ˌæmfɪ'θɪətɚ] n.斗兽场，环形剧场
+
+- < amphi--取环形的意思，环形的剧院 >
+
+**ambiguous** [æm'bɪɡjuəs] a.模棱两可的(ambiguity n.)
+
+- < ambigu - 二，拼音“估”，估计出来两个答案，很模棱两可的 >
+
+**ambivalent** [æm'bɪvələnt] a.内心矛盾的，纠结的
+
+- < ambi - 表示二，内心两种价值，val = value 价值 >
+
+**ambidextrous** ['æmbə'dɛkstrəs] a.双手灵巧的，双手善用的
+
+- < dextr = right 右面，右手，有两只右手，左手也和右手一样 >
+
+**ambience** ['æmbɪəns] n.气氛，氛围 = atmosphere
+
+- < ambi 周围环绕的 - 接名词词尾，周围的是气氛 >
+
+**ambrosia** [æm'brozɪə] n.（希腊神话）美食
+
+**ambrosial** [æmˈbroʒəl] a.= delicious\fragrant
+
+- < amb(amb) + rose + al周围都是玫瑰花，所以是芳香的 >
 
 
 husband [ˈhʌzbənd] adj 节俭的

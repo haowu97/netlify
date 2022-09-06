@@ -14,14 +14,26 @@ categories: ['TOEFL笔记']
 
 英语写作核心要素
 
-- 语言逻辑
+- 语言**逻辑**
+    - 逻辑上环环相扣
     - 总分+并列
-- 语言质量
-    - 句式
+    - e-rater [几个段、关键词 e.g. 句间有无关系(重复的近义词等)]
+- 语言**质量**
+    - 句式：长短句结合
     - 搭配
 
+Various sentence structures and appropriate word choices.
 
-various sentence structures and appropriate word choices
+评分：
+
+- Fair - 23 分以下
+- 小 Good - 23 - 25分
+- 大 Good - 26 分以上
+
+为什么FAIR? - 看不懂 
+
+1. 逻辑：跳跃 hard to follow
+2. 语言：错误 hard to understand
 
 ## 1. 写作思路与格式
 
@@ -31,18 +43,18 @@ various sentence structures and appropriate word choices
 
 逻辑起点：distance learning
 
-- 方面说：
+- **方面说**：
     - 电脑在线教育好
     - 电视在线教育好
 
-中间环节：理由说
+中间环节：**理由说**
 
 - 在线教育方便所以好
 - 在线教育有趣所以好
 
 逻辑终点：good
 
-- 方面说
+- **方面说**
     - 对学生学习有好处：knowledge, interest（内嵌理由说）
     - 对个人发展有好处：interpersonal, persistent（内嵌方面说）
 
@@ -60,9 +72,17 @@ various sentence structures and appropriate word choices
 
 结尾段：60Z
 
-**总字数 450 - 500z，最好在500字以上能拿高分，不超过550z**
+**总字数 450 - 550z，最好在500字以上能拿高分，不超过550z**
 
+文章整体：3 + 5 + 5 + 3 = 16 [ 总分平行 ] --- 段间逻辑
 
+开头段：背景引入 + 对方观点 + 自己观点 --- 句间逻辑
+
+中间段落： A – B. B’ – C. C’ –D. --- 句内逻辑
+
+如何让别人看懂我们的作文：**旧信息 – 新信息**
+
+【话题相关词】变化：同义词、近义词、下义词、上义词 
 
 在线教育好：
 
@@ -770,6 +790,8 @@ Could students benefit from dealing with few assignments?
 ## 8. 九大话题
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFELIndependentWritingBreak.png)
+
+注：以下斜杠表示同义替换，加号表示搭配
 
 ### 8.1 教育类（重点）
 

@@ -4,7 +4,7 @@ date: 2021-08-20T21:17:53+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "来自 GRE 从小白到大神系列课程《GRE 填空题型 15 讲》的笔记，在此感谢皇冠 GRE 的高质量公开课！"
 
 tags: ["笔记", "GRE"]
 categories: ["GRE"]
