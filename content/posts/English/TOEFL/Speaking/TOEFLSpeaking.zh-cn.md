@@ -187,15 +187,66 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
 2. 分论点(L1)：学生同意/ 反对学校计划的第一个原因
 3. 分论点(L2)：学生同意/ 反对学校计划的第二个原因
 
+**阅读步骤**
+
+1. **判断 policy or proposal**
+   - Direction(听力前的提示语一定要听，可能包含有用的信息)
+     - S(student)；
+     - P(professor)；
+     - U(university)
+   - Title：文章标题
+     - 标题明显是政策则可以直接做笔记了，需要抄下来
+   - 前两句话，一般就是政策或提议的重申，抓主干并翻译成大白话
+2. **读出并记下2个分论点**
+
+**听力三种反驳方式**：
+
+- 直接反驳
+- 让步反驳
+- 另辟蹊径（多为此种）
+
 **笔记结构**：
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220726103132.png)
+
+听力笔记需要比较**细致**地（几乎每一句都要求记录）记录**逻辑以及关键信息**（多为名词），这样才能撑够 60s。
+
+- **熟悉听力笔记符号，多做听写**
 
 把答题的重心放在听力部分上, 而不是阅读部分上。因此, 在答题过程中,考生**在讲述听力部分内容上所花的时间, 是远远超过在阅读内容上所花时间的**。
 
 - 当听力分论点已经能很好的包含并反驳/ 同意短文中的分论点时，短文中的分论点不需要重复说明。
 
 **答题结构**：policy or proposal → w/m A/D → L1(R1) → L2(R2)
+
+**答题模板：**
+
+- 1个政策or提议+2分论点（多数情况）：
+  - 提议类：
+    - The student in the letter proposes/suggests that [the university should].... 
+    - [and/but] the man/woman in the listening part likes/doesn't like it. 
+    - because firstly, he/she says that...
+    - secondly,he/she says that...
+  - 政策类
+    - The university is going to...
+    - [and/but] the man/woman in the listening part likes/doesn't like it.
+    - because firstly, he/she says that...
+    - secondly, he/she says that...
+- 2个政策or提议+1分论点
+  - 提议类
+    - The student in the letter makes two suggestions to... 
+    - one is... 
+    - the other is...
+    - [and/but] the man/woman in the listening part likes/doesn't like it
+    - because firstly, he/she says that...
+    - secondly, he/she says that...
+  - 政策类
+    - The university makes two policies to...
+    - one is...
+    - the other is...
+    - [and/but] the man/woman in the listening part likes/doesn't like it
+    - because firstly, he/she says that...
+    - secondly, he/she says that...
 
 如果考生直接重复这六个信息点, 已经能获得非常不错的分数。但是为了获得27 分以上的绝对高分, 那考生需要**尽量使用自己的语言**, 而非原文中的。
 
@@ -206,9 +257,11 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
 - *主要说话者（负责表明观点）*：考生需要抓住的重要信息点，均会由前者给出，因此，考生需快速辨别
 - *次要说话者（负责引出观点）*，排除次要说话者对获取信息点所造成的干扰
 
-例如**记笔记时可以只记主要说话人的那部分内容**。
+例如**记笔记时可以只记主要说话人的那部分内容**，但有时次要说话者也提供了一定的逻辑和总结信息。
 
 考生在托福口语综合任务的答题过程中, 不能掺入任何的个人观点。
+
+**答题的时候注意控制速度**，即使讲不完也不太要紧。
 
 ## Q3(综合): 学术概念/ 抽象到具体
 
@@ -218,15 +271,51 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
 
 1. 首先，考生会有45秒的时间去阅读一个75-100字的*短文*(如果字数在100-110之间，学生将有50秒钟阅读)。短文中，会介绍一个学术概念(它通常会有一个很明确的名字，由1-3个单词组成)，然后会提供这个学术概念的背景知识，定义，特点，及应用等相关信息。
 2. 然后，考生会听一个60到90秒的*学术讲座*，其中一个教授会为了解释阅读中相对抽象的概念而给出更加具体的例子或者是讲述这个抽象概念在现实生活中的具体应用。
-3. 听完讲座之后, 考生需要按照题目要求作答（准备时间30 秒, 答题时间60 秒）。
+3. 听完讲座之后, 考生需要按照题目要求作答（准备时间 30 秒, 答题时间60 秒）。
+
+**解题步骤**：
+
+1. Direction 通常帮助不大，听了过即可。
+2. Title 会一直出现，没有必要抄标题
+3. 阅读文章的行文逻辑一般为：背景 – 定义 – 解释
+
 
 **阅读方法**：带着标题阅读原文，找到标题所在的定义句，笔记**记下定义句**，别的信息几乎可以不看。
 
-**听力笔记**：
+- **句子的非主干信息可以跳读**
+
+**听力笔记内容**：
 
 1. 框架信息
 
 2. 原文逻辑
+
+**听力笔记技巧**：
+
+1. 听力需要进行信息取舍，不然有 60s 时间说不完。
+2. 笔记中主语不变部分行，**主语改变后分行**
+3. 听力笔记部分一般有六句话，时间上就足够了，多了说不完
+
+**30s 准备时间同样主要用来组织听力中的内容**。
+
+**答题模板**：
+
+- 1个例子（多数是这种情况）：
+  - xxx means that + 定义
+  - xxx is a...that/where/in which...
+  - and in the professor's example, he says that...
+- 2个例子：
+  - xxx means that + 定义
+  - xxx is a ...that/where/in which..
+  - and in the professor's first example, he says that...
+  - in the second example, he says that...
+
+
+常用表达：
+
+1. 笔记中的单个名词：there is a kind of .../stuff called ...
+2. 句子前面太空可以 + and nowadays
+3. 顺逻辑：and/ and also/ so
 
 ### 三步式答题法
 
@@ -308,7 +397,7 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
 
 1、并列/ 递进
 
-and， plus, furthermore， more than that， also， likewise， moreover， in addition， what is more
+and， plus, furthermore， more than that， also， likewise， moreover， in addition， what is more, besides
 
 2、转折/ 让步
 

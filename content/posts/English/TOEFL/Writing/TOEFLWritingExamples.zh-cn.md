@@ -51,3 +51,52 @@ What must be prioritized is that political leaders, rather than artists, **exert
 What should be equally discussed is that governors, not artists, will **benefit** adults, **through** offering them career opportunities and establishing infrastructure. Initially, politicians **make more jobs available for** adults. In detail, （政治家-?- 工作）by **boosting the economic growth**, and organizing various career fairs, the government is capable of **generating assorted job opportunities**, such as teachers, doctors, and engineers, for adults to choose from; however, (工作x – 艺术家) such a wide range of careers cannot be offered by artists who themselves may be unemployed, **not to mention** lacking the ability to develop economy. Furthermore, infrastructure can be constructed by the government for adults. To be more specific, (政治家-基础设施) political leaders have the ability to invest in local supermarkets, advanced transportation systems and sports equipment, guaranteeing a **satisfying and gratifying** life for adults; in contrast, （基础设施x – 艺术家） will these infrastructures be built by artists who have no regular incomes and little influence on the development of society?
 
 Students, being essential in the society, are beneficiaries of politicians. Adults, being crucial for social advancement, obtain advantages from political leaders. To conclude, only with the assistance of the government can citizens **reap the maximum benefits**.
+
+---
+
+【题目】To improve health, which aspect will you change in life?
+
+1) kinds of food to eat
+2) the amount of exercise
+3) the amount of stress
+
+思路：more exercise
+
+1. new friends
+   1. relationship
+   2. old friends
+2. physical health
+   1. x sedentary
+   2. x illness
+
+【范文】First and foremost, [自己写] doing exercise, **rather than** changing the amount of stress, will **contribute to** a strong social relationship, by **enabling people to** make new friends and maintain connection with old ones. Initially, it is **plenty of** exercise / **a large quantity of** exercise that **enlarges people’s current social circles**. Specifically, (运动-？-新朋友) the more **frequently** people go to gyms and do sports, such as practicing Yoga, running or swimming, the more friends they will **encounter and establish relationship with**, including their coach and other sports amateurs; on the contrary, people will **find it difficult to** meet new friends when they choose to do stress-relief activities, which are generally done alone. In addition, **through exercising, not only can people be exposed to new acquaintances, but also they are able to keep connected with old friends**. To be more specific, （运动-？-老朋友）during the process of doing exercise, friends can gather together and **communicate over** techniques of sports, **satisfying memories** in daily life and even problems in professional life, **leading to** / which leads to + an intimate bond with each other; in contrast, **[never / under no circumstance / how / 2自己]** **how could** people leave a good impression on their close friends when they complain, or express their negative thoughts in order to release pressure?
+
+Health, the foundation of a quality life, has been valued and even triggers a heated discussion over the approaches of leading a wholesome lifestyle. Changing food or altering stress levels, in some people’s view, are effective approaches to maintain healthy. Contrary to these people’s opinion is my perspective that sufficient amount of exercise is a more significant determiner in one’s health.
+
+What must be prioritized is that doing exercises, rather than changing the kind of food, is beneficial for one’s physical health, by preventing people from keeping sedentary and improving immunity systems / decreasing risks of diseases. To begin with, it is physical activities that distract people from sedentary lifestyles. In detail, never can we ignore the fact that when doing sports outdoors, including playing basketballs, jogging and practicing Yoga, people are required to move around instead of maintaining seated; on the other hand, how can people change their sedentary lifestyles by changing their diets, which can be achieved at home / which does not require them to go outdoors? Moreover, not only can doing sports prevent people from sedentary lifestyles, but also it makes them less susceptible to diseases. In detail, the more physical activities people are involved in, the higher their bone density and muscle masses + are/ will be / become, which boosts their immunity systems and prevents them from suffering from diseases; however, under no circumstances will people build their muscle and boost immunity systems, which are significant in reducing illness, when they alter their diets.
+
+Interpersonal relationship, a crucial element in one’s health, can be improved when people do exercise. Physical health, a significant part in one’s growth, can be enhanced if they exercise regularly. To conclude, only via doing physical activities can one adopt a healthy lifestyle.
+
+---
+
+【题目】Workers would be much happier if they are doing different types of tasks during their workday than doing the same task.
+
+思路：different tasks ---> happier
+
+1. efficiency
+   1. reduce time 
+   2. reduce errors
+2. relationship
+   1. colleagues
+   2. supervisor
+
+The importance of work, the foundation of a quality life, has been universally recognized as more than evident, bringing to people’s attention the debate over + a satisfying working mode. Doing a single task during the workday, from some people’s viewpoints, can **increase employees’ delight**. In opposition to their opinions, my perspective is that it is enjoyable for employees to do various kinds of tasks, because of **the benefits to** efficiency and the relationship at work.
+
+A high priority is that when dealing with different tasks in workplaces, instead of a single one, employees will **enhance their efficiency**, by **reducing time and decreasing errors**. To begin with, the more **numerous** work people **cope with**, the more time they can save. In detail, （多任务-? - 省时）due to freshness caused by distinct and new work, workers will not **allocate time to** killing their time, such as browsing posts on the social media, shopping online or playing video games, which boosts their efficiency; on the contrary, how could people **distribute all the working time to** dealing with one single task when they **experience tediousness and boredom**? In addition, only under the requirement of accomplishing **assorted** tasks can employees lower the risks of errors. Specifically, （多任务-? - 减少错误）with different projects to address, workers will undergo pressure, **set higher expectations to themselves** and **become more concentrated on work**, resulting in fewer mistakes; in contrast, never can we ignore that employees handling the same work **during their workdays** find it less **laborious** and get distracted frequently due to their **assumed expertise**, under which circumstance 【prep+which / whom引导的定从】 / so they will commit more errors.
+
+Equally importantly, a positive relationship with colleagues and their supervisor in the work field will be established when workers **tackle assorted tasks**, instead of just one. Initially, it is during the process of doing different projects that they can make a strong bond with their coworkers. To be more specific, （多任务-同事）employees, when coping with diverse tasks, will encounter, interact with and cooperate with those from different departments and **enlarge their friend circles**; however, never will a person feel delighted if he meets and communicates only with several colleagues in his group and discuss a limited number of topics each day. Additionally, it is well-known that supervisors will **appreciate those with skills and expertise in diverse fields**. In detail, （多任务 -?- 老板）not only can **versatile** employees boost sales and maximize profits, but also they will reduce the number of workers and lower budgets for his corporation, who thus are more likely to get promoted by their boss; contrarily, with merely limited knowledge or techniques a employee will not **be valued by** his **executive**.
+
+Efficiency, a significant factor at work / being significant, will be enhanced under the demand of assorted assignments. A close connection, an ingredient in a satisfying professional life / being important, can be built when workers are required to do different projects. To conclude, only by accomplishing different work can workers achieve a satisfying life at work.
+
+
+eat / have + meals / dinner

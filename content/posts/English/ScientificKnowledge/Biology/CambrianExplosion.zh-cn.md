@@ -16,7 +16,7 @@ Cambrian Explosion（寒武纪物种大爆发）是进化过程中的关键事�
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/Figs/20210817182446.jpg)
 
-## Overview
+## 1. Overview
 
 The **Cambrian explosion** was an event approximately 541 million years ago in the *Cambrian period* when practically **all major animal phyla started appearing** in the fossil record. It lasted for about 13 – 25 million years and resulted in the *divergence* of most modern metazoan phyla. The event was accompanied by major diversification of other organisms.
 
@@ -26,7 +26,7 @@ Before the Cambrian explosion, most organisms were simple, composed of individua
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/CambrianExplosion.jpg)
 
-## History and Significance
+## 2. History and Significance
 
 The seemingly rapid appearance of fossils in the "Primordial Strata" was noted by William Buckland in the 1840s, and in his 1859 book 《On the Origin of Species》,*Charles Darwin* discussed the inexplicable lack of earlier fossils as one of the **main difficulties for his theory of descent with slow modification through natural selection**. The long-running puzzlement about the appearance of the Cambrian fauna, seemingly *abruptly, without precursor*, centers on three key points:
 
@@ -42,7 +42,7 @@ The seemingly rapid appearance of fossils in the "Primordial Strata" was noted b
 
 “To the question why we do not find rich fossiliferous deposits belonging to these assumed earliest periods prior to the Cambrian system, I can give no satisfactory answer.” --- Darwin （物种进化论难以解释的大爆发）
 
-## Explanation of key scientific terms
+## 3. Explanation of key scientific terms
 
 A **phylum** is the highest level in the **Linnaean system** for classifying organisms. Phyla can be thought of as groupings of animals based on general body plan. Despite the seemingly different external appearances of organisms, they are classified into phyla based on their *internal and developmental organizations*. For example, despite their obvious differences, spiders and barnacles both belong to the phylum Arthropoda, but earthworms and tapeworms, although similar in shape, belong to different phyla. As chemical and genetic testing becomes more accurate, *previously hypothesised phyla are often entirely reworked*.
 
@@ -54,7 +54,7 @@ A phylum is not a fundamental division of nature, such as the difference between
 
 瑞典生物学家林奈将生物命名后，生物学家用域(Domain)、界（Kingdom）、门（Phylum）、纲（Class）、目（Order）、科（Family）、属（Genus）、种（Species）加以分类。种是最基本的分类单位，科是最常用的分类单位。  
 
-## What might have caused such rapid change?
+## 4. What might have caused such rapid change?
 
 Despite the evidence that *moderately complex animals* (triploblastic bilaterians) existed before and possibly long before the start of the Cambrian, it seems that the **pace of evolution was exceptionally fast in the early Cambrian**. *Possible explanations* for this fall into three broad categories:
 
@@ -66,7 +66,7 @@ Any explanation must explain both the *timing and magnitude* of the explosion.
 
 原因是考试的重点！
 
-### Changes in the environment
+### 4.1 Changes in the environment
 
 #### Increase in oxygen levels
 
@@ -98,9 +98,9 @@ Newer research suggests that *volcanically active midocean ridges* caused a **ma
 
 ![OCE](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/VolcanicallyActiveMidoceanRidges1.jpg)
 
-### Developmental explanations
+### 4.2 Developmental explanations
 
-A range of theories are based on the concept that minor modifications to animals' development as they grow *from embryo to adult* may have been able to cause very large changes in the final adult form. The *Hox genes*, for example, *control which organs individual regions of an embryo will develop into*. For instance, if a certain Hox gene is expressed, a region will develop into a limb; if a different Hox gene is expressed in that region (a minor change), it could develop into an eye instead (a phenotypically major change).
+A range of theories are based on the concept that **minor modifications to animals' development** as they grow *from embryo to adult* may have been able to cause very large changes in the final adult form. The *Hox genes*, for example, *control which organs individual regions of an embryo will develop into*. For instance, if a certain Hox gene is expressed, a region will develop into a limb; if a different Hox gene is expressed in that region (a minor change), it could develop into an eye instead (a phenotypically major change).
 
 Such a system allows a large range of disparity to appear from a limited set of genes, *but such theories linking this with the explosion struggle to explain why the origin of such a development system should by itself lead to increased diversity or disparity.* Evidence of Precambrian metazoans combines with molecular data to show that much of the genetic architecture that could feasibly have played a role in the explosion was already well established by the Cambrian.
 
@@ -110,7 +110,7 @@ Such a system allows a large range of disparity to appear from a limited set of 
 
 **Horizontal gene transfer** has also been identified as a possible factor in the rapid acquisition of the biochemical capability of biomineralization among organisms during this period, based on evidence that the gene for a critical protein in the process was originally transferred from a bacterium into sponges.
 
-### Ecological explanations
+### 4.3 Ecological explanations
 
 These focus on the interactions between different types of organism. Some of these hypotheses deal with changes in the **food chain**; some suggest **arms races between predators and prey**, and others focus on the more general mechanisms of **coevolution**. *Such theories are well suited to explaining why there was a rapid increase in both disparity and diversity, but they do not explain why the "explosion" happened when it did.*
 

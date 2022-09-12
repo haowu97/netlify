@@ -18,7 +18,7 @@ categories: ['TOEFL笔记']
 
 **对比感**(专名、意思<逻辑>)
 
-## 笔记概述
+## 1. 笔记概述
 
 笔记应包括：
 
@@ -57,7 +57,7 @@ categories: ['TOEFL笔记']
 
 - 改写后：星云不包括行星和彗星，除了这两者以外，包括其他所有的延展型天体，它包含的成分根据占比的大小依次是氢、氦，以及金属元素和非金属元素。后来，通过哈勃望远镜，人们发现星云还有有机分子等成分。
 
-## 阅读笔记
+## 2. 阅读笔记
 
 阅读笔记服务听力，读懂比笔记更重要，读完一段再做笔记
 
@@ -119,9 +119,9 @@ Carved stone balls: purpose
 2. weights and measures: size/ diameter
 3. social: designs, status
 
-## 听力笔记
+## 3. 听力笔记
 
-听，脑记意思：
+听，脑记意思，笔记以下内容：
 
 - （主）对比专名
 - （次）逻辑符号
@@ -136,8 +136,10 @@ Carved stone balls: purpose
 ### 中间段
 
 - 听，脑记意思，听听力是如何反驳阅读内容
-- 笔，*仅记录反驳阅读的专有名词*，即**对比专名**，和**明显简单的逻辑**，一定要筛选信息
+- 笔，*仅记录反驳阅读的专有名词*，即**对比专名**，和**明显简单的逻辑**
+- 一定要在脑中筛选信息，**听懂意思并确认是能够体现对比的专名后再记下来**
 - 适当缩写，不要试图把单词都能拼写完整
+- 一般每个段落 3-5 个专名，当然有时候会更多（例如存在段内并列的时候）
 
 【Example: TPO 33】First, the stone balls as hunting weapons. Common Neolithic weapons such as arrowheads and hand axes generally show signs of *wear*, so we should expect that if the stone balls had been used as weapons for hunting or fighting, they too would show signs of that use. Many of the stone balls would be cracked or have *pieces* broken off. However, the *surfaces* of the balls are generally very well preserved, showing little or no *wear* or *damage*.
 
@@ -177,7 +179,7 @@ Carved stone balls: purpose
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/Biji.png)
 
-## 行文
+## 4. 行文
 
 ### 综合模板
 
@@ -269,7 +271,7 @@ An apparent divide exists between the writer and the professor on 主题（名�
 
 <words: 314z>
 
-## 练习讲解
+## 5. 练习讲解
 
 笔记练习10篇左右，作业完整写完四五篇即可
 

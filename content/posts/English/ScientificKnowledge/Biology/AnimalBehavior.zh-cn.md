@@ -12,7 +12,7 @@ categories: ['TOEFL科学常识']
 
 <!--more-->
 
-动物行为复杂多样，各种行为都是动物对复杂环境的*适应（adaption）*表现，帮助动物更好的生存繁衍。托福中涉及到的动物行为主要可以分为：
+动物行为复杂多样，各种行为都是动物对复杂环境的*适应*（adaption）表现，帮助动物更好的生存繁衍。托福中涉及到的动物行为主要可以分为：
 
 1. 觅食行为（foraging behavior）
 2. 栖息地选择（habitat selection）
@@ -90,7 +90,7 @@ Snowshoe hare
 
 *TPO 10 Lecture 1*:
 
-We know whales are mammals and that they evolved from land creatures.So the mystery is figuring out how they became *ocean dwellers*. Because until recently there was no fossil record of what we call "the missing link", that is evidence of species that show the transition between land-dwelling mammals and today's whales. Fortunately, some recent fossil discoveries have made the picture a little bit clearer. For example, a few years back in Pakistan, they found a skull of a wolf-like creature.It's about fifty million years old. Scientists had seen this wolf-like creature before, but this skull was different. The ear area of the skull had characteristics seen only in aquatic mammals, specifically whales.
+We know whales are mammals and that they evolved from land creatures. So the mystery is figuring out how they became *ocean dwellers*. Because until recently there was no fossil record of what we call "the missing link", that is evidence of species that show the transition between land-dwelling mammals and today's whales. Fortunately, some recent fossil discoveries have made the picture a little bit clearer. For example, a few years back in Pakistan, they found a skull of a wolf-like creature. It's about fifty million years old. Scientists had seen this wolf-like creature before, but this skull was different. The ear area of the skull had characteristics seen only in aquatic mammals, specifically whales.
 
 我们知道鲸鱼是哺乳动物，而且他们从陆地生物进化而来。所以需要解开的谜团是他们怎样变成海洋生物的。因为至今为止，我们还没有发现所谓关于二者联系消失的化石证据。这是很重要的证据来证明陆上生物到鲸鱼的进化。幸运的是最近一些化石证据能使这个“进化图”稍显清晰了。比如几年前在巴基斯坦， 发现了一具像狼一样的头盖骨距今五千万年了。科学家以为这和以前的化石一样，但事实上，它有所不同。在它耳朵区域的头骨是有水声哺乳动物的特点，特别像鲸。
 

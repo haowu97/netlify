@@ -10,25 +10,26 @@ tags: ['笔记', 'TOEFL']
 categories: ['TOEFL笔记']
 ---
 
-<!--more-->
-
 英语写作核心要素
 
 - 语言**逻辑**
     - 逻辑上环环相扣
     - 总分+并列
-    - e-rater [几个段、关键词 e.g. 句间有无关系(重复的近义词等)]
 - 语言**质量**
-    - 句式：长短句结合
+    - 句式
     - 搭配
 
-Various sentence structures and appropriate word choices.
+OG: **Various** sentence structures and **appropriate** word choices.
+
+<!--more-->
 
 评分：
 
 - Fair - 23 分以下
 - 小 Good - 23 - 25分
 - 大 Good - 26 分以上
+- e-rater [几个段、关键词 e.g. 句间有无关系(重复的近义词等)]
+- 要做到长短句结合，长短句相间
 
 为什么FAIR? - 看不懂 
 
@@ -193,28 +194,24 @@ over( whether/what引导的) 名词性从句
 
 1. …,同位语, has been valued and even triggers a heated discussion over ...
 2. ..., in many people's views, ...
-3. Contrary to these people's opinions is my perspective that ..., due to the contributions to... and ...
+3. Contrary to these people's opinions is my perspective that ..., due to/ because of the contributions to... and ...
 
 中间段
 
-1. What must be prioritized is that ... / What is equally worth discussing is that ...
+1. What must be prioritized is that ... / What is equally worth discussing is that ... / First and foremost (当论点的表达本身就比较复杂时用这种方式)
 2. Initially, / First, /To begin with,
 3. To be more specific, / Specifically, / In detail, / To explain it further
-    1. 对比: however, / in contrast, / on the contrary, / on the other hand,
+    1. 对比: however, / in contrast, / on the contrary, / on the other hand, /contrarily
 4. Moreover, / Additionally, / Furthermore,
 
 5. To be more specific, /Specifically, / In detail / To explain it further
-    1. 对比: however. / in contrast, / on the contrary,/ on the other hand,
+    1. 对比: however. / in contrast, / on the contrary,/ on the other hand, /contrarily
 
 结尾段
 
 1. ..., 同位语, will ...
 2. ..., 同位语，will ...
 3. In conclusion, only + 状语 + 半倒装
-
-
-
-a battery of  一连串
 
 ## 3. 题型分类
 
@@ -459,7 +456,19 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 
 ## 6. 进阶句式
 
-### 句子构成
+简单句还是复杂句更好? 更清楚的表达意思
+
+e.g.
+
+1、I graduate from BNU. I love English and teaching. I become a teacher later.
+
+2、After graduating from BNU, I become a teacher due to my interest in English and teaching.
+
+不要盲目使用复杂句，关键在于表意是否清晰。
+
+**句子的重心在谓语**。
+
+### 6.1 句子构成
 
 英语句子的核心原则：一个句号(or分号)里面，*必须且仅有ー个主语+ー个谓语动词*
 
@@ -476,7 +485,7 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 - 错误: Being honest serves as an essential force of personal development should be insisted when teaching methods are not right.
 - 正确: Honesty is important when students find their teachers' teaching methods incorrect.
 
-### 平行结构
+### 6.2 平行结构
 
 **平行结构**：并列连词连接两个或多个语法结构相同的成分。
 
@@ -510,8 +519,8 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 
 例：
 
-- 正确: He smokes frequently, even regards it as one of the social methods.
-- 错误: He smokes frequently, and even regards it as a way to socialize
+- 错误: He smokes frequently, even regards it as one of the social methods.
+- 正确: He smokes frequently, and even regards it as a way to socialize
 
 #### 特殊的平行结构：比较结构
 
@@ -535,7 +544,7 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 - 错误: Compared with cities, people in rural areas are happier
 - 正确: Compared with people in cities, those in rural areas are happier.
 
-### 插入语
+### 6.3 插入语
 
 插入语：插入语是游离句子语法之外的结构，是对句子意思的补充，其位置灵活，补充在任何突然想解释说明的部分的后面，删去后句子的语法仍然正确。其结构形式多样，如副词、介词短语、从句、非谓语等。
 
@@ -550,8 +559,7 @@ To conclude, only by considering those mentioned above can we draw the conclusio
     - 形容词短语做后置定语（定语从句简化）: N +（adj短语）
     - 同位语（定语从句简化）：N1, N2
 
-
-### 小词大用
+### 6.4 小词大用
 
 具体这个动作是什么时候发生的就用什么时态，一个句子的时态可以不同
 
@@ -559,23 +567,24 @@ To conclude, only by considering those mentioned above can we draw the conclusio
 
 ## 7. 高阶句法
 
-### 变化主语
+### 7.1 变化主语
 
 A.变化主语--避免总是用 people
 
 - 非"人"名词
-- doing
-- it形式主语
-    - it is **well-know/ well-acknowledged** that
+- Doing
+- it 形式主语
+    - it is **well-known/ well-acknowledged** that
     - it is adj for sb to do
-
 
 B.给主语带帽子
 
 - 状语从句（的省略）
+  - when doing/ done, 主谓
 - 非谓语
+  - Doing/ done, 主谓
 - 介词短语
-    - with/ without + N + 非谓语/ 介词短语 / 副词
+    - with/ without + N + 非谓语(doing/ done/ to do)/ 介词短语(prep + n) / 副词
     - by doing
 
 
@@ -591,24 +600,24 @@ B.给主语带帽子
 
 被老板的的开明鼓励，员工们投入工作。
 
-- Employees are encouraged by their supervisors open-mindedness and will workdiligent.
+- Employees are encouraged by their supervisors open-mindedness and will work diligent.
 - The supervisor's open-mindedness encourages employees to work diligently.
 - Being open-minded makes it possible for the supervisor to encourage employees to work diligently.
-- It is encouraging for employees to see their supervisors open-mindednesswho thus will work diligently.
+- It is encouraging for employees to see their supervisors open-mindedness who thus will work diligently.
 - When encouraged by their supervisor's open-mindedness. employees will work diligently.
 - Encouraged by their supervisor's open-mindedness. employees will work diligently.
 - By being encouraged by their supervisor's open-mindedness. employees will work diligently.
 
-### 特殊句式
+### 7.2 特殊句式
 
-强倒更多，而且反问
+**强倒更多，而且反问**
 
 - 强调句：it is ... that
 - 倒装：never，only by doing, Not only, but also
 - The more
 - 反问句
 
-全文中每一个特殊句式一般用2遍 
+全文中每一个特殊句式一般不超过 2 遍（为避免重复）。 
 
 自己写的句子 ：特殊句式 = 1:1
 
@@ -618,7 +627,7 @@ lt is ... that ...
 
 **把 it, is, that这三个词去掉以后，句子是完整且正确的，注意主谓一致**。
 
-可以强调句子的主语、宾语、状语，不能强调谓语和非谓语
+可以强调句子的主语、宾语、介词短语、状语，不能强调谓语和非谓语
 
 - It is new friends that can bring different thoughts and new perspectives.
 - It is different thoughts and new perspectives that new friends can bring.
@@ -668,13 +677,11 @@ People under no circumstances live away from junk food
 
 正确： Seldom will he get punished
 
-
-
 **Never + can we ignore (the fact) that 句子**.
 
 - e.g Never can we ignore that doing exercise is beneficial for students' health
 
-好处: **Never can we ignore the significance of A to B**. (结构一致N/doing)
+好处: **Never can we ignore the significance of A to B**. (**注意 A 和 B 最好结构一致** N/doing)
 
 - e.g. never should we ignore the significance of doing exercise to improving physical health.
 - never should we ignore the significance of exercise to physical health.
@@ -685,17 +692,21 @@ Not only+半倒装，but(also)+完整&正常的句子
 
 but also后面是一个主谓完整，且语序正常的句子，即 but also+主语+谓语
 
+通常用在引出第二个分论点的时候： not only 分论点1, but also 分论点2
+
+也可以用在分论点的具体解释中。
+
 not only和 but also的主语尽量一致
 
 - Not only will they hone their skills, but (also) they can cultivate their personalities.
 - Not only does such a hectic life overwhelm adults, but also it exerts much pressure on students.
-- 注： of only 分论点1, but also 分论点2
 
 错误: Not only people can meet new friends, but also they can maintain relationships with acquaintances
 
 正确: Not only can people meet new friends, but also they can maintain relationships with acquaintances
 
 错误: Not only can people meet new friends, but also can maintain relationships with acquaintances
+
 正确: Not only can people meet new friends, but also they can maintain relationships with acquaintances.
 
 ##### Only+状语+半倒装
@@ -753,6 +764,14 @@ more即是adj也是adv
     3. more修饰verb、则 the More的部分是 the more
         1. e.g. The more he converys.
 
+最简单/ 保守的写法：The more +句子，the more + 句子
+
+- e.g.The less+people smoke, the more+they will save money
+- e.g. 更好的写法：The less people smoke,the more money they will save.
+
+
+
+
 The government invests in education more. Students benefit more.
 
 ---> The more the government invests in education, the more students benefit.
@@ -777,6 +796,8 @@ True: The more practice they do. the better they can be
 
 #### 反问
 
+**常用于反面论证**时，质疑对面观点。
+
 常见问句开头How..? Could...?
 
 不要忘记写问号
@@ -789,6 +810,18 @@ Could students benefit from dealing with few assignments?
 
 ## 8. 九大话题
 
+| 话题   | 近五年出现次数 | 近五年出现百分比 |
+| ------ | -------------- | ---------------- |
+| 教育类 | 53             | 25.5%            |
+| 社会类 | 32             | 15.4%            |
+| 生活类 | 24             | 11.5%            |
+| 工作类 | 23             | 11.1%            |
+| 品质类 | 19             | 9.1%             |
+| 政府类 | 18             | 8.7%             |
+| 友谊类 | 17             | 8.2%             |
+| 媒体类 | 12             | 5.8%             |
+| 环境类 | 10             | 4.8%             |
+
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFELIndependentWritingBreak.png)
 
 注：以下斜杠表示同义替换，加号表示搭配
@@ -799,7 +832,7 @@ Could students benefit from dealing with few assignments?
 
 **academic learning**
 
-1. more knowledge: 地道表达
+1. **more knowledge**: expertise in science, art and history; theoretical and practical knowledge.
     1. knowledge/ expertise/ proficiency
     2. academic learning
     3. boost/ improve/ enhance + academic/ school performance
@@ -809,44 +842,47 @@ Could students benefit from dealing with few assignments?
     7. sb can broaden/ extend / improve/ increase + knowledge
     8. sth can provide students with the access to a wide range of/ considerable/ comprehensive + knowledge
     9. sth can enrich their knowledge/// enlarge their knowledge base
-2. trigger interest
+2. trigger interest: information gap, explore more
     1. excite/ generate/ stimulate/ trigger/ motivate +  students' interest/ passion/ enthusiasm
     2. explore the unknown world
     3. participate in/ engage themselves in/ involve themselves in / be engaged/be involved in
     4. allocate/ distribute time to doing
+3. efficiency: reduce time; reduce errors (concentrate)
 
 **skills**
 
-1. interpersonal skills
+1. **interpersonal skills**: communicate/ interact with
     1. extracurricular/ after-school activities
     2. hone/ practice/ develop +skills
     3. cultivate/ foster/ nurture/ shape+ ones personalities/ characteristics
     4. interpersonal / communicative/ social + skills/ tactics/  strategies
     5. converse/ interact/ socialize with sb
     6. people from assorted / diverse/ various/ a variety of backgrounds and cultures
-2. time management skills
+2. **time management skills**: avoid multitasking/ prioritize core tasks
     1. label and arrange them in the order of urgency
     2. prioritize tasks in demand for / demanding/ requiring + instant/ immediate attention
+3. teamwork skills: cooperate, reach consensus, handle conflicts
 
 **qualities**
 
-1. independent
-    1. themselves/ individually / by themselyes /on their own
+1. **independent**: not depend or rely on others, deal with tasks individually
+    1. themselves/ individually / by themselves /on their own
     2. independence and autonomy / self-reliance/ self-determination
     3. be independent and autonomous
-2. persistent
+2. **persistent**: in the confront of obstacles, overcome difficulties
     1. confront / be confronted with/ in the confrontation of
     2. hardships / obstacles/ adversities/ enigmas/ frustration/ desperation
     3. persistence /perseverance/ grit
     4. achieve success regardless of/disregarding any setbacks
+3. **innovative**: propose novel ideas and approaches
 
 **professional development**
 
-1. locate careers
+1. **locate careers**: interview techniques, win competitiveness
     1. be competitive in
     2. win/ gain/ attain/ obtain + competitiveness/ competitive edges in
     3. locate/ pursue/ hunt for/ search for
-2. promote
+2. **promote**: enlarge social circles, accumulate experience
     1. get +promotion / advancement
     2. promote/ advance
     3. move up one‘s career ladder
@@ -957,7 +993,7 @@ Could students benefit from dealing with few assignments?
     2. with employers
     3. with clients
 
-工作效率
+**工作效率**
 
 - increase /improve/ boost/ enhance + productivity efficiency
 - lower/ undermine/ impair/ hamper+ productivity
@@ -966,7 +1002,7 @@ Could students benefit from dealing with few assignments?
 - rectify/ correct/ revise errors
 - decrease the risks/ chances /possibilities/ likelihoods + of errors
 
-人际关系
+**人际关系**
 
 - employees/ subordinates/ co-workers/ colleagues/ fellow workers
 - render assistance to sb

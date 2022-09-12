@@ -12,11 +12,9 @@ categories: ['TOEFL笔记']
 
 <!--more-->
 
-![](img/TOEFLReading.zh-zn_20220817124442.png)
-
-![](img/TOEFLReading.zh-zn_20220817124505.png)
-
 ![](img/TOEFLReading.zh-zn_20220817124524.png)
+
+![](img/TOEFLReading.zh-zn_20220907181333.png)
 
 生命科学类占比最大，历史类其次，社会类和考古类最次
 
@@ -289,7 +287,7 @@ In a *Negative Factual question,* 3 out of 4 answers are correct and only one an
 解答技巧：结合笔记，以**选项**为切入点定位
 
 - 先结构化阅读对应段落
-- 一次性找出题干与四个选项的定位词；全部记录纸上；
+- **一次性找出题干与四个选项的定位词**；全部记录纸上；
 - 每浏览段落的1-2句话，交叉对比四个选项的定位词与题干定位词
 - 一旦一个选项锁定，留意附近的其他选项；
 
@@ -319,7 +317,7 @@ An *Inference question* could ask you to identify information that is not explic
 - 若有并列则多信息取反(并列中的某一信息取反即可)
 - 若无并列则单信息取反
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220713204503445.png)
+![](img/TOEFLReading.zh-zn_20220824145025.png)
 
 ## 2.5 句子简化题：Sentence Simplification Questions
 

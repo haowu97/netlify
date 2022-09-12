@@ -12,6 +12,85 @@ categories: []
 
 <!--more-->
 
+## 写作
+
+an array of problems - 一系列问题
+
+a battery of  一连串
+
+raise/ cultivate/ grow 种（庄稼 food crops）
+
+nearby/ around/ in the vicinity/ in the neighborhood - 在周围
+
+share common interests - 有共同的兴趣
+
+expose sb to new acquaintances - 结交新朋友
+
+keep connected //// strengthen relationships / bond / connection with old friends - 与老朋友保持联系
+
+absorb information - 吸收信息
+
+crucial = extremely important = crucially important = 极其重要
+
+优势 advantage/ merit/virtue/ benefit upside/ strength
+
+缺陷 disadvantage/ demerit/ drawback/ weakness/ shortcoming/ unfavorable aspect
+
+## 同义替换
+
+difficult/ arduous - 困难的
+
+hardworking/ assiduous - 勤奋的
+
+serious = grave - 严重的
+
+happy / enjoyable/ delightful - 快乐
+
+cope with/ deal with/ handle/ address/ tackle - 处理
+
+做(do / cope with / deal with / conduct ) 不同（different / distinct / assorted）任务（tasks / work / assignments / projects）
+
+important = significant
+
+differ from = be different from
+
+词性替换：
+
+Many people are poor and hungry.
+
+**Numerous**/ A **multitude** of/ **A large number of**/ people suffer from poverty and starvation.
+
+A tragedy in the contemporary society is that a multitude of people severely suffer from extreme poverty and dreadful starvation.
+
+## 口语
+
+be fortunate to do = 幸运可以做...
+
+Thanks to - 因为...
+
+be good/ useful for sb/ sth ... - 对 ... 有好处
+
+A as well as B
+
+provide sb with sth - 提供
+
+besides
+
+involve the use of ... / relate to ...
+
+approach / get close/ come close - 接近
+
+
+
+
+
+
+
+
+
+
+
+
 add spice to sth
 
 - 给sth增光添彩

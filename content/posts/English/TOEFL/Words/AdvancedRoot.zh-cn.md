@@ -1,0 +1,377 @@
+---
+title: "AdvancedRoot"
+date: 2022-09-11T23:17:09+08:00
+draft: true
+
+description: ""
+upd: ""
+
+tags: []
+categories: []
+---
+
+<!--more-->
+
+
+## 进阶词汇之词根am / tim
+
+amiable adj. 和蔼可亲的
+am = love
+He is amiable and of good family
+
+amicable adj. 友好的
+Their relationship hasn't always been amicable.
+amicable settlement / agreement
+The two parties have reached an amicable settlement.
+amity n. 和睦; 友好关系
+He wished to live in amity with his neighbor.
+
+amatory adj. 情爱的, 恋人的
+amateur n. 业余爱好者
+amateur dramatics
+Jerry is an amateur who dances because he feels like it.
+
+timid adj. 胆小的
+Forthetimid,changeisfrightening;forthecomfortable,changeisthreatening;butfortheconfident,changeisopportunity.
+timidity n.
+tim= fear
+
+intimidate v. 恐吓
+They tried to intimidate the young people into voting for them.
+intimidation n.
+
+timorous adj.胆怯的，易受惊吓的
+If it were not for the fact that editors have become so timorous in these politically correct times, I would probably have a greater readership than I have.
+—Pat Oliphant
+
+## 进阶词汇之词根arch
+
+arc/arch= 弓, 古代, 统治
+arc
+arch
+±h (法语影响)
+hard
+ard
+arduous
+艰难的
+arduous
+u —连字符
+graduate v.
+assiduous adj. 刻苦的，勤勉的
+
+…whole cities grew from the arduous task of
+cutting and piling stone upon.
+The word “arduous” in the passage is
+closest in meaning to
+○difficult
+○necessary
+○skilled
+○shared
+
+archer n. 弓箭手, 射手座
+arch n. 弓形, 拱门, 拱状物
+v. 拱起
+Roman builders perfected the
+semicircular arch …
+arctic adj. 北极的, 极寒的n. 北极
+
+They’re found all over the northeastern United States and all through Canada and Alaska, even inside the Arctic Circle
+
+arcade n. 拱廊, 游乐场
+architecture n. 结构, 建筑学, 一座建筑物
+architect n. 建筑师
+建筑声学
+混响, 回响, 回荡
+Architecture(Reverberation)
+…architectural acoustics became a scientific field.
+
+archaeology n. 考古学
+archaeologist n.
+Logy = theory
+hierarchy n. 层级；等级制度
+monarchy n. 君主制mon= mono
+constitutional monarchy君主立宪制
+Maslow‘shierarchy of needs
+
+## 进阶词汇之词根astr
+
+astronomy n. 天文学
+astro = aster = star
+astrophysicist n. 天体物理学家
+astrophysics n. 天体物理学
+asteroid n. 小行星
+Asteroid lies between Mars and Jupiter.
+
+disaster n. 灾难, 灾祸, 不幸
+disastrous adj. 灾难性的
+catastrophe n. 天灾
+Climate change could have disastrous effects on Earth.
+catastrophic n. 灾难性的
+
+## 核心词汇之词根cand/flam/photo
+
+candle n. 蜡烛
+can‘t hold a candle to sb/ sth. 远逊于…
+No other singer can hold a candle to her.
+candid adj. 坦诚的, 率直的
+candor n. 诚心诚意
+She spoke with candor about her life.
+candidate n. 候选人
+cand = white,bright
+
+flame n. 火焰，燃烧vi. 面红
+flamboyant adj. 耀眼的; 派头十足的，浮夸的
+Freddie Mercury was a flamboyant star of the British hard rock scene.
+inflamev. 使燃烧, 使加剧, 激起....的热情
+flam = flagr= fire
+
+flammable adj. 易燃的
+TV SERIES
+photography n. 摄影
+photosynthesis n. 光合作用
+
+## 进阶词汇之词根cap & sci
+
+cape n. 海角
+头=cap, cipit
+capital n. 首都, 资金, 好处
+adj. 首都的, 重要的, 大写的
+Cape of Good Hope
+make capital out of …
+利用…谋取私利
+
+precipitate v. 使... 沉淀, 促使…加快, 使陷入
+Inthecentraldeeperpartofthebasin,the lastofthebrineevaporatedtoprecipitatemoresolublesodiumchloride(salt).
+precipitation n. 降雨(雪)量
+precipitate ... into... 使...陷入...
+The assassination of the king precipitated the country into war.
+
+science n. 科学
+scientific adj. 科学的
+sci= know
+conscience n. 道德心, 良心
+A clear consciencei s a soft pillow.
+conscientious adj.
+
+conscious adj. 有意识的, 清醒的
+The producers ____________________how
+much money they were spending.
+were very conscious of
+consciousness n.意识
+unconscious adj. 不省人事的, 无意识的
+
+omniscient adj. 无所不知的
+The more I learn about your people, the more I suspect
+you’re not as omniscient as you’d have us believe.
+
+## 进阶词汇之词根dom
+
+A planetarium is essentially a theater with
+a domelike ceiling
+dom= 家, 控制
+dome n. 圆屋顶, 穹顶
+lava dome [地质] 熔岩穹丘
+
+GDP
+Gross Domestic Product
+domestic adj. 国内的, 家庭的，家养的
+They can be wild animals or domestic…
+Domestic flights go from Terminal 1.
+
+domesticate v. 驯养
+…somesocietiesdomesticatedanimalsandplants,discoveredtheuseofmetaltools,becameliterate,anddevelopedastate…
+sbbe domesticated
+
+dominance n. 优势，显要
+…the music played in the concert halls of Austria-
+Hungary Romantic pieces by
+mostly German composers.
+dominate v. 支配, 控制, 耸立于, 俯视
+was dominated by
+The cathedral dominates the city.
+
+predominate vi. 占优势, 占主导地位
+The word “predominant” in the passage is closest
+in meaning to
+•most aggressive
+•most productive
+•principal
+•earliest
+
+## 进阶词汇之词根hum/anthrop/gen
+
+humanitarian n. 人道主义者, 慈善家
+humanitarianism n. 人道主义, 博爱主义
+dehumanize v. 使失掉人性
+Religionandpolitics,theybelieved,shouldbekeptclearlyseparate,andtheygenerallyopposedhumanitarianlegislation.
+War dehumanizes people.
+
+human n. 人, 人类adj.
+
+humane adj. 仁慈的, 人道的, 高尚的
+
+anthropology n. 人类学
+
+anthropologist n. 人类学家
+
+anthrop(o) = man, human
+
+anthropoid adj. 类人的n. 类人猿
+ape n. 猿
+
+chimpanzee n. 黑猩猩
+
+orangutan n. 红毛猩猩
+
+baboon n. 狒狒
+
+philanthropy n. 慈善
+philanthropist n. 慈善家
+
+commend v.
+commend sb for sth
+
+The paper was highly commended in the UK Press Awards.
+
+出生, 产生= gen
+生命起源Greek “γένεσις” -"origin"
+Genesis 创世记
+
+generate vt.产生, 发生, 引起
+75% of France's electricity is generated by nuclear reactors.
+generation n.
+generator n. 发电机
+gene n. 基因
+genius n. 天才, 天赋
+
+degenerate v. 堕落, 衰退,退化
+The conference degenerated into a complete fiasco.
+gender n. 性别
+eugenics n. 优生学
+primogenitor n. 始祖, 祖先
+indigenous adj. 土产的, 土著的
+engender v. 导致，引发
+engender a sense of responsibility in [somebody]
+
+progeny n.子孙, 后代
+
+gen= race
+
+genus n. 种类, 类属(动物学）
+genre n. 类型, 流派
+
+a literary genre
+
+congenial adj. 意气相投的,适宜的，宜人的
+
+heterogeneous adj. 不同种的
+
+homogeneous adj. 同种的
+
+Theheterogeneousmaterialofthedrift(sand,clay,androcksdepositedthere)convincedhimofitsglacialorigin.
+The word “heterogeneous” in the passage is closest in meaning to
+•remaining
+•varied
+•familiar
+•layered
+
+## 进阶词汇之marin/nav
+
+marine adj. 海的, 海生的, 航海的
+n. 海运业, 船舶, 水兵
+aquamarine n. 蓝绿色, 海蓝宝石
+submarine n. 潜水艇
+
+mariculture n. 海洋生物养殖业
+复合词根——mari+cult+ure
+奥利娃带你看看“专业词汇”
+agriculture n.农业
+floriculture n.
+aquaculture n.
+horticulture n.
+花卉栽培业
+水产养殖业
+园艺业
+
+maritime adj. 海上的, 海事的
+以下句子摘自“Xinhua News”
+
+navy n. 海军, 船队, 海军蓝
+
+He serves in thenavy.
+
+naval adj. 海军的, 军舰的
+
+naval base 海军基地
+
+naval vessel海军舰艇
+
+nav= naut= ship
+
+navigate v. 航行, 导航, 指导
+He was the first man ton avigate the Atlantic
+alone.
+navigation n.
+navigator n. 航海家, 领航员, 导航仪
+You taught me to navigate people's minds.
+《盗梦空间》
+
+circumnavigate v. 环（球）航行
+
+Magellan was the first person to circumnavigate the globe.
+astronaut n. 宇航员
+
+## 进阶词汇之词根sid
+
+assiduous adj.
+刻苦的, 勤勉的
+She is assiduous in learning.
+insidious adj. 潜伏的, 暗中滋生的，阴险的
+
+reside v. 居住, 驻留
+resident n.居民
+residence n.居住, 住处PR
+residue n.残留, 残渣
+Since practically all the solar system's mass
+resides in the Sun, …
+reside in... 居住..., 存在于, 集中于
+
+preside over 主持
+主持, 任主席, 统辖
+preside v.
+President XiJinping will preside over the meeting.
+
+subside v.下降, 平息, 沉淀
+Friendship may, and often does, grow into love, but
+love never subsides into friendship.
+—Lord Byron
+subsidence n. 下沉, 沉淀, 陷没
+
+Over exploiting underground water will cause land subsidence.
+
+supersede v.
+…steamboats eventually superseded all other craft
+in the carrying of passengers and freight.
+replaced
+reformed
+equaled
+increased
+
+## 进阶词汇之词根terr
+
+territory n. 领土, 领域, 版图, 范围
+
+Terr= earth
+
+territorial adj. 领土的, 有地盘意识的(动物学）I guess smugglers are as territorial as a pack of wolves.
+黑名单
+
+Mediterranean adj. 地中海的n. 地中海
+
+Mediterranean climate 地中海气候
+terrain n. 地带, 地形
+
+terrace n. 平台, 阳台, 梯田
+
+extraterrestrial adj. 地球外的, 外星球的
+n. 外星人, 外星生物

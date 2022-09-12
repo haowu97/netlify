@@ -57,7 +57,7 @@ ramp [ræmp] n.斜坡、坡
 
 **abjure** [əbˈdʒuə] v.宣布放弃 放弃权利，信仰 abandon
 
-- < ab-表示 away, 远离 如 abandon, normal—abnormal, **–jure**表示发誓 to swear，在法庭上的宣誓的行动，**jury陪审团** >
+- < ab - 表示 away, 远离 如 abandon, normal — abnormal, **–jure**表示发誓 to swear，在法庭上的宣誓的行动，**jury陪审团** >
 
 **adjure** [əˈdʒuə] v.恳求beg, please  
 
@@ -335,7 +335,7 @@ requite [ri'kwait] v.报答
 
 **adjacent** [ə'dʒesnt] a.邻近的，毗邻的，接近的
 
-- < 同：adjoin; ad-表示加强，jac = ject = throw 扔(reject, project), ent 表示形容词后缀 >
+- < 同：adjoin; ad-表示加强，**jac = ject = throw** 扔(reject, project), ent 表示形容词后缀 >
 - be ~ to
 
 **subjacent** [sʌb'dʒesnt] a.底层的，底下的
@@ -373,7 +373,7 @@ requite [ri'kwait] v.报答
 
 **adjourn** [ə'dʒɝn] vi.延期休会; vt.中止，推迟
 
-- < -ad 表示加强，journ 表示 day “加强几天” - 推迟 >
+- < -ad 表示加强，**journ 表示 day** “加强几天” - 推迟 >
 
 **sojourn** ['sʌdʒɝn] v,暂住
 
@@ -710,6 +710,8 @@ Summary:“鼓出就是涌出，呼吸就是安静，漂亮才能豪华，力士
 - < amb(amb) + rose + al周围都是玫瑰花，所以是芳香的 >
 
 
+
+
 husband [ˈhʌzbənd] adj 节俭的
 
 lessen [ˈlesən] v 减少 <-en 表示动词后缀， less是little的比较级>
@@ -720,7 +722,210 @@ vocation  [vəuˈkeiʃən] n 职业
 
 vacation [vəˈkeiʃən, veiˈkeiʃ(ə)n] n 假期
 
+## analgesic n./a.止痛剂，止痛的
 
+**analgesic** ['ænl'dʒizɪk] n./a.止痛剂，止痛的 = painkiller
+
+- < algia- : 表示疼痛 pain, a = an - (not)否定 + algia“不疼">
+
+**nostalgia** [nə'stældʒə] n.思乡，怀旧
+
+- < nost - nest “想到自己的家心里就疼"或者用谐音“那是他家" >
+
+**neuralgia** [nʊ'rældʒə] n.神经疼
+
+- < neur-nerve >
+
+## annihilate yt.消灭，歼灭
+
+**annihilate** [ə'naɪəlet] vt,消灭，歼灭
+
+- < an-to + nihil = nothing/ 虚无 + ate 动词后缀：联想（no+hill) 没有山-虚无的 >
+
+**nihilism** ['naɪɪlɪzəm] n.虚无主义 nihilist 虚无主义者
+
+**null** [nʌl] a.值为零的，无效的
+
+- < n 表示否定 >
+
+**nullify** ['nʌlɪ'fai] v.废除
+
+**annul** [əˈnʌl] v.取消，废除
+
+## annotate v.注释，评注
+
+**annotate** ['ænə'tet] v.注释，评注annotation n.注释
+
+- < an-to, 来自note记录 = to mark “加强标记" → 注释 >
+
+**notion** ['noʃən] n.见解想法 = idea
+
+**notation** [no'teʃən] n.符号、记号
+
+**denotation** [ˌdino'teʃən] n.意义
+
+- < **de: ①向下 ②off ③.to加强（大多数）** >
+
+**connotation** [ˌkɑnə'teʃən] n.隐义、内涵
+
+< 符号放在一起，意思不一样了 - 隐义 >
+
+**notorious** [no'tɔrɪəs] a.臭名昭著的，同 flagrant
+
+- < noted a.显著的(好的事情) >
+
+## antagonize vt.敌对，对抗
+
+**antagonize** [æn'tæɡənaɪz] vt.敌对，对抗
+
+- < ant- 等于 anti- 表示相反，agon - ag = act 行动 (agenda, agent)，做相反的行动 >
+- ~ sb/ sth = turn agianst sb/ sth
+
+**antagonist** [æn'tæɡənɪst] n.敌手，对手，反派 = rival, contestant
+
+- 形容词 antagonistic
+
+**protagonist** [prə'tæɡənɪst] n.小说，戏剧中的主人公
+
+- < pro + agon, 最先行动的人>
+- supporting role/actori配角
+- extra 群众演员，临时演员，跑龙套的人
+- stand-in替身
+
+**agitate** ['ædʒə'tet] v.激起，煽动
+
+- < **it 表示走**，**ag 表示行动**，“走，去行动” → 煽动 >
+
+**cogitate** [ˈkɑdʒɪˌtet] v.仔细思考
+
+- < co- 共同，一起 + (a)g 行动，一起行动，一起思考 >
+- ~on sth
+
+**cogent** ['kodʒənt] a.同 persuasive 有说服力的
+
+- < 能让人一起行动的 - 有说服力的 >
+- eg: ~ evidence
+
+**exigent** [ˈɛksədʒənt] a.紧急的，急迫的 = urgent
+
+- < 紧急 ex 出 + ig-ag 动 >
+
+**agile** ['ædʒl] a.灵敏的，敏捷
+
+- < ile 如果作为形容词后缀表示易于 ... 的，如 fragile 表示易碎的，“易于行动的” → 灵敏的 >
+
+## anticlimax n.突降法，虎头蛇尾，令人扫兴的结尾
+
+**anticlimax** [ˌæntɪ'klaɪmæks] n.突降法，虎头蛇尾，令人扫兴的结尾
+- < anti-against, climax n.高潮（小说，戏剧，心情突然从高潮跌落下来了>
+
+**antic** [ˈæntɪk] a.反常的，古怪的，滑稽的(ridiculous)
+
+- < “反的" >
+
+**antiseptic** [ˌæntɪ'sɛptɪk] a./n.防腐的，防腐剂
+
+- < **septic - 腐烂的，腐臭的**，“七月的东西易腐烂" >
+
+**aseptic** a.无菌的；反义 contaminated 污染的
+
+**antithesis** [æn'tɪθəsɪs] n.观点对立
+
+- < thesis 论题 论点>
+
+## aphorism n.格言，谚语
+
+**aphorism** ['æfərɪzəm] n.格言，谚语
+
+- < ism 表示一种主义，一种精神，a 表示加强，**phor = -fer- 表示carry** 如：transfer, refer 带来一种精神的话 - 格言 >
+
+**defer** v.推迟，延期 (deferrable可延期的 反 exigent)；defer to 顺从，服从 n.deference
+
+- < de-down+fer-carry: 把事情往下推 - delay adjourn >
+
+**confer** v.协商，授予
+
+- confer ab a degree
+
+形近词：
+
+**sophism** ['sɑfɪzəm] n.诡辩术，似是而非的理论
+
+- < soph = wisdom，sophomore 大二学生 >
+
+**philosophy** [fɪˈlɑsəfi] n.哲学
+
+- < philo - 爱，soph - 智慧，爱智慧即哲学 >
+
+**sophisticated** [səˈfɪstɪkeɪtɪd] ad.精明的，老于世故的，（仪器）精密复杂的
+
+- < 一个人智慧过多 >
+
+## aquatic a.水生的，水栖的
+
+**aquatic** [ə'kwætɪk] a.水生的，水栖的
+
+- < **aqua = water** aquarium 水族馆; Aquarius 水瓶座>
+
+**opaque** [o'pek] a.不透明的，晦涩的，难懂
+
+- < **op = ob ①加强 ②相反 opposite** “不像水那样” → 不透明>
+
+**transparent** [træns'pærənt] a.透明的
+
+- < trans - 从一边到另一边，par = appear 出现，穿过去能出现 >
+
+**aqueous** ['ekwɪəs] a.含水的 containing water
+
+- < **-ous - full of** '“充满水的">
+- **ferrous** 含铁的 < Fe - 铁 >
+
+**aquifer** ['ækwɪfɚ] n.含水层
+
+- < **fer = carry** “搬水，携带水" → 含水层 >
+
+## arboretum n.树木园，植物园
+
+**arboretum** [ˌɑrbə'ritəm] n.树木园，植物园
+
+- < **-um 地点** (aquarium) **arbor- = arb- = tree表示树**，和(h)erb同源 >
+- < 或联想 harbori 港口挡风雨，arbor 树荫挡太阳 >
+
+**arbor** ['ɑrbɚ] n.树阴处
+
+**arboreal** [ɑr'bɔrɪəl] a.树栖的，树生
+
+**arboriculture** [ɑrbərɪ'kʌltʃɚ] n.树木养殖业
+
+- < **culture: 表示“... 养殖业"** >
+
+**forestry** ['fɔrɪstri] n.林业
+
+## ardent a,热心的，热情洋溢的，燃烧般的
+
+**ardent** ['ɑrdnt] a,热心的，热情洋溢的，燃烧般的
+
+- < -ent 表示形容词词尾，**ard = ars 源自 ash, 表示 burn 燃烧** >
+
+**ardor** ['ɑrdɚ] n.热情
+
+**arson** ['ɑrsn] n.纵火罪
+
+- < -on 名词后缀 表示小（baton 警棍）>
+
+**arsonist** ['ɑrsənɪst] n.纵火犯
+
+**arsenal** ['ɑrsənl] n.军火库，军械库
+
+同义词：
+
+**fervid** ['fɝvɪd] a.热情的
+
+- < 同源 fever 发烧 >
+
+**fervent** ['fɝvənt] a.热情的
+
+**perfervid** [pɚˈfɚvɪd] a.十分热情的
 
 
 
