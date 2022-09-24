@@ -164,7 +164,6 @@ Decrease in price if 40% exchange-rate pass through = 0.40 x MYR 1600 = MYR 640
 
 So, new MYR price of mutton = MYR (17600 – 640) = MYR 16960
 
-
 **Practice** (Semester 1 -- Review Questions, 2021) Question 5: Assume that you are a Japanese importer of Australian beef. Initially, the price of Australian beef exported to Japan is fixed at 8,000 Australian dollars (AUD) per tonne and the original exchange rate is 80 Japanese Yen (JPY) per AUD. If the AUD subsequently depreciates 20% and you lower the price of Australian beef to 550,000 JPY per tonne, what is the degree of the exchange rate pass-through (in percentage)?
 
 **Solution**:
@@ -196,3 +195,20 @@ So, degree of exchange rate pass-through = 90,000/128,000 = 70.3125 %
 
 **Impact on production decisions**:
 - The Aussie dollar depreciation makes it relatively cheaper to produce in Australia and to use Australian inputs
+
+## 4. Real exchange rate
+
+**Real exchange rate** is the exchange rate adjusted for inflation differentials between countries.
+
+**A depreciation of the real exchange rate** means:
+
+- a decrease in the purchasing power of domestic goods over foreign goods
+- an improvement in the competitiveness of domestic goods relative to foreign goods
+
+The real exchange rate removes the effect of inflation from the nominal (spot) exchange rate.
+
+$$
+\text{Real } US\$/A\$ = \text{Nominal } U S \$ / A \$ \div C P I_{U S} / C P I_{A U S}
+$$
+
+**Practice** (Semester 2 -- Mid, 2022) Part C: Assume that you are in Australia. The current spot exchange rate of the US dollar (USD) against the Australian dollar(AUD) is 0.6815 USD per AUD (USD/AUD). Suppose that the current Consumer Price Indexes(CPI) in the US and Australia are 120 and 130 respectively. What is the real exchange rate of the USD/AUD? Show your working clearly and completely. [10 marks/ 50 marks]

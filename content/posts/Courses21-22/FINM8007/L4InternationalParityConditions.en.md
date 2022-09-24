@@ -66,6 +66,21 @@ Example:
 | 3 month forward points       | -0.0040 – 0.0038 |
 | 3 month forward rate USD/AUD | 0.6655 – 0.6662  |
 
+**Practice** (PRACTICE QUESTIONS SET THREE) Question 2: Using the following spot and forward quotes:
+
+|                         | Bid A\$ | Ask A\$ |
+| ----------------------- | ------- | ------- |
+| Spot rate US\$/ A\$     | 0.9762  | 0.9765  |
+| 3 month forward points  | -116    | -116    |
+| 6 month forward points  | -230    | -229    |
+| 12 month forward points | -431    | -429    |
+
+(a) Calculate the 3, 6 and 12-month outright forward rates for the A$.
+
+(b) Why do the forward points get bigger for longer time periods?
+
+---
+
 The **forward margin on the US\$ (bank sell US\$)** in per cent per annum terms would be:
 
 $$
@@ -176,6 +191,9 @@ Let, Forward rate = F(USD/AUD), Spot rate = S(USD/AUD)
 
 180-day forward margin on the USD = (S/F -1) x 2 = (1/1.06 -1) x 2 = -0.12/1.06 = -11.32075472% = -11.32% (discount)
 
+**Practice** (PRACTICE QUESTIONS SET THREE) 
+
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202209192033030.png)
 
 ## 3. Interest Rate Parity (IRP)
 
@@ -192,7 +210,7 @@ $$
 **To calculate the forward rate**
 
 - *Banks are continually re-setting forward rates* as spot rates and interest rates change.
-- The correct forward rate for a foreign currency (FX) against the dollar for a period of $ n $ days is:
+- The correct forward rate for a foreign currency (FX) against the dollar for a period of $n$ days is:
 
 $$
 F_{n}^{\text{FX/\$}}=S^{\text{FX/\$}} \times \frac{\left[1+\left(i^{\text{FX}} \times \frac{n}{360}\right)\right]}{\left[1+\left(i^{\$} \times \frac{n}{360}\right)\right]}

@@ -98,5 +98,158 @@ Equally importantly, a positive relationship with colleagues and their superviso
 
 Efficiency, a significant factor at work / being significant, will be enhanced under the demand of assorted assignments. A close connection, an ingredient in a satisfying professional life / being important, can be built when workers are required to do different projects. To conclude, only by accomplishing different work can workers achieve a satisfying life at work.
 
-
 eat / have + meals / dinner
+
+## 综合写作
+
+重点在于笔记的练习，笔记练习10篇左右，作业完整写完四五篇即可
+
+### TPO 54
+
+#### Reading
+
+The Salton Sea in California is actually a salty inland lake. The level of salt in the lake's water—what scientists call its salinity—has been increasing steadily for years because the lake's water is evaporating faster than it is being replaced by rainfall or rivers. If the trend continues, the lake's water will soon become so salty that the lake will be unable to support fish and bird populations. The lake would then become essentially a dead zone. Fortunately, there are several ways to reverse the trend that is threatening the lake's health.
+
+One option is direct removal of salt from the lake's water in special desalination facilities. Water from the lake would be pumped into the facilities and heated. This would cause the water to evaporate into steam, while salt and other materials dissolved in the water would be left behind. The steam would then be cooled down and returned to the lake as salt-free water. Gradually, the high salt levels would be reduced and the lake’s overall health would be restored.
+
+Another possible solution is to dilute the salt level in the lake with water from the ocean. Since water in the Pacific Ocean is 20 percent less salty than water in the lake, bringing ocean water into the lake would decrease the lake’s salinity. The ocean water could be delivered through pipelines or canals.
+
+Yet another solution would be to control the lake's salinity by constructing walls to divide the lake into several sections. In the smaller sections, salinity would be allowed to increase. However, in the main and largest section, salinity would be reduced and controlled by, among other things, directing all the freshwater from small rivers in the area to flow into that main section of the lake.
+
+#### Listening
+
+Now listen to part of a lecture on the topic you just read about.
+
+It would be great if we could stop the lake salt level from increasing and save its fish and bird populations. But the solutions you just read about aren't realistic or practical.
+
+First, sure, taking salt out of the lake by desalination would reduce salinity, but it would present some serious problems as well. For example, as you've read, water pumped into desalination facilities evaporates and leaves behind solid materials that would dissolve in the water. Well, the solid materials that desalination facilities leave behind would pose a health risk. The materials will be mostly salt, but they would also include other types of chemicals. Some of the chemicals would be toxic, like selenium. If the wind spread selenium and other chemicals into the air and people breathe them in, that would be very dangerous to people's health.
+
+Second, the idea of bringing ocean water into the lake, again, this would reduce salinity. But as you've read, it would require constructing pipelines or canals. The problem is that the local government may not have enough resources to pay for such major construction. The nearest shoreline of the Pacific Ocean is 100 kilometers away. Pipelines and canals are very expensive to build over such long distances.
+
+As for the third solution, dividing the lake into sections by building a system of walls. Well, that's unlikely to work for very long. That's because the Salton Seas is located in a region that experiences frequent and sometimes intense geological activity, like earthquakes. That activity would almost certainly destroy the walls separating the different sections. So while this solution might work for a short while, the walls would likely collapse the first time there is a major earthquake. And water from the special sections with high salinity would mix back in with the low-salinity salinity from the main section.
+
+#### 参考笔记
+
+Salton Sea, x salinity
+
+she
+
+1. desalination facilities
+    1. SM
+    2. health risks
+    3. chemicals: selenium 毒 / toxic
+    4. wind
+2. ocean water: pipelines, canals
+    1. x resources
+    2. SL, {} PC, 100km
+    3. 贵, distances
+3. walls: main section
+    1. x long
+    2. geo activities e.g. EQ
+    3. S, h + L, main
+
+#### 行文参考
+
+【开头】Whether several methods to reduce the salinity of The Salton Sea in California, a salty inland lake, are effective is the focus of both the writer and the professor. In the writing, three approaches, including using desalination facilities, diluting its salt level with ocean water and dividing the lake into several sections with walls, have been elaborated. The professor, however, claims that these ways are not **helpful/ practical**.
+
+【P1】
+
+阅读TS: （旧 对象-新 阅TS） [SS, salinity – 方法] the salinity of The Salton Sea can be reduced in desalination facilities, where salt is removed from water 
+
+听力TS: (方法 – 健康问题) this method / materials left in such facilities will **pose health risks**/ health risks will be posed
+
+听力细节： in the facilities, the solid materials **left behind** will **not only** include salt, **but also** other chemicals, some of which are toxic, such as selenium; if these materials **are blown by wind into the air**, people **breathing them** will **be harmed**.
+[ ; ; ]
+
+【P2】
+
+阅读TS: [ 对象 – 方法 ] the salt level of The SS can be diluted by ocean water **delivered by/via pipelines or canals**
+
+听力TS [ 方法 – 问题 ] **transporting the ocean water into lake** will be expensive, and the local government may lack resources to do this
+
+听力细节：because the nearest shoreline of Pacific Ocean **is 100 km far away from** the SS, it is **impractical** to construct the pipelines over such a long distance.
+
+【P3】
+
+听力TS: [对象 – 听力] **in order to / so as to** decrease the salinity of SS, walls dividing the water into different sections will not work for long
+
+阅读TS: [听力 – 阅读] after walls are constructed to **separate** the lake into parts, the salinity of the main section can be controlled.
+
+听力细节：SS **locates** the area where frequent geographical activities, such as earthquakes, happen, making the walls collapse; consequently, water from the section of high salinity will mix with that from main section with low salt level.
+
+【结尾】
+
+An apparent divide exists between the writer and the professor on the ways to reduce salinity of The Salton Sea.
+
+### 真题
+
+#### Reading
+
+Bats play a crucial role in the ecosystem of North America: a bat can eat hundreds of insects in a night，reducing the need for harmful pesticides. Unfortunately, a mysterious sickness called white nose syndrome has killed over five million North American bats in the past few years, and it could wipe out several species of bats in the next few decades. The name comes from a white fungus found on infected bats; scientists think that this fungus causes bats to interrupt their normal winter sleep. Bats that wake up cannot find food and die of starvation. Several suggestions have been made to fight white nose syndrome.
+
+笔记：white nose syndrome bats, x
+
+First, people should stay away from the caves where bats sleep in the winter. The fungus is harmless to humans but can easily be carried on clothes or shoes from one cave to another. Many of the caves where bats have been infected are popular tourist spots for humans，and many scientists believe that the fungus likely spreads from cave to cave by riding on people's clothes.
+
+笔记：white nose syndrome bats, x
+
+1. x caves : clothes, shoes
+
+Second, we need to focus on researching a species of bat that lives in Europe that appears to be able to fight the fungus. Bats of that species have been able to stay healthy even after coming in contact with the fungus，suggesting that they have evolved resistance to the fungal infection. By studying how the European bats resist the fungus，we can learn how to help American bats.
+
+笔记：white nose syndrome bats, x
+
+1. x caves : clothes, shoes
+2. Europe bats : resistance
+
+Finally, some researchers have suggested heating the caves with the largest bat populations. The fungus that causes white nose syndrome is known to grow only at temperatures around 4℃ . This is the temperature of most bat caves，but if we could raise that temperature just a little bit during the winter, the fungus would not be able to spread and infect the bats.
+
+笔记：white nose syndrome bats, x
+
+1. x caves : clothes, shoes
+2. Europe bats : resistance
+3. heat caves: x spread
+
+#### Listening
+
+Unfortunately, the suggestions you read are unlikely to help in the fight against the white nose syndrome.
+
+First, while humans might contribute a bit to the spread of the fungus, humans aren’t the biggest factors in spreading it. Bats travel up to a hundred miles at night in the summer. And when scientists track the spread of fungus in detail, it becomes obvious that the fungus is carried from caves to caves mainly by bats. In fact, a few caves that humans have never visited before were found to be infected. Since the fungus can travel just as well on bats, stopping people from visiting caves would not have a very large effect.
+
+Second, the discovery of European bats species that resist the fungus is interesting, but it **is unlikely to lead to any practical help** for North America bats species. The resistance of European’s bat is probably a complex biological adaptation that evolved over a long period of time. It would probably take decades of research to really understand what causes the resistance and used the knowledge to find the cure. But we don’t have that much time. The disease is progressing so widely in the North America that some bats species might completely die out within ten years.
+
+Finally, heating the caves might actually make the situation worse. Bats use to sleeping through the winter in the cope. As soon as you over the temperature of the bats’ winter homes, the whole *psycho* would get *thrown off*. The warmer temperature in the cave might make them think it was summer and they would be unable to sleep. Remember, the reason that fungus is deadly is that it wakes up the bats during winter and causes them to starve. Heating the cave might stop the fungus but the bats would still wake up and starve.
+
+#### 参考笔记
+
+white nose syndrome bats, x
+he
+
+1. x caves : clothes, shoes
+   1. TS：（bats传播）
+   2. 100 miles
+   3. ； x 人去
+2. Europe bats : resistance
+   1. TS：（x time）
+   2. bio adaption
+   3. decades
+   4. （cause）+ cure
+   5. Z species, ten years
+3. heat caves: x spread
+   1. psycho / cycle
+   2. summer
+   3.  醒 starve(TS)
+
+#### 范文
+
+[cut ] paste undo redo
+
+How to **save** bats in North America **from** being infected by white nose symptoms is the focus of the reading and listening. In the writing, three solutions, including keeping humans away from bats’ caves, studying European bats and heating caves, have been elaborated. The professor, however, claims that all the assumptions are all incorrect.
+
+As opposed to the writer’s first idea that white nose symptoms of bats can be cured when people are prevented from getting into their caves, the professor states that bats, rather than people, carry such a fungus. He advances the theory by stating that bats often travel **a hundred miles** a night and will carry the fungus from caves to caves; even bats in caves **which**(不能用where) people have not visited are infected as well.
+
+The professor continues to discredit the assertion of the writing that American bats can be saved by scientists, who can study how European bats evolve resistance, by examining the fact that there is not enough time to research them. To be more specific, he indicates that resistance in European bats is the result of a complex biological adaptation and thus it will take decades for researches to find the cause and the cure; however, the fungus is spreading quickly and will make several species of bats die out within ten years.
+
+It is the professor’s third opinion that heating the caves will cause bats to starve, which contradicts the idea in the writing that fungus will be killed when caves of bats are heated. In detail, when caves are heated, bats’ psycho will be in disorder, and bats will wake up because they think it is summer, making them + unable to find food and die.
+
+An apparent divide exists between the writer and the lecturer on the solutions of killing fungus for bats.

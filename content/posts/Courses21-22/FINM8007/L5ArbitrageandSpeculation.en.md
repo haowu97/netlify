@@ -84,6 +84,30 @@ $$
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208122104364.png)
 
+**Practice** (PRACTICE QUESTIONS SET FOUR) Question 1: A forex trader in the US sees the following quotes on his screen:
+
+| Spot exchange rate             | NKR 6.2280/US$ |
+| ------------------------------ | -------------- |
+| 90-day forward rate            | NKR 6.2640/US$ |
+| 90-day US interest rate        | 4.4% p.a.      |
+| 90-day Norwegian Interest rate | 4.8% p.a.      |
+
+Could the trader profit from covered interest arbitrage? Assume he has US\$500,000 to invest.
+
+**Solution**:
+
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202209192053096.png)
+
+**Practice** (Semester 2 -- Mid, 2020) Part B: Suppose that you are a trader in the United States (US) and you see the following quotes on your screen:
+
+| Spot exchange rate        | 0.6815 US dollar (USD) per Australian dollar (AUD) |
+| ------------------------- | -------------------------------------------------- |
+| 180-day forward rate      | 0.6805 USD per AUD (USD/AUD)                       |
+| 180-day AUD interest rate | 2% per annum (p.a.)                                |
+| 180-day USD interest rate | 1% p.a.                                            |
+
+Suppose that you have USD 800,000. Can you make a profit (in USD) with these quotes? Show your working clearly and completely. [20 marks/ 50 marks]
+
 **Practice** (Semester 2 -- Mid, 2020)
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208130902001.png)

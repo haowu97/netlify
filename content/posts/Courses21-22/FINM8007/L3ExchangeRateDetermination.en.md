@@ -43,7 +43,7 @@ $$
 P^{\$} \times S^{￥ / \$}=P^{￥}
 $$
 
-Where the price of the product in $ A $ \$'s $ \left(P^{\$}\right) $, multiplied by the spot exchange rate (S, yen per dollar), equals the price of the product in Japanese yen $ \left(P^{￥}\right) $.
+Where the price of the product in US dollar $\left(P^{\$}\right)$, multiplied by the spot exchange rate (S, yen per dollar), equals the price of the product in Japanese yen $\left(P^{￥}\right)$.
 
 **Practice** (PRACTICE QUESTIONS SET 2): What is the ‘law of one price’? According to this ‘law’, what should happen to the currency of a country experiencing hyper-inflation?
 
@@ -82,6 +82,12 @@ Overvaluation of the VND = (20,000/1.02)/18,000 – 1 = 1,640/18,360 = 8.93 %
 
 Note: **overvalued or undervalued** versus **appreciated or depreciated**.
 
+**Solution**:
+
+Applying the formula according to the relative version of the Purchasing Power Parity (PPP), the NZD/USD in December 2020 should be = NZD/USD 1.25 x (1 + 0.10) / (1 + 0.02) = NZD/USD 1.375/ 1.02 = NZD/USD 1.348
+
+Overvaluation of the USD = 2.00/ (1.375/ 1.02) – 1 = 48.36%
+
 **Practice** (PRACTICE QUESTIONS SET 2): What is the **difference** between the absolute theory of purchasing power parity and the relative version of that theory?
 
 **Solution**:
@@ -97,7 +103,6 @@ The current account balance reflects relative demand for goods and services in i
 - Demand for their traded products is less than their demand for foreign products
 - The exchange rate is required to **depreciate to reduce the deficit**
 - **Continuous current account deficits** also add to the level of foreign liabilities: **Risk averse investors may withdraw capital**.
-
 
 ### 1.3 Asset Markets
 

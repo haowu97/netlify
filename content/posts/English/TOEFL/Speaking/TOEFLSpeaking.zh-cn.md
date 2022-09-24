@@ -1,5 +1,5 @@
 ---
-title: "TOEFL口语详解"
+title: "TOEFL 口语详解"
 date: 2021-08-31T21:17:53+08:00
 draft: false
 
@@ -7,7 +7,7 @@ description: "内容来自《托福口语看这个就够了》。"
 upd: "内容来自《托福口语看这个就够了》。"
 
 tags: ['笔记', 'TOEFL']
-categories: ['TOEFL笔记']
+categories: ['TOEFL 笔记']
 ---
 
 <!--more-->
@@ -310,7 +310,6 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
   - and in the professor's first example, he says that...
   - in the second example, he says that...
 
-
 常用表达：
 
 1. 笔记中的单个名词：there is a kind of .../stuff called ...
@@ -350,11 +349,11 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
 
 本题是一个L/S的综合任务题目，也就是说考生将不会在此题中遇到阅读部分，而是只有听力部分，然后做出口语应答。在第六题中考生将会**听到一个60到90秒的课堂讲座**，讲座中一个教授会针对一个学术话题为学生做出讲解，并会包括此学术话题的两个方面及每个方面相应的例子。考生需要在回答中总结课堂讲座中的概念和例子。考生答题时有**20秒的时间准备，60秒的时间作答**。
 
-**Listening**的内容形式:
+**Listening** 的内容形式:
 
 - 多数：1 main idea + 2 points + 2 examples
 
-- 少数：2 main idea+1 example/experiment
+- 少数：2 main idea+1 example/ experiment
 
 **Question**: summary（无脑重述）
 
@@ -381,7 +380,7 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
 
 **笔记**：
 
-- 记下Key words
+- 记下 Key words
 
 - 分论点尽量原词原句记下来
 
@@ -389,7 +388,31 @@ ETS 的其中一个语言偏好便是**和讲道理比起来, 他们更愿意听
   
   - 生物类：名字，特征，结果
 
-**转述examples的实用句型**：
+**笔记结构**（两种）：
+
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202209131049257.png)
+
+**答题模板**：
+
+- 多数：1 main idea + 2 points + 2 examples
+  - The lecture is mainly about/ The professor is mainly talking about ...【首句读题】
+  - one is/ the first one is ... [分论点1] 
+  - for example, ...
+  - the other is/ second one is ... [分论点2]
+  - for instance, ...
+- 少数：2 main idea+1 example/ experiment
+  - The lecture is mainly about...
+  - And some scientists did an experiment with xxx. 
+  - In the experiment...
+
+生物学常用句型
+
+1. There is a kind of ... [animal/ fish/ insect/ bird] called ... living in ... that ... which ... so ...
+2. There are some ... that ..., which... So…
+3. There is a kind of...that loves to eat a kind of...
+4. There is a kind of...that lives together with others in a group [and shares food with them]
+
+**转述 examples 的实用句型**：
 
 - There is a kind of ... called the .... that has ...(feature), which could ....(作用). So ... 结果.
 

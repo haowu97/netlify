@@ -124,25 +124,25 @@ Money market hedge is achieved by borrowing or lending the present value of fore
 
 **For receivables**:
 
-|                                      | **Time 0**                                                                                                                                              |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Borrow foreign currency              | $+PV(FX) = \frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                                          |
+|                                      | **Time 0**                                                                                                                                         |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Borrow foreign currency              | $+PV(FX) = \frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                                           |
 | Transfer loan into domestic currency | $+S^{\text{DC/FX}} \times \frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                            |
-| Invest domestic currency             | $-  S^{\text{DC/FX}} \times \frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                         |
-|                                      | **Time T**                                                                                                                                          |
-| Pay the loan with the receivable     | $-FX$                                                                                                                                               |
-| **Receive the investment**               | $+  FX \times S^{\text{DC/FX}} \times \frac{\left(1+i^{\text{DC}} \times \frac{n}{360}\right)}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$ |
+| Invest domestic currency             | $-  S^{\text{DC/FX}} \times \frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                          |
+|                                      | **Time T**                                                                                                                                         |
+| Pay the loan with the receivable     | $-FX$                                                                                                                                              |
+| **Receive the investment**           | $+  FX \times S^{\text{DC/FX}} \times \frac{\left(1+i^{\text{DC}} \times \frac{n}{360}\right)}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$ |
 
 **For payables**:
 
-|                                      | **Time 0**                                                                                                                                              |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Borrow domestic currency              | $+\frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}  \times S^{\text{DC/FX}}$                                                                          |
-| Transfer loan into foreign currency | $+\frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                            |
-| Invest foreign currency             | $-\frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                         |
-|                                      | **Time T**                                                                                                                                          |
-| Pay the payable with the investment      | $-FX$                                                                                                                                               |
-| **Cost of the loan **           | $+  FX \times S^{\text{DC/FX}} \times \frac{\left(1+i^{\text{DC}} \times \frac{n}{360}\right)}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$ |
+|                                     | **Time 0**                                                                                                                                         |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Borrow domestic currency            | $+\frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}  \times S^{\text{DC/FX}}$                                                           |
+| Transfer loan into foreign currency | $+\frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                                                    |
+| Invest foreign currency             | $-\frac{FX}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$                                                                                    |
+|                                     | **Time T**                                                                                                                                         |
+| Pay the payable with the investment | $-FX$                                                                                                                                              |
+| **Cost of the loan **               | $+  FX \times S^{\text{DC/FX}} \times \frac{\left(1+i^{\text{DC}} \times \frac{n}{360}\right)}{\left(1+i^{\text{FX}} \times \frac{n}{360}\right)}$ |
 
 Recall **interest rate parity**:
 
@@ -444,6 +444,18 @@ Based on the data, answer both parts [i] and [ii] below. Parts [i] and [ii] are 
 [i] *Suppose Woodside Office Calgary declares a dividend of CAD 3 million, which will be paid to Woodside Petroleum 90 days later*. Woodside Petroleum (based in Australia) is trying to decide how to manage the foreign exchange exposure associated with the dividend. Explain and calculate the various strategies to manage the foreign exchange exposure associated with the dividend. Explain your answers clearly and completely. Give your final answers in AUD.
 
 [ii] *Suppose the parent company Woodside Petroleum needs to pay Woodside Calgary Office CAD 6 million 90 days later*. Discuss the various strategies to lock in the AUD cost of this payment. Which strategy do you think would be better for Woodside Petroleum? Explain your answers clearly and completely. Give your final answers in AUD.
+
+**Practice** (PRACTICE QUESTIONS SET FIVE) Question 1: AT&T (a US based multinational) has a known cash payment of 50 million Swiss francs to be made to a Swiss supplier in 100 days. The company wishes to lock in the US dollar price of this payment today. Explain fully the procedure the company will use to obtain the best outcome assuming the currently available data:
+
+| Spot rate                  | CHF/USD1.25   |
+| -------------------------- | ------------- |
+| 100-day forward rate       | CHF/USD1.2325 |
+| 100-day USD interest rates | 7.0-9.0% p.a. |
+| 100-day CHF interest rates | 4.0-6.0% p.a. |
+| 100-day option strike rate | CHF/USD1.235  |
+| Option premium             | 1%            |
+
+Note: in money markets, two interest rates exist: a lending rate and a borrowing rate.
 
 ## 2. Operating/Economic exposure
 

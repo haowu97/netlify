@@ -146,13 +146,13 @@ The general principle: **whatever enters the country is a debit(+), and anything
 
 - *Investment abroad* may lead to some confusion, as this represents a debit. This can be reconciled by the above general rule by considering investment in foreign countries as the purchase of an asset from abroad.
 
-*Paying for imports* (e.g. import of cars in Canada from the US)
+**Paying for imports** (e.g. import of cars in Canada from the US)
 
 - Debit: balance of goods, in Canada
 - Credit: short-term capital account, in Canada (regardless if payment is in cash, bank cheque, or loan)
 - Every movement of goods is offset by a balancing movement of capital.
 
-*Paying for asset purchases* (e.g. German company buys a hotel in Quebec)
+**Paying for asset purchases** (e.g. German company buys a hotel in Quebec)
 
 - Debit: banking flows in Canada
 - Credit: direct investment

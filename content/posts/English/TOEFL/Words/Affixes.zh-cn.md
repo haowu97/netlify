@@ -1,5 +1,5 @@
 ---
-title: "托福词汇 | 前缀与后缀"
+title: "TOEFL 词汇 | 前缀与后缀"
 date: 2022-09-09T14:35:05+08:00
 draft: false
 
@@ -7,7 +7,7 @@ description: "来自新东方孙曦老师的托福词汇基础的课程笔记，
 upd: "来自新东方孙曦老师的托福词汇基础的课程笔记，收获颇丰，在此表示感谢！"
 
 tags: ['笔记', 'TOEFL']
-categories: ['TOEFL笔记']
+categories: ['TOEFL 笔记']
 ---
 
 ## 1. 前缀
@@ -58,7 +58,7 @@ categories: ['TOEFL笔记']
 
 **depend** v. 取决于，依靠
 
-- pendulum n.钟摆
+- **pendulum** n.钟摆
 
 **sub -**
 
@@ -355,6 +355,16 @@ adv.
 
 - **robor** = robust
 - Experiments elsewhere corroborate these results.
+
+### 1.4 其他
+
+**trans - 转移，变换**
+
+**transplant** v.移植，移种，迁移
+
+**transform** v.（彻底）改变，使变形
+
+- inform perform reform conform
 
 ## 2. 后缀
 

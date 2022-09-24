@@ -1,5 +1,5 @@
 ---
-title: "TOEFL听力技巧"
+title: "TOEFL 听力技巧"
 date: 2022-04-13T21:17:53+08:00
 draft: false
 
@@ -7,12 +7,12 @@ description: "分层笔记法，讲座与对话，常考逻辑与信号词。"
 upd: "分层笔记法，讲座与对话，常考逻辑与信号词。"
 
 tags: ['笔记', 'TOEFL']
-categories: ['TOEFL笔记']
+categories: ['TOEFL 笔记']
 ---
 
 <!--more-->
 
-# 0. 听力概述
+## 0. 听力概述
 
 听力部分包含两个 Section: 
 
@@ -25,6 +25,61 @@ categories: ['TOEFL笔记']
 加试可能是阅读也可能是听力，如果是听力就加一个 Short Section。
 
 听力阅读都是考完及时出分！
+
+题目一般按照**文章内容顺序出题**。
+
+**听力考察的能力——学术听力能力**：
+
+- 听懂基本含义：文章主旨、重要细节
+- 听懂实际意义：态度、目的等
+- 听懂综合信息：逻辑组织、关联、推理、话题转变
+
+日常**备考计划**：
+- 单词：听辨
+- 刷题：按步骤精听
+- 错题：总结错误的原因
+- 定期复习：文章，生词
+
+![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FineListening.png)
+
+## 1. 讲座：Lecture
+
+讲座**主要听逻辑**，**分层笔记**法
+
+- 分层原则：段落中心变化！
+  - 借助分层信号进行分层
+- 分层笔记包含
+  - 分层中心句：一般是分层后第一句，对于解题有指导意义！
+  - 支撑细节
+- 简单记关键**名词**，**逻辑**
+
+建议**笔记**的逻辑：
+
+- 转折逻辑
+- 提问逻辑
+- 强调逻辑
+- 否定逻辑
+- 举例逻辑：建议只记Eg，举例的具体内容建议脑记。
+- 解释逻辑：黑板上的术语可以记入到相应的分层，具体的解释脑记即可，解释比较多的时候考虑笔记。
+
+建议**脑记与笔记相结合**：
+
+- 对比逻辑
+- 并列逻辑
+
+因果逻辑建议**脑记**。
+
+两种形式：
+
+- **教授独白**
+- **教授主讲、学生参与**
+  - 此时学生打断一般是重要信息，后面教授的解答往往是重要考点。
+
+做题时间：
+
+- 建议1篇讲座4分钟以内。
+
+**做题一般不看笔记**，当遇到确定的题目时再结合笔记分层确认答案。
 
 **生物类**：必考话题，子话题很多
 
@@ -52,65 +107,37 @@ categories: ['TOEFL笔记']
 
 - 实验结果与评价容易出题！（笔记or脑记）
 
-题目一般按照**文章内容顺序出题**。
-
-
-日常**备考计划**：
-- 单词：听辨
-- 刷题：按步骤精听
-- 错题：总结错误的原因
-- 定期复习：文章，生词
-
-![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FineListening.png)
-
-# 1. 讲座：Lecture
-
-讲座**主要听逻辑**，**分层笔记**法
-
-- 分层原则：段落中心变化！
-  - 借助分层信号进行分层
-- 分层笔记包含
-  - 分层中心句：一般是分层后第一句，对于解题有指导意义！
-  - 支撑细节
-- 简单记关键**名词**，**逻辑**
-
-建议**笔记**的逻辑：
-
-- 转折逻辑
-- 提问逻辑
-- 强调逻辑
-- 否定逻辑
-- 举例逻辑：建议只记Eg，举例的具体内容建议脑记。
-- 解释逻辑：黑板上的术语可以记入到相应的分层，具体的解释脑记即可，解释比较多的时候考虑笔记。
-
-建议**脑记与笔记相结合**：
-
-- 对比逻辑
-- 并列逻辑
-
-因果逻辑建议**脑记**。
-
-做题时间：
-
-- 建议1篇讲座4分钟以内。
-
-**做题一般不看笔记**，当遇到确定的题目时再结合笔记分层确认答案。
-
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFLListeningLecture.png)
 
-# 2. 对话：Conversation
+## 2. 对话：Conversation
 
 对话多为**问题解决型**文章，**考题偏细节，需要尽可能听到所有的信息**。
+
 - 文章开头的寒暄也可能会考到
 
+**对话题选材**
+
+- Office Hour
+  - 论文选题、写作（最常见）
+  - 学术问题、课上没懂
+  - 选课咨询
+  - 其他活动申请
+- Service Encounter
+  - 图书馆使用
+  - 注册、选课
+  - 求职咨询
+  - 学生活动
+  - 食宿相关
+
 由于对话新信息重复较少，因此**少做笔记**，多用脑子去记住新信息。
+
 - 笔记控制在10个单词以内
 
 做题时间：建议控制在每篇2分钟以内。
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFLListeningConversation.png)
 
-# 3. 题型
+## 3. 题型
 
 最常被考到的题型（按顺序，前三个为必考题）：主旨题、细节题、重听题、目的题、推理题。
 
@@ -122,7 +149,7 @@ categories: ['TOEFL笔记']
 
 - **选文章主旨或者分层中心相关**
 
-## 3.1 主旨题
+### 3.1 主旨题
 
 Always the **first question** after listening to the passage.
 
@@ -151,7 +178,7 @@ There will always be **either a Gist-content question or a Gist-purpose question
 - 细节：分层中心
 - 反向
 
-## 3.2 细节题
+### 3.2 细节题
 
 Recognizing the question type:
 
@@ -160,13 +187,16 @@ Recognizing the question type:
 
 Only **important details** would be questioned.
 
+- 主旨相关的细节才会被考察
+- 长的离题信息一般也很重要，可能会考
+
 **解题技巧**：定位到所在分层。
 
 多选细节题不一定按照文章顺序排列。
 
 错误选项：错位；反向；NG
 
-## 3.3 目的题
+### 3.3 目的题
 
 Function questions can include phrases like:
 
@@ -179,7 +209,19 @@ Function questions can include phrases like:
 
 - 选项出现分层的**支撑细节一定是错误选项**。
 
-## 3.4 重听题
+### 3.4 态度题
+
+What can be inferred about the student?
+
+What is the professor's attitude toward xxx?
+
+有时伴随重听
+
+考察说话人的态度和 certainty
+
+注意说话人的语调
+
+### 3.5 重听题
 
 重点听句子的句意、逻辑关系，不用做笔记，有时可以借助分层中心解题。
 
@@ -241,7 +283,7 @@ Well, I don't know about that
 
 - 可以表示我不同意
 
-## 3.5 推理题
+### 3.6 推理题
 
 正确答案：已知信息的同义改写
 
@@ -265,7 +307,7 @@ Well, I don't know about that
     
     - Fiona likes dogs more than cats NG
 
-# 4. 听力常考逻辑词
+## 4. 听力常考逻辑词
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220414232908.png)
 
@@ -280,7 +322,7 @@ Well, I don't know about that
   - You see/ know
   - **I** mean
 
-# 5. 听力常考信号词
+## 5. 听力常考信号词
 
 分层信号：
 
@@ -296,7 +338,7 @@ Well, I don't know about that
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20220414233038.png)
 
-# 6. 听力笔记符号
+## 6. 听力笔记符号
 
 最好的笔记符号, 一定是自己可以熟练运用的笔记符号。下面的符号仅供参考, 请酌情使用。
 

@@ -1,5 +1,5 @@
 ---
-title: "TOEFL独立写作"
+title: "TOEFL 独立写作"
 date: 2021-08-31T21:17:53+08:00
 draft: false
 
@@ -7,7 +7,7 @@ description: "黎老师托福写作笔记。"
 upd: "黎老师托福写作笔记。"
 
 tags: ['笔记', 'TOEFL']
-categories: ['TOEFL笔记']
+categories: ['TOEFL 笔记']
 ---
 
 英语写作核心要素
@@ -35,6 +35,8 @@ OG: **Various** sentence structures and **appropriate** word choices.
 
 1. 逻辑：跳跃 hard to follow
 2. 语言：错误 hard to understand
+
+![](img/IndependentWriting.zh-cn_20220916201654.png)
 
 ## 1. 写作思路与格式
 
@@ -140,11 +142,11 @@ over( whether/what引导的) 名词性从句
 
 分论点1：尽量短
 
-- 解释1（正面展开+反面对比）
+- 解释1（正面展开 A ---> B + 反面对比 x B <--- C ）
 
 分论点2：尽量短
 
-- 解释2（正面展开+反面对比）
+- 解释2（正面展开 A ---> B + 反面对比 x B <--- C ）
 
 #### P1
 
@@ -548,12 +550,12 @@ e.g.
 
 插入语：插入语是游离句子语法之外的结构，是对句子意思的补充，其位置灵活，补充在任何突然想解释说明的部分的后面，删去后句子的语法仍然正确。其结构形式多样，如副词、介词短语、从句、非谓语等。
 
-- 三大从句
+- **三大从句**
     - 定语从句 N + who / which / that
     - 状语从句 when / if / because …
     - 名词性从句 (主，宾，表，同位语)：that / whether / how [ … over + whether … ]
 
-- 四小结构
+- **四小结构**
     - 非谓语动词（副词从句简化）：N + doing / done; 句子, doing
     - 介词短语/ 介系词（副词从句简化）：prep + N
     - 形容词短语做后置定语（定语从句简化）: N +（adj短语）
@@ -633,13 +635,13 @@ lt is ... that ...
 - It is different thoughts and new perspectives that new friends can bring.
 - It is in the family of native speakers that people can learn a language more effectively.
 
-错误: It is doing exercise improve people‘s health condition
+错误: It is doing exercise improve people's health condition
 
 正确: It is doing exercise that improves people’s health condition
 
 错误: It is doing exercise that people can be healthy.
 
-正确: It is by doing exercise that people can be healtly.
+正确: It is by doing exercise that people can be healthy.
 
 #### 半倒装
 
@@ -661,7 +663,7 @@ lt is ... that ...
 
 否定词+助动词+主语+剩下的谓语
 
-否定词: never. seldom. rarely. barely scarcely. hardly. little. neither. nor, under no circumstances. on no occasions, in no cases
+否定词: never. seldom. rarely. barely scarcely. hardly. little. neither. nor, **under no circumstances**. on no occasions, in no cases, **by no means/ in no way**
 
 Adults will seldom be available for other tasks.
 
@@ -842,12 +844,12 @@ Could students benefit from dealing with few assignments?
     7. sb can broaden/ extend / improve/ increase + knowledge
     8. sth can provide students with the access to a wide range of/ considerable/ comprehensive + knowledge
     9. sth can enrich their knowledge/// enlarge their knowledge base
-2. trigger interest: information gap, explore more
+2. **trigger interest**: information gap, explore more
     1. excite/ generate/ stimulate/ trigger/ motivate +  students' interest/ passion/ enthusiasm
     2. explore the unknown world
     3. participate in/ engage themselves in/ involve themselves in / be engaged/be involved in
     4. allocate/ distribute time to doing
-3. efficiency: reduce time; reduce errors (concentrate)
+3. **efficiency**: reduce time; reduce errors (concentrate)
 
 **skills**
 
@@ -1384,17 +1386,16 @@ uniform
 - address/ tackle/ handle/ cope with/ deal with / work out the problem of
 - the lack/ absence of + involvement/ engagement
 
-【Example】The government should provide free Internet access to citizens as they dowith other public services such as building road. (15.04.12)(15.12.05)(16.09.10A)
+【Example】The government should provide free Internet access to citizens as they do with other public services such as building road. (15.04.12)(15.12.05)(16.09.10A)
 
 破题：政府应该提供免费的网络
 
 1. good for students
     1. academic learning
     2.  interest
-
 2. good for adults
-  1. efficiency
-  2. relationship
+   1. efficiency
+   2. relationship
 
 #### 8.7.2 削减财政
 

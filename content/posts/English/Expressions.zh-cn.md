@@ -36,6 +36,33 @@ crucial = extremely important = crucially important = 极其重要
 
 缺陷 disadvantage/ demerit/ drawback/ weakness/ shortcoming/ unfavorable aspect
 
+the chances are against ... 不可能
+
+**none but + 人或物/ nothing but + 物**
+
+- None but the brave deserves the fair.
+- None but the best is good for my child.
+- Nothing but the best is sold in our shops.
+- He eats nothing but hamburgers.
+
+**写作必备 nothing but - nothing more than = only**
+
+- If students are addicted to PC games, computer is nothing but a time-filler.
+
+more than + adj. 不仅仅是 = vary
+
+more than + n. 不仅仅是
+
+suitable = fit = 合适的
+
+make the situation worse
+
+boost their efficiency
+
+provide sb with sth - 提供
+
+provide sth to sb
+
 ## 同义替换
 
 difficult/ arduous - 困难的
@@ -54,11 +81,23 @@ important = significant
 
 differ from = be different from
 
+by/ via
+
+undergo = experience
+
+fast = quick = rapid
+
+wipe out sth = kill off sth 消灭
+
+cause sb to do = make sb do
+
+interrupt = disturb = be in disorder
+
 词性替换：
 
 Many people are poor and hungry.
 
-**Numerous**/ A **multitude** of/ **A large number of**/ people suffer from poverty and starvation.
+**Numerous**/ A **multitude** of/ **A large number of**/a considerable amount of/ a host of people suffer from poverty and starvation.
 
 A tragedy in the contemporary society is that a multitude of people severely suffer from extreme poverty and dreadful starvation.
 
@@ -79,6 +118,8 @@ besides
 involve the use of ... / relate to ...
 
 approach / get close/ come close - 接近
+
+protect A from B
 
 
 

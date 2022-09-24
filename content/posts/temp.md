@@ -12,19 +12,30 @@ categories: []
 
 <!--more-->
 
-租房：7.28-8.17
 
-6.18
+![](img/temp_20220920213143.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617141350144.png)
+![](img/temp_20220920214815.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617143633931.png)
+![](img/temp_20220920220047.png)
 
-Risk tolerance
+![](img/temp_20220920220335.png)
 
-![image-20220617151411361](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617151411361.png)
 
-![](C:\Users\Wuhao\AppData\Roaming\Typora\typora-user-images\image-20220617162317892.png)
+•
+AssumptionSLR.1 -Linear in parameters
+•
+AssumptionSLR.2 -Random sampling
+•
+AssumptionSLR.3 -Sample variation in explanatory variable
+•
+AssumptionSLR.4 -Zero conditional mean
 
-The representative consumer behaves like the consumers on average in that they as a single person economy reach the same outcome.
-In our economy risk neutral agents don’t care about risk and the risk averse agents don’t take any risk. The representative consumer is then risk neutral.
+AssumptionSLR.5 (Homoskedasticity)
+
+AssumptionSLR.6 norm
+
+•Expected values/unbiasedness under MLR.1 –MLR.4
+•Variance formulas under MLR.1 –MLR.5
+•Gauss-Markov Theorem under MLR.1 –MLR.5
+•Exact sampling distributions/tests under MLR.1 –MLR.6

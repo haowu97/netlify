@@ -112,19 +112,46 @@ $$
 
 Quote shows the number of Hong Kong dollars the bank will buy and sell against one Australian dollar, i.e. the price of one AUD in terms of HKD's.
 
-1. First currency = quoted or terms currency is HK dollar
-2. Second currency = unit or commodity currency is A\＄
-3. **Bid price**: First number = rate at which the bank buys the unit currency (A\＄) and sells the terms currency (HK\＄)
-4. **Ask price**: Second number = rate at which the bank sells the unit currency (A\＄) and buys the terms currency (HK\＄)
+1. First currency = **quoted or terms currency** is HK dollar
+2. Second currency = **unit or commodity currency** is AUD
+3. **Bid price**: First number = rate at which the bank buys the unit currency (AUD) and sells the terms currency (HKD)
+4. **Ask price**: Second number = rate at which the bank sells the unit currency (AUD) and buys the terms currency (HKD)
 
 **Rip-off rule**: The bank rips the customer off by expecting the customer to pay more and giving the customer less in return.
 
-Transaction 1: A student from Hong Kong wishes to sell HK\＄ 25k. to cover living expenses in Australia.
+Transaction 1: A student from Hong Kong wishes to sell HKD 25k. to cover living expenses in Australia.
 
-Transaction 2: An Australian tourist wishes to buy HK\＄ 25k. to cover holiday expenses in Hong Kong.
+Transaction 2: An Australian tourist wishes to buy HKD 25k. to cover holiday expenses in Hong Kong.
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152207985.png)
 
+**Simplified rule**: 
+
+- **up the bid and multiply**
+- **down the ask and divide**
+
+**EXAMPLE**: Converting currencies using spot rates
+
+A dealer is quoting the AUD/GBP spot rate as 1.5060 - 1.5067. How would we:
+
+1. Compute the proceeds of converting 1 million GBP.
+2. Compute the proceeds of converting 1 million AUD.
+
+**Answer**:
+
+1. To convert 1 million GBP into AUD, we go "up the quote" (i.e.,from GBP in the denominator to AUD in the numerator). Hence,we would use the bid price of 1.5060 and multiply. 
+
+$$
+\text{1 million GBP x 1.5060 = 1,506,000 AUD}
+$$
+
+2. To convert 1 million AUD into GBP, we go "down the quote" (i.e.,from AUD in the numerator to GBP in the denominator). Hence, we would use the ask price of 1.5067 and divide.
+
+$$
+\text{1 million AUD / 1.5067 = 663,702.13 GBP}
+$$
+
+---
 
 **Practice** (Semester 1 -- Review Questions, 2021) A Danish toy company has sold plastic blocks worth 500,000 Danish Krone (DKK) to a US distributor, who has to pay the toy company immediately in DKK. The US distributor, who has US dollars (USD), receives the following spot quote for DKK per USD (DKK/USD): DKK/USD 6.9100 - 6.9500. What is the USD cost of the plastic blocks to the US distributor? Show your working clearly.
 
@@ -139,6 +166,42 @@ USD cost of the plastic blocks = USD 500,000/6.91 = USD 72,358.90
 - The USD is the base currency for interbank dealing.
 - Quotes for currencies not involving the USD are obtained by crossing with the USD
 - Therefore a **cross rate** is an exchange rate that does not involve the USD.
+
+**Cross rates with bid-ask spreads Rules**: for any currency
+
+$$
+A/B \quad Bid - Ask
+$$
+
+we have,
+
+$$
+\left(\frac{\mathrm{A}}{\mathrm{B}}\right)_{\text {bid }}=\frac{1}{\left(\frac{\mathrm{B}}{\mathrm{A}}\right)_{\mathrm{ask}}}
+$$
+
+$$
+\left(\frac{\mathrm{A}}{\mathrm{C}}\right)_{\text {bid}}=\left(\frac{\mathrm{A}}{\mathrm{B}}\right)_{\text {bid}} \times\left(\frac{\mathrm{B}}{\mathrm{C}}\right)_{\text {bid}}
+$$
+
+$$
+\left(\frac{\mathrm{A}}{\mathrm{C}}\right)_{\text {ask}}=\left(\frac{\mathrm{A}}{\mathrm{B}}\right)_{\text {ask}} \times\left(\frac{\mathrm{B}}{\mathrm{C}}\right)_{\text {ask}}
+$$
+
+**Whether we can make triangular arbitrage**:
+
+**Method 1**:
+
+$$
+\left(\frac{\mathrm{A}}{\mathrm{B}}\right)_{\text {bid}} \times\left(\frac{\mathrm{B}}{\mathrm{C}}\right)_{\text {bid}} \times \left(\frac{\mathrm{C}}{\mathrm{A}}\right)_{\text {bid}} > 1 
+$$
+
+or
+
+$$
+\left(\frac{\mathrm{B}}{\mathrm{A}}\right)_{\text {bid}} \times\left(\frac{\mathrm{C}}{\mathrm{B}}\right)_{\text {bid}} \times \left(\frac{\mathrm{A}}{\mathrm{C}}\right)_{\text {bid}} > 1 
+$$
+
+**Method 2**: The implied cross rate falls outside of the real cross rate.
 
 **Practice** (Short Quiz1)
 
@@ -182,6 +245,15 @@ USD cost of the plastic blocks = USD 500,000/6.91 = USD 72,358.90
 
 Start with AUD 10,000. Can you identify **any positive arbitrage opportunities** with all these quotes? Assume that all the interest rates are zero. Explain and show your working clearly and completely. Give your final answers in AUD. [10 marks/ 150marks]
 
-Short Quiz 4
+**Practice** (Semester 2 -- Mid, 2022) Part A: You are a trader in Sydney and currently observe the following exchange rates on the trading screen for the Australian dollar (AUD), Euro (EUR), and United States (US) dollar (USD):
+
+| AUD per USD (AUD/USD) | 1.4531 – 1.4551 |
+| --------------------- | --------------- |
+| EUR per AUD (EUR/AUD) | 0.6744 – 0.6753 |
+| EUR per USD (EUR/USD) | 0.9957 – 0.9961 |
+
+Suppose that you have AUD 500,000 in your trading account and interest rates are 0. Can you identify any positive arbitrage opportunities (in AUD) by using these exchange rates? Explain and show your working clearly and completely. [20 marks/ 50 marks]
+
+**Short Quiz 4**
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152222304.png)

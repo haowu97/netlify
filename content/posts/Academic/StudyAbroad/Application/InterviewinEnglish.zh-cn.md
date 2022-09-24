@@ -15,8 +15,20 @@ categories: []
 置顶：
 - https://sspai.com/post/71647
 - https://www.zhihu.com/question/52060179
+  
+**Job Interview Preparation Simplified**
 
-# 开场
+- [Podcast](https://open.spotify.com/show/1bEWMCtlP30Cog7h6zmZVy)
+- [Transcript](https://www.interviewpreparationsimplified.com/podcasts/)
+
+面试需要提前准备的东西：
+
+- A resume
+- A recommendation letter
+- Questions consulting the interviewers
+- **Pen and paper**
+
+## 开场
 
 Morning!/ Good afternoon!
 
@@ -28,7 +40,7 @@ Interviewer: how are you ?
 Interviewee: I am doing great.
 
 
-# 自我介绍
+## 自我介绍
 
 Interviewer: Can you tell me about yourself.
 
@@ -54,7 +66,7 @@ Thank you for your time.
 
 讲得流畅，自信很重要！
 
-# 要求面试官重复问题
+## 要求面试官重复问题
 
 面试中如果发生对方听的问题没听清楚或者需要时间反应怎么办？再问一遍就好了！礼貌地要求对方重复一遍比答非所问好太多，当然，也不要让对方重复太多次~
 
@@ -62,7 +74,7 @@ I’ m sorry. Would you please repeat the question?
 
 Excuse me, I didn’t hear you. Could you please say that again?
 
-# 常见问题
+## 常见问题
 
 Interviewer: Why do you apply for this job ?
 
@@ -87,7 +99,7 @@ Interviewee: My long term goals involve growing with the company where I can con
 针对申请岗位和公司的问题：这些都能「抄」，比如「你觉得这个岗位需要什么能力」，就可以去国外的招聘网站翻 Job Discription，或是在国内的 BOSS 等招聘网站筛选需要英文能力的岗位，看他们的「能力」一栏是怎么写的，再用自己的话总结一遍。还可以去自己喜欢的应用官网翻他们的 Career 介绍，比如我申请的是 Project Coordinator，相当于项目助理吧，就看过笔记应用 Craft 的 Careers at Craft 页面，Product Manager 一节里面还是有不少好用的表达的。再比如你是设计师，就可以去翻 Figma 或是 Sketch 的官网，看看人家专业的是怎么说的。至于「为什么申请我们公司」，既然这个岗位要求英文，大多数情况下公司也会有英文官网，就可以去上面找公司简介、公司文化相关的描述。
 
 
-# 你还有什么问题？
+## 你还有什么问题？
 
 不要主动问工资，不要问Offer能不能给我，不要问能轻松查到的内容。
 
@@ -105,7 +117,9 @@ Job applicant:      Thank you for taking the time to meet with me. I really enjo
 Employer: It was my pleasure. Thanks for coming.
 
 
-参考资料：
+## 参考
+
 - [英文面試開場白，你一定要會的三件事，一開口就好印象【職場英文/商用英文】 - YouTube](https://www.youtube.com/watch?v=n46OoHcrrHU)
+- [【收藏等于学会】全 英 文 面试准备必看来了！贴心字幕组中英对译](https://www.youtube.com/watch?v=OyKEQob2SzQ)
 - [职场英语：遇到全英文面试不用慌张！4个Part面试常用句合集来咯](https://zhuanlan.zhihu.com/p/191424176)
 - [8个英文面试常问问题——面试必读](https://zhuanlan.zhihu.com/p/37488508)

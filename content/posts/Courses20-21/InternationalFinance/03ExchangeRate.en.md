@@ -261,6 +261,7 @@ AUD1.60/USD × CNY4.77/AUD × USD0.14/CNY = 1.068 > 1
 The spot rate is: 1.1152 EUR/USD
 The forward quotation is: 13.941 EUR/USD
 The forward rate is then:
+
 $$
 \mathrm{e}_{\$ / \euro}^{3 \mathrm{M}}=1.1152+13.941 / 10,000=1.1165941
 $$
