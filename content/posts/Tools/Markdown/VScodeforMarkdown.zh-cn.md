@@ -108,5 +108,3 @@ output: pdf_document
 - [教你Markdown+VSCODE实现最完美流畅写作体验_bilibili](https://www.bilibili.com/video/BV1si4y1472o)
 - [如果使用VSCODE来写作Markdown](https://www.limfx.pro/ReadArticle/57/yi-zhong-xie-zuo-de-xin-fang-fa)
 - [Markdown-LaTeX：经管人的VSCode配置大全_连享会](https://mp.weixin.qq.com/s/NDcsUCGeUapw5OhB7lTabg)
-
-

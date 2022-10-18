@@ -96,7 +96,9 @@ Could the trader profit from covered interest arbitrage? Assume he has US\$500,0
 
 **Solution**:
 
-![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202209192053096.png)
+![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202210041058904.png)
+
+The trader **cannot** profit from covered interest arbitrage.
 
 **Practice** (Semester 2 -- Mid, 2020) Part B: Suppose that you are a trader in the United States (US) and you see the following quotes on your screen:
 

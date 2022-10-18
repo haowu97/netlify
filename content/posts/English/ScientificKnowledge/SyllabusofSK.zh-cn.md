@@ -12,7 +12,10 @@ categories: ['TOEFL科学常识']
 
 <!--more-->
 
-参考：[Oliverrrr - 知乎 (zhihu.com)](https://www.zhihu.com/people/wang-xu-xu-xu-xu-xu/posts)
+参考：
+
+- [Oliverrrr - 知乎 (zhihu.com)](https://www.zhihu.com/people/wang-xu-xu-xu-xu-xu/posts)
+- [托福听力学科背景知识汇总](https://toefl.koolearn.com/20180622/825874.html)
 
 开源课程推荐：
 

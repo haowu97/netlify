@@ -12,7 +12,7 @@ categories: []
 
 <!--more-->
 
-通过RSS获取期刊实时信息：
+**通过RSS获取期刊实时信息**：
 
 - [Keeping track of the literature - Gene Katsevich](https://ekatsevi.github.io/literature/)
 - [我的RSS订阅搭配：RSSHub + Feedly + Reeder (sspai.com)](https://sspai.com/post/60781)
@@ -48,6 +48,8 @@ Finance Top4
 2. Journal of Financial Economics
 3. Journal of Financial and Quantitative Analysis
 4. Review of Financial Studies: https://academic.oup.com/rfs/issue/33/11
+
+[UTD 24期刊/达拉斯商学院24期刊](https://zhuanlan.zhihu.com/p/109005616)
 
 国内经济与管理 top： https://navi.cnki.net/KNavi/Journal.html#
 

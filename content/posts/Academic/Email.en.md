@@ -12,6 +12,15 @@ categories: []
 
 <!--more-->
 
+非常高兴收到您的邮件！
+
+I'm very glad to receive your email!
+
+Glad to hear from you! Thanks for your kindly reply。
+
+
+Please let me know if I need to correct any mistakes or omissions
+
 # Interview Confirmation
 
 Example 1:

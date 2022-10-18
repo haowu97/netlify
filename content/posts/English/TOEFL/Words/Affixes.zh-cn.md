@@ -274,6 +274,17 @@ adv.
 
 - interfere with sth
 
+**interrelationship** n. 相互关系
+
+**interpret** v.解释，理解 = understand，口译
+
+**interrupt** v. 打扰
+  - **uninterrupted = sustained**
+
+**interlock** v.连接，连结
+
+**interplay** v/n.相互作用/影响 = interact/ interaction
+
 **mid (middle)**
 
 **midday** n.中午，正午

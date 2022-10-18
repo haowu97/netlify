@@ -12,7 +12,281 @@ categories: []
 
 <!--more-->
 
-## 核心词汇之词根ced/ceed/cess
+## 核心词汇之词根 ject
+
+**reject** v.拒绝, 回绝, 丢弃 to **refuse** to accept, believe in, or agree with something
+
+- **refuse** v.坚定地拒绝
+  - re + fuse 泼水
+- **decline** v.委婉地拒绝
+- **repudiate** v.拒绝
+  - re + **pud = shame**
+  - **impudent** adv. 无耻的
+
+**project** v. 投掷, 投射, 预计 n. 工程, 计划, 课题
+
+- **projection** n. 投射
+- **projector** n. 投影仪
+- **be projected to** 被预计/ 预计 ... 
+
+**eject** v. 弹射, 喷出, 强迫离职，驱逐
+
+- **eject sb from sth** 驱逐
+- **ejection** n.驱逐，喷出
+
+**subject** n. 主题，科目, 话题, 对象 adj.易受…影响的, 易患...的, 取决于…的 v. 使服从, 使遭受
+
+- **be subject (adj.) to ...** 易受...影响, 易患.../ 取决于…的/ 遵守（法律）
+  - He is subject to fever.
+- **subject sb/sth to sth** 使遭受，使经历，使蒙受
+  - Police subjected him to hours of questioning
+- **be subjected to ...** 遭受..., 经受... = be exposed to
+
+**inject** v. 注射,注入, 投入
+
+- **inject sth. into sb.**
+  - A market building can inject new life into an area.
+- **inject sb. with sth.**
+  - inject [somebody] with penicillin
+- injector n.注射器
+
+**object** v.反对n. 物体, 目标
+
+- **object to (doing) sth.** 反对...，对...反感
+  -  Robson strongly objected to the terms of the contract. 反对合同条款
+- **objective** adj.客观的, 公正的
+- **objection** n. 反对, 异议
+
+**interject** v. 插话, 插入
+
+## 核心词汇之词根 pos
+
+**放 = pose, pon**
+
+**pose** n.样子, 姿势 v.**造成，形成 = present，提出**
+
+There is increasing evidence that the impacts of meteorites have had important effects on Earth， particularly in the field of biological evolution. Such impacts continue to pose a natural hazard to life on Earth.
+
+The word “pose” in the passage is closest in the meaning to
+
+- claim
+- model
+- assume
+- present
+
+**impact** 在这里表示**撞击**，而不是影响。
+
+**impose** v. 强制实施，把...强加于, 征(税)
+
+- impose A on B = place on
+- Do not impose on others what you yourself do not desire. — Confucius
+
+**imposition** n.（税等的）强征
+
+**expose** v. 暴露, 揭露, 使面临, 使体验
+
+- And **being exposed to** the Sun and wind has **taken its toll on** the ancient city.
+  - **take its toll on… = have a bad effect on…**
+
+考:…were now exposed in the Sahara desert.
+
+- explained
+- visible √
+- identified
+- located
+
+**exposition** n. 博览会, 展览会
+
+**exposure** n. 接触, 曝光
+
+**compose** v. 组成, 创作
+
+- be composed of …由…组成
+- They are composed mainly of rocky and metallic materials.
+
+**composition** n. 组成, 创作
+
+**composer** n. 作曲家, 作家
+
+**decompose** v. 分解, 使腐烂
+
+- The organic matter may partially decompose, using up the dissolved oxygen in the sediment. 
+- … process of organic matter decomposition speeds up.
+
+**oppose** v.反对 = object
+
+- …through an inner monologue, **as opposed to** dialogue or an objective description of events.
+- **be opposed to...** 反对, 与…相对抗
+
+**opposition** n. 反对, 在野党
+
+**opposite** adj.相反的 n. 相反面
+
+**propose** v. 建议, 提出,打算求婚
+
+- I propose a proposal to propose.
+- How does he **propose to** deal with the situation? = **intend to do …**
+
+**dispose** v. 布置
+
+- **dispose of** 丢弃,解决,打败
+- **dispose sb. to/towards …** 使某人较倾向于…
+  - The body releases a chemical that disposes you towards sleep.
+
+**disposable** adj.可任意处理的, 一次性的
+
+**disposal** n. 处置
+
+- at one's disposal 任某人处置/差遣
+
+**predispose** v. 使…倾向于, 使易患
+
+- **be predisposed to...** 倾向于…
+- **predispose sb. to sth.** 使易患
+  - Diabetes predisposes patients to infections.
+
+**deposit** n. 订金, 押金, 矿床, 沉淀物 v. 放, 使沉积, 交...保管
+
+… he saw moraines (**accumulations** of earth and loose rock that form at the edges of glaciers)
+
+- signs
+- pieces
+- types
+- deposits
+
+## 核心词汇之词根tract
+
+**拉, 拽 = tract –drag –draw**
+
+**tractor** n. 拖拉机
+
+**attract** v.吸引, 招引
+
+- Her dancing also **attracted the attention** of French poets and painters of the period ……
+
+**attractive** adj.
+
+**辅音字母双写现象**：“元音字母”开头，后面两个“辅音字母”从两个辅音字母中间划开，前面是前缀(表示强调，一而再再而三)后面是词根，词根后可能会有后缀。
+
+- attract v.
+- accumulate v.
+- aggravate v.
+- offer v.
+- advocate v.
+- illuminate v.
+
+**aggravate** v. 加重, 使恶化, 激怒
+
+- Their money problems were further aggravated by a rise in interest rates.
+- **grave** adj. 严重的，重大的
+- **gravity** n. 重力
+
+**accumulate** v. 累积, 积聚
+
+- **cumuli** n. 积云
+
+Microscopic organisms settle to the seafloor and accumulate in marine mud.
+
+- grow up
+- build up
+- spread out
+- break apart
+
+**illuminate** v. 照亮,阐明,解释
+
+- The report illuminated the difficult issues at the heart of science policy.
+- **lumin = lun = moon**
+- **lunar** adj.月球的
+- **luminary** n. 杰出人物,泰斗
+
+**contract** n.合同, 契约, 婚约 v.签合同, 收缩
+
+- So octopus can **contract into** the shape of a little round stone, and sit perfectly still on the seafloor.
+- **contract with…** 与… 签合约
+
+**protract** v. 拖延
+
+- Delay always breeds danger and to protract a great design is often to ruin it.” — Miguel de Cervantes
+
+**retract** v. 缩回, 收回, 撤销
+
+**retraction** n. 撤回(声明)
+
+**extract** v. 提取, 设法得到, 榨取 n. 萃取物, 摘录, 片段
+
+- Non-ruminants cannot extract much energy from the hard parts of a plant.
+
+**extraction** n. 祖籍，血统
+
+- be of French / Russian / Italian etc. extraction
+
+A groundwater reservoir from which water can be extracted is called an aquifer.
+
+The word “extracted” in the passage is closest in meaning to
+
+- used
+- poured
+- removed
+- kept out
+
+**abstract** adj.抽象的, 深奥的
+n.梗概, 摘要
+
+**abstractionism** n. 抽象派
+
+**subtract** v. 减去, 扣掉 = minus prep.
+
+- subtract A from B
+- If you subtract 3 from 5, you get 2.
+
+**distract** v. 使分心, 分散, 转移（注意力）
+
+- distract A from (doing) sth.
+- Even Yao Ming, a famous basketball star, can hardly distract the boy from his learning.
+
+## 核心词汇之词根 press
+
+**press = 压**
+
+**express** v. 表达, 表示 n. 快递, 快线 EMS
+
+- **expressway** n. 高速公路
+- **expression** n. 表达，表情
+- **expressive** adj.富有表现力的, 栩栩如生的
+- be expressive of… 意味着…
+
+**impress** v. 使留下印象, 使铭记, 使钦佩
+
+- be impressed with(by, at)... 对... 印象深刻
+- A impress B on/upon sb. A使某人铭记B
+- **impressive** adj.令人印象深刻的
+
+**compress** v. 压缩, 压榨, 精简
+
+- compress … into … 把…压缩(精简)为...
+
+**depress** v. 使沮丧, 使萧条
+
+- **depression** n.抑郁症, 萧条,洼地
+- The explanation is that the Maya excavated depressions, or modified natural depressions, …
+- the Depression
+
+**repress** v.忍住, 抑制, 镇压
+
+- Yet children, also fearing their parents' punishment and the loss of parental love, come to repress most aggressive impulses.
+
+**suppress** v. 镇压, 隐瞒, 压制, 禁止
+
+- sub/ sup + press
+
+This then meant that the military had to remain to suppress rebellion and organize government.
+
+- respond to
+- warn against
+- avoid the impact of
+- stop by force
+
+## 核心词汇之词根 ced/ceed/cess
 
 precede v. 先于, 前导走= cede, ceed, cess
 preceding adj. 在前的先前的前面的
@@ -127,58 +401,6 @@ conduct oneself为人, 做人
 The players conducted themselves impeccably, both on and off the field.
 semiconductor n. 半导体
 
-## 核心词汇之词根ject
-
-reject v.拒绝, 回绝, 丢弃
-to refuse to accept, believe in, or agree with something
-
-project v. 投掷, 投射, 预计
-n. 工程, 计划, 课题
-projection n. 投射
-projector n. 投影仪or erar用人
-e.g.
-be projected to
-… ,it is projected to increase gradually.
-
-eject v. 弹射, 喷出, 驱逐
-e.gAs demonstratorsbegintorallyin the
-square, policearesenttoejectthem.
-
-subject n. 主题，科目, 话题, 对象
-adj.易受…影响的, 易患...的, 取决于…的
-v. 使服从, 使遭受
-be subject (adj.) to... 易受...影响, 易患...
-He issubjecttofever.
-besubjectedto... 遭受..., 经受...
-
-○restricted by
-○distant from
-○exposed to
-○combined with
-…thegreenalgaewouldhavebeensubjected
-toenvironmentalpressuresthatresultedin
-adaptations …
-
-A market building can inject new life into an area.
-inject v. 注射,注入, 投入
-inject sth.into sb.
-inject sb. with sth.
-inject [somebody] with penicillin
-
-objective adj.客观的, 公正的
-objection n. 反对, 异议
-object v.反对n. 物体, 目标
-object to(doing) sth.反对...，对...反感
-Robson strongly objected to the terms of
-the contract.
-
-interject v. 插话, 插入
-inter —between/among
-interrelationship
-n. 相互关系
-interrupt v. 打扰
-uninterrupted= sustained
-
 ## 托福核心词之词根opt & sn
 
 optic adj. 眼睛的, 视觉的[术语]
@@ -235,219 +457,6 @@ in water.
 ○changing direction
 ○decreasing weight
 ○moving forward
-
-## 核心词汇之词根pos
-
-放=pose, pon
-pose n.样子, 姿势v.造成，形成
-Such impacts continue to pose a natural hazard to life on Earth.
-○claim
-○model
-○assume
-○present
-
-imposition n.（税等的）强征
-
-impose v. 强制实施，把...强加于, 征(税)
-
-Do not impose onothers what you yourself do
-not desire.
-—Confucius
-= place on
-imposeA on B
-
-expose v. 暴露, 揭露, 使面临, 使体验
-take its toll on…= have a bad effect on…
-And being exposed to the Sun and wind has
-taken its toll on the ancient city.
-Time takes its toll on usAnd it tries its best just to steal our loveAnd we bend and we break but we don’t give up
-以“歌”学词
-
-exposition n. 博览会, 展览会
-exposure n. 接触, 曝光
-考:…were now exposed in the Sahara desert.
-○explained
-○visible
-○identified
-○located
-
-compose v. 组成, 创作
-composition n.
-composer n. 作曲家, 作家
-They are composed mainly ofrockyand metallic materials.
-be composed of …由…组成
-
-decompose v. 分解, 使腐烂
-The organic matter may partiallydecompose,
-using up the dissolved oxygen in the sediment.
-…process of organic matter decomposition
-speeds up.
-
-oppose v.反对
-…through an inner monologue, as opposed to
-dialogue or an objective description of events.
-opposition n. 反对, 在野党
-opposite adj.相反的n. 相反面
-与…对照, 而不是
-be opposed to... 反对, 与…相对抗
-
-propose v. 建议, 提出,打算求婚
-I propose a proposal topropose.
-How does he propose to deal with the situation?
-intend to do …
-
-dispose v. 布置
-dispose of 丢弃,解决,打败
-dispose sb. to/towards … 使某人较倾向于…
-The body releases a chemical that disposes you towards sleep.
-disposable adj.可任意处理的, 一次性的
-disposal n.
-
-predispose v. 使…倾向于, 使易患
-As always,therearethepowerworshippers,especiallyamonghistorians,whoarepredisposedtoadmirewhateverisstrong,…
-be predisposed to...倾向于…
-predispose sb. to sth.
-Diabetes predisposes patients to infections.
-
-v. 放, 使沉积, 交...保管
-deposit n. 订金,押金, 矿床, 沉淀物
-…he saw moraines (accumulationsof earth and
-loose rock that form at the edges of glaciers)
-•signs
-•pieces
-•types
-•deposits
-
-## 核心词汇之词根press
-
-press = 压
-express v. 表达, 表示n. 快递, 快线
-EMS
-expression n.
-expressive adj.富有表现力的, 栩栩如生的
-expressway n. 高速公路
-be expressive of… 意味着…
-
-impress v. 使留下印象, 使铭记, 使钦佩
-impressive adj.令人印象深刻的
-Iall the research
-equipment you guys have at the laboratories.
-was really impressed with
-be impressed with(by, at)... 对... 印象深刻
-A impress B on/upon sb. A使某人铭记B
-
-compress v. 压缩, 压榨, 精简
-MacDonaldhasthegiftofcompressingthe
-largestamountofwordsintothesmallest
-amount of thought.
-—Winston Churchill
-compress … into … 把…压缩(精简)为...
-
-depress v. 使沮丧, 使萧条
-the Depression
-depression n.抑郁症, 萧条,洼地
-The explanation is that the Maya excavated depressions, or modified natural depressions, …
-
-Yet children, also fearing their parents' punishment
-and the loss of parental love, come to repress most
-aggressive impulses.
-repress v.忍住, 抑制, 镇压
-suppress v. 镇压, 隐瞒, 压制, 禁止
-This then meant that the military had to remain
-to suppress rebellion and organize government.
-•respond to
-•warn against
-•avoid the impact of
-•stop by force
-
-## 核心词汇之词根tract
-
-tract –drag –draw拉, 拽= tract
-attract v.吸引, 招引
-Her dancing also attracted the attention of
-French poets and painters of the period……
-attractive adj.
-tractor n. 拖拉机
-
-思考：
-attract v.
-accumulate v.
-aggravate v.
-offer v.
-advocate v.
-illuminate v.
-辅音字母双写现象
-“元音字母”开头，后面两个“辅音字母”
-从两个辅音字母中间划开，前面是前缀(表示
-强调，一而再再而三)后面是词根，词根后
-可能会有后缀。
-
-aggravate v. 加重, 使恶化, 激怒
-
-Their money problems were further aggravated by a rise  in interest rates.
-
-grave adj. 严重的，重大的
-
-gravity n. 重力
-
-accumulate v. 累积, 积聚
-
-cumuli n. 积云
-
-Microscopic organisms settle to the seafloor
-and accumulate in marine mud.
-○grow up
-○build up
-○spread out
-○break apart
-cumu= 粗木
-
-illuminate v. 照亮,阐明,解释
-
-The report illuminated the difficult issues at the heart of science policy.
-lumin = lun = moon
-lunar adj.月球的
-luminary n. 杰出人物,泰斗
-
-contract n.合同, 契约, 婚约v.签合同, 收缩
-
-So it can contract into the shape of a little round
-stone, and sit perfectly still on the seafloor.
-contract with… 与… 签合约
-
-protract v. 拖延
-Delay always breeds danger and toprotract
-a great design is often to ruin it.”
-—Miguel de Cervantes
-
-retract v. 缩回, 收回, 撤销
-
-retraction n. 撤回(声明)
-
-n. 萃取物, 摘录
-extract v. 提取,设法得到, 榨取
-Nonruminantscannotextract much energy
-fromthe hard parts of a plant.
-extraction n. 祖籍，血统
-be of French / Russian / Italian etcextraction
-
-A groundwater reservoir from which water can be extracted is called an aquifer.
-3.The word “extracted” in the passage is closestin meaning to
-O used
-O poured
-O removed
-O kept out
-
-abstract adj.抽象的, 深奥的
-n.梗概, 摘要
-abstractionism n. 抽象派
-subtract v. 减去, 扣掉minus prep.
-Ifyousubtract3from5, youget2.
-subtractA fromB
-
-distract v. 使分心, 分散, 转移（注意力）
-distract A from (doing) sth.
-Even Yao Ming, a famous basketball star, can hardly distract the boy from his learning.
 
 ## 核心词汇之词根vad
 

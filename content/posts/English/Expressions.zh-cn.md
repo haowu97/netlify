@@ -63,7 +63,15 @@ provide sb with sth - 提供
 
 provide sth to sb
 
-## 同义替换
+### 因果关系
+
+**thereby doing something**
+
+- He became a citizen in 1978, thereby gaining the right to vote.
+
+..., a result of which has been .....
+
+### 同义替换
 
 difficult/ arduous - 困难的
 
@@ -93,6 +101,8 @@ cause sb to do = make sb do
 
 interrupt = disturb = be in disorder
 
+propose to do = intend to do 想做，打算做
+
 词性替换：
 
 Many people are poor and hungry.
@@ -120,6 +130,8 @@ involve the use of ... / relate to ...
 approach / get close/ come close - 接近
 
 protect A from B
+
+
 
 
 

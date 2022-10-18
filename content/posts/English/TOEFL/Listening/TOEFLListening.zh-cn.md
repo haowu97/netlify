@@ -30,9 +30,17 @@ categories: ['TOEFL 笔记']
 
 **听力考察的能力——学术听力能力**：
 
-- 听懂基本含义：文章主旨、重要细节
-- 听懂实际意义：态度、目的等
-- 听懂综合信息：逻辑组织、关联、推理、话题转变
+- 听懂基本含义(Basic Comprehension questions)：文章主旨、目的、重要细节
+  - Gist-content
+  - Gist-purpose
+  - Detail
+- 听懂实际意义(Pragmatic Understanding questions)：态度、目的等
+  - Understanding the Function of What Is Said
+  - Understanding the Speaker's Attitude
+- 听懂综合信息(Connecting Information questions)：逻辑组织、关联、推理、话题转变
+  - Understanding Organization
+  - Connecting Content(多选题一般需要串联不同的信息)
+  - Making Inferences
 
 日常**备考计划**：
 - 单词：听辨
@@ -117,17 +125,43 @@ categories: ['TOEFL 笔记']
 
 **对话题选材**
 
-- Office Hour
-  - 论文选题、写作（最常见）
-  - 学术问题、课上没懂
+- Office Hour (教授)
+  - 论文选题、写作（最常见，占40%）
+    - 论文选题，参考资料，论文期限，论文组织
+  - 学术问题
+    - 课上没懂，知识有冲突，作业做不来，考试没考好
   - 选课咨询
+    - 不知道选哪个，选课前置要求问题，课程难度
+  - 学习、研究项目相关申请
+    - exchange program, research project, funds & grants
   - 其他活动申请
-- Service Encounter
+- Service Encounter (员工)
   - 图书馆使用
+    - 查询资料，借书还书，买书
   - 注册、选课
+    - 选课困难，毕业需求，课程学分
   - 求职咨询
-  - 学生活动
+    - 申请校内工作，参加career fair，工作条件/工资相关
+  - 学生活动、社团相关
+    - 社团活动申请，活动场所，社团设立、改动
   - 食宿相关
+    - 食宿政策，gym政策
+
+**Office Hour考点**
+
+- 学生的疑问/请求
+- 疑问/请求的背景内容
+- 老师给出的解决方法
+
+**Service Encounter考点**
+
+- 学生的请求
+- 请求的相关背景信息
+- 请求可行不可行
+- 工作人员提供的信息
+- 工作人员提供的解决方法
+
+**话题转换很重要，问答很重要**。
 
 由于对话新信息重复较少，因此**少做笔记**，多用脑子去记住新信息。
 
@@ -136,6 +170,35 @@ categories: ['TOEFL 笔记']
 做题时间：建议控制在每篇2分钟以内。
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFLListeningConversation.png)
+
+### 论文话题
+
+**注意事项**
+
+- 注意是谁提出的、关于论文的什么问题
+- 主旨出现之前的内容也可能会被考
+- 基于论文的参考材料、思路、组织、写作方法的细节都可能会被考（为什么呢）
+- 最后的“接下来做的事”会被考
+
+**场景词汇复习**
+
+Paper, Outline, Abstract, Draft, Version, Journal, Topic
+
+Scope: 范围，Narrow down
+
+Deadline
+
+Extension: ddl extension
+
+Due: 截止
+
+Revise: 修改
+
+Review: 检查
+
+Rewrite: 重写
+
+
 
 ## 3. 题型
 

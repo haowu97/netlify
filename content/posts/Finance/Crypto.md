@@ -41,11 +41,7 @@ categories: []
 
 - https://accounts.binance.com/zh-CN/register?ref=468496060
 
- 
-
 [CryptoTradingCafe - 币圈交易员之家](https://cryptotradingcafe.com/)
-
-
 
 ## Web3
 
@@ -61,8 +57,6 @@ categories: []
 - DAO所有人共治真的合理吗？
 - 如何监管
 
-
-
 参考：
 
 - [可能是当前B站最通俗易懂的Web3.0研究视频](https://www.bilibili.com/video/BV1GU4y1S7Gf)
@@ -77,23 +71,15 @@ categories: []
 
 **参考布林线定投方法：**可以选择在周线踩破布林线下轨（红圈部分）时进行定投，并且每跌15%定投一次，在达到布林线上轨时（绿圈部分）有盈利便可以分批卖出。
 
-
-
 [如果每月拿出1500元定投比特币，结果会怎样？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/332075120)
 
-
-
 ### 量化
-
-
 
 参考：
 
 - [数字货币回测准备：下载与清洗全量历史数据 (qq.com)](https://mp.weixin.qq.com/s/mwFQm5KAq-3HvAwFIK4UYg)
 - [AI趋势量化系统（Binance升级版） (qq.com)](https://mp.weixin.qq.com/s/Aj0we8S1S6HNdi8dL6JBnQ)
 - [稳定币对网格做市量化系统 (qq.com)](https://mp.weixin.qq.com/s/new2UJdkfPx11f038CLK2g)
-
-
 
 ## 比特币的属性
 

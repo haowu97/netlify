@@ -53,9 +53,10 @@ and表并列
 
 表总结on the whole, in conclusion, in a word, to sum up, in brief, in summary, to conclude, to summarize, in short.
 
-标点符号, () —— : ;均表示顺逻辑
+**标点符号**：
 
-;作为逻辑分割点，前后并列
+- `()`, `--`, `:` 均表示解释修饰。
+- `;` 作为逻辑分割点，前后并列。
 
 ## 逆逻辑
 

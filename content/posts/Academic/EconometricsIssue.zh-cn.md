@@ -56,3 +56,9 @@ categories: []
 [ Stata：边际效应分析\交乘项的系数含义和图示_arlionn的博客](https://blog.csdn.net/arlionn/article/details/81075788)
 
 [Stata：交乘项该这么分析!| 连享会主页 (lianxh.cn)](https://www.lianxh.cn/news/c42dc033a0999.html)
+
+
+## 时间序列
+
+
+[时间序列 | 协整](https://zhuanlan.zhihu.com/p/144783461)
