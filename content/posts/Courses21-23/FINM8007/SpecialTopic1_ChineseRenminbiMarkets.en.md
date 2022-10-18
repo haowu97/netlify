@@ -11,8 +11,6 @@ categories: ['FINM8007']
 output: word_document
 ---
 
-<!--more-->
-
 ## Does news matter in China’s foreign exchange market? Chinese RMB volatility and public information arrivals
 
 **Volatility**: how stable is the return series? The sharp change indicates the large volatility
@@ -26,6 +24,8 @@ Impact of public information flows on the volatility of the bilateral RMB-USD ex
 Two-state Regime-Switching EGARCH-in-mean (**RSEGARCH-M**) model incorporating the effects of news sentiment
 
 - Different regimes in the RMB-USD volatility
+
+<!--more-->
 
 ### Motivation of the Research
 
