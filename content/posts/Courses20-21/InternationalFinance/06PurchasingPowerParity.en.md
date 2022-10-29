@@ -127,20 +127,20 @@ The *Fisher effect* (named affect Irving Fisher) describes the relationship betw
 - Derive the Fisher effect from the *interest parity condition*:
 
 $$
-R_{\$}-R_{\euro}=\left(E^{e}_{\$ / \euro}-E_{\$ / \euro}\right) / E_{\$ / \euro}
+R_{\$}-R_{\epsilon}=\left(E^{e}_{\$ / euro}-E_{\$ / euro}\right) / E_{\$ / \epsilon}
 $$
 
 - If financial markets expect *(relative) PPP* to hold, then expected exchange rate changes will equal expected inflation between countries: 
 
 $$
-\left(E_{\$/ \euro}^{e}-E_{\$ / \euro}\right) / E_{\$ / \euro}=\pi_{U S}^{e}-\pi_{E U}^{e} 
+\left(E_{\$/ \epsilon}^{e}-E_{\$ / \epsilon}\right) / E_{\$ / \epsilon}=\pi_{U S}^{e}-\pi_{E U}^{e} 
 $$
 
 - Hence,
   
-  $$
-  R_{\$}-R_{\euro}=\pi_{U S}^{e}-\pi_{E U}^{e}
-  $$
+$$
+R_{\$}-R_{\epsilon}=\pi_{U S}^{e}-\pi_{E U}^{e}
+$$
 
 - The **Fisher effect**: a rise in the domestic inflation rate causes an equal rise in the interest rate on deposits of domestic currency in the long run, when other factors remain constant.
 

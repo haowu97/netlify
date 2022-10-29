@@ -22,6 +22,8 @@ categories: ['TOEFL 笔记']
 
 一共28道题，大致按照1题1分计算。
 
+![](https://webms4.xhd.cn/u/cms/chongqing/202205/18171737jzi8.png)
+
 加试可能是阅读也可能是听力，如果是听力就加一个 Short Section。
 
 听力阅读都是考完及时出分！
@@ -31,8 +33,8 @@ categories: ['TOEFL 笔记']
 **听力考察的能力——学术听力能力**：
 
 - 听懂基本含义(Basic Comprehension questions)：文章主旨、目的、重要细节
-  - Gist-content
-  - Gist-purpose
+  - Gist-content: 主要内容(占最大篇幅的内容)
+  - Gist-purpose: 目的（与主要内容可能不一致！）
   - Detail
 - 听懂实际意义(Pragmatic Understanding questions)：态度、目的等
   - Understanding the Function of What Is Said
@@ -51,6 +53,13 @@ categories: ['TOEFL 笔记']
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/FineListening.png)
 
 ## 1. 讲座：Lecture
+
+概述：
+
+- 三篇（可能加试一篇）
+- 每篇听力长度 4-5 分钟
+- 语速 150-160 词每分钟
+- 每篇 6 道题
 
 讲座**主要听逻辑**，**分层笔记**法
 
@@ -94,23 +103,18 @@ categories: ['TOEFL 笔记']
 **艺术类**：必考话题，子话题很多
 
 - 偏描述类的东西建议脑记
-
 - 出现人物注意听属性，重点记last name，例如William Smith (记Smith; W Smith; Sm)
-
 - 当概念、人名出自于希腊语、法语等时，拼写常常与发音不一致，此时记下发音更重要！
 
 **天文类**：
 
 - Crash course 背景知识补充，高度相似
-
 - 星球特点 - 脑记
-
 - 对比 - 地球
 
 **心理学**实验：
 
 - 实验目的是分层中心；（笔记）
-
 - 实验的步骤中的转折逻辑可能出题；（脑记即可）
 
 - 实验结果与评价容易出题！（笔记or脑记）
@@ -128,9 +132,9 @@ categories: ['TOEFL 笔记']
 - Office Hour (教授)
   - 论文选题、写作（最常见，占40%）
     - 论文选题，参考资料，论文期限，论文组织
-  - 学术问题
+  - 学术问题（占25%）
     - 课上没懂，知识有冲突，作业做不来，考试没考好
-  - 选课咨询
+  - 选课咨询（占15%）
     - 不知道选哪个，选课前置要求问题，课程难度
   - 学习、研究项目相关申请
     - exchange program, research project, funds & grants
@@ -171,7 +175,7 @@ categories: ['TOEFL 笔记']
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFLListeningConversation.png)
 
-### 论文话题
+### 2.1 论文话题
 
 **注意事项**
 
@@ -198,6 +202,46 @@ Review: 检查
 
 Rewrite: 重写
 
+### 2.2 学术问题
+
+只有听到主旨以后，我们才知道今天的内容是什么，主旨是对话题永恒的重点
+
+学术问题会更多关注知识细节、例子目的等
+
+学生的问题一定会被解决，解决的方法/接下来做什么事来进一步解决是考点
+
+### 2.3 选课场景
+
+一旦主旨判断为选课：
+
+- 学生选课可能有困惑，可能考
+- 教授会询问学生的困惑，讯问过程中的“学生为何有这个疑问”以及“教授为何这么建议”都是要点
+- 教授给出的最后选课建议会考
+- 主旨和最终建议肯定考
+- 引入主旨的内容可能考细节题
+- 学生能不能、想/不想学某节课的内容会考
+- 教授说服学生的部分会考
+- 最后的建议会考
+
+**场景词汇复习**
+
+Introductory 初级
+
+Intermediate 中级
+
+Elective 选修
+
+Required 必修
+
+Prerequisite 先修课程
+
+Field trip/research 实地调研 
+
+Seminar 研讨会
+
+Sign up for = Enroll 选课
+
+Drop = Withdraw 退课
 
 
 ## 3. 题型
@@ -224,6 +268,31 @@ Recognizing the question type:
 - What is the main purpose...?
 
 There will always be **either a Gist-content question or a Gist-purpose question**, but never both.
+
+Gist Content Question
+
+- 可能不会有非常明显的主旨句（与Gist purpose question的区别）
+- 看到题目之前不知道是考content还是purpose
+- 占据时间最长的话题就是Gist
+- 听的过程中需要注意话题切换
+
+Attention!
+
+- 今天的 purpose 可能不一定是今天的 main content
+- Don't stop listening until the end!
+- Listen for the big picture!
+
+**Explicit Gist vs Implicit Gist**
+
+- Explicit: Professor:today we are going to talk about..
+- Implicit: Professor keeps talking, but without telling you the gist openly
+
+**Explicit Gist Key Words**:
+
+- Today,we'll be discussing.
+- We'll talk about..
+- I'm going to talk about.
+- Let's review.
 
 **解题技巧**：根据kw选择（一般有多个kw）。
 

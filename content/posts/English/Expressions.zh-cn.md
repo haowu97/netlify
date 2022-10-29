@@ -71,6 +71,8 @@ provide sth to sb
 
 ..., a result of which has been .....
 
+be attributable to 归因于 = be due to
+
 ### 同义替换
 
 difficult/ arduous - 困难的

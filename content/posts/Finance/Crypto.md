@@ -26,6 +26,10 @@ categories: []
 - [非小号](https://www.feixiaohao.co/)
 - [推荐10款国内外数字货币行情API - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/130263816)
 
+新闻网站：
+
+- https://www.coindesk.com/
+
 交易所排名：
 
 - [按交易量排名的Top加密货币交易所 | CoinMarketCap](https://coinmarketcap.com/zh/rankings/exchanges/)

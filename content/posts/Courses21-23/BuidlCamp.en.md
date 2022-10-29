@@ -12,6 +12,12 @@ categories: []
 
 <!--more-->
 
+https://web3edu.xyz/
+
+https://docs.google.com/spreadsheets/d/1xaUiQk8jY__dB5tf1Pc66t6ZDOwKCFM3-Xy0QzXVqhg/edit#gid=0
+
+
+
 Courses overview
 In this five-week BuidlCamp training, lecturers from the blockchain industry will cover the hot topics in the Web3.0 World:
 
@@ -108,3 +114,24 @@ The development of the world mirrors the development of Web2 monopolies.
 Web3.0 digital economy represents a true globalized economy that is beyond geo-political conflicts, and more importantly, an engine for more equitable growth around the world.
 
 Let us hope we can all live happily and peacefully in the Metaverse.
+
+
+
+
+
+
+
+
+
+
+
+Topic 1
+
+Vatalik and his Ethereum
+
+
+### How Does Ethereum Work
+
+"A 'smart contract'is simply a program thatruns on the Ethereum blockchain.It's a
+collection of code (its functions)and data (itsstate)that resides at a specific address on the
+Ethereum blockchain."

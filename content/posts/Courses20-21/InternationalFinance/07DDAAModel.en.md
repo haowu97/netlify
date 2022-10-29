@@ -10,14 +10,14 @@ tags: ['Notes']
 categories: ['International Finance']
 ---
 
-<!--more-->
-
-Preview
+**Preview**
 
 - Long-run models are useful when all prices of inputs and outputs have time to adjust.
 - In the short run, some prices of inputs and outputs may not have time to adjust, due to labor contracts, costs of adjustment, or imperfect information about willingness of customers to pay at different prices.
 - This chapter builds on the short-run and long-run models of exchange rates to explain how output is related to exchange rates in the short run.
   - It shows how macroeconomic policies can affect production, employment, and the current account.
+
+<!--more-->
 
 ## 1. Real exchange rate and aggregate demand
 
@@ -30,51 +30,55 @@ Preview
 
 For now, we assume taxes T, investment demand I and government purchases G are all fixed (i.e. exogenous factors). 
 
-Determinants of **consumption expenditure** include:
+**Determinants of consumption expenditure include**:
 
-- Disposable income: income from production (Y) minus taxes (T). 
+- **Disposable income**: income from production (Y) minus taxes (T). 
 - More disposable income means more consumption expenditure, but consumption typically increases less than the amount that disposable income increases.
-- Real interest rates may influence the amount of saving and spending on consumption goods, but we assume that they are relatively unimportant here.
-- Wealth may also influence consumption expenditure, but we assume that it is relatively unimportant here.
+- **Real interest rates** may influence the amount of saving and spending on consumption goods, but we assume that they are relatively unimportant here.
+- **Wealth** may also influence consumption expenditure, but we assume that it is relatively unimportant here.
 
 *Consumption expenditure is modeled as a function of disposable income: C(Y-T)* 
 
-Determinants of the **current account** include:
+**Determinants of the current account include**:
 
-- Real exchange rate: prices of foreign products (P*) relative to the prices of domestic products (P), both measured in domestic currency:
+- **Real exchange rate**: prices of foreign products (P*) relative to the prices of domestic products (P), both measured in domestic currency:
   - As the prices of foreign products rise relative to those of domestic products, expenditure on domestic products rises, and expenditure on foreign products falls.
-- Disposable income: more disposable income means more expenditure on foreign products (imports).
+- **Disposable income**: more disposable income means more expenditure on foreign products (imports).
 
 *Current account is modeled as a function of real exchange rate and disposable income*:  CA(Y - T, $\frac{EP^*}{P}$) 
 
-Assume that a real depreciation leads to an increase in the current account: the volume effect (import decreases) dominates the value effect (import value increases due to the higher real exchange rate).
+*Assume that a real depreciation leads to an increase in the current account*: the volume effect (import decreases) dominates the value effect (import value increases due to the higher real exchange rate).
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/RealCA.png)
 
 Aggregate demand is therefore expressed as:
+
 $$
 D=C(Y-T)+I+G+C A\left(\frac{E P^{*}}{P}, Y-T\right)
 $$
-where $ C, C A, Y, T, I, G $ and $ E P^{*} / P $ are defined the same as in the previous slides.
+
+where $C, C A, Y, T, I, G$ and $E P^{*} / P$ are defined the same as in the previous slides.
 
 Or more simply:
+
 $$
 D=D\left(\frac{E P^{*}}{P}, Y-T, I, G\right)
 $$
+
 Note $ T, I $ and $ G $ are exogenous.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/YD.png)
 
 If all other factors remain unchanged, a rise in output (real income), *Y*, increases aggregate demand. Because the increase in aggregate demand is less than the increase in output, the slope of the aggregate demand function is less than 1 (as indicated by its position within the 45-degree angle).
 
-Real exchange rate: an increase in the real exchange rate increases the current account, and therefore increases aggregate demand of domestic products. 
+**Real exchange rate**: an increase in the real exchange rate increases the current account, and therefore increases aggregate demand of domestic products. 
 
-Disposable income: an increase in the disposable income increases consumption expenditure, but decreases the current account. 
+**Disposable income**: an increase in the disposable income increases consumption expenditure, but decreases the current account. 
 
 - Since consumption expenditure is usually greater than expenditure on foreign products, the first effect dominates the second effect.
 - As income increases for a given level of taxes, aggregate consumption expenditure and aggregate demand increase by less than income.
 
-Equilibrium is achieved when the value of output and income from production Y equals the value of aggregate demand D
+**Equilibrium** is achieved when the value of output and income from production Y equals the value of aggregate demand D
 
 $$
 Y=D\left(\frac{E P^{*}}{P}, Y-T, I, G\right)
@@ -104,7 +108,7 @@ The DD schedule:
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/DDCurve.png)
 
-Shifting the DD curve
+**Shifting the DD curve**
 
 Changes in the exchange rate cause movements along a DD curve. Other changes cause it to shift:
 
@@ -121,7 +125,7 @@ Changes in the exchange rate cause movements along a DD curve. Other changes cau
 
 The DD schedule shows the exchange rate and output levels that set **output market** in equilibrium in the short-run.  
 
-Equilibrium in the economy as a whole requires equilibrium in the **asset market** (i.e. exchange market and money market) as well.
+**Equilibrium** in the economy as a whole requires equilibrium in the **asset market** (i.e. exchange market and money market) as well.
 
 The schedule of exchange rate and output combinations that are consistent with equilibrium in domestic money market and the foreign exchange market is called the **AA schedule**.
 
@@ -159,7 +163,7 @@ A short-run equilibrium means a nominal exchange rate and level of output such t
 - equilibrium in the foreign exchange markets holds: interest parity holds.
 - equilibrium in the money market holds: the quantity of real monetary assets supplied equals the quantity of real monetary assets demanded.
 
-A short-run equilibrium occurs at the intersection of the DD and AA curves:
+A short-run equilibrium occurs at **the intersection of the DD and AA curves**:
 
 - output markets are in equilibrium on the DD curve
 - asset markets are in equilibrium on the AA curve
@@ -178,7 +182,7 @@ Because asset markets adjust very quickly, the exchange rate jumps immediately f
 
 ### 3.1 Temporary changes in monetary policy
 
-An increase in the quantity of monetary assets supplied lowers interest rates in the short run, causing the domestic currency to depreciate (E rises).
+**An increase in the quantity of monetary assets** supplied lowers interest rates in the short run, causing the domestic currency to depreciate (E rises).
 
 - The AA shifts up (right).
 - Domestic products relative to foreign products are cheaper, so that aggregate demand and output increase until a new short-run equilibrium is achieved.
@@ -189,7 +193,7 @@ By shifting AA1 upward, *a temporary increase in the money supply causes a curre
 
 ### 3.2 Temporary changes in fiscal policy
 
-An increase in government purchases or a decrease in taxes increases aggregate demand and output in the short run.
+**An increase in government purchases or a decrease in taxes** increases aggregate demand and output in the short run.
 
 - The DD curve shifts right.
 - Higher output increases the demand for real monetary assets, 
@@ -209,17 +213,16 @@ When resources are used effectively and sustainably, economists say that product
 - When resources are not used effectively, resources are **underemployed**: high unemployment, few hours worked, idle equipment, lower than normal production of goods and services.
 
 - When resources are not used sustainably, labor is **over-employed**: low unemployment, many overtime hours, over-utilized equipment, higher than normal production of goods and services.
-3. Temporary changes in monetary and fiscal policy
 
-A temporary fall in world demand shifts DD1 to DD2, reducing output from Yf to Y2 and causing the currency to depreciate from E1 to E2 (point 2). 
+**A temporary fall in world demand** shifts DD1 to DD2, reducing output from Yf to Y2 and causing the currency to depreciate from E1 to E2 (point 2). 
 
-- Temporary fiscal expansion can restore full employment (point 1) by shifting the DD schedule back to its original position. 
-- Temporary monetary expansion can restore full employment (point 3) by shifting AA1 to AA2. 
+- **Temporary fiscal expansion** can restore full employment (point 1) by shifting the DD schedule back to its original position. 
+- **Temporary monetary expansion** can restore full employment (point 3) by shifting AA1 to AA2. 
 - The two policies differ in their exchange rate effects: The fiscal policy restores the currency to its previous value (E1), whereas the monetary policy causes the currency to depreciate further, to E3.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20211125233827.png)
 
-After a temporary money demand increase (shown by the shift from AA1 to AA2), either an increase in the money supply or temporary fiscal expansion can be used to maintain full employment. 
+After **a temporary money demand increase** (shown by the shift from AA1 to AA2), either an increase in the money supply or temporary fiscal expansion can be used to maintain full employment. 
 
 The two policies have different exchange rate effects: The monetary policy restores the exchange rate back to E1, whereas the fiscal policy leads to greater appreciation (E3).
 
@@ -240,7 +243,7 @@ Policies to maintain full employment may seem easy in theory, but are hard in pr
 
 ### 4.1 Monetary policy
 
-“Permanent” policy changes are those that are assumed to modify people’s expectations about exchange rates in the long run.
+“Permanent” policy changes are those that are assumed to **modify people’s expectations about exchange rates** in the long run.
 
 A permanent increase in the quantity of monetary assets supplied has several effects:
 
@@ -248,13 +251,13 @@ A permanent increase in the quantity of monetary assets supplied has several eff
 - The domestic currency depreciates (E rises) more than is the case when expectations are constant (overshooting). 
 - The AA curve shifts up (right) more than is the case when expectations are held constant.
 
-Short-run effects of a permanent increase in the money supply
+**Short-run effects of a permanent increase in the money supply**
 
 - A permanent increase in the money supply, which shifts AA1 to AA2 and moves the economy from point 1 to point 2, has **stronger effects on the exchange rate and output than an equal temporary increase**, which moves the economy only to point 3.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20211125235147.png)
 
-Long-run effects of a permanent increase in the money supply
+**Long-run effects of a permanent increase in the money supply**
 
 - In the long-run, price is flexible and will sufficiently adjust to the changes in monetary policy (higher wages and output prices). 
 - After a permanent money supply increase, a steadily **increasing price level** shifts the DD and AA schedules to the left until a new long-run equilibrium (point 3) is reached.
@@ -263,14 +266,14 @@ Long-run effects of a permanent increase in the money supply
 
 ### 4.2 Fiscal policy
 
-A permanent increase in government purchases or reduction in taxes 
+**A permanent increase in government purchases or reduction in taxes** 
 
 - increases aggregate demand
 - makes people expect the domestic currency to appreciate in the short run due to increased aggregate demand, thereby reducing the expected rate of return on foreign currency deposits and making the domestic currency appreciate.
 
 The first effect increases aggregate demand of domestic products, the second effect decreases aggregate demand of domestic products (by making them more expensive).
 
-Effects of a permanent fiscal expansion
+**Effects of a permanent fiscal expansion**
 
 - If the change in fiscal policy is expected to be permanent, the first and second effects exactly offset each other, so that output remains at its potential or natural (or long run) level.
 - We say that an increase in government purchases completely crowds out net exports, due to the effect of the appreciated domestic currency.
@@ -338,11 +341,34 @@ The J-curve describes the time lag with which a real currency depreciation impro
 
 ### A low-output liquidity trap
 
-At point 1, output is below its full employment level. Because exchange rate expectations Ee are fixed, however, a monetary expansion will merely shift AA to the right, leaving the initial equilibrium point the same. The horizontal stretch of AA gives rise to the liquidity trap.
+**Liquidity trap** is a situation where the nominal interest rate $\boldsymbol{R}$ is already at its zero lower bound, so that increase in money supply (expansionary monetary policy) will not push down $R$ further, and hence won't affect $E$ and $Y$ (output) 
+
+$$
+R=0=R^{*}+\left(E^{e}-E\right) / E
+$$
+
+$$
+\Rightarrow E=E^{e} /\left(1-R^{*}\right)
+$$
+
+If $E^{e}\left(\right.$ and $\left.R^{*}\right)$ doesn't change, $E$ will not change $-\rightarrow$ both $E$ and $Y$ are "trapped".
+
+The only way to increase $\mathrm{E}$ and output $(\mathbf{Y})$ is by increasing the expectation of future exchange rate $\left(E^{e}\right)$; this can be done, among others, by committing to a permanent increase in money supply or to a longer period of low interest rate.
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/20211126001609.png)
 
-## 6. Economic growth and stock markets
+At point 1, output is below its full employment level. Because exchange rate expectations Ee are fixed, however, a monetary expansion will merely shift AA to the right, leaving the initial equilibrium point the same. The horizontal stretch of AA gives rise to the liquidity trap.
+
+## 6. The AA-DD model vs. IS-LM model
+
+The AA-DD model we analyze here are similar tothe (possibly, more familiar) IS-LM model.
+
+- In IS-LM model: the equilibrium is characterized in terms of **nominal interest rate and output (R,Y) pair**
+- In AA-DD: it’s characterized in terms of **exchange rate and output (E,Y) pair**.
+
+But similarly, exchange rate (E) and nominal interest rate (R) are linked through the **interest parity condition**.
+
+## 7. Economic growth and stock markets
 
 Is there a relationship between economic growth and equity market returns?
 

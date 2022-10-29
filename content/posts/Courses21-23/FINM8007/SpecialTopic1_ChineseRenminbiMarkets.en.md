@@ -4,7 +4,7 @@ date: 2022-10-14T18:02:17+08:00
 draft: false
 
 description: ""
-upd: ""
+upd: "Chinese RMB volatility, Public Information Arrival, Price Discovery and Dynamic Correlations in the Chinese Renminbi Markets"
 
 tags: []
 categories: ['FINM8007']
@@ -279,7 +279,7 @@ Multivariate GARCH: extract the conditional correlation
 Correlations and news
 
 $$
-\operatorname{Corr}_{x, t}=b_{0}+b_{1} \operatorname{Corr}_{x, t-1}+\lambda N e w s_{t}+\omega_{t}
+\operatorname{Corr}_{x, t}=b_{0}+b_{1} \operatorname{Corr}_{x, t-1}+\lambda N e w s_{t}+\omega _{t}
 $$
 
 
@@ -301,14 +301,12 @@ Cointegration, VEC and Price Discovery
 dominant contributors to the overall price formation process.
 -  As illustrated by the Granger Causality tests based on the VEC model, **the lagged values of the CNY NDF series have predictive power for the current values of the spot series, but not vice**
 
-Multivariate Conditional Heteroskedasticity
-
 MGARCH by Diagonal BEKK Estimations
 
 - There is evidence that some of the NDF series exhibit significant asymmetry
 - Shocks to the volatility seem persistent; this is evident from the sum of the parameters Ai and Bi, which is very close to one
 - Robust by DVECH-MGARCH models
-- From the Granger Causality tests that the NDF volatility has predictive ability for the spot volatility. In contrast, the spot volatility does not seem to Granger Cause the NDF volatility.
+- **From the Granger Causality tests that the NDF volatility has predictive ability for the spot volatility. In contrast, the spot volatility does not seem to Granger Cause the NDF volatility**.
 
 Correlations and Public Information Arrivals
 
@@ -336,7 +334,7 @@ Correlations and Public Information Arrivals
 
 **Practice** (PRACTICE QUESTIONS FOR SPECIAL TOPICS) Discuss the relationship between the Chinese Renminbi (RMB) spot and nondeliverable forward (NDF) markets based on the findings in the article entitled “Public information arrival, price discovery, and dynamic correlations in the Chinese Renminbi markets” by Ho et al. (2018).
 
-According to Ho et al. (2018), the Chinese RMB spot and NDF markets have evolved with the following key developments in the past twenty years: one, the RMB has transitioned to a managed floating system since July 2005; two, the offshore NDF market has grown rapidly since its inception in the 1990s; and three, restrictions on using the RMB have gradually eased to promote its increased use regionally and internationally. Despite these developments, RMB trading in the spot market still remains largely separate from the offshore NDF market due to capital controls.
+**Solution**: According to Ho et al. (2018), the Chinese RMB spot and NDF markets have evolved with the following key developments in the past twenty years: one, the RMB has transitioned to a managed floating system since July 2005; two, the offshore NDF market has grown rapidly since its inception in the 1990s; and three, restrictions on using the RMB have gradually eased to promote its increased use regionally and internationally. Despite these developments, RMB trading in the spot market still remains largely separate from the offshore NDF market due to capital controls.
 
 **Nonetheless**, based on empirical analysis, Ho et al. (2018) suggest that the offshore NDF market is closely related to the spot market in the following ways: 
 
