@@ -1,5 +1,5 @@
 ---
-title: "SpecialTopic3 Anomalies in International Financial Markets"
+title: "Special Topic3 Anomalies in International Financial Markets"
 date: 2022-10-25T15:37:46+08:00
 draft: false
 
