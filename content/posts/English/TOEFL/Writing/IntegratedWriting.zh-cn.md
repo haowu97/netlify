@@ -12,6 +12,8 @@ categories: ['TOEFL 笔记']
 
 <!--more-->
 
+[了解托福综合写作，只看这一篇就够了](https://zhuanlan.zhihu.com/p/134209804)
+
 综合写作本质：
 
 - In an academic course, a student might be asked to compare and contrast *the points of view expressed by the professor in class* with those *expressed by an author in the assigned reading material*. The student must successfully **draw information from each source to explain the contrast.**
@@ -223,9 +225,9 @@ An apparent divide exists between the writer and the professor on 主题（名�
 
 - 对于主题词进行解释
 - including总分逻辑，后面+n/ doing、
-- 时态：模板是一般现在时态，内容根据具体动作的时间判断，如果判断较难，则均和阋读保持一致
+- 时态：模板是一般现在时态，内容根据具体动作的时间判断，如果判断较难，则均和阅读保持一致
 
-【Example】What were the functions of carved stone balls, carved from different types of stones, is the focus of both the writer and the professor. In the writing, three uses, including weapons, standard weights and social status markers, have been elaborated. The professor, however, claims that these purposes are not convincing.
+【Example】What were the functions of carved stone balls, carved from different types of stones, is the focus of both the writer and the professor. In the writing, three uses, including weapons, standard weights and social status markers, have been elaborated. The professor, however, claims that these purposes **are not convincing**.
 
 #### 理由段
 
@@ -233,7 +235,7 @@ An apparent divide exists between the writer and the professor on 主题（名�
 
 所力用自己的话说清楚，保留对比专名、逻辑关系
 
-听力的解释用一个句子，可用and, but, or, so连词，或者使用分号断句
+**听力的解释用一个句子，可用and, but, or, so连词，或者使用分号断句**
 
 对比、总分逻辑
 
@@ -245,7 +247,7 @@ An apparent divide exists between the writer and the professor on 主题（名�
   - 补笔记的时候再去判断哪句是 TS ，用波浪线标记出来
 - 听力细节（如何反驳阅读）：[B’ – ef – C ] 笔记的顺序
 
-【Example 1】As opposed to the writer's idea that carved stone balls could be hunting weapons, the professor states that they lacked signs of wear supposed to appear on weapons. She advances the theory by saying that common weapons generally show wear, for instance, having pieces broken off, but the surfaces of carved stone balls did not show wear or damage
+【Example 1】As opposed to the writer's idea that carved stone balls could be hunting weapons, the professor states that they lacked signs of wear supposed to appear on weapons. She advances the theory by saying that common weapons generally show wear, for instance, having pieces broken off, but the surfaces of carved stone balls did not show wear or damage.
 
 【Example 2】The professor continues to discredit the writing's assertion that carved stone balls, uniform in sizes, could be used to weigh and measure, by examining the fact that though having the same sizes, they were different in masses, making it impossible for them to be standard weights. In detail, she points out that carved stone balls were made of different types of stones, with distinct density; consequently, they, in the uniform sizes, varied in weight and could not be adopted as weighing systems.
 

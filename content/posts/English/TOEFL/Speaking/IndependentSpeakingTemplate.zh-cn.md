@@ -56,6 +56,8 @@ Talk about a positive event and the result.
 
 Well, when I was a freshman, I joined a music club on campus because I love singing. And I **signed up for** a singing competition on campus. Since it was my first time, I was **extremely** nervous. But in order to do a good job, I practiced hard every day. I **spent** at least four hours a day at school, practicing dancing and singing and memorizing lyrics and stuff. And **to my surprise**, I got the frst prize, which was really exciting and I was really **proud of myself**. (89words)
 
+关键词：练习，努力，经历，比赛，成功，朋友鼓励
+
 ### 活用
 
 2018.2.4-2 A/D: People should not engage in activities that they are not good at or talented.
@@ -196,7 +198,7 @@ Version1:
 Version2:
 
 - Well I think one way to reduce air pollution is planting trees because trees are able to absorb carbon dioxide and release oxygen through a process **known as** photosynthesis and so the air will become much cleaner.
-- **Besides**, I think people choose to take publict ransportation like subway or bus because in this way the number of private cars will be reduced and so there will be less carbon dioxide, sulfur dioxide, or nitrogen monoxide in the atmosphere. So the air quality will improve. (84words)
+- **Besides**, I think people choose to take public transportation like subway or bus because in this way the number of private cars will be reduced and so there will be less carbon dioxide, sulfur dioxide, or nitrogen monoxide in the atmosphere. So the air quality will improve. (84words)
 
 ### 活用
 
@@ -233,9 +235,9 @@ Learn from ancestors:
 
 A/D: students should take a year off to work before entering college.
 
-Well I think students should take a year off to work before entering college because it can help them decide their major, I mean in this way, they are able to find out that they are interested in and what they are good at.
+Well I think students should take a year off to work before entering college because it can help them decide their major, I mean in this way, they are able to find out what they are interested in and what they are good at.
 
-Take me for example, before entered university, I worked as a part-time teaching assistant in a language training school where I taught a bunch of kids some basic grammar and English words. And I found it very interesting to do this. So after I entered college, I chose education as my maior. (99words)
+Take me for example, before entered university, I worked as a part-time teaching assistant in a language training school where I taught a bunch of kids some basic grammar and English words. And I found it very interesting to do this. So after I entered college, I chose education as my major. (99words)
 
 ### 活用
 
@@ -257,8 +259,7 @@ Well I like to go shopping on the Internet because it's very convenient. I mean 
 
 2018.8.26-2 Some people like to work at home where they will have flexible work hours while others prefer to work in their workplaces where they have fixed work hours. Which do you like and why?
 
-2018.11-24-2 If you have to apply for a job and need to do a job interview. There is a phone interview for you to choose because it will take you a long time if you choose to attend the job interview at the company. Which one will you choose: get the interview on
-the phone or come over to the office to do it?
+2018.11-24-2 If you have to apply for a job and need to do a job interview. There is a phone interview for you to choose because it will take you a long time if you choose to attend the job interview at the company. Which one will you choose: get the interview on the phone or come over to the office to do it?
 
 2019.4.13-2 People in the past liked playing board games and card games with their families, while people nowadays like playing video games on their computers and smartphones. Which type of games do you prefer to play and why?
 

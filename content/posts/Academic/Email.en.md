@@ -12,6 +12,7 @@ categories: []
 
 <!--more-->
 
+
 非常高兴收到您的邮件！
 
 I'm very glad to receive your email!
@@ -19,9 +20,19 @@ I'm very glad to receive your email!
 Glad to hear from you! Thanks for your kindly reply。
 
 
-Please let me know if I need to correct any mistakes or omissions
+Please let me know if I need to correct any mistakes or omissions.
 
-# Interview Confirmation
+Please let me know if you need any further information.
+
+## Thanks
+
+Thank you for all your assistance.
+
+[用英语邮件也要讲礼仪？ YES](https://zhuanlan.zhihu.com/p/178752653)
+
+[【信件英文】實用商務英文！教你如何在郵件中表達感謝](https://engoo.com.tw/blog/how_to_say_thx_in_letters/)
+
+## Interview Confirmation
 
 Example 1:
 
@@ -41,7 +52,7 @@ Reference:
 - [How To Write an Interview Confirmation Email (With Examples)](https://in.indeed.com/career-advice/career-development/interview-confirmation-email)
 - [How to Write an Interview Confirmation Email (With Examples)](https://flexmyfinances.com/interview-confirmation-email/)
 
-# Say Sorry for the Late Response
+## Say Sorry for the Late Response
 
 > Sorry for the late reply.
 > 

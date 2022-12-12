@@ -63,6 +63,15 @@ provide sb with sth - 提供
 
 provide sth to sb
 
+
+### 增长
+
+a vast increase in sth.
+
+the tremendous surge of sth. 
+
+cut into sth. 使 sth. 减少 = reduce sth.
+
 ### 因果关系
 
 **thereby doing something**
@@ -74,6 +83,10 @@ provide sth to sb
 be attributable to 归因于 = be due to
 
 ### 同义替换
+
+be similar to sth/ resemble sth/ be analogous to
+
+offer sb sth = provide sb with sth
 
 difficult/ arduous - 困难的
 
@@ -109,7 +122,7 @@ propose to do = intend to do 想做，打算做
 
 Many people are poor and hungry.
 
-**Numerous**/ A **multitude** of/ **A large number of**/a considerable amount of/ a host of people suffer from poverty and starvation.
+**Numerous**/ A **multitude** of/ **A large number of**/a considerable amount of/ a large quantity of/ a host of people suffer from poverty and starvation.
 
 A tragedy in the contemporary society is that a multitude of people severely suffer from extreme poverty and dreadful starvation.
 

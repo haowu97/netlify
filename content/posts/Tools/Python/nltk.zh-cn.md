@@ -15,7 +15,22 @@ categories: []
 
 [Documentation: nltk.tokenize package](https://www.nltk.org/api/nltk.tokenize.html)
 
+- 分词
+- 分句
+
 [英文文本分词处理（NLTK）](https://blog.csdn.net/sk_berry/article/details/105240317)
+
+[Documentation: nltk.lm package](https://www.nltk.org/api/nltk.lm.html)
+
+- bigrams
+
+[Generating Unigram, Bigram, Trigram and Ngrams in NLTK](https://machinelearningknowledge.ai/generating-unigram-bigram-trigram-and-ngrams-in-nltk/)
+
+[Implement N-Grams using Python NLTK – A Step-By-Step Guide](https://www.askpython.com/python/examples/n-grams-python-nltk)
+
+[python - 设置n-gram以使用Python和TextBlob进行情感分析](https://www.coder.work/article/5047953)
+
+
 
 
 

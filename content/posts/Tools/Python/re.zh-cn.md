@@ -12,6 +12,8 @@ categories: []
 
 <!--more-->
 
+[官方文档](https://docs.python.org/3/library/re.html)
+
 正则表达式在线测试
 
 - https://c.runoob.com/front-end/854/
@@ -23,7 +25,7 @@ categories: []
 语法：
 
 - 字符匹配符：\d、\s、\w
-- 位置匹配符：\b、^
+- 位置匹配符：**\b**、^
 - 反义匹配符：\D、\S、\W、^
 - 分组：()
 - 重复：[]
@@ -72,6 +74,25 @@ def reduce_duplicate(text):
 - [利用正则匹配连续重复的字符：\1](https://blog.csdn.net/qq_43523725/article/details/119377617)
 - [正则表达式中\1 \2是什么意思](https://blog.csdn.net/weixin_43639512/article/details/84785585)
 
+改进：单个连续重复字符大于 3 时，减少重复次数，直至单词有意义：
+
+```Python
+def reduce_duplicate(text):
+    '''
+    Reduce character sequences >=3 to raw word with all cap
+    e.g. buuuuuuy ---> BUY
+    '''
+    duplicate = re.compile(r"[a-zA-Z]*([a-zA-Z])\1{2,}[a-zA-Z]*")
+    for item in re.finditer(duplicate, text):
+        raw_word = item.group(0)
+        if dictionary.check(re.sub(r"([a-zA-Z]*?)([a-zA-Z])\2{2,}([a-zA-Z]*?)", r"\1\2\2\3", raw_word)):
+            new_word = re.sub(r"([a-zA-Z]*?)([a-zA-Z])\2{2,}([a-zA-Z]*?)", r"\1\2\2\3", raw_word)
+            text = text.replace(raw_word, new_word.upper())
+        elif dictionary.check(re.sub(r"([a-zA-Z]*?)([a-zA-Z])\2{2,}([a-zA-Z]*?)", r"\1\2\3", raw_word)):
+            new_word = re.sub(r"([a-zA-Z]*?)([a-zA-Z])\2{2,}([a-zA-Z]*?)", r"\1\2\3", raw_word)
+            text = text.replace(raw_word, new_word.upper())
+    return text
+```
 
 Remove hashtags if not in Reuters corpus.
 

@@ -32,6 +32,40 @@ Marp 默认只提供三种主题，分别为 default、gaia 和 uncover。
 
 `<!-- fit -->` 用于自动调整标题（一级标题）大小，以适应幻灯片大小。
 
+## Image
+
+### Resizing image
+
+You can resize image by using width and height keyword options.
+
+```
+![width:200px](image.jpg) <!-- Setting width to 200px -->
+![height:30cm](image.jpg) <!-- Setting height to 300px -->
+![width:200px height:30cm](image.jpg) <!-- Setting both lengths -->
+```
+
+We also support the shorthand options w and h. Normally it’s useful to use these.
+
+```
+![w:32 h:32](image.jpg) <!-- Setting size to 32x32 px -->
+```
+
+Background size
+
+You can resize the background image by keywords. The keyword value basically follows background-size style.
+
+```
+![bg contain](https://example.com/background.jpg)
+```
+
+| Keyword | Description                                     | Example                  |
+|---------|-------------------------------------------------|--------------------------|
+| cover   | Scale image to fill the slide. (Default)        | `![bg cover](image.jpg)`   |
+| contain | Scale image to fit the slide.                   | `![bg contain](image.jpg)` |
+| fit     | Alias to contain, compatible with Deckset.      | `![bg fit](image.jpg)`     |
+| auto    | Not scale image, and use the original size.     | `![bg auto](image.jpg)`    |
+| x%      | Specify the scaling factor by percentage value. | `![bg 150%](image.jpg)`    |
+
 ## Reference
 
 - [用 Marp 基于 markdown 制作幻灯片](https://caizhiyuan.gitee.io/categories/skills/20200730-marp.html)

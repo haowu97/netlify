@@ -22,6 +22,11 @@ categories: ['TOEFL 笔记']
 
 一共28道题，大致按照1题1分计算。
 
+一个 Section 10分钟：
+
+- Lecture：建议1篇讲座4分钟以内。
+- Conversation：建议控制在每篇2分钟以内
+
 ![](https://webms4.xhd.cn/u/cms/chongqing/202205/18171737jzi8.png)
 
 加试可能是阅读也可能是听力，如果是听力就加一个 Short Section。
@@ -136,11 +141,11 @@ categories: ['TOEFL 笔记']
     - 课上没懂，知识有冲突，作业做不来，考试没考好
   - 选课咨询（占15%）
     - 不知道选哪个，选课前置要求问题，课程难度
-  - 学习、研究项目相关申请
+  - 学习、研究项目相关申请（占15%）
     - exchange program, research project, funds & grants
   - 其他活动申请
 - Service Encounter (员工)
-  - 图书馆使用
+  - 图书馆使用(占20%)
     - 查询资料，借书还书，买书
   - 注册、选课
     - 选课困难，毕业需求，课程学分
@@ -171,7 +176,7 @@ categories: ['TOEFL 笔记']
 
 - 笔记控制在10个单词以内
 
-做题时间：建议控制在每篇2分钟以内。
+**做题时间：建议控制在每篇2分钟以内。**
 
 ![](https://cdn.jsdelivr.net/gh/henrywu97/FigBed@master/2021/TOEFLListeningConversation.png)
 
@@ -243,6 +248,44 @@ Sign up for = Enroll 选课
 
 Drop = Withdraw 退课
 
+### 2.4 申请场景
+
+申请类话题套路
+
+- 主旨
+- 申请项目是什么，能提供什么
+- 申请项目需要什么
+- 项目怎么申请
+- 学生/教授接下来做什么
+
+**场景词汇**
+
+- Scholarship 奖学金
+- Grant 研究资金
+- Fund 基金
+- Monetary support
+- Eligible 有资格的
+- Candidate
+- Letter of recommendation 推荐信
+
+### 2.5 图书馆场景
+
+- 图书馆场景常见的是借书、查书、还书、使用资源、使用设施，一般总是这些事由
+- 借不到书通常可能是书被借走、书被使用、书被reserve、书在被修复
+- 以下内容经常是考点：
+  - 为什么借书、借哪本书
+  - 能不能借到、为什么
+  - 借的到的话怎么借
+  - 借不到的话怎么办
+
+**场景词汇复习**
+
+- Due/overdue（超期未还）
+- Fine（罚款）
+- Renew（续期）
+- Reserve（保存本，不能借出）
+- Check out/return（借/ 还）
+- Copy/rare
 
 ## 3. 题型
 
@@ -269,7 +312,7 @@ Recognizing the question type:
 
 There will always be **either a Gist-content question or a Gist-purpose question**, but never both.
 
-Gist Content Question
+**Gist Content Question**
 
 - 可能不会有非常明显的主旨句（与Gist purpose question的区别）
 - 看到题目之前不知道是考content还是purpose
@@ -293,6 +336,50 @@ Attention!
 - We'll talk about..
 - I'm going to talk about.
 - Let's review.
+
+**Simple Indirect Gist**
+
+- 教授不一定会直接说出：Today we will talkabout blahblah
+- 教授可能会先给一些（很多）背景知识，再指出：
+  - But we now know something more
+  - But we now know something different
+  - There are some new findings
+- 大家可以简单略过背景知识部分
+- 需要用全文来做验证
+
+**超慢 gist**
+
+- Sometimes the professor needs to give alengthy introduction to the topic.
+- The gist can wait until like 1:30-2:00.
+  - Always be patient.
+  - Be ready to reflect on gist with newly heard info.
+  - See what topics covers the most length,at the endof lectures
+
+**承前性Gist**
+
+- 教授上课的时候很可能会从回顾上次内容开始。
+- 承接”上文的内容很可能就会引出今天的内容
+  - 今天内容可能是解释、支持上次内容
+  - 今天内容可能是对上次的问题提供解决方案
+  - 今天内容可能是对上次内容的最新研究
+- 这里需要注意，此前课上内容可能需要笔记
+
+**跑题型主旨**
+
+- 依然需要用主旨句来引出
+- 开场可能和今日学科完全无关
+- 需要耐心等到主旨内容
+- 依然需要判断“听到的主旨句”和“今天全文内容”是否完全match
+
+**主旨题总结**
+
+- 主旨一般总是有主旨句指出
+  - 部分Gist Content题可能不一定明显主旨，尤其是承接上节课的主旨类型，需要注意
+- 主旨句不一定是在一开始的30秒内
+  - Direct主旨可能是第一句话
+  - 从背景知识开始的主旨可能就在一分钟开外，需要判断逻辑词(比如but)
+  - 承接上节课类主旨一般在对上节课内容总结完毕的时候
+  - 跑题型的主旨定位在“回归本课程内容”附近
 
 **解题技巧**：根据kw选择（一般有多个kw）。
 

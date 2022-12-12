@@ -343,3 +343,9 @@ First, the empirical results demonstrate the significant contributions of the of
 Second, analysis of the conditional volatility dynamics of the spot and NDF markets in a multivariate GARCH framework indicates that the NDF market plays an important role in **forecasting the volatility in the spot market**. More specifically, Ho et al. (2018) employ Granger Causality tests to show that the NDF volatility affects the future volatility of the spot rate. In contrast, the spot rate does not predict the future volatility of the NDF rate.
 
 Third, correlations between the spot and NDF rates display time-varying properties and **public news arrivals** seem to influence these time-varying correlations.
+
+---
+
+**Practice** (Semester 1 -- Final, 2021) With reference to the journal articles in **Special Topics 1 and 3**, explain and discuss in your own words **the characteristics and significance of volatility** in the Chinese and United States financial markets. The word limit of your answer is 1000 words. This word limit does NOT include the list of references. Do NOT include graphs and tables in your answer. Formulas are not necessary in your answer.
+
+Note: your answer must contain in-text citations and references. 10 marks from your final exam marks will be deducted for not including in-text citations and a SINGLE list of references. Use the Harvardstyle of referencing. Any sentences and paragraphs that exceed the word limit will NOT be marked. For instance, if you have submitted an answer containing 1030 words, then only the first 1000 words will be marked and the last 30 words will not be marked.

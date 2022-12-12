@@ -54,6 +54,10 @@ Verbal: 20 questions - 30 min; 160+(170)-85%+
 | 逻辑40-80字 | 1篇，1题          | 1-2篇，1题          | 1-1.5min                           |
 | 总计        | 4+1篇，10题       | 4+（2-1）  篇，10题 | 17±1 min；正确率  7/10             |
 
+[GRE阅读时间分配怎样最合适](https://gre.koolearn.com/20180402/797748.html)
+
+[Verbal想拿高分？GRE阅读分类、做题时间、题目类型全解答！](https://zhuanlan.zhihu.com/p/114232519)
+
 ### 1.3 Abilities (OG)
 
 1. understanding the meaning of individual **words**

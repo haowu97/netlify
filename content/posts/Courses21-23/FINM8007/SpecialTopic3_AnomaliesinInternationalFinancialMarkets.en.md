@@ -588,3 +588,21 @@ While the average positive effect of expected IVOL on the expected return is sub
 This result is robust to the inclusion of other risk factors such as information risk and liquidity risk, and different model specifications including the Fama–MacBeth model with firm-level controls and the robust panel fixed effects model.
 
 Since not all firm-specific news releases are equally important, we focus exclusively on the value-relevant ones and find that the positive IVOL-return relation disappears as a result.
+
+## PRACTICE QUESTIONS
+
+**Practice** (Semester 2 -- Mid, 2022) Part D: With reference to the journal articles in Special Topic 3, explain and discuss in your own words **how various asset pricing anomalies in the Chinese and United States financial markets are related to the volatility and information** in these markets. The word limit of your answer is 1,500 words. This word limit does NOT include the list of references. Do NOT include graphs and tables in your answer. Formulas are not necessary in your answer. 
+
+Note: your answer must contain in-text citations and references. 10 marks from your final exam marks will be deducted for not including in-text citations and a SINGLE list of references. Use the Harvard-style of referencing. Any sentences and paragraphs that exceed the word limit will NOT be marked. For instance, if you have submitted an answer containing 1,530 words, then only the first 1,500 words will be marked and the last 30 words will not be marked.
+
+References
+
+An, J., Ho, K., and Zhang, Z. 2020. What drives the liquidity premium in the Chinese stock market? North American Journal of Economics and Finance 54, 101088.
+
+Ho, K., and An, J. 2020. Decomposing the value premium: the role of intangible information in the Chinese stock market. Emerging Markets Review 44, 100700.
+
+Hou, K., and Loh, R. 2016. Have we solved the idiosyncratic volatility puzzle? Journal of Financial Economics 121, 167-194.
+
+Shi, Y., Liu, W., and Ho, K. 2016. Public news arrival and the idiosyncratic volatility puzzle. Journal of Empirical Finance 37, 159-172.
+
+**[80 marks/ 150 marks]**

@@ -16,7 +16,7 @@ categories: ["GRE"]
 
 满分：170
 Section：2个（或3个）
-时间：25min
+时间：35min
 题目：20个
 
 GRE数学题型分布

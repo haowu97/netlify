@@ -33,7 +33,7 @@ categories: ["GRE"]
 
 A. **演绎推理 (Deductive Arguments)**: an argument in which the arguer intends to give **complete** support to the conclusion (assuming the truthfulness of premises).
 
-B. **归纳推理 (Inductive Arguments)**: an argument in which the arguer intends to give **strong** support to the conclusion(assuming the truthfulness of premises)
+B. **归纳推理 (Inductive Arguments)**: an argument in which the arguer intends to give **strong** support to the conclusion (assuming the truthfulness of premises)
 
 演绎推理范例：
 

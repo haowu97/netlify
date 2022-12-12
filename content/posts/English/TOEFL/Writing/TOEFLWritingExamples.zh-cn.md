@@ -100,9 +100,56 @@ Efficiency, a significant factor at work / being significant, will be enhanced u
 
 eat / have + meals / dinner
 
+### TPO69
+
+【题目】Do you agree or disagree with the following statement? Would you prefer to take courses taught by professors with whom you have already had other classes during your past years of study, or would you prefer to take courses with professors whose classes you have never taken before? Why? Use specific reasons and examples to support your answer.
+
+【My solution】
+
+familiar professors
+
+- academic performance
+  - more knowledge
+  - enthusiasm
+- personal development
+  - adaptation
+  - communication
+
+College education, the foundation of a quality life, has been valued and even triggers a heated discussion over whose class we should take, familiar or unfamiliar professors. Classes taught by professors with whom they have already had other classes, in some people's views, should work better for them. Contrary to these people's opinion is my perspective that learning in classes from professors whose classes we have never taken before is superior, because of the contribution to our academic performance and personal development.
+
+What must be prioritized is that taking classes from unfamiliar professors, instead of familiar ones, is beneficial to students' academic learning, by offering them more knowledge and triggering their enthusiasm in learning. To begin with, it is from these new professors that students can gain a wide variety of expertise. In detail, only by learning from different professors can students obtain knowledge in different subjects, such as history, economics and science, enlarging their expertise base; however, one teacher will by no means offer them such a large quantity of knowledge. Moreover, never can we ignore the significance of different professors to students' interest in learning. To be more specific, student may get interested in the various personality, teaching methods and topics from different professors, when take their courses; in contrast, how will they **keep passionate about** studying if instructed by same teacher in all classes.
+
+What should be equally worth discussing is that taking courses of various professors, rather than of the same professor, can promote students' personal development, by boast their ability in adaptation and communication. Initially, it's well-acknowledged that students will become more adaptive through training in different professors' courses. To explain it further, in order to get a good grades from various teachers', students have to adjust their learning strategy to different teaching methods, through which students will hone their adaptation skills; on the contrary, under no circumstances will they get such adaptation skills by just learning from one professor. In addition,  
+
+
+### TPO68
+
+【题目】Do you agree or disagree with the following statement? Visiting museums is the best way to learn about a country. Use specific reasons and examples to support your answer.
+
+Learning about our country, the foundation of a quality life, has been valued and even triggers a heated discussion over whether the best way to know our country is to visit museums. Going to museums, in many people's view, is the most important things to do to gain knowledge about our country. Contrary to these people's opinion is my perspective that visiting museums can't be the best way to understand our country, because visiting schools and talking with local people are apparently two better way.
+
+What must be prioritized is that visiting schools, especially universities, is a better way to know our country, due to the contribution to help us learn more about young teenagers and up-to-date technologies of one country. Initially, only through schools can we see a country's youth. In detail, through the observation of schools, we can acquire more information about students who are the future of our country and can determine a country's development; however, by no means can we predict a country's future through visiting museums where the oldest things are presented. In addition, it well acknowledged that schools, especially universities, represent the country's most advanced technologies. Specifically, since the better a country's technologies are, the better it can success in the international competition, we could receive more information about a country by knowing about technologies in universities; in contrast, how can we study our country's most up-to-date technologies by visiting museums?
+
+What should be equally worth discussing is that...
+
+Visiting schools, the place full of youth and up-to-date technologies, can offer us the information about the future of our country. Communicating with residents, those who represent the country's community and culture, can help us know more about our country. To conclude, under no circumstance should visiting museums be the best way to learn our country.
+
 ## 综合写作
 
 重点在于笔记的练习，笔记练习10篇左右，作业完整写完四五篇即可
+
+### TPO69
+
+The hunting purpose of the cave painting of Lascaux, one of the finest examples of prehistoric art known, is the focus of both the writer and the professor. Three evidence supporting the hunting purpose, including animal subject, human figures with animal heads, and hunting events is elaborated. The professor,  however, claims that the paintings aim to confirm a successful hunting is not convincing.
+
+As opposed to the writer's idea that the animal subject matter can prove the painting is used for hunting, the professor states that this cannot be a firm proof. He advances the theory by saying that many kinds of animals on the paintings are not hunting by prehistoric people, such as cats, and some most hunted animal, like reindeers, are not shown on the paintings; moreover, only a small proportion of animals on the paintings are wounded by arrows and spears, indicating that these animals might have not be hunted.
+
+The professor continues to discredit the writer's assertion that the human figures with animal heads are hunters with disguise, by examining the fact that these people might not be hunters. In detail, he points out that through the posture of human figures in the painting, they are more likely to be sleeping, instead of hunting; as far as we can see, what they ware doing is still unknown.
+
+The professor's third argument is that the painting may be served as some magic use but not for hunting, which contradicts the writer's statement that the painting is used as magic power to ensure the success of hunting. To explore deeper, the professor contends that this painting should be more likely to work in a ceremony for their ancestor.
+
+An apparent divide exists between the writer and the professor on the purpose of the painting.
+
 
 ### TPO 54
 
@@ -147,6 +194,12 @@ she
     1. x long
     2. geo activities e.g. EQ
     3. S, h + L, main
+
+#### My
+
+How to prevent the Salton Sea from becoming more and more salty is focus of both and writer and the professor. In the writing, three ways to reverse the trend, including using desalination facilities, bringing in ocean water and building walls, have been elaborated. The professor, however, claims that these methods are not convincing.
+
+As opposed to the writer's idea that the salt level can be reduced through desalination facilities, the professor states that  health risk may be posed by the solid material left behind. She advances the theory by saying that after the water evaporating, not only the salt but also some toxic chemicals would be left, which would be bad for people to breath in.
 
 #### 行文参考
 

@@ -159,6 +159,30 @@ $$
 
 USD cost of the plastic blocks = USD 500,000/6.91 = USD 72,358.90
 
+**Practice** (Semester 2 -- Mid, 2022) Part C: Consider the following spot and cross exchange rates quoted by Commonwealth Bank (Commbank) and Australia and New Zealand Banking Group (ANZ) involving the Australian dollar (AUD), British pound sterling (GBP), and United States dollar (USD):
+
+| Exchange Rate         | CommBank        | ANZ             |
+| --------------------- | --------------- | --------------- |
+| USD per AUD (USD/AUD) | 0.6248 – 0.6766 | 0.6184 – 0.6294 |
+| GBP per AUD (GBP/AUD) | 0.4369 – 0.5228 | 0.5392 – 0.5769 |
+
+Assume at the start that you have AUD 10,000, GBP 10,000, and USD 10,000, respectively. You can also assume that all interest rates are zero and there are no trading restrictions. Can you identify any positive arbitrage opportunities from this set of quotes? Consider all possible positive arbitrage opportunities. Explain and show your working clearly and completely. If there are no positive arbitrage opportunities, explain and show clearly why. **[30 marks/ 150 marks]**
+
+① For AUD:
+
+- AUD→USD→AUD，10,000*0.6248/0.6294=9,926.91<10,000
+- AUD→GBP→AUD，10,000*0.5392/0.5228=10,313.70>10,000
+
+② For GBP:
+
+- GBP→AUD→GBP，10,000*0.5392/0.5228=10,313.70>10,000
+- GBP→AUD→USD→AUD→GBP，10,000/0.5228\*0.6248/0.6294\*0.5392=10,238.32>10,000
+
+③ For USD
+
+- USD→AUD→USD，10,000/0.6294*0.6248=9,926.91<10,000
+- USD→AUD→GBP→AUD→USD，10,000/0.6294\*0.5392/0.5228\*0.6248=10,238.32>10,000
+
 ## 4. Cross Rates & Triangular Arbitrage
 
 **Cross Rates**:
@@ -228,6 +252,17 @@ $$
 **Solution**:
 
 ![](https://wuhao97.oss-cn-hangzhou.aliyuncs.com/202208152213554.png)
+
+**Practice** (Semester 2 -- Final, 2022) Part A: Consider the following bilateral exchange rates involving the Swiss Franc (CHF), Euro (EUR), British pound sterling (GBP), and United States dollar (USD):
+
+- GBP per USD (GBP/USD) 0.8654 – 0.8656
+- CHF per USD (CHF/USD) 0.9897 – 0.9899
+- EUR per USD (EUR/USD) 0.9975 – 0.9977
+- GBP per CHF (GBP/CHF) 0.7742 – 0.7745
+- GBP per EUR (GBP/EUR) 0.8674 – 0.8676
+- EUR per CHF (EUR/CHF) 0.9978 – 0.9980
+
+Assume at the start that you have GBP 20,000. You can also assume that all interest rates are zero and there are no trading restrictions. Can you identify any positive arbitrage opportunities from this set of exchange rates? **Consider all possible positive arbitrage opportunities**. Explain and show your working clearly and completely. Give your final answers in GBP. If there are no positive arbitrage opportunities, explain and show clearly why. [20 marks/ 150 marks]
 
 **Practice** (Semester 1 -- Final, 2021) Consider the following bilateral spot exchange rates involving the Australian dollar (AUD), Canadian dollar (CAD), Euro (EUR), and United States dollar (USD):
 

@@ -20,8 +20,6 @@ Learning Objectives:
 
 <!--more-->
 
-
-
 Risks in International Trade and Investment
 
 - Foreign exchange risk
@@ -424,6 +422,24 @@ Note: for detailed explanations of the advantages and disadvantages of each way,
 Answer: The main advantage of using options contracts for hedging is that the hedger can decide whether to exercise options upon observing the realized future exchange rate. Options thus provide a hedge against **ex post regret** that forward hedger might have to suffer. In the case of options, hedgers can **eliminate the downside risk** while retaining the upside potential.
 
 ---
+
+**Practice** (Semester 2 -- Final, 2022) Question 1 Part B: Singatale Telecom (a multinational corporation based in the United States) has an Australian subsidiary (Octopus Telecom Australia), which either pays a dividend to the parent company or receives cash payments from the parent company each year.
+
+The currently available data about the spot, forward, and money markets involving the United States (US) dollar (USD) and Australian dollar (AUD) are given below:
+
+| Spot rates (USD per AUD)  | USD/AUD 0.6452 – 0.6570      |
+| ------------------------- | ---------------------------- |
+| 90-day forward points     | 20 – 23                      |
+| 90-day USD interest rates | 3.5% - 4.0% per annum (p.a.) |
+| 90-day AUD interest rates | 2.5% - 3.0% p.a.             |
+
+Based on the data, answer both parts [i] and [ii] below. Parts [i] and [ii] are independent of each other.
+
+[i] Suppose Octopus Telecom Australia declares a dividend of AUD 500,000, which will be paid to Singatale Telecom ninety (90) days later. Singatale Telecom (based in the US) is trying to decide how to manage the foreign exchange exposure associated with the dividend. Explain and compute the various strategies to manage the foreign exchange exposure associated with the dividend. Explain your answers clearly and completely. Give your final answers in USD.
+
+[ii] Suppose the parent company Singatale Telecom needs to pay Octopus Telecom Australia AUD 250,000 ninety (90) days later. Discuss the various strategies to lock in the USD cost of this payment. Which strategy do you think would be better for Singatale Telecom? Explain your answers clearly and completely. Give your final answers in USD.
+
+**[20 marks/ 150 marks]**
 
 **Practice** (Semester 1 -- Final, 2021) Question 1 Part B: Woodside Petroleum (an **Australian-based multinational corporation**) has a **Canadian subsidiary** (Woodside Office Calgary), which either pays a dividend to the parent company or receives cash payments from the parent company each year.
 

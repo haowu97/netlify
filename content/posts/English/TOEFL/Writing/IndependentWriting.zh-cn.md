@@ -38,6 +38,8 @@ OG: **Various** sentence structures and **appropriate** word choices.
 
 ![](img/IndependentWriting.zh-cn_20220916201654.png)
 
+**字数估计：考试基本上一行13个字**
+
 ## 1. 写作思路与格式
 
 例题：Some students enjoy taking distance learning courses on the courses or television. Other students would rather take all of their courses with a teacher in classroom. Which is these options do you think is better?
@@ -600,7 +602,7 @@ B.给主语带帽子
 - Adopting new ideas. researchers will benefit
 - By adopting new ideas / With new ideas adopted, researchers will benefit
 
-被老板的的开明鼓励，员工们投入工作。
+被老板的开明鼓励，员工们投入工作。
 
 - Employees are encouraged by their supervisors open-mindedness and will work diligent.
 - The supervisor's open-mindedness encourages employees to work diligently.
